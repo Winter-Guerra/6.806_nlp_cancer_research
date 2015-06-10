@@ -5,7 +5,7 @@ jf = require('jsonfile')
 # Make the new jsons pretty
 jf.spaces = 4
 fs = require('fs-extra')
-serialize = require('serialize')
+_ = require("underscore")
 
 
 
@@ -46,19 +46,23 @@ getAndSaveData = (title, URL) ->
 					results = sanitizeResults(jsonResponse)
 
 					# Log the jsonfile to disk
-					fs.emptyDirSync("./sources/#{title}")
+					fs.emptyDirSync("./sources/badFoods/#{title}")
 
-					jf.writeFileSync("./sources/#{title}/article-list.json", results)
+					jf.writeFileSync("./sources/badFoods/#{title}/article-list.json", results)
 
 				# Append the 
 
+throttledQuery = _.throttle getAndSaveData, 1000
+
+
 
 # RUN THE SCRIPT ON ALL THE DATA WE HAVE
-goodFoods = fs.readJsonSync('./sources/recommendedFoods.json')
+goodFoods = fs.readJsonSync('./sources/badFoods.json')
 
 linkList = goodFoods['links']
 
-console.log linkList
+# console.log linkList
+
 
 
 
