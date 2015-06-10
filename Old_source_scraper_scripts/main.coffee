@@ -61,7 +61,6 @@ goodFoods = fs.readJsonSync('./sources/badFoods.json')
 
 linkList = goodFoods['links']
 
-# console.log linkList
 
 
 
