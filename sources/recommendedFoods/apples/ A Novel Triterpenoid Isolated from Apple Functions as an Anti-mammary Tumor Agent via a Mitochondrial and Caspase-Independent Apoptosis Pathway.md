@@ -6,8 +6,6 @@ A novel triterpenoid, named 3β-_trans_-cinnamoyloxy-2α-hydroxy-urs-12-en-28-oi
 
 #### Keywords: 
 
-<!-- hello -->
-
 apple; caspase-3-independent apoptosis; MDA-MB-231 cells; 3β-trans-cinnamoyloxy-2α-hydroxy-urs-12-en-28-oic acid
 
 ## Introduction
@@ -147,4 +145,3 @@ Funding Information
 This research was funded by the National Natural Science Foundation of China (No. U1203103).
 
 The authors declare no competing financial interest.
-
