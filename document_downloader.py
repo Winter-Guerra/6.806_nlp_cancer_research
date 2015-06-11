@@ -31,15 +31,16 @@ whitelistedPages = {
 		{"root": "http://link.springer.com/article/{}/fulltext.html", 'key':'DOI'},
 	"online.liebertpub.com": 
 		{'root': "http://online.liebertpub.com/doi/full/{}", 'key':'DOI'},
-	"www.mdpi.com":
+	"mdpi.com":
 		{'root': "{}/htm", 'key':'landingPage'}
 }
 
 class Document:
 
-	def __init__(self, entryURL):
+	def __init__(self, entryURL, title=None):
 		self.info = {
-			'entryURL': entryURL
+			'entryURL': entryURL,
+			'title': title
 		}
 
 		self.info['DOI'] = self.getDOI()
@@ -47,6 +48,8 @@ class Document:
 		self.info['articleURL'] = self.findArticleURL()
 
 		self.info['articleHTML'] = self.getArticle()
+
+		# print(self.info)
 		self.info['markdown'] = self.getMarkdown()
 
 		# print(self.info)
@@ -101,8 +104,7 @@ class Document:
 
 
 
-# For each folder, loop through the links and try to download them or load them from the cache
-
+	# For each folder, loop through the links and try to download them or load them from the cache
 	def getArticle(self):
 
 		# Check if we already have the article
@@ -133,21 +135,32 @@ class Document:
 		# Convert page to markdown
 		htmlPage = self.info['articleHTML']
 		markdownPage = markdown.handle(htmlPage)
-		# print("Markdown: ", markdownPage)
+		print("Markdown: ", markdownPage)
 		
 		# Get the title
-		match = re.search("(^#\s.*\n)", markdownPage, flags=re.IGNORECASE|re.MULTILINE)
-		title = match.group(1)
+		title = self.info['title']
+		if title is None:
+			match = re.search("(^#\s.*\n)", markdownPage, flags=re.IGNORECASE|re.MULTILINE)
+			title = match.group(1)
+			self.info['title'] = title
+		else:
+			title = "# {}\n".format(title)
 
 		# Remove all text before abstract and after reference section 
-		match = re.search("(^#+ abstract[\s\S]*)\s#+ reference", markdownPage, flags=re.IGNORECASE|re.MULTILINE)
+		match = re.search("(^#+ abstract[\s\S]*)\n#+ reference", markdownPage, flags=re.IGNORECASE|re.MULTILINE)
 		# print(match)
 		article = match.group(1) # The highlighted selector
 
 		cleanArticle = title + '\n' +  article
 
-		# Clean out unordered lists and horizontal rules
-		cleanArticle = re.sub(r'^\s*\*.*\n', '', cleanArticle,  flags=re.IGNORECASE|re.MULTILINE)
+		# Clean out unordered lists
+		cleanArticle = re.sub(r'^\s*\*\s+.+\n', '', cleanArticle,  flags=re.IGNORECASE|re.MULTILINE)
+
+		# Clean out horizontal rules
+		cleanArticle = re.sub(r'^\*\*\*\n', '', cleanArticle,  flags=re.IGNORECASE|re.MULTILINE)
+
+		# Remove all remaining asterisks (might be emphasis marks)
+		cleanArticle = re.sub(r'\*', '', cleanArticle,  flags=re.IGNORECASE|re.MULTILINE)
 
 		# Clean out ordered lists
 
@@ -162,15 +175,12 @@ class Document:
 
 		with open( "{}/{}.json".format(directory, filename) , 'w') as outfile:
 			json.dump(objectToSave, outfile)
-
 		return
 
 	def getFilenameRoot(self):
 
 		# Let's make the name of the file a title
-		match = re.search("(^#\s.*\n)", self.info['markdown'], flags=re.IGNORECASE|re.MULTILINE)
-		title = match.group(1)
-
+		title = self.info['title']
 		return ''.join(c for c in title if c in valid_chars)
 
 
@@ -190,12 +200,12 @@ class Document:
 def test():
 
 	# Let's test that the page getter works for whitelisted pages
-	URL = "http://dx.doi.org/10.1021/jf5053546" # good!
+	# URL = "http://dx.doi.org/10.1021/jf5053546" # good!
 
-	# URL = "http://dx.doi.org/10.3390/antiox2030181" # ERROR
+	URL = "http://dx.doi.org/10.3390/antiox2030181" # ERROR
 
 
-	document = Document(URL) # good!
+	document = Document(URL, title='Phenolic Compounds in Apple (Malus x domestica Borkh.): Compounds Characterization and Stability during Postharvest and after Processing') # good!
 	# print(page)
 	document.saveMarkdownOnly( './sources/recommendedfoods/apples')
 
@@ -205,6 +215,7 @@ def scrape():
 
 	# Walk through the directory tree
 
+	# Let's start with apples
 	directories = ['']
 
 
