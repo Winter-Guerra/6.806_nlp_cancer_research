@@ -9,12 +9,14 @@ import html2text
 import re
 import urllib.request
 import string
+import sys
 
 valid_chars = "-_ %s%s" % (string.ascii_letters, string.digits)
 
 markdown = html2text.HTML2Text()
 markdown.ignore_links = True
 markdown.ignore_images = True
+markdown.bypass_tables = True
 # markdown.images_to_alt = True # No, because this does not completely remove the crap
 markdown.body_width = 0
 
@@ -32,12 +34,30 @@ whitelistedPages = {
 	"online.liebertpub.com": 
 		{'root': "http://online.liebertpub.com/doi/full/{}", 'key':'DOI'},
 	"mdpi.com":
-		{'root': "{}/htm", 'key':'landingPage'}
+		{'root': "{}/htm", 'key':'landingPage'},
+	"tandfonline.com":
+		{'root': "http://www.tandfonline.com/doi/full/{}", 'key':'DOI'}
 }
+
+# These are pages where we must scrape what we can from the landing page.
+silentPages = [
+	"www.actahort.org", "www.sciencedirect.com", "cancerjournal.net", "informahealthcare.com", "informahealthcare.com", "ncbi.nlm.nih.gov/pubmed" 
+]
+
+def isSilentPage(URL):
+
+	# Check if the URL belongs to a silent page
+	output = False
+	for rootURL in silentPages:
+		output = (rootURL in URL) or output
+
+	return output
 
 class Document:
 
 	def __init__(self, entryURL, title=None):
+		print("Scraping document: ", entryURL)
+
 		self.info = {
 			'entryURL': entryURL,
 			'title': title
@@ -88,8 +108,11 @@ class Document:
 					outputURL = template['root'].format(neededInfo)
 			
 			if outputURL is None:
-				print("I do not know how to convert and download {}".format(landingPageURL), file=sys.stderr)
-				pendingURLs.append(landingPageURL)
+
+				# Do we already know about this problem? If not, tell me about it.
+				if not isSilentPage(landingPageURL):
+					print("I do not know how to convert and download {}".format(landingPageURL), file=sys.stderr)
+					pendingURLs.append( self.info['entryURL'] )
 
 				# Return the entry link since there is probably some info there
 				outputURL = landingPageURL
@@ -135,21 +158,26 @@ class Document:
 		# Convert page to markdown
 		htmlPage = self.info['articleHTML']
 		markdownPage = markdown.handle(htmlPage)
-		print("Markdown: ", markdownPage)
+		# print("Markdown: ", markdownPage)
 		
 		# Get the title
 		title = self.info['title']
 		if title is None:
 			match = re.search("(^#\s.*\n)", markdownPage, flags=re.IGNORECASE|re.MULTILINE)
-			title = match.group(1)
+			title = match.group(1) if match is not None else ""
 			self.info['title'] = title
 		else:
 			title = "# {}\n".format(title)
 
-		# Remove all text before abstract and after reference section 
+		# Select all text before abstract and after reference section 
 		match = re.search("(^#+ abstract[\s\S]*)\n#+ reference", markdownPage, flags=re.IGNORECASE|re.MULTILINE)
 		# print(match)
-		article = match.group(1) # The highlighted selector
+		article = match.group(1) if match is not None else "" # The highlighted selector
+
+		# Check if the article was actually selected, else select only the abstract
+		if match is None:
+			match = re.search("(^#+ abstract[\s\S]+?)\n\n", markdownPage, flags=re.IGNORECASE|re.MULTILINE)
+			article = match.group(1) if match is not None else "" # The highlighted section
 
 		cleanArticle = title + '\n' +  article
 
@@ -162,11 +190,32 @@ class Document:
 		# Remove all remaining asterisks (might be emphasis marks)
 		cleanArticle = re.sub(r'\*', '', cleanArticle,  flags=re.IGNORECASE|re.MULTILINE)
 
-		# Clean out ordered lists
+		# Remove all html tables
+		cleanArticle = re.sub(r'<table[\s\S]+?</table>', '', cleanArticle,  flags=re.IGNORECASE|re.MULTILINE)
+
+		# Clean out ordered lists (Note: This works since all things that look like ordered lists are already escaped)
+		cleanArticle = re.sub(r'\n\s*[0-9]+\..*', '', cleanArticle,  flags=re.IGNORECASE|re.MULTILINE)
+
+		# Remove all lines of words that are too short and obviously not paragraphs or headings
+		cleanArticle = re.sub(r'((?!^#)^.{1,80}\n)', '', cleanArticle,  flags=re.IGNORECASE|re.MULTILINE)
 
 		return cleanArticle
 
+	def ok(self):
+
+		# Do a quick sanity check of the document
+		return (len(self.info['markdown']) > 500) # Documents are usually bigger than 500 characters (for the abstract)
+
 	def saveDocument(self, directory):
+
+		# Check document okay
+		if not self.ok():
+			URL = self.info['entryURL']
+			print("ERROR parsing {}".format(URL), file=sys.stderr)
+			if URL not in pendingURLs:
+				pendingURLs.append(URL)
+			return
+
 
 		objectToSave = self.info
 
@@ -187,6 +236,14 @@ class Document:
 
 	def saveMarkdownOnly(self, directory):
 
+		# Check document okay
+		if not self.ok():
+			URL = self.info['entryURL']
+			print("ERROR parsing {}".format(URL), file=sys.stderr)
+			if URL not in pendingURLs:
+				pendingURLs.append(URL)
+			return
+
 		# Let's make the name of the file the title
 		filename = self.getFilenameRoot()
 		articleText = self.info['markdown']
@@ -196,6 +253,14 @@ class Document:
 
 		return
 
+def savePendingList(directory):
+	# Let's make the name of the file the title
+	filename = 'pending-URLs-to-scrape'
+	articleText = str(pendingURLs)
+
+	with open( "{}/{}.json".format(directory, filename) , 'w') as outfile:
+		outfile.write(articleText)
+	return
 
 def test():
 
@@ -210,19 +275,42 @@ def test():
 	document.saveMarkdownOnly( './sources/recommendedfoods/apples')
 
 
+def getJSONFromDirectory(directory):
 
-def scrape():
+	with open("{}/article-list.json".format(directory)) as data_file:    
+		data = json.load(data_file)
+	return data
+
+def scrape(articleList=None):
 
 	# Walk through the directory tree
 
 	# Let's start with apples
-	directories = ['']
+	directory = "./sources/recommendedfoods/apples"
+
+	if articleList is None:
+		articleList = getJSONFromDirectory(directory)
+
+	for item in articleList:
+		url = item['link']
+		titleName = item['title']
+
+		# Now, let's get and save the document
+		document = Document(url, title=titleName)
+		document.saveMarkdownOnly(directory)
+
+	print( "Pending URLs:", pendingURLs)
+
+	savePendingList(directory)
 
 
 
 
 if __name__ == '__main__':
-	test()
+	# scrape()
+
+	# Scrape some stragglers
+	scrape()
 
 
 

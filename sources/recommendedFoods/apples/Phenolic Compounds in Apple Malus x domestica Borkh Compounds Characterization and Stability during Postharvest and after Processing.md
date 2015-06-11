@@ -4,7 +4,6 @@
 
 : This paper summarizes the information on the occurrence of phenolic compounds in apple (Malus x domestica Borkh.) fruit and juice, with special reference to their health related properties. As phytochemical molecules belonging to polyphenols are numerous, we will focus on the main apples phenolic compounds with special reference to changes induced by apple cultivar, breeding approaches, fruit postharvest and transformation into juice. 
 
-Keywords:
 
 anthocyanidins; anthocyanins; flavanols; flavonols; phenolic acids; hydroxycinnamates; phytochemical compounds; 
 
@@ -20,7 +19,6 @@ The general role of phenolic compounds in plant physiology and allelopathy has b
 
 Figure 1. Number of publications, which include polyphenol research, since 2000. Publications registered in the ScienceDirect database [4] where the keyword “polyphenols” is used. The 2013 data are related to the period of January–mid-July. 
 
-Click here to enlarge figure 
 
 Figure 1. Number of publications, which include polyphenol research, since 2000. Publications registered in the ScienceDirect database [4] where the keyword “polyphenols” is used. The 2013 data are related to the period of January–mid-July.
 
@@ -36,7 +34,6 @@ Apples are one of the most commonly consumed fruits in the world. In 2011, world
 
 Figure 2. Total phenolic content in different fruits and apple cultivars. Data were re-elaborated from Fu et al. [16]—red bars; Iacopini et al. [17], and Minnocci et al. [18]—blue bars. 
 
-Click here to enlarge figure 
 
 Figure 2. Total phenolic content in different fruits and apple cultivars. Data were re-elaborated from Fu et al. [16]—red bars; Iacopini et al. [17], and Minnocci et al. [18]—blue bars.
 
@@ -48,7 +45,6 @@ Total phenolic, flavonoid, and anthocyanin contents in four apple varieties (Rom
 
 Figure 3. Polyphenol molecule concentrations ranges in seed, peel and peel + flesh. Data were re-elaborated form, Łata et al. [24], Duda-Chodak et al. [25], and Iacopini et al. [17].  mg/g DW;  mg/100 g FW; - not measured. 
 
-Click here to enlarge figure 
 
 Figure 3. Polyphenol molecule concentrations ranges in seed, peel and peel + flesh. Data were re-elaborated form, Łata et al. [24], Duda-Chodak et al. [25], and Iacopini et al. [17].  mg/g DW;  mg/100 g FW; - not measured.
 
@@ -100,4 +96,3 @@ On the basis of the data related to apple polyphenols that we reviewed in this p
 
 ## Conflicts of Interest
 
-The authors declare no conflict of interest.
