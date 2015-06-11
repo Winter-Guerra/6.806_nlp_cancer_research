@@ -1,0 +1,5 @@
+# Comparison of Tamoxifen with Edible Seaweed (Eucheuma cottonii L.) Extract in Suppressing Breast Tumor
+
+## Abstract
+
+The tropical edible red seaweed (_Eucheuma cottonii_ L.) is rich in nutrients and polyphenolic compounds that may suppress cancer through its antioxidant and antiproliferative properties. The study reports on rat mammary tumor suppression and tissue antioxidant status modulation by _E. cottonii_ ethanol extract (ECE). The effect of orally administered ECE (100 mg/kg body-weight) was compared with that of tamoxifen (10 mg/kg body-weight). Rat was induced to develop mammary tumor with subcutaneous injection of LA-7 cells (6 × 106 cells/rat). The ECE was more effective than tamoxifen in suppressing tumor growth (27%), improving tissues (plasma, liver, and kidney) malondialdehyde concentrations, superoxide dismutase activity and erythrocyte glutathione concentrations (_P_ &lt; 0.05). Unlike tamoxifen, the ECE displayed little toxicity to the liver and kidneys. The ECE exhibited strong anticancer effect with enzyme modulating properties, suggesting its potential as a suppressing agent for mammary gland tumor.

@@ -1,0 +1,5 @@
+# Kinetic changes of nutrients and antioxidant capacities of germinated soybean (Glycine max L.) and mung bean (Vigna radiata L.) with germination time
+
+## Abstract
+
+The objectives of this research were to systematically assess the functional values of germinated soybean and mung bean, and to determine the optimal germination time for yielding functional substances. Changes in phenolics, ascorbic acid, isoflavone, as well as antioxidant capacities of soybean and mung bean during germination were investigated. Results showed that germination had positive enhancement effects on bioactive compounds in beans. Both compositions and contents of isoflavones in soybean were influenced by germination, three-day germination was optimal time for production of germinated soybean with the highest total isoflavone content (4.68 mg/g dry product), the contents of genistein, daidzein, total aglycone in germinated soybean were increased 3, 2.4, and 2.5 folds, respectively, as compared to non-germinated soybean. Current results indicate that germinated beans are better raw materials than non-germinated beans for gaining health beneficial substances.

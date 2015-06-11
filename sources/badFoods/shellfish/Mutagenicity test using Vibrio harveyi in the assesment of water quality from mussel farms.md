@@ -1,0 +1,5 @@
+# Mutagenicity test using Vibrio harveyi in the assesment of water quality from mussel farms
+
+## Abstract
+
+This work analyses the mutagenicity of seawater from mussel farms using the _Vibrio harveyi_ mutagenicity test and its relationship with the accumulated pollutants and the development of gonadal neoplasia in mussels. Histological disorders identified as germinoma were observed in the gonad of _Mytilus galloprovincialis_ during the period of study. The prevalence of this pathology is significantly correlated with certain levels of pollutants accumulated in mussels, mainly of PAHs and PCBs, whose toxic equivalents were calculated as EROD induction equivalency. The mutagenicity and toxicity of the water surrounding mussel's farms is clearly correlated with the pollutants accumulated and with the neoplasia prevalence in mussels. Such correlations are corroborated by a multivariate analysis. Our results conclude with the utility of _V. harveyi_ test as an optimal and rapid method in the monitoring of the quality of the water from mussel farms and as a tool to control the risks of pollution on mussel production and its safety for human food.
