@@ -4,6 +4,7 @@
 
 
 import json
+import yaml
 import requests
 import html2text
 import re
@@ -289,16 +290,43 @@ def getJSONFromDirectory(directory):
 def fixPending_URL_JSON(directory):
 
 	# Find the json file for the directory.
-	with open("{}/pending-URLs-to-scrape.json".format(directory)) as data_file:    
-		
-		# Check if the jsonfile is a valid json file
-		try
-			data = json.load(data_file)
-		
-		except:
-			# Fix the json file
 
-		# If not valid, 
+	objData = None # For scope
+
+
+	try:
+		with open("{}/pending-URLs-to-scrape.json".format(directory), 'r+') as f:    
+			
+			# Get the file from the data
+			lines = f.readlines()
+			f.seek(0)
+			# print(lines)
+
+			# Check if the jsonfile is a valid json file
+			try:
+				data = json.load(f)
+				objData = data
+			
+			except:
+				# Fix the json file by replacing all '' with ""
+
+				
+				lines = [re.sub("\'", '\"', line) for line in lines]
+				
+				jsonString = "".join(lines)
+				objData = json.loads(jsonString)
+
+	except IOError:
+		pass # Handle missing files gracefully
+
+	if objData is not None:
+		# Then we need to write the new file and delete the old file
+		with open("{}/pending-URLs-to-scrape.yaml".format(directory), 'w') as f: 
+			yaml.dump(objData, f)
+
+		# If that completed successfully, delete the old file
+		os.remove("{}/pending-URLs-to-scrape.json".format(directory))
+
 
 def scrape(directory, articleList=None):
 
@@ -343,13 +371,19 @@ if __name__ == '__main__':
 
 	# directoryList = [ './sources/badFoods/adzuki-beans', './sources/badFoods/alcohol', './sources/badFoods/almonds', './sources/badFoods/avocados', './sources/badFoods/bacon', './sources/badFoods/basil', './sources/badFoods/beef', './sources/badFoods/brown-rice', './sources/badFoods/butter', './sources/badFoods/cheese', './sources/badFoods/coffee', './sources/badFoods/corn-oil', './sources/badFoods/escargot', './sources/badFoods/ginger', './sources/badFoods/herring-and-sardines', './sources/badFoods/lamb', './sources/badFoods/lavender', './sources/badFoods/mackerel', './sources/badFoods/milk', './sources/badFoods/mushrooms', './sources/badFoods/mustard', './sources/badFoods/papaya', './sources/badFoods/peanuts', './sources/badFoods/pork', './sources/badFoods/potatoes', './sources/badFoods/rhubarb', './sources/badFoods/safflower-oil', './sources/badFoods/saffron', './sources/badFoods/sage', './sources/badFoods/salt', './sources/badFoods/shellfish', './sources/badFoods/soy-protein-isolate', './sources/badFoods/soybean-oil', './sources/badFoods/soybean-paste', './sources/badFoods/sugar', './sources/badFoods/sunflower-oil', './sources/badFoods/yerba-mate', './sources/recommendedFoods/apples', './sources/recommendedFoods/artichokes', './sources/recommendedFoods/basil', './sources/recommendedFoods/bell-peppers', './sources/recommendedFoods/black-pepper', './sources/recommendedFoods/blackberries', './sources/recommendedFoods/blueberries', './sources/recommendedFoods/boysenberries', './sources/recommendedFoods/broccoli', './sources/recommendedFoods/brown-rice', './sources/recommendedFoods/brussels-sprouts', './sources/recommendedFoods/buckwheat', './sources/recommendedFoods/cabbage', './sources/recommendedFoods/canola-oil', './sources/recommendedFoods/carrots', './sources/recommendedFoods/cauliflower', './sources/recommendedFoods/celery', './sources/recommendedFoods/cherries', './sources/recommendedFoods/chicken', './sources/recommendedFoods/coffee', './sources/recommendedFoods/cranberries', './sources/recommendedFoods/cucumbers', './sources/recommendedFoods/currants', './sources/recommendedFoods/Dry Beans', './sources/recommendedFoods/dry-beans', './sources/recommendedFoods/flaxseed', './sources/recommendedFoods/ginger', './sources/recommendedFoods/grapes', './sources/recommendedFoods/green-tea', './sources/recommendedFoods/greens', './sources/recommendedFoods/herring-and-sardines', './sources/recommendedFoods/honey', './sources/recommendedFoods/horseradish', './sources/recommendedFoods/hot-peppers', './sources/recommendedFoods/kale', './sources/recommendedFoods/kefir', './sources/recommendedFoods/lake-trout', './sources/recommendedFoods/lettuce', './sources/recommendedFoods/low-fat-yogurt', './sources/recommendedFoods/mackerel', './sources/recommendedFoods/mushrooms', './sources/recommendedFoods/mustard', './sources/recommendedFoods/olives-and-olive-oil', './sources/recommendedFoods/onions-and-garlic', './sources/recommendedFoods/parsley', './sources/recommendedFoods/pomegranates', './sources/recommendedFoods/pumpkins', './sources/recommendedFoods/raspberries', './sources/recommendedFoods/saffron', './sources/recommendedFoods/salmon', './sources/recommendedFoods/seaweed', './sources/recommendedFoods/soybeans', './sources/recommendedFoods/spinach', './sources/recommendedFoods/tofu', './sources/recommendedFoods/tomatoes', './sources/recommendedFoods/turmeric', './sources/recommendedFoods/turnips-and-turnip-greens', './sources/recommendedFoods/walnuts', './sources/recommendedFoods/watercress', './sources/recommendedFoods/watermelon', './sources/recommendedFoods/zucchini']
 
-	directoryList = ['./sources/recommendedFoods/kefir', './sources/recommendedFoods/mackerel', './sources/recommendedFoods/salmon']
+	# scrape.parallel = parallel_function(scrape)
+	# result = scrape.parallel(directoryList)
 
-	scrape.parallel = parallel_function(scrape)
-	result = scrape.parallel(directoryList)
-
-	# for path in directoryList:
+	for path in directoryList:
+		fixPending_URL_JSON(path)
+	
 	# 	scrape(directory=path)
+
+	# #### Let's fix the mess we made
+	# directory = './sources/recommendedFoods/apples'
+
+	fixPending_URL_JSON(directory)
+
 
 
 
