@@ -7,6 +7,8 @@ flatten = require('gulp-flatten')
 run = require('gulp-run') # For the stream tokenizer
 rename = require("gulp-rename")
 replace = require('gulp-replace')
+tap = require('gulp-tap')
+natural = require('natural')
 
 gulp.task 'countSources', () ->
 	stream = gulp.src([ 'sources/raw/**/*.md' ])
@@ -44,3 +46,41 @@ gulp.task 'tokenizeSummary', () ->
 	.pipe(gulp.dest('./build/summaries')) # Save this to a temp directory so that we can check the output of the tokenizer
 
 	return stream
+
+# This will use tf-idf to match all the summary sentences with the best match in our corpus  
+
+gulp.task 'generateTrainingSet', () ->
+
+	TfIdf = natural.TfIdf
+	tfidf = new TfIdf()
+
+	# First, let's make our corpus.
+	stream = gulp.src([ 'sources/deduped/*.md' ])
+
+	.pipe( 
+		tap (file) ->
+			# console.log file.path.toString()
+			tfidf.addDocument(file.contents.toString(), file.path.toString())
+
+	)
+
+	# Our corpus has been filled. Let's start doing lookups
+	.on 'end', () ->
+
+		rankings = ( { 'tfidf_val': tfidf.tfidf('cloudy apple juice', i) , 'doc#': i, 'key': tfidf.documents[i].__key} for i in [0...tfidf.documents.length]) 
+
+		rankings.sort (a,b) ->
+			return if a['tfidf_val'] >= b['tfidf_val'] then 1 else -1
+
+		rankings.reverse() # Because we want in decending order
+
+		# Check which is the best fit
+
+		console.log rankings[0]
+
+
+	# Then, let's load every summary.yaml and run it through a search function
+
+	# 
+
+
