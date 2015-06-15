@@ -1,0 +1,5 @@
+# Dietary Fat Intake and Development of Specific Breast Cancer Subtypes
+
+## Abstract
+
+We prospectively evaluated fat intake as predictor of developing breast cancer (BC) subtypes defined by estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor 2 receptor (HER2), in a large (n = 337327) heterogeneous cohort of women, with 10062 BC case patients after 11.5 years, estimating BC hazard ratios (HRs) by Cox proportional hazard modeling. High total and saturated fat were associated with greater risk of ER+PR+ disease (HR = 1.20, 95% confidence interval [CI] = 1.00 to 1.45; HR = 1.28, 95% CI = 1.09 to 1.52; highest vs lowest quintiles) but not ER−PR− disease. High saturated fat was statistically significantly associated with greater risk of HER2− disease. High saturated fat intake particularly increases risk of receptor-positive disease, suggesting saturated fat involvement in the etiology of this BC subtype. 

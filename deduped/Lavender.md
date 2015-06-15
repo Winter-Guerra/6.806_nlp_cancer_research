@@ -1,0 +1,5 @@
+# Lavender
+
+#### Abstract
+
+Lavender is a commonly used product in personal and household care items as well as for aromatherapy. It is increasing in popularity as a fragrance. Additionally, multiple recent publications attest to its antimicrobial activity. Whereas lavender has been associated with irritant dermatitis, allergic contact dermatitis, and photodermatitis, it is anticipated that with increasing exposure, more patients will experience these complications. Most cases of allergic contact dermatitis have been reported as being due to occupational exposures through massage and aromatherapy. One study of the Japanese population demonstrated an increased incidence of contact dermatitis from lavender (from 1.1% to 13.9% over 8 years). It is important that clinicians recognize lavender as a potential allergen.
