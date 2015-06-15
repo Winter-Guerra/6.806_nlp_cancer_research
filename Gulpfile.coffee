@@ -6,9 +6,10 @@ count = require('gulp-count')
 flatten = require('gulp-flatten')
 
 gulp.task 'countSources', () ->
-  stream = gulp.src([ 'sources/**/*.md' ])
+  stream = gulp.src([ 'sources/raw/**/*.md' ])
   .pipe(flatten())
   .pipe(dedupe())
   .pipe(count('## data files copied'))
-  .pipe(gulp.dest('./deduped'))
+  .pipe(gulp.dest('./sources/deduped'))
   return stream
+

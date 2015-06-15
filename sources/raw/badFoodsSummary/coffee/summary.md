@@ -1,0 +1,42 @@
+
+
+#  Coffee has different effects on breast cancer for different women 
+
+Drinking coffee, especially unfiltered coffee (e.g., espresso), can raise cholesterol levels, including LDL (the harmful type of cholesterol). It also acts as a stimulant, increasing the production of cortisone and adrenaline. Fertility may be impaired for coffee drinkers. However, coffee drinking appears to be protective against heart disease on balance. It also has been shown to reduce the risks of type 2 diabetes, Parkinson's disease, and gallstone development. Caffeine consumption has been associated with higher risks of osteoporosis and benign fibrocystic breast disease.
+
+Childhood malignant central nervous system tumors have been found to be associated with maternal coffee drinking during pregnancy. Drinking coffee also has been shown to be correlated with a marginally increased risk of lung cancer in smokers. However, coffee is also associated with decreased risks of non-Hodgkin lymphoma, as well as liver, kidney, and colorectal cancers. The coffee diterpenes kahweol and cafestol have been shown to offer some protection against mutagenic damage by heterocylic amines and aflatoxin B1 in laboratory rats; human consumption of these coffee components has been associated with lower rates of colon tumors. Caffeine, caffeic acid, acrylamide, the phytoestrogen trigonelline, hydroxyl hydroquinone, and various other polyphenols and volatile aroma and heterocyclic substances are also thought to contribute to the cancer-related effects of coffee consumption.
+
+## Breast cancer-related effects of drinking coffee 
+
+Coffee drinking has been reported to have either a small positive or negative association with breast cancer risk, or no association at all, in the general population. However, the body's reaction to coffee can vary significantly for different women based on genetic differences and other factors. Large population studies tend to mask such individual differences by combining results of subgroups for whom coffee drinking may reduce breast cancer risk with subgroups for whom coffee may increase risk.
+
+One study found that, for women with benign breast disease, statistically significant positive correlations existed between caffeine consumption and hormone receptor negative (ER-/PR-) disease, as well as breast tumors greater than 2 cm in size. The implication is that coffee drinking should be avoided by women with fibrocystic breast disease.
+
+Several studies have found that among women with BRCA1 or BRCA2 gene mutations, heavy coffee consumption is associated with significantly reduced breast cancer risk. However, a 2013 study reported that increased breast cancer risk was found for BRCA1 mutation carriers who were heavy coffee drinkers. The effect of coffee consumption on breast cancer risk depends in part on her CYP1A2 genotype, whether or not she is a BRCA carrier. The CYP1A2 gene plays a crucial role in the metabolism of both estrogen and coffee. Like BRCA1 and BRCA2 mutations, a woman's CYP1A2 genotype can only be determined through genetic testing and this testing is not normally performed. Regular heavy coffee consumption increases the expression of the CYP1A2 gene, which encodes a member of the cytochrome P450 family of enzymes. Coffee has been found to protect C-allele carriers against breast cancer by reducing breast volume. Coffee consumption has also been shown to slow the growth of ER+ tumors in women with the CYP1A21F A/A genotype.
+
+One Swedish study found that coffee consumption was associated with a reduction in the risk of breast cancer for lean women, whereas it appeared to have the opposite effect in heavy women. Studies that have attempted to study the possible influence of coffee consumption on risk of breast cancer according to menopausal status have produced conflicting results. Heavy coffee drinking has variously been reported to increase, reduce or have no association with breast cancer risk among premenopausal women. Coffee has been linked to reduced breast cancer risk or no association with risk in postmenopausal women.
+
+Studies that have attempted to study the possible influence of coffee consumption on risk of breast cancer according to hormone receptor status have also produced inconsistent results. Several studies have reported results that are suggestive of a possible association between heavy coffee drinking and increased risk of ER- breast cancer in premenopausal women. However, several studies have reported that coffee drinking is associated with reduced risk of ER- breast cancer in postmenopausal women. One Swedish study specifically reported that coffee consumption is associated with reduced risk of ER+/PR- disease.
+
+Regularly consuming at least two cups of coffee per day might increase the effectiveness of tamoxifen treatment, according to recent research.
+
+Acrylamide, a chemical contained in coffee, among other foods, is a suspected carcinogen. Numerous studies have examined the association between acrylamide and breast cancer, with mostly inconclusive or negative results. However, a 2012 Danish study reported that pre-diagnostic exposure to acrylamide was associated with increased mortality among breast cancer patients with ER+ breast cancer.
+
+Coffee might reduce the effectiveness of Adriamycin (doxorubicin) and other anthracycline chemotherapy because of its caffeine content. There is also some preliminary evidence that coffee could reduce the effectiveness of Taxol (paclitaxel) and other taxane chemotherapy as a result of its caffeic acid content.
+
+## The bottom line
+
+Based on the available evidence, women with benign breast disease should avoid coffee consumption. Moderate coffee consumption appears to be safe for most postmenopausal women, including breast cancer survivors. Drinking coffee may be beneficial for those undergoing treatment with tamoxifen. The potential risks of heavy coffee consumption appear to outweigh the potential benefits for most premenopausal women and it would appear prudent for them to limit coffee consumption. Coffee should not be consumed during chemotherapy.
+
+We present these tentative conclusions for the many coffee drinkers who cannot wait until more definitive studies are published to decide whether to drink coffee. However, more research is needed to clarify the association between coffee drinking and breast cancer risk and prognosis.
+
+## Additional comments
+
+Organic coffee is a better choice than non-organic coffee since coffee is often grown using high levels of pesticides.
+
+_Below are links to recent studies concerning this food. For a more complete list, including less recent studies, please click on coffee._
+
+
+  
+
+
