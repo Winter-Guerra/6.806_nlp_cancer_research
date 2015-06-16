@@ -49,7 +49,6 @@ gulp.task 'tokenizeSummary', () ->
 	return stream
 
 # This will use tf-idf to match all the summary sentences with the best match in our corpus  
-
 gulp.task 'generateTrainingClassifications', () ->
 
 	TfIdf = natural.TfIdf
@@ -79,22 +78,31 @@ gulp.task 'generateTrainingClassifications', () ->
 
 				# Iterate through every sentence in the yaml
 				rankings = []
-				for sentence in sentences
+				output = 
+					'sentences': sentences
+					'documentRankings': {}
 
-					# For each sentence, find the document that best fits the sentence
-					max = {'tfidf_val':0}
-					for i in [0...tfidf.documents.length]
+				for i in [0...tfidf.documents.length]
+					documentRanking = ( tfidf.tfidf(sentence, i) for sentence in sentences )
 
-						ranking = { 'sentence': sentence, 'tfidf_val': tfidf.tfidf(sentence, i) , 'doc#': i, 'key': tfidf.documents[i].__key}
-						max = ranking if max['tfidf_val'] < ranking['tfidf_val'] 
+					# Check that this document vector is not all zeros
+					continue if Math.max.apply(Math, documentRanking) is 0
 
-					rankings.push(max)
+					documentPath = tfidf.documents[i].__key
+					output['documentRankings'][documentPath] = documentRanking
 
-					# Append the sentence to the yaml file in ./build/classifications
-				file.contents = new Buffer yaml.safeDump(rankings)
+
+				# Append the sentence to the yaml file in ./build/classifications
+				file.contents = new Buffer yaml.safeDump(output)
 				return file.contents
 		)
 		.pipe( gulp.dest('./build/trainingClassifications') )
+
+	.on	'error', (err) ->
+		console.error err
+
+# This task will take the sentences output from the summaries and pair them with a specific sentence from 
+gulp.task 'mapSentenceClassificationsToOriginalFiles', () ->
 
 		
 
