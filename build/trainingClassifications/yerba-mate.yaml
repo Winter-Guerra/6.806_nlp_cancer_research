@@ -1,0 +1,12 @@
+- sentence: The page you requested could not be found.
+  tfidf_val: 147.40363935521958
+  'doc#': 389
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Intake of trans fatty acids from partially hydrogenated vegetable and fish oils and ruminant fat in relation to cancer r.md
+- sentence: Please check the url and try again.
+  tfidf_val: 22.837969484094195
+  'doc#': 596
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The cytotoxic effect of -tomatine in MCF-7 human adenocarcinoma breast cancer cells depends on its interaction with chol.md
+- sentence: 'Breast cancer resources | Definitions | Selected supplements and vitamins | Privacy policy | Search | Disclaimer/about us | Free newsletter/Donate | Sitemap'
+  tfidf_val: 659.3517523360304
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md

@@ -1,0 +1,200 @@
+- sentence: 'Flaxseed, also known as linseed, consists of the seeds of the flax plant (Linum usitatissimum).'
+  tfidf_val: 814.7133212256164
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: 'Flaxseed is a good dietary source of vitamin E, phosphorus, manganese, magnesium, folate, copper and zinc.'
+  tfidf_val: 690.5134204368304
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: 'Flaxseed is the richest known source of plant lignans, mainly secoisolariciresinol, which are converted by intestinal microbiota to the mammalian lignans enterodiol and enterolactone.'
+  tfidf_val: 987.2393752212134
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: 'Flaxseed also contains high levels of the omega-3 fatty acid alpha-linolenic acid and is a good source of melatonin, both of which have been shown to confer protection against breast cancer.'
+  tfidf_val: 1415.1790269111423
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: 'Flaxseed has been shown to have radioprotective, antioxidant and cholesterol-reducing properties.'
+  tfidf_val: 697.3010405606851
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: Flaxseed has been reported to inhibit lung and colorectal cancer in mice.
+  tfidf_val: 634.6335755710202
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: 'Consumption of flaxseed has been found to be associated with biological changes that may be protective for prostate cancer, but the relationship between flaxseed consumption and prostate cancer is unclear.'
+  tfidf_val: 1347.5387257088364
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: Flaxseed and its component have been shown to reduce breast cancer cell growth and enhance breast cancer cell apoptosis.
+  tfidf_val: 1268.1051324733446
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: These studies have demonstrated that flaxseed can reduce the growth and proliferation of both ER- and ER+ breast cancers.
+  tfidf_val: 1000.9858282292129
+  'doc#': 102
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Dietary Supplements Reactivate ER Expression in ER-Negative Breast Cancer Cells by Active Chromatin Modificati.md
+- sentence: A meta-analysis combining the results of seven studies found that plant lignan consumption was associated with reduced risk of breast cancer in postmenopausal women.
+  tfidf_val: 1447.681969809816
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'A major Swedish prospective study found a reduction in risk of breast cancer in postmenopausal women for those in the highest quartile of plant lignan intake, especially among hormone replacement therapy users.'
+  tfidf_val: 1864.007263066924
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: The reduction in risk did not vary by ER or PR status of the tumors.
+  tfidf_val: 827.4356427407268
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: 'Another study reported that high circulating levels of enterolactone reduce the risk of breast cancer recurrence and death among postmenopausal women, especially those with estrogen receptor negative (ER-) breast cancer.'
+  tfidf_val: 1973.687641544654
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'As noted above, flaxseed is a good source of melatonin.'
+  tfidf_val: 725.7630349814139
+  'doc#': 260
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effect of Melatonin on Tumor Growth and Angiogenesis in Xenograft Model of Breast Cancer.md
+- sentence: 'Melatonin protects against breast cancer in several ways, including by reducing aromatase activity within the breast, thereby reducing estrogen production.'
+  tfidf_val: 1094.32768689471
+  'doc#': 426
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Melatonin modulates aromatase activity and expression in endothelial cells.md
+- sentence: Flaxseed has been shown to protect the lungs during radiation for lung cancer without reducing the efficacy of the treatment.
+  tfidf_val: 686.8378317553556
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: Flaxseed has also been shown to enhance the effectiveness of both tamoxifen and Herceptin.
+  tfidf_val: 612.4094684433636
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: Flaxseed has been shown to counteract the breast cancer promoting effects of the soy isoflavone genistein on ER+ breast cancer in mice.
+  tfidf_val: 1640.2381503168435
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: One study comparing flax seeds with sesame seeds (also high in lignans) came to the conclusion that the breast cancer protective qualities of flaxseed were due to its high α-linolenic acid content as much as its lignan content.
+  tfidf_val: 1339.378056869229
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: Another study concluded that the lignan component of flaxseed appears to be most beneficial throughout the promotional phase of carcinogenesis whereas the oil component is more effective at the stage when tumors have already been established.
+  tfidf_val: 800.0015769837776
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: Both flaxseed and flaxseed oil have been shown to be associated with reduced risk of breast cancer.
+  tfidf_val: 1362.6196010702433
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: 'Since flaxseed contains both the lignans and the oil, it appears preferable, on balance, to flaxseed oil.'
+  tfidf_val: 1609.5253595475308
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: 'Because of the high nutrient content of flaxseed, it is subject to spoilage and must be stored and handled properly.'
+  tfidf_val: 661.931575168532
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: Make sure the market where you purchase flaxseed (whether prepackaged or from bulk bin) has frequent product turnover.
+  tfidf_val: 614.7382752869077
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: Check for moisture before buying flaxseed and discard any flaxseed stored at home if there is any evidence of moisture or a rancid smell.
+  tfidf_val: 1220.1260218294685
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: 'Whole flaxseed can safely be stored in an airtight container in a dry, dark, and cool place for several months.'
+  tfidf_val: 629.5170531622564
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: Ground flaxseed is also available; the nutrients in ground seeds are more easily absorbed.
+  tfidf_val: 670.6447394221193
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: Ground flaxseed is more subject to oxidation and spoilage than whole flaxseed and should be refrigerated.
+  tfidf_val: 1224.3517169733923
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: Flaxseed oil is commonly produced by cold pressing whole flaxseed.
+  tfidf_val: 1356.8855741627863
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: It should be stored in opaque bottles and always kept refrigerated.
+  tfidf_val: 45.49872325036573
+  'doc#': 303
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Evidence for the complex relationship between free amino acid and sugar concentrations and acrylamide-forming potential .md
+- sentence: 'Flaxseed oil is used in stir-frying in parts of Asia, but we advise against this.'
+  tfidf_val: 776.6531067834792
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: 'Flaxseed oil should be added to foods after they have been heated, if desired, or used in salad dressings or cold sauces prepared without heating.'
+  tfidf_val: 797.835825659715
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: 'One study that examined the effects of using flaxseed oil in stir-frying found that pan-heating caused a significant loss of important nutrients, as well as increases in undesirable oxidation products.'
+  tfidf_val: 899.4604589306883
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: 'Linseed oil is also made from flaxseed, but the term refers to a highly processed oil that is used in industrial applications and it is not suitable for human consumption.'
+  tfidf_val: 999.0971316265042
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: The flax plant is also used to make linen and related fabrics.
+  tfidf_val: 190.9752783190999
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md
+- sentence: 'Flaxseed can absorb unacceptable levels of cadmium, a heavy metal that has been shown to increase the risk of breast cancer.'
+  tfidf_val: 950.187409398002
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: This is not as unlikely a problem as it may first appear.
+  tfidf_val: 137.89564536153657
+  'doc#': 521
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Republished study long-term toxicity of a Roundup herbicide and a Roundup-tolerant genetically modified maize.md
+- sentence: "Areas of Canada, which is the world's largest producer of flaxseed, have high levels of cadmium in the soil."
+  tfidf_val: 739.4225016180768
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: 'North and South Dakota, the two largest producing U.S. states, also are known to have cadmium in the soil.'
+  tfidf_val: 749.20801355839
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: 'The other major producers are China and India, both known for heavy metal pollution in some regions.'
+  tfidf_val: 324.2471408602931
+  'doc#': 321
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fish and seafood availability in markets in the Baie des Chaleurs region New Brunswick Canada a heavy metal contaminatio.md
+- sentence: Farmers do not have to be concerned about heavy metal soil contamination when growing flax for linseed oil or linen production.
+  tfidf_val: 497.2563323872227
+  'doc#': 465
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytoextraction of potentially toxic elements by Indian mustard rapeseed and sunflower from a contaminated riparian soil.md
+- sentence: The market for linseed oil and linen flax have been declining whereas the market for flaxseed meant for human consumption has been increasing and is more lucrative.
+  tfidf_val: 875.0246659103356
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: 'Therefore, it is possible that flaxseed from high-cadmium areas are reaching the U.S. consumer.'
+  tfidf_val: 705.6019188864584
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: 'The "organic" label does not necessarily mean a low-cadmium product.'
+  tfidf_val: 744.1162250895695
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: Mouse studies have demonstrated that significant levels of cadmium can be absorbed from dietary flaxseed.
+  tfidf_val: 788.8432866390383
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: 'In addition, the female pups of pregnant or lactating rats fed flaxseed have increased susceptibility to developing mammary tumors.'
+  tfidf_val: 646.2493027099996
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: 'In addition, flaxseed contains relatively high levels of copper, which has been shown to increase angiogenesis and metastasis of breast cancer.'
+  tfidf_val: 721.5295879383619
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: The cadmium and copper content of flaxseed are the reason we recommend consuming flaxseed in moderation.
+  tfidf_val: 1233.9859062001908
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on flaxseed._'
+  tfidf_val: 629.330654217988
+  'doc#': 133
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemical Composition and Health Benefits of Flaxseed.md

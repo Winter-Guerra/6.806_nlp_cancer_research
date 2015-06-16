@@ -1,0 +1,56 @@
+- sentence: 'Like kale, broccoli, and horseradish, watercress (Nasturtium officinale) is a brassica vegetable.'
+  tfidf_val: 711.9713480653444
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: 'Watercress is a good dietary source of vitamin C, vitamin A, vitamin K, calcium, and various other minerals.'
+  tfidf_val: 1292.2358905902265
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: 'Watercress has been shown to have antioxidant, antigenotoxic, and anti-inflammatory properties, and to improve cholesterol profile.'
+  tfidf_val: 644.3123368578727
+  'doc#': 464
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytochemical characterization and antioxidant properties of baby-leaf watercress produced under organic production syst.md
+- sentence: 'Watercress contains beta-carotene, lutein, zeaxanthin, kaempferol, nasturtiin (the precursor of phenethyl isothiocyanate), phenylethyl isothiocyanate (PEITC) and various other isothiocyanates, all of which have been reported to have anti-cancer properties.'
+  tfidf_val: 654.6613643998434
+  'doc#': 427
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Metastasis of Breast Tumor Cells to Brain Is Suppressed by Phenethyl Isothiocyanate in a Novel In Vivo Metastasis Model.md
+- sentence: 'Brassica vegetables have been shown to inhibit the growth of human pancreatic cancer cells and to reduce the risk of occurrence of lung, gallbladder, bladder, prostate, ovarian and colorectal cancer.'
+  tfidf_val: 1515.425887410861
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Various isothiocyanates derived from watercress have been found to have chemopreventive activity against a variety of breast cancer cell lines in the laboratory and in epidemiologic studies.
+  tfidf_val: 804.6923278349814
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: A Chinese study which measured urinary isothiocyanate levels as a marker of brassica vegetable intake found that higher levels were protective against breast cancer in both premenopausal and postmenopausal women.
+  tfidf_val: 1284.5759054221023
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Watercress is the most abundant dietary source of PEITC, which has been found to reduce the growth of human breast cancer cells, decrease angiogenesis (the process by which tumors send out signals to induce surrounding normal tissues to grow new blood vessels into the tumor), inhibit the growth of HER2 overexpressing (HER2+) mammary tumors in mice, and inhibit metastasis to the brain in a mouse model of breast cancer.'
+  tfidf_val: 2242.5411325150253
+  'doc#': 427
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Metastasis of Breast Tumor Cells to Brain Is Suppressed by Phenethyl Isothiocyanate in a Novel In Vivo Metastasis Model.md
+- sentence: Watercress can take the place of lettuce in salads or sandwiches.
+  tfidf_val: 427.518231516734
+  'doc#': 464
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytochemical characterization and antioxidant properties of baby-leaf watercress produced under organic production syst.md
+- sentence: It should be eaten raw rather than cooked to obtain the most powerful anti-cancer effects.
+  tfidf_val: 451.27755405847574
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Watercress can reduce the bioavailability of iodine in the diet.
+  tfidf_val: 407.6579091322535
+  'doc#': 464
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytochemical characterization and antioxidant properties of baby-leaf watercress produced under organic production syst.md
+- sentence: Cruciferous vegetables contain thioglucoside compounds that can interfere with the formation of thyroid hormone.
+  tfidf_val: 337.5682989651342
+  'doc#': 593
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Safety of Cruciferous Plants in Humans A Systematic Review.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on watercress._'
+  tfidf_val: 424.2774796224017
+  'doc#': 464
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytochemical characterization and antioxidant properties of baby-leaf watercress produced under organic production syst.md

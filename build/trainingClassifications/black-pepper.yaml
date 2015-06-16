@@ -1,0 +1,108 @@
+- sentence: Ground black pepper (Piper nigrum) is one of the most commonly consumed spices.
+  tfidf_val: 157.95218427544307
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: 'Black pepper has been shown to have antioxidant, anti-inflammatory, antibacterial and antimutagenic properties and helps improve digestion.'
+  tfidf_val: 395.10599707668536
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: 'Black pepper is a dietary source of vitamin C, vitamin K and manganese.'
+  tfidf_val: 724.5848586387517
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: The spiciness of black pepper is due to its piperine content.
+  tfidf_val: 724.1828352729619
+  'doc#': 468
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Piperine Inhibits the Activities of Platelet Cytosolic Phospholipase A2 and Thromboxane A2 Synthase without Affecting Cy.md
+- sentence: 'Piperine has been shown to significantly increase the bioavailability of selenium and beta-carotene, among other nutrients.'
+  tfidf_val: 716.9415710561784
+  'doc#': 545
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Selenium intake and breast cancer mortality in a cohort of Swedish women.md
+- sentence: Piperine has been shown to mitigate the harmful effects of cadmium exposure.
+  tfidf_val: 753.8274473897127
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: Black pepper and piperine have been shown to inhibit the development of carcinogen-induced colon and lung cancers in laboratory animals.
+  tfidf_val: 764.4571327709106
+  'doc#': 468
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Piperine Inhibits the Activities of Platelet Cytosolic Phospholipase A2 and Thromboxane A2 Synthase without Affecting Cy.md
+- sentence: 'The black pepper compounds piperine and β-caryophyllene oxide have been shown to reduce breast cancer cell proliferation, angiogenesis, and metastasis in the laboratory.'
+  tfidf_val: 737.8002060846613
+  'doc#': 468
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Piperine Inhibits the Activities of Platelet Cytosolic Phospholipase A2 and Thromboxane A2 Synthase without Affecting Cy.md
+- sentence: β-caryophyllene oxide interferes with multiple signaling cascades involved in tumorigenesis.
+  tfidf_val: 148.79456080453224
+  'doc#': 380
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Influence of Berry-Polyphenols on Receptor Signaling and Cell-Death Pathways Implications for Breast Cancer Prevention.md
+- sentence: Piperine reduces the growth of breast cancer cells without affecting the growth of normal breast cells.
+  tfidf_val: 1220.8356214439882
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: Piperine has been shown to inhibit the growth and motility of triple negative breast cancer cells.
+  tfidf_val: 762.0672036134814
+  'doc#': 468
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Piperine Inhibits the Activities of Platelet Cytosolic Phospholipase A2 and Thromboxane A2 Synthase without Affecting Cy.md
+- sentence: 'Piperine has been shown to enhance breast stem cell sensitivity to curcumin, a component of the spice turmeric.'
+  tfidf_val: 1180.7300327683572
+  'doc#': 582
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Targeting breast stem cells with the cancer preventive compounds curcumin and piperine.md
+- sentence: Curcumin may decrease breast cancer risk in part by reducing breast stem cell self-renewal and enhancing differentiation of breast stem cells.
+  tfidf_val: 1605.5694225909508
+  'doc#': 183
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Curcumin restores sensitivity to retinoic acid in triple negative breast cancer cells.md
+- sentence: 'Piperine may enhance the effectiveness of Adriamycin (doxorubicin), Taxol (paclitaxel) and 5-FU chemotherapy.'
+  tfidf_val: 654.9217042298015
+  'doc#': 468
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Piperine Inhibits the Activities of Platelet Cytosolic Phospholipase A2 and Thromboxane A2 Synthase without Affecting Cy.md
+- sentence: 'Black pepper is made by grinding the dried, immature berries of Piper nigrum.'
+  tfidf_val: 337.32623613188525
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: 'White pepper, which is made from the dried, mature berries of Piper nigrum from which the outer covering has been removed, contains significantly less piperine than black pepper.'
+  tfidf_val: 837.0652139217095
+  'doc#': 468
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Piperine Inhibits the Activities of Platelet Cytosolic Phospholipase A2 and Thromboxane A2 Synthase without Affecting Cy.md
+- sentence: Pink peppercorns come from a completely different plant (Schinus molle).
+  tfidf_val: 487.82350192436473
+  'doc#': 575
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Supplementing long-chain n-3 polyunsaturated fatty acids in canned wild Pacific pink salmon with Alaska salmon oil.md
+- sentence: 'Most black peppercorns sold in the U.S. are imported from India, Indonesia, Malaysia, Brazil or Vietnam.'
+  tfidf_val: 138.78797158915515
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: Buying whole peppercorns protects against the possibility of purchasing ground pepper that has been mixed with other materials.
+  tfidf_val: 149.35585375419788
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: Black pepper sold in the U.S. often has been irradiated to remove pathogenic microorganisms and fungi.
+  tfidf_val: 196.16398300223454
+  'doc#': 531
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Retention of Quality and Nutritional Value of 13 Fresh-Cut Vegetables Treated with Low-Dose Radiation.md
+- sentence: More traditional sterilization methods include fumigation and steam sterilization.
+  tfidf_val: 89.53488057533434
+  'doc#': 282
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of traditional chinese cooking methods on formation of heterocyclic aromatic amines in lamb patties.md
+- sentence: Some of the chemicals used in fumigation are considered harmful to human health.
+  tfidf_val: 134.3678545112764
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Steam treatment results in a considerable loss of piperine content.
+  tfidf_val: 681.319141094225
+  'doc#': 468
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Piperine Inhibits the Activities of Platelet Cytosolic Phospholipase A2 and Thromboxane A2 Synthase without Affecting Cy.md
+- sentence: 'While irradiation results in a greater loss of vitamin C in black pepper than steam treatment, it preserves most of the piperine content.'
+  tfidf_val: 748.9189884010218
+  'doc#': 468
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Piperine Inhibits the Activities of Platelet Cytosolic Phospholipase A2 and Thromboxane A2 Synthase without Affecting Cy.md
+- sentence: Piperidine (hexahydropyridine) is a poison and should be avoided.
+  tfidf_val: 48.53864510218241
+  'doc#': 37
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anthocyanin-Rich Blackberry Extract Suppresses the DNA-Damaging Properties of Topoisomerase I and II Poisons in Colon Ca.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on black pepper._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

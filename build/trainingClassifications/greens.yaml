@@ -1,0 +1,64 @@
+- sentence: 'By greens, we mean leafy cruciferous vegetables, including collard greens, mustard greens and arugula (Eruca sativa).'
+  tfidf_val: 447.4847167880874
+  'doc#': 593
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Safety of Cruciferous Plants in Humans A Systematic Review.md
+- sentence: Turnip greens are covered in the turnips page.
+  tfidf_val: 47.50454783684781
+  'doc#': 309
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Expression of Helix pomatia lectin binding glycoproteins in women with breast cancer in relationship to their blood grou.md
+- sentence: 'Greens are a good dietary source of vitamin C, vitamin A, vitamin K, vitamin B6, folate, calcium, manganese, and various other minerals.'
+  tfidf_val: 1646.5675108704809
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: 'Greens have been shown to have antioxidant and anti-inflammatory properties, and to improve glucose metabolism and be cardioprotective.'
+  tfidf_val: 330.2411379262029
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: "Greens contain beta-carotene and other carotenoids, quercetin, isorhamnetin, ferulic acid, kaempferol, indole-3-carbinol (I3C), 3,3'-diindolylmethane (DIM) and several other isothiocyanates, sinigrin and other glucosinolate hydrolysis products, most of which have been reported to have anti-cancer properties."
+  tfidf_val: 968.9757834253861
+  'doc#': 411
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Low levels of 33prime-diindolylmethane activate estrogen receptor alpha and induce proliferation of breast cancer cells .md
+- sentence: 'Cruciferous vegetables have been shown to inhibit the growth of human pancreatic cancer cells and to reduce the risk of lung, gallbladder, bladder, prostate, ovarian and colorectal cancer.'
+  tfidf_val: 1515.425887410861
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Components of greens have been found to down-regulate hormone receptor expression, promote apoptosis, suppress cell cycle progression and inhibit angiogenesis of human breast cancer cells.'
+  tfidf_val: 1208.4813917101117
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Consumption of brassica vegetables has been shown to reduce the estrogen metabolite 16alpha-hydroxyestrone, which is a breast cancer promoter, and to be marginally inversely associated with breast cancer risk in population studies.'
+  tfidf_val: 1722.2949315369624
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: A Korean study found an association between kale consumption and lower incidence of breast cancer (kale is closely related to greens).
+  tfidf_val: 1466.8134642849204
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: Greens components quercetin and I3C have been shown increase the anti-cancer effects of the chemotherapy drug Taxol (paclitaxel).
+  tfidf_val: 684.0091870400354
+  'doc#': 507
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quercetin regulates -catenin signaling and reduces the migration of triple negative breast cancer.md
+- sentence: Collard greens and mustard greens are healthiest when prepared by steaming and not by stir-frying.
+  tfidf_val: 251.30395820803963
+  'doc#': 282
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of traditional chinese cooking methods on formation of heterocyclic aromatic amines in lamb patties.md
+- sentence: Non-organic greens must be washed very thoroughly to remove pesticide residue.
+  tfidf_val: 250.7270569102986
+  'doc#': 117
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Brassinosteroids Promote Metabolism of Pesticides in Cucumber.md
+- sentence: Greens can reduce the bioavailability of iodine in the diet.
+  tfidf_val: 197.24888529698222
+  'doc#': 138
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemopreventive and therapeutic activity of dietary blueberry against estrogen-mediated breast cancer.md
+- sentence: Cruciferous vegetables contain thioglucoside compounds that can interfere with the formation of thyroid hormone.
+  tfidf_val: 337.5682989651342
+  'doc#': 593
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Safety of Cruciferous Plants in Humans A Systematic Review.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on greens._'
+  tfidf_val: 256.36293407787105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

@@ -1,0 +1,80 @@
+- sentence: 'Buckwheat (Fagopyrum esculentum Moench) is rich in phytochemicals, including rutin, isoquercitrin, quercetin, catechin, myricetin and various anthocyanins.'
+  tfidf_val: 679.5830256667214
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'Buckwheat is also a dietary source of vitamin E, vitamin B6, zinc, copper, selenium, and manganese.'
+  tfidf_val: 724.5848586387517
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: 'Components of buckwheat have been found to have antioxidant, anticarcinogenic, antimutagenic, and antifungal properties.'
+  tfidf_val: 248.090331776746
+  'doc#': 464
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytochemical characterization and antioxidant properties of baby-leaf watercress produced under organic production syst.md
+- sentence: 'Consumption of buckwheat has been shown to reduce gut transit time compared to consumption of white rice, resulting in lower levels of triglycerides, total cholesterol and LDL cholesterol.'
+  tfidf_val: 624.0709909549134
+  'doc#': 399
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/LDL-cholesterol signaling induces breast cancer proliferation and invasion.md
+- sentence: 'Consuming buckwheat may also reduce gallstone formation, reduce inflammation and contribute to blood sugar control.'
+  tfidf_val: 411.32282893584187
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: One animal study found that germinated buckwheat had potent anti-fatty liver activities.
+  tfidf_val: 395.58439011520716
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: A component of buckwheat has been shown to reduce proliferation of multiple myeloma cells.
+  tfidf_val: 434.87225090864047
+  'doc#': 588
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Effectiveness of Cucurbitacin B in BRCA1 Defective Breast Cancer Cells.md
+- sentence: 'Rutin, a major active component of buckwheat, has been found to have anti-angiogenic activity against melanoma in mice, reducing the number of tumor-directed capillaries formed.'
+  tfidf_val: 442.8830770049548
+  'doc#': 97
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Beneficial bacteria stimulate host immune cells to counteract dietary and genetic predisposition to mammary cancer in mi.md
+- sentence: 'Rutin also was found to inhibit the proliferation, migration and capillary-like tube formation of human endothelial cells.'
+  tfidf_val: 511.88676159507577
+  'doc#': 588
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Effectiveness of Cucurbitacin B in BRCA1 Defective Breast Cancer Cells.md
+- sentence: 'An extract of buckwheat hulls has been shown to have cytotoxic effects in human breast, liver and stomach cancer cells.'
+  tfidf_val: 712.1458712924017
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'A peptide of buckwheat seeds has been found to inhibit proliferation of liver and breast cancer cells, as well as leukemia cells.'
+  tfidf_val: 988.8830052278754
+  'doc#': 588
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Effectiveness of Cucurbitacin B in BRCA1 Defective Breast Cancer Cells.md
+- sentence: Tartary buckwheat (similar to buckwheat) has been found to have antiproliferative effects in human breast cancer cells.
+  tfidf_val: 681.1416685852574
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: Buckwheat also has been shown to inhibit carcinogen-induced mammary tumors in laboratory rats by lowering circulating estrogen.
+  tfidf_val: 399.5865781787054
+  'doc#': 97
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Beneficial bacteria stimulate host immune cells to counteract dietary and genetic predisposition to mammary cancer in mi.md
+- sentence: Buckwheat honey has been found to be a better source of antioxidants than lighter-colored honeys.
+  tfidf_val: 1185.2743442269746
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: Japanese soba noodles are made from buckwheat flour.
+  tfidf_val: 238.3883053139554
+  'doc#': 392
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Isolation of a Ribonuclease with Antiproliferative and HIV-1 Reverse Transcriptase Inhibitory Activities from Japanese L.md
+- sentence: Tartary buckwheat (Fagopyrum tataricum Gaertn.)
+  tfidf_val: 186.84375237987564
+  'doc#': 40
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anti-Tumor Activity of a Novel Protein Obtained from Tartary Buckwheat.md
+- sentence: is a type of buckwheat regularly consumed in China and parts of India.
+  tfidf_val: 181.17969694926836
+  'doc#': 392
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Isolation of a Ribonuclease with Antiproliferative and HIV-1 Reverse Transcriptase Inhibitory Activities from Japanese L.md
+- sentence: 'It has a phytochemical profile similar to common buckwheat, with somewhat more rutin and quercetin.'
+  tfidf_val: 508.04670816275564
+  'doc#': 507
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quercetin regulates -catenin signaling and reduces the migration of triple negative breast cancer.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a list of studies that includes older research, please click on buckwheat._'
+  tfidf_val: 251.45931240514105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

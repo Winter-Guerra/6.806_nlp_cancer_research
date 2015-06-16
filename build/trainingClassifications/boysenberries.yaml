@@ -1,0 +1,36 @@
+- sentence: The evidence that boysenberries could be beneficial in fighting breast cancer is derived partly from studies of related berries.
+  tfidf_val: 693.6623977570963
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Boysenberries are a hybrid of blackberry and raspberry.
+  tfidf_val: 271.4818633514507
+  'doc#': 37
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anthocyanin-Rich Blackberry Extract Suppresses the DNA-Damaging Properties of Topoisomerase I and II Poisons in Colon Ca.md
+- sentence: The fact that boysenberries contain substances that have been shown to be antiproliferative and antioxidant is well established.
+  tfidf_val: 185.30897032599972
+  'doc#': 464
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytochemical characterization and antioxidant properties of baby-leaf watercress produced under organic production syst.md
+- sentence: 'However, few studies have been performed that directly address the effect of consuming boysenberries on cancer.'
+  tfidf_val: 579.1949473060054
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Boysenberries contain ellagic acid, which has been shown to inhibit cancer formation.'
+  tfidf_val: 451.4702336925676
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Boysenberries are also known to have high levels of anthocyanins, which are potent antioxidants.'
+  tfidf_val: 294.2144396859258
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'Berry anthocyanins have been shown to inhibit proliferation, apoptosis, inflammation and angiogenesis.'
+  tfidf_val: 448.3634434218249
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: Loganberries are a hybrid cross between between a blackberry and a raspberry.
+  tfidf_val: 271.4818633514507
+  'doc#': 37
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anthocyanin-Rich Blackberry Extract Suppresses the DNA-Damaging Properties of Topoisomerase I and II Poisons in Colon Ca.md
+- sentence: '_Note that while we are continually searching for new evidence concerning this food, there is not much interest in it among cancer researchers so few recent studies are available._'
+  tfidf_val: 907.1435742864229
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md

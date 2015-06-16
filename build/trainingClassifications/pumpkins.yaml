@@ -1,0 +1,72 @@
+- sentence: 'By "pumpkins," we mean common large pumpkins, as well as smaller members of the pumpkin family with orange or deep yellow flesh such as butternut squash, acorn squash, winter squash, spaghetti squash, harlequin squash, Hokkaido pumpkins, red kuri squash, and other small orange squashes.'
+  tfidf_val: 553.0736544022786
+  'doc#': 393
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Isolation of a hemagglutinin with potent antiproliferative activity and a large antifungal defensin from Hokkaido large .md
+- sentence: Pumpkins contain hypoglycemic substances that may improve diabetes.
+  tfidf_val: 94.9678136395573
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'Pumpkins and pumpkin seeds have components such as squalene, beta-carotene, alpha-carotene, and various tocopherols with suspected or demonstrated cancer fighting properties.'
+  tfidf_val: 547.5240266281069
+  'doc#': 580
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synthetic astaxanthin is significantly inferior to algal-based astaxanthin as an antioxidant and may not be suitable as .md
+- sentence: Pumpkin polysaccharide has been shown to possess significant cytoprotective effect and antioxidative activity.
+  tfidf_val: 306.9823319628967
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Dietary intake of pumpkin was found to be protective against head and neck cancer in one Eastern European study.
+  tfidf_val: 1355.8561074403433
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Studies have found that those with very low plasma levels of alpha-carotene and beta-carotene are at a higher risk of gastric cancer.
+  tfidf_val: 959.0050838102128
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Intake of orange and yellow vegetables may also be protective against prostate cancer and non-Hodgkin lymphoma.
+  tfidf_val: 864.4016988885058
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'However, one Japanese study that found a reduced risk of lung cancer in males with frequent consumption of raw and green vegetables, fruit and milk, found an increased risk of lung cancer associated with the consumption of carrots, pumpkins, eggs and coffee.'
+  tfidf_val: 1729.1490927732716
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Most of the population-based breast cancer studies performed to date that specifically included pumpkins were conducted in Japan (since pumpkin consumption is higher there than in the U.S. or Europe).
+  tfidf_val: 840.1960351174025
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'One Japanese study found that consuming vegetables (specifically including pumpkins) reduced the risk of gastric, breast, lung and colorectal cancer, regardless of the family history of cancer.'
+  tfidf_val: 1406.4780626598774
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Another Japanese study found reductions in breast cancer risk associated with high intakes of green-yellow vegetables (green leafy vegetables, carrots and pumpkins) among both premenopausal and postmenopausal women.'
+  tfidf_val: 1465.312382869816
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: 'Pumpkin flesh and seeds should be eaten cooked or roasted, not raw.'
+  tfidf_val: 297.8808190498785
+  'doc#': 108
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactivity of Antioxidants in Extruded Products Prepared from Purple Potato and Dry Pea Flours.md
+- sentence: One study found that raw pumpkin juice increased chromosomal damage in bone marrow cells of experimental rats treated with a carcinogen whereas boiled pumpkin juice significantly suppressed it.
+  tfidf_val: 600.2651439340536
+  'doc#': 483
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Pomegranate and its derivatives can improve bone health through decreased inflammation and oxidative stress in an animal.md
+- sentence: Pumpkin seeds and pumpkin seed oil are rich sources of phytoestrogens and cucurbitacin E. One study found that pumpkin seed oil supplementation prevented changes in plasma lipids and blood pressure associated with inadequate estrogen availability in experimental rats that had their ovaries removed.
+  tfidf_val: 768.5314233045858
+  'doc#': 584
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Association Between Dietary Lignans Phytoestrogen-Rich Foods and Fiber Intake and Postmenopausal Breast Cancer Risk .md
+- sentence: Cucurbitacin E has been shown to inhibit triple negative breast cancer metastasis in the laboratory by suppressing cell migration and invasion.
+  tfidf_val: 1205.305007489395
+  'doc#': 588
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Effectiveness of Cucurbitacin B in BRCA1 Defective Breast Cancer Cells.md
+- sentence: 'On the other hand, pumpkin seeds also contains relatively high levels of copper, which has been shown to increase angiogenesis and metastasis of breast cancer.'
+  tfidf_val: 666.5185064625994
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on pumpkin._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

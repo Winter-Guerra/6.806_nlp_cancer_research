@@ -1,0 +1,148 @@
+- sentence: 'Soybeans have an oil content of approximately 20%.'
+  tfidf_val: 506.7276374435746
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: 'To produce soybean oil, the beans are crushed, the oil is solvent-extracted with hexane, and then the oil is refined.'
+  tfidf_val: 624.0888278898783
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: The remaining soybean husks are used primarily as animal feed.
+  tfidf_val: 163.30979756629372
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: Soybean oil is the second-most widely produced food oil in the world (after palm oil).
+  tfidf_val: 640.4533487366498
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'Much of the oil sold in U.S. supermarkets as "vegetable oil" is soybean oil.'
+  tfidf_val: 624.6887175769516
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: Soybean oil is a dietary source of vitamin E and vitamin K. It does not have the phytoestrogen content of other soy foods.
+  tfidf_val: 778.7617670971332
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: 'This web page focuses on soybean oil; separate web pages cover tofu, soybean paste, soy protein isolate, and soybeans.'
+  tfidf_val: 778.3664347165704
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: We attempt to untangle the conflicting findings regarding breast cancer risk and soybean isoflavones in the genistein and daidzein web page.
+  tfidf_val: 905.5422107814544
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Soybean oil is mainly comprised of fat.
+  tfidf_val: 339.79187485659645
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Major fatty acids in soybean oil include linoleic acid (51%), oleic acid (23%), palmitic acid (10%), alpha-linolenic acid (7%), and stearic acid (4%).'
+  tfidf_val: 1730.7399171551274
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: 'Linoleic acid, an omega-6 fatty acid, is the most prevalent polyunsaturated fatty acid in the U.S. diet.'
+  tfidf_val: 1279.8153921417754
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: 'It is found in most foods we eat, including meats, dairy foods, vegetables, vegetable oils, fruits, legumes, nuts, seeds, cereals and breads.'
+  tfidf_val: 493.59632676377123
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: 'Since linoleic acid is the metabolic precursor of arachidonic acid (and eicosanoids derived from arachidonic acid), concern has been raised that dietary linoleic acid could increase arachidonic acid content and eicosanoid formation in the body and thereby promote cancers, cardiovascular disease, inflammation, and related disorders.'
+  tfidf_val: 1313.175808731236
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'Arachidonic acid also has been shown to increase aromatase activity, thus increasing circulating estrogen.'
+  tfidf_val: 711.8697602694585
+  'doc#': 383
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Inhibitory effect of luteolin on estrogen biosynthesis in human ovarian granulosa cells by suppression of aromatase CYP1.md
+- sentence: Linoleic acid has been shown to encourage the growth of mammary tumors in mice.
+  tfidf_val: 667.2473638704231
+  'doc#': 97
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Beneficial bacteria stimulate host immune cells to counteract dietary and genetic predisposition to mammary cancer in mi.md
+- sentence: Oleic acid is a monounsaturated fatty acid also found in olive oil.
+  tfidf_val: 790.8753267211878
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: 'The evidence is mixed regarding oleic acid and breast cancer: oleic acid has been found both to promote and to inhibit breast cancer, depending on the mixture of other fatty acids and other components of the foods in which it is found.'
+  tfidf_val: 1912.3225071253648
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Alpha-linolenic acid is an omega-3 fatty acid.
+  tfidf_val: 785.3105948408502
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: The protective effect on breast cancer risk of omega-3 fatty acids depends in part on the relative level of omega-6 fatty acids.
+  tfidf_val: 1662.5333349680914
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'The ratio of omega-6 to omega-3 fatty acids in soybean oil is 7-to-1, so that consumption is likely to increase the ratio in the direction considered harmful.'
+  tfidf_val: 811.3704154048137
+  'doc#': 532
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Risks and Benefits of Consumption of Great Lakes Fish.md
+- sentence: 'Although the fatty acid profile of soybean oil is suggestive of an unfavorable impact on breast cancer risk, fatty acid analysis must be combined with more direct evidence since different combinations of the same fatty acids can have different effects.'
+  tfidf_val: 2012.1892522343771
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Studies evaluating the impact of soybean oil on breast cancer are rare since this oil is not suspected to have a beneficial effect.
+  tfidf_val: 801.8568423793764
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Where soybean oil is used, it is often compared another, more promising oil.'
+  tfidf_val: 456.59509201965795
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'One such study found that, unlike fish oil, soybean oil did not inhibit the growth of human breast cancer cells.'
+  tfidf_val: 864.2676778095639
+  'doc#': 532
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Risks and Benefits of Consumption of Great Lakes Fish.md
+- sentence: 'Another study found that the incidence of carcinogen-induced mammary tumors was higher in rats on a diet supplemented with 10% soybean oil than those on a 10% perilla oil diet.'
+  tfidf_val: 1087.7471916390814
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: Population studies specifically examining the impact of soybean oil on risk of breast cancer are also relatively rare.
+  tfidf_val: 1009.114196619461
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Several Asian studies have focused on the carcinogenic effects of the fumes and smoke generated by cooking oils.
+  tfidf_val: 330.76980995198176
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md
+- sentence: 'Soybean oil has been found to form 4-hydroxy-2-trans-nonenal, a mutagenic and cytotoxic product of the peroxidation of linoleic acid, when heated to 365 degrees Fahrenheit, suggesting that soybean oil should not be used for deep frying.'
+  tfidf_val: 575.9366864150147
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: Another study found that soybean oil generated a greater amount of carcinogenic polycyclic aromatic hydrocarbons in the smoke during heating than canola oil or sunflower oil.
+  tfidf_val: 888.0727006902338
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: Breathing fumes and smoke from cooking oil has been found to be associated with higher risk of lung cancer in several Chinese studies.
+  tfidf_val: 986.49716920209
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'One U.S. study that examined the association between the type of fat used in cooking and the risk of breast cancer found that women cooking primarily with vegetable/corn oil (both rich in linoleic acid) had a 30% higher risk of breast cancer than women normally using olive/canola oil (both rich in oleic acid).'
+  tfidf_val: 2954.0238325029536
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Partially-hydrogenated soybean oil, found in many processed foods and restaurant meals, is to be avoided.'
+  tfidf_val: 222.782453024831
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'Hydrogenation increases hardness and stabilizes fats, increasing product shelf life and decreasing refrigeration requirements.'
+  tfidf_val: 133.90786402536045
+  'doc#': 575
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Supplementing long-chain n-3 polyunsaturated fatty acids in canned wild Pacific pink salmon with Alaska salmon oil.md
+- sentence: 'Partial hydrogenation results in the formation of trans fatty acids, which are known to increase LDL cholesterol (the "bad" cholesterol) and lower HDL cholesterol (the "good" cholesterol), thereby increasing cardiovascular disease risk factors.'
+  tfidf_val: 904.5782157980183
+  'doc#': 399
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/LDL-cholesterol signaling induces breast cancer proliferation and invasion.md
+- sentence: Consumption of trans fatty acids has also been found to be associated with increased breast cancer risk.
+  tfidf_val: 1427.6974382049775
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on soybean oil._'
+  tfidf_val: 282.83938001277414
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md

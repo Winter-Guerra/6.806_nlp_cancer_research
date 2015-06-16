@@ -1,0 +1,40 @@
+- sentence: Cherries contain substances that have been shown to be antiproliferative and antioxidant.
+  tfidf_val: 185.30897032599972
+  'doc#': 464
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytochemical characterization and antioxidant properties of baby-leaf watercress produced under organic production syst.md
+- sentence: 'While several studies have found that cherries might inhibit colon cancer, few studies have been performed that address the effects of consuming cherries on breast cancer.'
+  tfidf_val: 1181.7261588187184
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Cherries contain relatively high levels of anthocyanins (flavonoids that give them their intense coloration), giving them antioxidant, anti-inflammatory and chemopreventative properties.'
+  tfidf_val: 505.0999089916033
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: Cherry extracts have been shown to inhibit cancer cell proliferation.
+  tfidf_val: 495.4778451542695
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Generally speaking, sour cherries have higher concentrations of anthocyanins than sweet cherries.'
+  tfidf_val: 668.9970099494533
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: Tart or sour cherries are also an important source of melatonin.
+  tfidf_val: 728.334235375569
+  'doc#': 260
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effect of Melatonin on Tumor Growth and Angiogenesis in Xenograft Model of Breast Cancer.md
+- sentence: 'Melatonin protects against breast cancer in several ways, including by reducing aromatase activity within the breast, thereby reducing estrogen production.'
+  tfidf_val: 1094.32768689471
+  'doc#': 426
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Melatonin modulates aromatase activity and expression in endothelial cells.md
+- sentence: Non-organic cherries must be washed very thoroughly to remove pesticide residue.
+  tfidf_val: 250.7270569102986
+  'doc#': 117
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Brassinosteroids Promote Metabolism of Pesticides in Cucumber.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on cherry._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

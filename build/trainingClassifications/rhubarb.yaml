@@ -1,0 +1,88 @@
+- sentence: 'Rhubarb is a good source of vitamin C, calcium, magnesium and dietary fiber.'
+  tfidf_val: 575.3688595616361
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: 'Rhubarb contains the carotenoids lutein and zeaxanthin, which have been shown to have some anticancer activities.'
+  tfidf_val: 199.99593615934083
+  'doc#': 299
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Evaluation of In Vitro Anticancer Activity of Ocimum Basilicum Alhagi Maurorum Calendula Officinalis and Their Parasite .md
+- sentence: 'Rhubarb has also been shown to have anti-inflammatory, anti-atherosclerosis and plaque-stabilizing actions in laboratory animals.'
+  tfidf_val: 437.95125182437215
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: 'Rhubarb contains the polyphenol (Z)-3,5,4-Trimethoxystilbene, a resveratrol analog that has been shown to arrest the growth of human colon cancer cells in a dose dependent manner.'
+  tfidf_val: 906.0472119828752
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Piceatannol, another polyphenol in rhubarb, has been shown to exert immunosuppressive, antileukemic, and antitumorigenic activities, including inhibition of the proliferation of human bladder and prostate cancer cells.'
+  tfidf_val: 938.5896940170567
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'The most abundant anthraquinone of rhubarb, emodin (which has traditionally been used as a laxative) has been shown to induce apoptosis in human pancreatic, liver, prostate and breast cancer cell lines.'
+  tfidf_val: 900.1879454073993
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Rhein, another component of rhubarb, has been found to induce apoptosis of nasopharyngeal cancer cells.'
+  tfidf_val: 527.2546176280855
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Because rhubarb typically does not comprise a large portion of the diet of any group of people, there are no population-based studies that specifically isolate any associations between consuming rhubarb and the risk of cancer.'
+  tfidf_val: 1292.3169422392511
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Rhein, a constituent of rhubarb, is the major component of several traditional Chinese herbal medicines, including laxatives and stomach remedies.'
+  tfidf_val: 278.1443190468668
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Rhein herb-drug interactions, especially cytochrome P450 (CYP)-mediated interactions, may cause an enhancement or attenuation in the efficacy of prescription drugs.'
+  tfidf_val: 891.8723648250973
+  'doc#': 490
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Potential Risks Resulting from FruitVegetable-Drug Interactions Effects on Drug-Metabolizing Enzymes and Drug Transporte.md
+- sentence: There are some available rhubarb-based herbal remedies designed to treat menopausal symptoms in women and containing the phenolic gallylglucoside lindleyin.
+  tfidf_val: 407.32731096163457
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md
+- sentence: Lindleyin is a phytoestrogen which has demonstrated estrogenic activity.
+  tfidf_val: 209.5270794758226
+  'doc#': 584
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Association Between Dietary Lignans Phytoestrogen-Rich Foods and Fiber Intake and Postmenopausal Breast Cancer Risk .md
+- sentence: 'I recommend against using such remedies for breast cancer patients, survivors and those at high risk for breast cancer since their safety has not been demonstrated.'
+  tfidf_val: 1569.9205291169144
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'In particular, it is possible that lindleyin could promote beast cancer through its estrogenic activity.'
+  tfidf_val: 440.6055372642644
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Rhubarb should not be consumed by pregnant women since it may trigger uterine contractions.
+  tfidf_val: 339.2955273214437
+  'doc#': 594
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The association of alcohol consumption with mammographic density in a multiethnic urban population.md
+- sentence: "Consuming large amounts of rhubarb to obtain the possible benefit of its anticancer components would be impractical since a great deal of sweetener is required to counteract rhubarb's sourness and since the gastrointestinal effects could be overwhelming."
+  tfidf_val: 488.8242708519972
+  'doc#': 532
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Risks and Benefits of Consumption of Great Lakes Fish.md
+- sentence: 'However, we would not recommend consuming concentrated rhubarb extracts or pills since their safety and efficacy have not been established.'
+  tfidf_val: 257.60052331392893
+  'doc#': 95
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Avocado Persea americana Mill Phenolics In Vitro Antioxidant and Antimicrobial Activities and Inhibition of Lipid and Pr.md
+- sentence: Rhubarb leaves should not be consumed since they are poisonous.
+  tfidf_val: 195.5598187688178
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md
+- sentence: "Rhubarb is a component of Essiac\x99 tea, a herbal tea sometimes used as a cancer treatment, primarily for prostate cancer, but also for breast cancer."
+  tfidf_val: 1441.6836213980037
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: "While the tea has been shown in the laboratory to have potent antioxidant and DNA-protective activity, one careful study found no observable action of Essiac\x99 against prostate cancer cells."
+  tfidf_val: 916.9900180680876
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: "A 2006 study reported that Essiac\x99 can stimulate breast cancer cell growth."
+  tfidf_val: 799.2304828773056
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: '_Note that while we are continually searching for new evidence specifically concerning this food, there is not much interest in it among breast cancer researchers, so few studies are available._'
+  tfidf_val: 986.7099244707111
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md

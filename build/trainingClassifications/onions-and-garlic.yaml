@@ -1,0 +1,76 @@
+- sentence: 'Onions, garlic and other members of the allium genus such as leeks, chives, scallions and shallots have been shown to have antimicrobial, radioprotective, antithrombotic, hypolipidaemic, anti-inflammatory, antiarthritic and hypoglycemic effects, as well as improving immune function.'
+  tfidf_val: 333.5612748047236
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: 'Allium vegetables contain various substances reported to have anti-cancer effects, including quercetin, apigenin, fisetin, myricetin, kaempferol, ajoene, diallyl disulfide and related chemicals, S-allylcysteine, dipropyl, and various thiosulfinates.'
+  tfidf_val: 1445.4514353947334
+  'doc#': 312
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/FISETIN A DIETARY ANTIOXIDANT FOR HEALTH PROMOTION.md
+- sentence: Garlic is a good dietary source of the lignan enterolactone.
+  tfidf_val: 454.118930670162
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Garlic has been shown to decrease DNA strand breaks induced by carcinogens, inhibit DNA and RNA synthesis in human cancer cells, retard the growth of cancer cells by causing cell cycle arrest and apoptosis, and suppress angiogenesis.'
+  tfidf_val: 1759.253023096714
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Epidemiological studies have demonstrated an association between increased consumption of allium vegetables and a reduction in many different types of cancer, including cancer of the prostate, lung, endometrium, stomach, colon, bladder, esophagus, larynx, mouth, ovary, and liver, as well as melanoma, acute myeloid leukemia, and childhood acute leukemia.'
+  tfidf_val: 1348.7069599515994
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Numerous studies have shown that onions, garlic and their components inhibit proliferation, reduces migration and invasiveness, and induces apoptosis of cultured human breast cancer cells.'
+  tfidf_val: 850.7312251932046
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: One large European study found that eating onions and garlic was associated with lower risk of breast cancer.
+  tfidf_val: 1123.93100878526
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Another large Italian population-based study found a relationship between the consumption of increasing intake of flavones and flavonols found in allium vegetables and a reduction in the risk of breast cancer.
+  tfidf_val: 1424.571345500098
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: A study of women in Mexico City found that consuming more than one slice of onion per day was associated with reduced risk of breast cancer.
+  tfidf_val: 1233.284605470115
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: A Korean study found an association between onion and garlic consumption and lower incidence of breast cancer.
+  tfidf_val: 860.3727606079393
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'However, there were no clear associations found between breast cancer risk and the consumption of onions or of individual flavonols in a study of premenopausal women in the Nurses Health Study II.'
+  tfidf_val: 1529.4981408669303
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'The anti-carcinogenic effect of allium vegetables is attributed in part to organosulfur compounds, which are generated upon cutting or chewing of these vegetables.'
+  tfidf_val: 360.51490954882274
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: 'Although some of the anticancer benefits of garlic are retained after cooking or processing it, raw garlic appears to have the most benefits.'
+  tfidf_val: 410.9970302896387
+  'doc#': 193
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Determination of Phenolic Compounds in Artichoke Garlic and Spinach by Ultra-High-Performance Liquid Chromatography Coup.md
+- sentence: 'Leeks and yellow onions are a very good source of quercetin, which has been shown increase the anti-cancer effects of the chemotherapy drug Taxol (paclitaxel).'
+  tfidf_val: 684.0091870400354
+  'doc#': 507
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quercetin regulates -catenin signaling and reduces the migration of triple negative breast cancer.md
+- sentence: 'Garlic is a good source of apigenin, which also has been shown to increase the effectiveness of Taxol.'
+  tfidf_val: 758.6788256159819
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: Garlic has also been shown to have protective effects against Adriamycin (doxorubicin)-induced heart damage.
+  tfidf_val: 297.26922443952884
+  'doc#': 182
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Curcumin as a cancer chemotherapy sensitizing agent.md
+- sentence: 'However, garlic supplementation has been shown to reduce the clearance of the chemotherapy drug Taxotere (docetaxel) in some (typically, African-American) women, a result that might also hold for Taxol.'
+  tfidf_val: 495.334184691862
+  'doc#': 594
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The association of alcohol consumption with mammographic density in a multiethnic urban population.md
+- sentence: _Below are links to recent studies concerning allium vegetables.
+  tfidf_val: 258.9358202863566
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: 'For a more complete list, including less recent studies, please click on onions or garlic._'
+  tfidf_val: 256.36293407787105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

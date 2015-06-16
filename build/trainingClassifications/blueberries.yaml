@@ -1,0 +1,76 @@
+- sentence: Blueberries rank among the highest of all fruits and vegetables in the capacity to destroy free radicals.
+  tfidf_val: 295.95828503739006
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: 'Blueberries contain caffeic acid, catechin, chlorogenic acid, epicatechin, ferulic acid, gallic acid, kaempferol, myricetin, naringenin, p-coumaric acid, p-hydroxybenzoic acid, pterostilbene, resveratrol, quercetin, and ursolic acid, most of which have been reported to have anti-cancer properties.'
+  tfidf_val: 2410.019067458837
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'Blueberries have been found to inhibit mammary cancer cell proliferation in mice and rats, as well as inhibiting cultured cancer cell growth in the laboratory and blood vessel tumors in rats.'
+  tfidf_val: 1022.7479958029453
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: Pterostilbene has been shown to inhibit obesity-related breast cancer growth and proliferation in the laboratory and to have additive treatment effects when combined with tamoxifen in estrogen receptor positive (ER+) breast cancer cells.
+  tfidf_val: 1446.6228436420247
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: Pterostilbene also has been shown to reduce the formation of breast cancer stem cells and inhibit their metastatic activities.
+  tfidf_val: 785.2637511982463
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Blueberries are a good source of resveratrol, which has been shown to increase the effects of radiation, aromatase inhibitors and the chemotherapy drug Taxol (paclitaxel) against breast cancer.'
+  tfidf_val: 648.8576875204117
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: Blueberry extract has been shown to exhibit antitumor activity against MDA-MB-231 triple negative breast cancer cells and reduce their metastatic potential.
+  tfidf_val: 1420.5416062121367
+  'doc#': 102
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Dietary Supplements Reactivate ER Expression in ER-Negative Breast Cancer Cells by Active Chromatin Modificati.md
+- sentence: Blueberry was found to inhibit cell proliferation in triple negative cells with no effect on normal breast cells in one study.
+  tfidf_val: 1158.9965241426064
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: Blueberry also reduced the metastatic potential of triple negative cells through inhibition of cell motility.
+  tfidf_val: 654.1791703363931
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: 'In animal studies, dietary blueberry has been shown to reduce triple negative tumor volume in female mice.'
+  tfidf_val: 592.6815121162625
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Blueberry diets reduced triple negative proliferation (as measured by Ki-67) and increased cell death.
+  tfidf_val: 362.6481732532875
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: 'In addition, a blueberry diet inhibited triple negative tumor metastasis in another mouse study.'
+  tfidf_val: 484.10054795091713
+  'doc#': 233
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary selenium supplementation modifies breast tumor growth and metastasis.md
+- sentence: 'Analysis of tumor tissues has demonstrated that blueberry-fed mice tumors have significantly altered expression of genes important to inflammation, cancer, and metastasis.'
+  tfidf_val: 819.9796508974136
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'The antioxidant properties of blueberries have been shown to be reduced when eaten with milk, suggesting that the best way to gain maximum benefits from blueberries and other fruits eaten for their polyphenol content is to consume them either one hour before or two hours after protein is consumed.'
+  tfidf_val: 449.2132467763754
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: Non-organic blueberries must be washed very thoroughly to remove pesticide residue as much as possible.
+  tfidf_val: 252.9657461515823
+  'doc#': 117
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Brassinosteroids Promote Metabolism of Pesticides in Cucumber.md
+- sentence: 'Bilberries, which grow wild in much of northern Europe, are closely related to blueberries.'
+  tfidf_val: 100.54486589241823
+  'doc#': 588
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Effectiveness of Cucurbitacin B in BRCA1 Defective Breast Cancer Cells.md
+- sentence: They are valued for their high flavonoid content.
+  tfidf_val: 320.1248156322069
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on blueberries._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

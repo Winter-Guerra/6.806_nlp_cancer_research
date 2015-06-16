@@ -1,0 +1,180 @@
+- sentence: 'The category of seaweed, or ocean vegetables, includes edible seaweed or algae such as dulse, kelp (including arame, kombu, and wakame), nori, and sea lettuce (Ulva lactuca and Monostroma spp.).'
+  tfidf_val: 299.02681773817346
+  'doc#': 531
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Retention of Quality and Nutritional Value of 13 Fresh-Cut Vegetables Treated with Low-Dose Radiation.md
+- sentence: 'Generally speaking, seaweed is a good dietary source of calcium, iodine, iron, potassium, and fiber.'
+  tfidf_val: 447.65660622414833
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Various seaweeds have been shown to have anti-inflammatory, antioxidant, anticoagulant, and antibiotic properties.'
+  tfidf_val: 333.26915184737595
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: 'Some varieties are also good sources of vitamin A, vitamin B12, vitamin C, vitamin E, vitamin K, manganese, magnesium, selenium, copper, or zinc.'
+  tfidf_val: 1793.6108597819145
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: Seaweed can be a rich source of carotenoids.
+  tfidf_val: 125.18432661408966
+  'doc#': 115
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioprospecting of brown seaweed Ochrophyta from the Yucatan Peninsula cytotoxic antiproliferative and antiprotozoal acti.md
+- sentence: 'For example, brown seaweeds contain beta-carotene, fucoxanthin, and violaxanthin.'
+  tfidf_val: 468.76786111238664
+  'doc#': 52
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer and Antitumor Potential of Fucoidan and Fucoxanthin Two Main Metabolites Isolated from Brown Algae.md
+- sentence: 'In addition, seaweed contains some unique compounds, such as various fucoidans (found in brown seaweeds), stearidonic acid (brown seaweeds), phlorotannins (kelp), mycosporine-like amino acids and phenolic acid (dulse), all of which have been shown to have anticancer properties in the laboratory.'
+  tfidf_val: 1198.9952876492948
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: Various extracts of seaweed have been shown to inhibit the growth of colon and breast cancer cells in the laboratory.
+  tfidf_val: 719.4878597283999
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: >-
+    The evidence that seaweed consumption could reduce the risk of breast cancer
+    is based primarily on studies of brown seaweeds:
+
+
+
+       Consumption of brown seaweeds has been shown to favorably alter estrogen
+    metabolism in women.
+  tfidf_val: 1195.574678048925
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Extract of common kelp has been shown to inhibit the binding of estradiol to estrogen receptors and progesterone to the progesterone receptor.
+  tfidf_val: 334.54654883232905
+  'doc#': 383
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Inhibitory effect of luteolin on estrogen biosynthesis in human ovarian granulosa cells by suppression of aromatase CYP1.md
+- sentence: >-
+    Bladderwrack (another type of edible kelp) has been found to exert
+    anti-estrogenic effects in pre-menopausal women
+
+       Specific unique components (fucoidan, fucoxanthin, alginic acid,
+    laminarin) of brown seaweeds have been shown to inhibit cancer cell
+    proliferation.
+  tfidf_val: 1470.3953244525494
+  'doc#': 335
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fucoidan and Cancer A Multifunctional Molecule with Anti-Tumor Potential.md
+- sentence: >-
+    However, red seaweeds, which lack these compounds, also inhibit
+    proliferation, suggesting that other compounds found in seaweed may also be
+    important
+
+       Seaweed in the Asian diet may enhance intestinal conversion of
+    phytoestrogens, in particular the production of equol, which could explain
+    some of the breast cancer protective effects of dietary seaweed and soy
+
+       The brown seaweed wakame (a type of kelp) has been shown to contain the
+    omega-3 fats eicosapentaenoic acid and stearidonic acid, which may favorably
+    increase the omega-3/omega-6 polyunsaturated fatty acid ratio (which in turn
+    is thought to reduce breast cancer risk).
+  tfidf_val: 2502.2298297275534
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: >-
+    Some other types of seaweed have been found to contain docosahexaenoic acid,
+    another marine omega-3 fat
+
+       Wakame was also found to reduce breast cancer proliferation in rats in one
+    Japanese study
+
+       Mekabu (wakame root) extract has been shown to induce cell death in human
+    hormone receptor negative (ER-/PR-) breast cancer cells and to suppress
+    mammary carcinogenesis in rats when administered in daily drinking water,
+    without toxicity
+
+       Various types of red, brown and green algae have been found to be good
+    sources of melatonin.
+  tfidf_val: 2008.0683013858495
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: >-
+    Melatonin protects against breast cancer in several ways, including by
+    reducing aromatase activity within the breast, thereby reducing estrogen
+    production
+
+       The relatively high iodine content of seaweed may contribute to reduction
+    in risk of breast cancer
+
+       The relatively high levels of calcium found in seaweed are also thought to
+    contribute to seaweed's chemopreventive effects, in combination with its
+    other components.
+  tfidf_val: 1997.2437675527055
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: "We suggest consuming seaweed as food rather than fucoidan, kelp or other seaweed supplements since (1) as outlined above, various components of seaweed in addition to fucoidan or iodine may be responsible for seaweed's apparent anti-carcinogenic effects; (2) the compounds, minerals and fiber found in seaweed may act synergistically to reduce cancer risk; (3) safe and effective levels of fucoidan have not been established; (4) supplementation may result in increased blood thinning, depending on the formulation."
+  tfidf_val: 3595.6214855231506
+  'doc#': 335
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fucoidan and Cancer A Multifunctional Molecule with Anti-Tumor Potential.md
+- sentence: Most seaweed is dried after being harvested and must be rehydrated before use.
+  tfidf_val: 130.96575791565613
+  'doc#': 115
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioprospecting of brown seaweed Ochrophyta from the Yucatan Peninsula cytotoxic antiproliferative and antiprotozoal acti.md
+- sentence: Nori is a common seaweed ingredient in sushi.
+  tfidf_val: 113.08466347412872
+  'doc#': 115
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioprospecting of brown seaweed Ochrophyta from the Yucatan Peninsula cytotoxic antiproliferative and antiprotozoal acti.md
+- sentence: 'Currently, in the U.S., seaweeds are used mainly as a source of gums, gelling compounds and thickeners (such as agar) for use in foods such as ice cream, and some industrial applications.'
+  tfidf_val: 351.50514421286186
+  'doc#': 541
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Seaweeds-Derived Bioactive Materials for the Prevention and Treatment of Females Cancer.md
+- sentence: Seaweed readily incorporates minerals from the surrounding water; minerals can account for more than one-third of seaweed dry matter.
+  tfidf_val: 232.8580058306959
+  'doc#': 115
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioprospecting of brown seaweed Ochrophyta from the Yucatan Peninsula cytotoxic antiproliferative and antiprotozoal acti.md
+- sentence: 'While this can make various seaweeds a rich source of beneficial micronutrients, it can also make them a dietary source of heavy metals, including arsenic.'
+  tfidf_val: 477.07378768030657
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: One analysis of dried seaweed samples purchased in London and over the Internet found that some contained unacceptable levels of arsenic.
+  tfidf_val: 279.48083842357363
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: 'On the other hand, one study found that wakame is effective in preventing the absorption and reabsorption of dioxin from the gastrointestinal tract and therefore might be useful in treatment of humans exposed to dioxin.'
+  tfidf_val: 309.9811159003185
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: 'Several types of freshwater microalgae, including spirulina and other types of blue-green algae, have been marketed as supplements in the U.S. since the early 1980s.'
+  tfidf_val: 480.4222956852403
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Blue-green algae contain the omega-3 fatty acid alpha-linolenic acid, which has been shown to have chemopreventive activities.'
+  tfidf_val: 800.597967190562
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: 'However, such freshwater algae can also contain concentrated amounts of heavy metals, as well as toxic microcystins, depending on where it is grown.'
+  tfidf_val: 320.9126058638435
+  'doc#': 119
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Accumulation by Plants of Brassicaceae Family and Its Connection with Their Primary and Secondary Metabolism.md
+- sentence: 'Whether or not they contain heavy metals, many microalgaes are not edible.'
+  tfidf_val: 307.47505429124453
+  'doc#': 119
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Accumulation by Plants of Brassicaceae Family and Its Connection with Their Primary and Secondary Metabolism.md
+- sentence: 'In fact, they may be harmful if consumed, and there have been instances of microalgae supplements sold that turned out to be toxic.'
+  tfidf_val: 221.18331957224422
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Therefore, consumers of such supplements should assure themselves of the reputability of the manufacturer.'
+  tfidf_val: 170.77704639221872
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Since seaweeds have varying amounts of iodine and other nutrients, it can be difficult to know how much is in any given supplement.'
+  tfidf_val: 314.70515850528375
+  'doc#': 541
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Seaweeds-Derived Bioactive Materials for the Prevention and Treatment of Females Cancer.md
+- sentence: People with thyroid disorders may find that their conditions are made worse by eating kelp or taking seaweed supplements.
+  tfidf_val: 224.80110648747427
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Some seaweed also contains large amounts of sodium, which can worsen high blood pressure for those susceptible.'
+  tfidf_val: 164.8731915916867
+  'doc#': 393
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Isolation of a hemagglutinin with potent antiproliferative activity and a large antifungal defensin from Hokkaido large .md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on seaweed._'
+  tfidf_val: 256.36293407787105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

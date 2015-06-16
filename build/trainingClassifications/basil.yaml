@@ -1,0 +1,72 @@
+- sentence: 'Basil contains numerous volatile compounds and other substances that have powerful antioxidant, anti-inflammatory, antimicrobial, and antifungal properties.'
+  tfidf_val: 563.9994026653958
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: Basil may help alleviate type 2 diabetes by improving insulin activity in the body.
+  tfidf_val: 213.14250401869668
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Carnosol, a component of basil, has been shown to inhibit carcinogenesis of human prostate cancer cells.'
+  tfidf_val: 774.1754059252303
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'While the evidence is mixed as to whether basil can retard liver tumor formation in experimental mice, it has been shown to inhibit liver cancer metastasis.'
+  tfidf_val: 767.8216442620853
+  'doc#': 233
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary selenium supplementation modifies breast tumor growth and metastasis.md
+- sentence: Basil leaf extract has been found to be highly effective in inhibiting carcinogen-induced lung tumor incidence in experimental mice.
+  tfidf_val: 472.9080632701065
+  'doc#': 233
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary selenium supplementation modifies breast tumor growth and metastasis.md
+- sentence: Basil oil and its components have been shown to have significant anti-proliferative activity in the mouse leukemia and kidney cells.
+  tfidf_val: 596.7782457751601
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'In addition, basil oil has been found to significantly inhibit carcinogen-induced squamous cell carcinoma in the stomachs of experimental mice.'
+  tfidf_val: 535.2496063808524
+  'doc#': 540
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Schizophyllan inhibits the development of mammary and hepatic carcinomas induced by 712 dimethylbenzanthracene and decre.md
+- sentence: Basil extract has been shown to induce apoptosis (programmed cell death) in both hormone receptor positive (ER+/PR+) and triple negative (ER-/PR-/HER2-) breast cancer cells.
+  tfidf_val: 1628.0878805534655
+  'doc#': 102
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Dietary Supplements Reactivate ER Expression in ER-Negative Breast Cancer Cells by Active Chromatin Modificati.md
+- sentence: 'Linalool, a component of basil, has been found to increase Adriamycin (doxorubicin) induced cytotoxicity and pro-apoptotic effects in chemotherapy-resistant breast cancer cell lines.'
+  tfidf_val: 744.7441479247354
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'While they are closely related, basil (Ocimum basilicum), otherwise known as sweet basil, is not exactly the same plant as holy basil (Ocimum sanctum).'
+  tfidf_val: 336.83581677780484
+  'doc#': 169
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of sweet foods and mammographic breast density a cross-sectional study.md
+- sentence: 'Fresh or dried basil typically is used as a food ingredient, whereas holy basil normally is consumed as a herb in the U.S.'
+  tfidf_val: 204.42438580967982
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: 'When basil is used as a food ingredient, it is safe, but an essential oil from basil might cause cancer in extremely large quantities since it contains estragole.'
+  tfidf_val: 642.3048079337904
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Estragole is an organic compound that acts as a rodent carcinogen in large doses.
+  tfidf_val: 239.0694569803376
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: The percentage content of estragole in basil oil can be significant.
+  tfidf_val: 302.94167455428726
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: 'Pesto sauce, which has basil as the primary ingredient, can also have a significant estragole component.'
+  tfidf_val: 107.6025645705073
+  'doc#': 228
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary patterns and breast cancer a case-control study in women.md
+- sentence: 'Therefore, we recommend against consuming all but small amounts of basil essential oil or pesto.'
+  tfidf_val: 232.83164423408107
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on basil._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

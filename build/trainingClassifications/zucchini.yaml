@@ -1,0 +1,48 @@
+- sentence: 'Zucchini (Cucurbita pepo Zucchini) or courgette, is a variety of summer squash.'
+  tfidf_val: 218.92157587807702
+  'doc#': 431
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Multivariate Analysis of Water Quality and Plankton Assemblages in an Urban Estuary.md
+- sentence: 'This category also includes yellow crookneck, pattypan, scallop and yellow summer squash.'
+  tfidf_val: 217.4975960977502
+  'doc#': 431
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Multivariate Analysis of Water Quality and Plankton Assemblages in an Urban Estuary.md
+- sentence: 'Yellow-fleshed winter squash such as acorn, butternut, or spaghetti squash are covered under pumpkins.'
+  tfidf_val: 75.59069641920618
+  'doc#': 66
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antioxidant and Antiproliferative Activities of Twenty-Four Vitis vinifera Grapes.md
+- sentence: 'Zucchini is a good source of vitamin C, vitamin A (through its beta-carotene content), vitamin B6, manganese and magnesium, and also contains vitamin K, folate, potassium, phosphorus and some copper.'
+  tfidf_val: 1421.3619677793265
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: 'Zucchini also is a good dietary source of the lignan secoisolariciresinol (a precursor of enterolactone), cucurbitacin E, and carotenoids such as lutein and zeaxanthin (in addition to beta-carotene).'
+  tfidf_val: 692.8285887260488
+  'doc#': 588
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Effectiveness of Cucurbitacin B in BRCA1 Defective Breast Cancer Cells.md
+- sentence: Zucchini consumption has been found to be associated lower risk of gastric cancer.
+  tfidf_val: 758.8752543443698
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Numerous studies have found an inverse association between breast cancer risk and high dietary levels of carotenoids such as beta-carotene, lutein and zeaxanthin.'
+  tfidf_val: 1517.441113711807
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Some, but not all, population studies have found that consumption of the lignan secoisolariciresinol is associated with lower risk of breast cancer.'
+  tfidf_val: 1129.618531924259
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'A Korean case-control study comparing the diets of breast cancer patients with a healthy control group found that the breast cancer patients consumed a significantly lower quantity of zucchini, among other foods, than the controls.'
+  tfidf_val: 1553.8557099270595
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Boiling or frying zucchini significantly reduces its antioxidant capacity.
+  tfidf_val: 243.14621976344694
+  'doc#': 282
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of traditional chinese cooking methods on formation of heterocyclic aromatic amines in lamb patties.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on zucchini._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

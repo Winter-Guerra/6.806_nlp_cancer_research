@@ -1,0 +1,84 @@
+- sentence: 'Tofu (bean curd, soybean curd) is produced by coagulating soy milk and forming the curds into blocks.'
+  tfidf_val: 593.8595796760795
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'Soy milk is made by soaking dried soybeans and then grinding, boiling and straining them.'
+  tfidf_val: 601.2240861284964
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'Various coagulants are used, typically salts (calcium sulfate, calcium chloride, or magnesium chloride).'
+  tfidf_val: 426.6624454189206
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: A significant percentage of the original soybean isoflavones are lost in the production of tofu; using calcium sulfate as the coagulant has been found to maximize the retention of isoflavones.
+  tfidf_val: 558.9838621200782
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'Tofu is a source of dietary protein, iron, choline, and the phytoestrogens genistein, genistin, daidzein, and daidzin.'
+  tfidf_val: 444.75685811685616
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Tofu may also be high in calcium or magnesium depending on the coagulant used.
+  tfidf_val: 241.07869722428177
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: The firmness of tofu depends on its moisture content.
+  tfidf_val: 301.0852568637852
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: Tofu can also be fermented (pickled tofu) or flavored.
+  tfidf_val: 88.18205122338537
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: 'Consumption of tofu has been found to be associated with lower risks of gastric, colorectal and prostate cancer.'
+  tfidf_val: 622.44777526162
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Our conclusion that eating tofu could be beneficial is based on the available epidemiological evidence concerning tofu consumption and breast cancer incidence.
+  tfidf_val: 682.9550379635909
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Separate web pages cover soybean paste, soybean oil, soy protein isolate and soybeans.'
+  tfidf_val: 778.3664347165704
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: We attempt to untangle the conflicting findings concerning soybeans and their component phytoestrogens and breast cancer in the genistein and daidzein web page.
+  tfidf_val: 630.6228201520778
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Population studies have found that high tofu intake is associated with lower risk of breast cancer, especially for pre-menopausal women.'
+  tfidf_val: 1481.1364702565536
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Childhood consumption of tofu appears to enhance the protective effect of tofu in premenopausal women.
+  tfidf_val: 503.4718611732317
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md
+- sentence: 'Most of the studies concerning tofu consumption and risk of breast cancer have been conducted among Asian or Asian-American women, raising the possibility that tofu consumption is a marker for other protective aspects of Asian diets or lifestyles.'
+  tfidf_val: 1219.032235797902
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md
+- sentence: 'However, one North American study not focused on soyfoods or Asian cases found tofu consumption to be associated with lower risk of premenopausal bilateral breast cancer.'
+  tfidf_val: 1215.716776785585
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Tofu should be avoided during radiation treatment because genistein has been shown to protect cells against cell death caused by radiation damage, raising the possibility that consuming tofu will lessen the cytotoxic impact of radiation on breast cancer cells.'
+  tfidf_val: 1494.0101203730069
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: 'Tofu consumption has been found to be associated with lower serum levels of dioxin-like compounds in elderly Taiwanese (who accumulated the dioxins through fish intake), suggesting a protective mechanism of action.'
+  tfidf_val: 1176.5971344665954
+  'doc#': 532
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Risks and Benefits of Consumption of Great Lakes Fish.md
+- sentence: There has also been some controversial research suggesting that long-term tofu consumption is associated with impaired cognitive function in older men.
+  tfidf_val: 290.22579458638955
+  'doc#': 80
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Applying the Precautionary Principle to Nutrition and Cancer.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on tofu._'
+  tfidf_val: 255.62203253464062
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

@@ -1,0 +1,164 @@
+- sentence: 'Like black tea, green tea is made by adding hot water to the cured leaves of the Camellia sinensis plant.'
+  tfidf_val: 1119.6869140749009
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Green tea leaves are unoxidized, whereas black tea leaves have been allowed to oxidize.'
+  tfidf_val: 1111.4833802891976
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: White tea is made from uncured and unoxidized tea leaves of the same plant.
+  tfidf_val: 855.2140695180991
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: "Black tea and herbal teas such as yerba maté and chamomile, mint, sage, and Essiac\x99 tea are covered in other web pages."
+  tfidf_val: 1013.9058564935915
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Green tea has been shown to have antioxidant, anti-inflammatory, and antihypertensive properties and may reduce the risk of stroke.'
+  tfidf_val: 705.0923317447213
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Green tea may improve glucose metabolism and has been shown to support weight loss by suppressing hunger, increasing satiety, and increasing energy expenditure and fat oxidation.'
+  tfidf_val: 821.9790453685836
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: Green tea consumption has been found to be associated with increased bone mineral density and may help prevent osteoporotic fractures in older women.
+  tfidf_val: 743.5550809200827
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Increased consumption of green tea may reduce the risk of liver disease, although it appears not to reduce the risk of liver cancer.'
+  tfidf_val: 1225.4827404630175
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Consumption of tea has been found to be associated with reduced risks of melanoma and adult leukemia, as well as gastric, ovarian, endometrial, colorectal, and prostate cancer.'
+  tfidf_val: 815.3179136959125
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Green tea contains catechins and other polyphenols that are thought to be responsible for its anti-cancer properties.
+  tfidf_val: 808.376067651496
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Important green tea polyphenols include epigallocatechin-3-gallate (EGCG), epicatechin, epigallocatechin, and epicatechin-3-gallate.'
+  tfidf_val: 791.8770939847138
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: EGCG has been shown to inhibit tumor growth and angiogenesis of estrogen receptor positive (ER+) breast cancer in mice without affecting normal tissue growth.
+  tfidf_val: 1164.5190843848225
+  'doc#': 491
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Potentiation of growth inhibition and epigenetic modulation by combination of green tea polyphenol and 5-aza-2-deoxycyti.md
+- sentence: 'EGCG also has been found to inhibit growth and induce apoptosis of HER2/neu overexpressing (HER2+) breast cancer cells, including those resistant to Herceptin.'
+  tfidf_val: 1264.7355225142212
+  'doc#': 491
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Potentiation of growth inhibition and epigenetic modulation by combination of green tea polyphenol and 5-aza-2-deoxycyti.md
+- sentence: Green tea polyphenols have been found to inhibit the transformation of normal breast cells into breast cancer cells in a laboratory model of carcinogenesis induced by long-term exposure to low levels of environmental carcinogens.
+  tfidf_val: 1250.6373470566396
+  'doc#': 142
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chronic Exposure to Combined Carcinogens Enhances Breast Cell Carcinogenesis with Mesenchymal and Stem-Like Cell Propert.md
+- sentence: 'In addition, EGCG has been shown to reduce the growth and induce apoptosis of the stem-like inflammatory breast cancer (IBC) cells.'
+  tfidf_val: 1263.7773271549097
+  'doc#': 491
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Potentiation of growth inhibition and epigenetic modulation by combination of green tea polyphenol and 5-aza-2-deoxycyti.md
+- sentence: 'EGCG has been shown to synergistically enhance the growth inhibition of ER+ cells by tamoxifen and Taxol (paclitaxel), thereby increasing the effectiveness of such therapy.'
+  tfidf_val: 1154.2329598259123
+  'doc#': 491
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Potentiation of growth inhibition and epigenetic modulation by combination of green tea polyphenol and 5-aza-2-deoxycyti.md
+- sentence: 'In addition, green tea extract has been found to protect against tamoxifen-induced liver injury in rats.'
+  tfidf_val: 1030.5935224609384
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: Green tea intake has been found to enhance the inhibitory effects of Adriamycin (doxorubicin) in Ehrlich ascites carcinoma tumor-bearing mice and in ovarian cancer cells.
+  tfidf_val: 863.9707935424054
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Green tea polyphenols have been shown to have potentiating effect on cisplatin chemotherapy in a mouse cervical cancer model (cisplatin is sometimes used to treat triple negative (ER-/PR-/HER2-) breast cancer).
+  tfidf_val: 1225.730504130395
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: The kaempferol content of green tea might help protect against Adriamycin-induced heart damage.
+  tfidf_val: 735.372734946727
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'However, green tea might reduce the effectiveness of Adriamycin and other anthracycline chemotherapy due to its caffeine content.'
+  tfidf_val: 732.5992460706155
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: Numerous population studies have found that heavy green tea consumption is associated with lower risk of breast cancer.
+  tfidf_val: 1102.3783076333539
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: There is also some evidence that green tea consumption might help prevent recurrence in early stage (stages I and II) breast cancers.
+  tfidf_val: 696.251563080853
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: Green tea consumption has been found to further reduce the risk of breast cancer in combination with high dietary intake of mushrooms.
+  tfidf_val: 1571.3281178918119
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'In other words, there appears to be a synergistic effect between green tea and mushroom consumption in reducing breast cancer risk.'
+  tfidf_val: 916.7676170225764
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Drinking very hot green tea (or very hot tea of any type) should be avoided.
+  tfidf_val: 1068.514772564582
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: Rates of esophageal cancer are high in areas of the world where tea normally is consumed at high temperatures.
+  tfidf_val: 501.76743147782145
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'In one study, the risk of esophageal cancer was found to be eight times higher for those who regularly drank very hot tea compared to those who drank warm or lukewarm tea.'
+  tfidf_val: 938.9992531352074
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Note that it is the hot temperature that contributes to esophageal cancer, not the compounds found in green tea.'
+  tfidf_val: 704.2726510811171
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'In fact, one large Chinese population study found that relatively high urinary levels of green tea polyphenols were associated with lower risk of esophageal squamous cell cancer.'
+  tfidf_val: 1144.5642997804093
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Green tea should be prepared with hot, but not boiling, water to maximize its polyphenol content.'
+  tfidf_val: 741.9644062843348
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: Green and black tea consumption decreases the bioavailability of folic acid in the diet by reducing the level of intestinal absorption and interfering with the folate pathway.
+  tfidf_val: 738.1728939823353
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: This folate cycle inhibition is thought by some researchers to be one mechanism by which green tea protects against breast cancer.
+  tfidf_val: 677.0534047177614
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Similarly, tea inhibits iron absorption and high levels of iron in benign breast tissue has been found to be associated with increased risk of subsequent breast cancer.'
+  tfidf_val: 1394.1938158240596
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'For those who require additional folate or iron, however, vitamin pills or other supplements containing folate or iron should not be taken with tea.'
+  tfidf_val: 665.3796505234044
+  'doc#': 592
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Potato in the Human Diet a Complex Matrix with Potential Health Benefits.md
+- sentence: Prepared green or black tea contains less than half the caffeine of the same amount of drip coffee.
+  tfidf_val: 963.0414866783357
+  'doc#': 499
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Prospective study of breast cancer in relation to coffee tea and caffeine in Sweden.md
+- sentence: 'However, high caffeine intake may increase the risk of benign breast disease, particularly atypical hyperplasia, which is associated with increased breast cancer risk.'
+  tfidf_val: 1940.2695254307182
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Those sensitive to caffeine or with benign fibrocystic breast disease should take steps to limit their caffeine intake when preparing green tea (e.g., by using loose green tea leaves instead of tea bags and discarding the first infusion).'
+  tfidf_val: 1803.5930203175583
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: Green tea supplements and herbal mixtures containing green tea in concentrated form have been shown to cause liver damage in some consumers and should be avoided.
+  tfidf_val: 1989.4863130455678
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on green tea._'
+  tfidf_val: 667.0043490908072
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md

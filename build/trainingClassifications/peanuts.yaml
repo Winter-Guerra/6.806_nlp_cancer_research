@@ -1,0 +1,88 @@
+- sentence: Peanuts contain resveratrol and are an excellent source of monounsaturated fat.
+  tfidf_val: 376.5409470017021
+  'doc#': 501
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Proteomic Profiling Reveals That Resveratrol Inhibits HSP27 Expression and Sensitizes Breast Cancer Cells to Doxorubicin Therapy.md
+- sentence: 'Consumption of peanuts is associated with lower levels of inflammatory markers, which may account for the inverse relationship between nut consumption and risk of cardiovascular disease and type 2 diabetes.'
+  tfidf_val: 627.6471969427985
+  'doc#': 152
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee prevents early events in tamoxifen-treated breast cancer patients and modulates hormone receptor status.md
+- sentence: Peanuts have also been shown to promote weight management when consumed as part of a moderate fat diet because of its satiating effect.
+  tfidf_val: 415.15241982809727
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Frequent peanut consumption is associated with a reduced risk of gallstone disease in men.
+  tfidf_val: 450.340317067944
+  'doc#': 80
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Applying the Precautionary Principle to Nutrition and Cancer.md
+- sentence: Peanut extracts have been shown to suppress the proliferation of human prostate cancer cells.
+  tfidf_val: 722.1412190928143
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Peanuts contain peanut agglutinin (PNA), a protein that binds to a sugar expressed by most human cancers.'
+  tfidf_val: 288.0050283599718
+  'doc#': 169
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of sweet foods and mammographic breast density a cross-sectional study.md
+- sentence: A 2014 study demonstrated that PNA at blood concentrations found after peanut consumption promotes the progression of two important steps in metastasis.
+  tfidf_val: 382.6535465369319
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Peanut consumption was also found to increase metastasis in a mouse model of breast cancer.
+  tfidf_val: 665.1019295467821
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: A 2015 study reported that PNA had the potential to promote breast cancer metastasis through increased vascular invasion and lymph node involvement.
+  tfidf_val: 798.8244245052222
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Note that peanut oil also contains a trace amount of PNA.
+  tfidf_val: 253.17010342747443
+  'doc#': 519
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Relevance of Gal-GalNAc-containing glycans and the enzymes involved in their synthesis for invasion and survival in brea.md
+- sentence: 'Peanuts typically are infected to some extent with molds which produce aflatoxins, which are mutagenic, carcinogenic and teratogenic and cause immuno-suppression in humans.'
+  tfidf_val: 146.81529049010229
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: 'Aflatoxin B1 has been shown to cause liver cancer, especially in hepatitis B-positive individuals.'
+  tfidf_val: 451.4184247895942
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Peanuts have been shown in several studies to stimulate proliferation of colon cancer cells.
+  tfidf_val: 634.8657170302416
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: However one large Taiwanese study found that peanut consumption was associated with lower colorectal cancer risk.
+  tfidf_val: 973.2537467526008
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Breathing the fumes of peanut oil used in frying has been shown to increase the risk of lung cancer.
+  tfidf_val: 763.2905890032107
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Breast cancer patients have been shown to be at higher risk for other cancers and should avoid known mutagens.
+  tfidf_val: 912.7929261368282
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'In addition, it is possible to get the potential health benefits of peanuts by consuming other nuts and foods.'
+  tfidf_val: 242.79106615457107
+  'doc#': 625
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Vegetable protein and vegetable fat intakes in pre-adolescent and adolescent girls and risk for benign breast disease in young women.md
+- sentence: 'Although the United States is a net exporter of peanuts, the U.S. imports some peanuts, mainly from Argentina, China and Mexico.'
+  tfidf_val: 75.23755407443177
+  'doc#': 190
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dairy cattle serum and milk factors contributing to the risk of colon and breast cancers.md
+- sentence: Peanut oil typically contains a small fraction of the aflatoxins contained in peanuts and peanut butter.
+  tfidf_val: 446.91913801993394
+  'doc#': 625
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Vegetable protein and vegetable fat intakes in pre-adolescent and adolescent girls and risk for benign breast disease in young women.md
+- sentence: 'Almond butter, found in health food stores and some supermarkets, can often be an acceptable substitute for peanut butter.'
+  tfidf_val: 442.3516140777938
+  'doc#': 625
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Vegetable protein and vegetable fat intakes in pre-adolescent and adolescent girls and risk for benign breast disease in young women.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on peanut._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

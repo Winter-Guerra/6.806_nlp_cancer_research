@@ -1,0 +1,112 @@
+- sentence: 'Saffron (Crocus sativus) contains bioactive compounds that are responsible for its color, flavor and aroma.'
+  tfidf_val: 263.6758617795617
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: "Saffron contains numerous phytoactive components, including crocetin, various crocins (such as picrocrocin), kaempferol, beta-carotene, lycopene, zeaxanthin, and safranal (the main component of saffron's fragrant essential oil)."
+  tfidf_val: 738.0888046662728
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md
+- sentence: 'Saffron components have been shown to have strong antioxidant, anti-inflammatory, radioprotective, anti-carcinogenic and anti-tumor properties, as well as reducing blood pressure, anxiety and depression.'
+  tfidf_val: 718.6103438098453
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: 'Both saffron and crocin have been found to suppress DNA damage in a dose dependent manner in the livers, lungs, kidneys, and spleens of laboratory mice.'
+  tfidf_val: 464.8310128786562
+  'doc#': 233
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary selenium supplementation modifies breast tumor growth and metastasis.md
+- sentence: Saffron has been shown to inhibit carcinogen-induced skin carcinoma in mice and to have cytotoxic action against human leukemia cell lines.
+  tfidf_val: 679.9687224768712
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Saffron also has been shown to cause cell death in HeLa and HepG2 liver cancer cells and TCC 5637 transitional cell carcinoma cells.
+  tfidf_val: 1273.1508732124885
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: 'Saffron extract and its constituent, crocin, have been shown to significantly inhibit the growth of colorectal cancer cells while not harming normal cells.'
+  tfidf_val: 971.4555160158255
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Crocetin, a major carotenoid component of saffron, has been shown to have significant antiproliferative and proapoptic effects in pancreatic cancer cells in the laboratory and in laboratory mice.'
+  tfidf_val: 681.3715908105834
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Saffron has been shown to have dose-dependent inhibitory effects on the proliferation of hormone receptor positive (ER+/PR+) and triple negative (ER-/PR-/HER2-) breast cancer cells.
+  tfidf_val: 1604.1247558871335
+  'doc#': 102
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Dietary Supplements Reactivate ER Expression in ER-Negative Breast Cancer Cells by Active Chromatin Modificati.md
+- sentence: Saffron has also been shown to reduce angiogenesis (new blood vessel formation) in ER+/PR+ breast cancer cells.
+  tfidf_val: 932.4831954623853
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: 'Saffron has been found to greatly inhibit cellular DNA damage, including Adriamycin-induced heart damage.'
+  tfidf_val: 532.9829948804369
+  'doc#': 410
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Low concentrations of isothiocyanates protect mesenchymal stem cells from oxidative injuries while high concentrations e.md
+- sentence: 'However, we do not recommend it during Adriamycin-based chemotherapy since it might also protect cancer cells from the treatment.'
+  tfidf_val: 748.6987180805038
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: One study reported that concurrent use of cyclophosphamide and saffron extract reduced toxic effect of cyclophosphamide and caused estrogen to be produced.
+  tfidf_val: 623.0995689115027
+  'doc#': 390
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Investigating effects of hydroalcoholic extract of saffron on sex hormones in female rats undergoing chemotherapy with c.md
+- sentence: Another study reported that pre-treatment with saffron significantly inhibited cellular DNA damage caused by cisplatin.
+  tfidf_val: 513.5270415446994
+  'doc#': 182
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Curcumin as a cancer chemotherapy sensitizing agent.md
+- sentence: 'On the other hand, extracts of saffron have been shown to considerably increase the cytotoxicity in breast cancer cells induced by Taxol (paclitaxel).'
+  tfidf_val: 881.7742000182134
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: 'Based on the available evidence, saffron should be limited or avoided during chemotherapy.'
+  tfidf_val: 238.85591566668845
+  'doc#': 340
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Ginger Zingiber officinale reduces acute chemotherapy-induced nausea a URCC CCOP study of 576 patients.md
+- sentence: "Saffron's radioprotective properties indicate that it should not be used during radiation treatment."
+  tfidf_val: 338.7758606249505
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: There is some evidence that saffron could be toxic at very high doses and we recommend consuming saffron as a spice and not taking saffron tablets.
+  tfidf_val: 474.00761031991516
+  'doc#': 390
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Investigating effects of hydroalcoholic extract of saffron on sex hormones in female rats undergoing chemotherapy with c.md
+- sentence: 'Saffron is hand picked and hand processed, which is one reason for its high market price.'
+  tfidf_val: 179.31399054659886
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: 'Saffron is grown primarily in Iran, but it is also grown in Spain, Portugal, Italy, Kashmir and some parts of North Africa.'
+  tfidf_val: 148.7083009456092
+  'doc#': 390
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Investigating effects of hydroalcoholic extract of saffron on sex hormones in female rats undergoing chemotherapy with c.md
+- sentence: Much of the Iranian production is redistributed through Spain.
+  tfidf_val: 107.23571848619925
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: Saffron grown in these regions generally is grown without using pesticides.
+  tfidf_val: 174.96751600111412
+  'doc#': 117
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Brassinosteroids Promote Metabolism of Pesticides in Cucumber.md
+- sentence: China is also beginning to produce saffron.
+  tfidf_val: 148.7083009456092
+  'doc#': 390
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Investigating effects of hydroalcoholic extract of saffron on sex hormones in female rats undergoing chemotherapy with c.md
+- sentence: 'Meadow saffron (Colchicum autumnale), also known as wild saffron, Autumn crocus, or colchicum, is an unrelated and poisonous plant that should not be confused with saffron and is to be avoided.'
+  tfidf_val: 450.6573797081256
+  'doc#': 390
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Investigating effects of hydroalcoholic extract of saffron on sex hormones in female rats undergoing chemotherapy with c.md
+- sentence: 'It can cause thirst, pain, diarrhea, weakness, vomiting, kidney failure, coma, and death from respiratory failure.'
+  tfidf_val: 161.67879373451734
+  'doc#': 474
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Piperlongumine induces cell death through ROS-mediated CHOP activation and potentiates TRAIL-induced cell death in breas.md
+- sentence: Diluted fractions of meadow saffron are sometimes used in herbal remedies for gout and arthritis.
+  tfidf_val: 280.2193543024118
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on saffron._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

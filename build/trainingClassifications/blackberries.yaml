@@ -1,0 +1,48 @@
+- sentence: 'The evidence that blackberries could be beneficial in fighting breast cancer is derived in part from studies of other berries, as well as of blackberries in particular.'
+  tfidf_val: 694.9450311955909
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Blackberries contain cyandin-3-glucoside, lignans, ellagic acid, the flavonoid myricetin and other potentially beneficial substances.'
+  tfidf_val: 507.4960391804535
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: Cyandin-3-glucoside has been shown to possess both chemo preventive and chemotherapeutic activity.
+  tfidf_val: 241.29723449661168
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Postmenopausal women with breast cancer and a high intake of plant lignans have been found to be less likely to die from their breast cancer than those with a low intake.
+  tfidf_val: 1995.4452325684358
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Ellagic acid has been shown to inhibit cancer formation.
+  tfidf_val: 446.07016407699496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Myricetin has antioxidant properties.
+  tfidf_val: 217.14587537444262
+  'doc#': 464
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytochemical characterization and antioxidant properties of baby-leaf watercress produced under organic production syst.md
+- sentence: The combination of chemicals in blackberries may more effectively prevent cancer than any one of the component chemicals alone.
+  tfidf_val: 444.3714126666059
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Blackberries contain relatively high levels of phytoestrogens (in the form of lignans such as enterolactane) compared to other berries.
+  tfidf_val: 402.2702033914527
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: Marionberries are a type of blackberry (a cultivar cross between Chehalem blackberries and Olallie blackberries).
+  tfidf_val: 277.79605406715507
+  'doc#': 37
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anthocyanin-Rich Blackberry Extract Suppresses the DNA-Damaging Properties of Topoisomerase I and II Poisons in Colon Ca.md
+- sentence: Loganberries are a hybrid cross between between a blackberry and a raspberry.
+  tfidf_val: 271.4818633514507
+  'doc#': 37
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anthocyanin-Rich Blackberry Extract Suppresses the DNA-Damaging Properties of Topoisomerase I and II Poisons in Colon Ca.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on blackberry._'
+  tfidf_val: 286.6390148640134
+  'doc#': 37
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anthocyanin-Rich Blackberry Extract Suppresses the DNA-Damaging Properties of Topoisomerase I and II Poisons in Colon Ca.md

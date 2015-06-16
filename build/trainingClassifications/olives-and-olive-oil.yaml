@@ -1,0 +1,152 @@
+- sentence: 'Olive oil is a mostly unsaturated oil consisting primarily of oleic acid (an omega-9 monounsaturated fatty acid), linoleic acid (an omega-6 fatty acid), palmitic acid, and stearic acid.'
+  tfidf_val: 2114.979415188313
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: 'In addition, olive oil is a major source phytochemicals and also contains some melatonin.'
+  tfidf_val: 736.315986501573
+  'doc#': 260
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effect of Melatonin on Tumor Growth and Angiogenesis in Xenograft Model of Breast Cancer.md
+- sentence: 'Olive oil has been shown to reduce oxidative DNA damage and improve coronary heart disease by reducing blood pressure, low-density lipoprotein (LDL) cholesterol, and inflammation.'
+  tfidf_val: 575.7923037999881
+  'doc#': 103
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Properties of the Main Triterpenes Found in Olives Virgin Olive Oil and Leaves of Olea europaea.md
+- sentence: 'Olive oil consumption was shown to be significantly related to less cognitive decline in one study of 8,028 French subjects aged 65 years and over, and has been shown to reduce pain and disability in those with arthritis.'
+  tfidf_val: 441.9542473996171
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'Olive extract has been shown to inhibit proliferation and induce cell death of gastric cancer, lung cancer, and leukemia cells.'
+  tfidf_val: 993.2293886429338
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Olive oil consumption also has been associated with lower risks of colon and ovarian cancer.
+  tfidf_val: 590.3749989570367
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Oleic acid does not appear to account for its anti-cancer effects and in fact might promote breast cancer.
+  tfidf_val: 1102.9232000663676
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'While oleic acid has anti-inflammatory properties, it has also been shown to induce migration and proliferation of both hormone receptor positive (ER+/PR+) and triple negative breast cancer cells.'
+  tfidf_val: 1188.5042259117968
+  'doc#': 102
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Dietary Supplements Reactivate ER Expression in ER-Negative Breast Cancer Cells by Active Chromatin Modificati.md
+- sentence: These findings imply that the protective effect of olive oil are due to other components of the oil and not the direct effect of oleic acid.
+  tfidf_val: 671.9674716660057
+  'doc#': 103
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Properties of the Main Triterpenes Found in Olives Virgin Olive Oil and Leaves of Olea europaea.md
+- sentence: The findings also argue against using highly refined olive oil.
+  tfidf_val: 335.12469269126507
+  'doc#': 103
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Properties of the Main Triterpenes Found in Olives Virgin Olive Oil and Leaves of Olea europaea.md
+- sentence: 'Extra-virgin olive oil contains at least 30 phenolic compounds, a diverse group of aromatic compounds.'
+  tfidf_val: 681.5695489597833
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'Included are some familiar flavonoids (apigenin, luteolin) and phenolic acids (caffeic acid, p-coumaric acid, vanillic acid, ferulic acid).'
+  tfidf_val: 1432.880718358813
+  'doc#': 458
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic Acid Composition Antiatherogenic and Anticancer Potential of Honeys Derived from Various Regions in Greece.md
+- sentence: 'However, the most important phenolic compounds include the less familiar oleuropein, oleocanthal, hydroxytyrosol, and tyrosol.'
+  tfidf_val: 1235.0917256016317
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: The phenolic compounds present in olive oil are strong antioxidants and free radical scavengers and have been shown to have anti-cancer effects in breast cancer cells.
+  tfidf_val: 990.6671672451502
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'This again highlights the importance of using extra-virgin olive oil (from the first pressing) rather than later pressings or more processed and refined olive oil, which tend to have less or very little phenolic content.'
+  tfidf_val: 767.1994341692345
+  'doc#': 103
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Properties of the Main Triterpenes Found in Olives Virgin Olive Oil and Leaves of Olea europaea.md
+- sentence: A number of studies have found that olive oil consumption (and monounsaturated oil consumption generally) is associated with a lower risk of breast cancer.
+  tfidf_val: 1185.4739558953202
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'For example, a prospective Swedish study found a lower risk of breast cancer for women after 50 with a high intake of monounsaturated fat compared to consumption of other types of fat.'
+  tfidf_val: 2227.3116967402457
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: A study of women in the Canary Islands found a lower risk of breast cancer for women in the highest quintile of monounsaturated fat consumption and even lower for those consuming mostly olive oil.
+  tfidf_val: 1715.9198906773454
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Italian and Greek studies have also found that olive oil consumption is associated with a lower risk of breast cancer.
+  tfidf_val: 1121.8529345898878
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: A 2011 meta-analysis of data from 19 previous case-control studies found that the highest level of olive oil consumption was associated with approximately half the risk of developing breast cancer compared with the lowest intake level of intake.
+  tfidf_val: 1970.692132063433
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'On the other hand, a large 2012 prospective study among women in Spain, Italy and Greece reported that women in the highest third of olive oil consumption had essentially the same risk of breast cancer as those in the lowest third.'
+  tfidf_val: 1647.9290943187366
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Numerous studies have found that extra virgin olive oil inhibits proliferation of and induces apoptosis of HER2/neu overexpressing (HER2+) breast cancer cells.
+  tfidf_val: 768.9170573231211
+  'doc#': 163
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Computational analyses of curcuminoid analogs against kinase domain of HER2.md
+- sentence: These effects appear to be due to olive lignans and secoiridoids rather than olive phenols and phenolic acids.
+  tfidf_val: 477.0556653698954
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'In fact, some observers have concluded that the protective effect of olive oil against breast cancer is mostly confined to the HER2+ breast cancer subtype, with no significant influence on the occurrence of HER2- disease.'
+  tfidf_val: 1336.2306134124522
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Consumption of olive oil reduces the aggressiveness of mammary tumors in animal models of breast cancer.
+  tfidf_val: 693.4994885504971
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: "One study compared induced tumors in rats that were fed high-fat diets \x97 either olive oil or corn oil."
+  tfidf_val: 714.6260508470505
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'The high corn oil diet clearly stimulated cancer development, resulting in the earliest appearance of tumors and the highest tumor incidence and yield, whereas the high extra-virgin olive oil diet appeared to have only a weak enhancing effect, primarily by increasing tumor yield compared to control animals fed a low-fat diet.'
+  tfidf_val: 1663.5001815161618
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'Laboratory studies have documented specific olive oil-induced molecular changes in cancer cells and tumors, including changes in the composition of cell membranes, signaling proteins and gene expression.'
+  tfidf_val: 1235.561954732343
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'These changes are likely to result in lower proliferation and more apoptosis (programmed cell death) of breast cancer cells, as well as enhanced protection against DNA damage.'
+  tfidf_val: 936.156510772547
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: Extra-virgin olive oil potentiates the effects of aromatase inhibitors in ER+/PR+ breast cancer cells by increasing programmed cell death.
+  tfidf_val: 969.9796029099623
+  'doc#': 102
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Dietary Supplements Reactivate ER Expression in ER-Negative Breast Cancer Cells by Active Chromatin Modificati.md
+- sentence: Oleic acid has been shown to increase the effect of the chemotherapy drug Taxol (paclitaxel) against breast cancer.
+  tfidf_val: 757.8227869009484
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: "Olive oil has also been shown to increase Herceptin's effectiveness in treating HER2+ breast cancer and may counteract resistance to Herceptin."
+  tfidf_val: 674.2302751366982
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Consumption of olive oil was associated with lower breast density, a strong breast cancer risk factor, in one study.'
+  tfidf_val: 1429.999072308895
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Oleic acid has been shown to increase the bioavailability of beta-carotene in the diet, which may help explain why the high raw vegetable/high olive oil dietary pattern appears to be protective against breast cancer.'
+  tfidf_val: 1114.9945850796985
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Emphasizing monounsaturated fats in the diet is thought to have a positive effect on health in part because it will help reduce the relative proportions of saturated fats, trans fatty acids and omega-6 fatty acids in the diet.'
+  tfidf_val: 988.2316320922898
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Adding extra-virgin olive oil to the typical American diet by using it to fry with or to make marinades or pasta sauces is unlikely to have as much positive impact on breast cancer risk as would using olive oil in salad dressings and to prepare dishes with a high proportion of vegetables.
+  tfidf_val: 1113.3679418391825
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on olives._'
+  tfidf_val: 256.36293407787105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

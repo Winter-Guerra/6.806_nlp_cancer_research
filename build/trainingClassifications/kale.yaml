@@ -1,0 +1,80 @@
+- sentence: 'Kale has the highest levels of vitamins of all cruciferous vegetables (a vegetable group that also includes broccoli, cabbage, cauliflower, collard greens and brussels sprouts).'
+  tfidf_val: 754.3742607679487
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: 'Kale contains significant levels of vitamin C, vitamin A, vitamin B6, vitamin K, calcium, iron and various other minerals.'
+  tfidf_val: 1654.543642044293
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: Kale is also a good dietary source of the lignan enterolactone.
+  tfidf_val: 704.4777605482908
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: 'Kale has been shown to have antioxidant, antigenotoxic, anti-inflammatory and antimicrobial properties, and to be cardioprotective.'
+  tfidf_val: 745.3580990160253
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: "Kale contains beta-carotene, lutein and other carotenoids, quercetin, ferulic acid, caffeic acid, selenium, kaempferol, indole-3-carbinol (I3C), 3,3'-diindolylmethane (DIM) and several other isothiocyanates, sinigrin and other glucosinolate hydrolysis products, most of which have been reported to have anti-cancer properties."
+  tfidf_val: 1051.5584609490995
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: 'Kale and cruciferous vegetables more generally have been shown to inhibit the growth of human pancreatic cancer cells and to reduce the risk of occurrence of lung, gallbladder, bladder, prostate, ovarian and colorectal cancer.'
+  tfidf_val: 1518.325635518153
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Components of kale have been found to down-regulate hormone receptor expression, promote apoptosis, suppress cell cycle progression and inhibit angiogenesis of human breast cancer cells.'
+  tfidf_val: 1208.4813917101117
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Consumption of brassica vegetables has been shown to reduce the estrogen metabolite 16alpha-hydroxyestrone, which is a breast cancer promoter, and to be marginally inversely associated with breast cancer risk in population studies.'
+  tfidf_val: 1722.2949315369624
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: A Korean study found an association between kale consumption and lower incidence of breast cancer.
+  tfidf_val: 860.3727606079393
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Kale components quercetin and I3C have been shown increase the anti-cancer effects of the chemotherapy drug Taxol (paclitaxel).
+  tfidf_val: 786.0325855636402
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: Kale is healthiest when prepared by steaming and not by stir-frying.
+  tfidf_val: 725.0603983610109
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: Non-organic kale must be washed very thoroughly to remove pesticide residue.
+  tfidf_val: 710.0372762035855
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: Kale can reduce the bioavailability of iodine in the diet.
+  tfidf_val: 708.2930293059051
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: We recommend consuming kale and other cruciferous vegetables as food and against consuming components of them as pills (e.g.
+  tfidf_val: 735.9698897236293
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: DIM pills).
+  tfidf_val: 864.7112314244683
+  'doc#': 411
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Low levels of 33prime-diindolylmethane activate estrogen receptor alpha and induce proliferation of breast cancer cells .md
+- sentence: There is some evidence that concentrated cruciferous vegetable extracts can act as estrogen agonists and promote breast cancer cell proliferation.
+  tfidf_val: 652.3309642411161
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: 'Also, the anticancer properties of kale are likely to be the result of synergistic interaction of its various chemical components - isolated components have successfully inhibited proliferation in the laboratory, but their efficacy and safety in humans needs to be evaluated in large scale clinical trials.'
+  tfidf_val: 784.9209232289002
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: Cruciferous vegetables contain thioglucoside compounds that can interfere with the formation of thyroid hormone.
+  tfidf_val: 337.5682989651342
+  'doc#': 593
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Safety of Cruciferous Plants in Humans A Systematic Review.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on kale._'
+  tfidf_val: 719.2588967040645
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md

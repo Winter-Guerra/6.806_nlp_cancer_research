@@ -1,0 +1,52 @@
+- sentence: 'Made from milk, butter is a rich dietary source of vitamin A, calcium, and conjugated linoleic acid (CLA), all of which have been shown to have anticarcinogenic properties.'
+  tfidf_val: 819.3428125677548
+  'doc#': 613
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Trans-10 cis 12-Conjugated Linoleic Acid-Induced Milk Fat Depression Is Associated with Inhibition of PPAR Signaling and Inflammation in Murine Mammary Tissue.md
+- sentence: 'However, butter consumption has been found to be associated with increased risks of leukemia, as well as oral, esophageal, thyroid, stomach, pancreatic, endometrial, colorectal, prostate and testicular cancer.'
+  tfidf_val: 853.3950934450752
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'In addition, consumption of butter (with its high saturated fat content) has been found to be associated with increased risk of cardiovascular disease and heart attacks in women as well as in men.'
+  tfidf_val: 954.2263779969379
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Although not all studies of the relationship between breast cancer and dairy foods have found a positive association between butter intake and the risk of breast cancer, many have.'
+  tfidf_val: 2042.2870539290602
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: "Women in the Nurses' Health Study who consumed more butter during high school have been found to have a higher risk of breast cancer in adulthood."
+  tfidf_val: 1203.4182672700595
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Another study found that butter consumption was associated with increased risk of recurrence of early stage breast cancer, especially among premenopausal breast cancer cases.'
+  tfidf_val: 1810.0575760749496
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Other U.S, Canadian and European studies have found the use of butter in soups or sauces (i.e., boiled butter), butter at the dinner table, and butter used for frying food to be associated with higher risk of breast cancer.'
+  tfidf_val: 1200.1977235040208
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'High intake of animal fats has been linked in several studies to increased breast density, a risk factor for breast cancer and recurrence.'
+  tfidf_val: 1596.7876120670076
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Ghee is a type of clarified butter used in South Asian cuisine.
+  tfidf_val: 147.73463422831625
+  'doc#': 625
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Vegetable protein and vegetable fat intakes in pre-adolescent and adolescent girls and risk for benign breast disease in young women.md
+- sentence: 'To make ghee, the water and milk solids are removed from butter by heating to eliminate the water and straining.'
+  tfidf_val: 336.72769146452777
+  'doc#': 431
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Multivariate Analysis of Water Quality and Plankton Assemblages in an Urban Estuary.md
+- sentence: Consumption of ghee has been associated with cardiovascular disease in India; ghee has an even higher saturated fat content than butter.
+  tfidf_val: 473.8786193857301
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on butter._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

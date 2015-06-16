@@ -1,0 +1,116 @@
+- sentence: Escargot (Helix pomatia) are land snails usually served as an appetizer.
+  tfidf_val: 49.0368199787257
+  'doc#': 463
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Photo-Activated Psoralen Binds the ErbB2 Catalytic Kinase Domain Blocking ErbB2 Signaling and Triggering Tumor Cell Apop.md
+- sentence: "Escargot are a good source of protein, while having a low fat content, mostly consisting of unsaturated fatty acids, including alpha-linolenic acid and linoleic acid, which are present in proportions that depend on the snails' diets."
+  tfidf_val: 1069.083274138671
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: 'Obviously, escargot is a low saturated-fat food only if cooked and eaten without butter.'
+  tfidf_val: 416.9761477427522
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'The interest in escargot snails derives in part from its unique lectin, Helix pomatia agglutinin (HPA), that is used as a prognostic indicator for some cancers, including breast cancer.'
+  tfidf_val: 743.2913333504438
+  'doc#': 519
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Relevance of Gal-GalNAc-containing glycans and the enzymes involved in their synthesis for invasion and survival in brea.md
+- sentence: 'Lectins, a group of glycoproteins found in animal as well as plant cells, are used as differentiating markers to study cancers and metastatic cell lines.'
+  tfidf_val: 734.2807879029326
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: Changes in glycosylation of cell membranes play an important role in the metastatic behavior of tumor cells.
+  tfidf_val: 666.0152615755351
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: Carbohydrate residues of the membrane glycoproteins can be detected using certain lectins due to the fact that the lectins bind specifically to these carbohydrates.
+  tfidf_val: 464.6616752963232
+  'doc#': 393
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Isolation of a hemagglutinin with potent antiproliferative activity and a large antifungal defensin from Hokkaido large .md
+- sentence: HPA recognizes α-D-N-acetylgalactosamine-containing epitopes (parts of macromolecules recognized by the immune system) which are only present in cancer cell lines having a high likelihood to undergo metastasis.
+  tfidf_val: 532.2268578083584
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: HPA fixation on histological preparations of breast cancer tissues is associated with an ominous prognosis.
+  tfidf_val: 694.0074748863219
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: A 2015 study reported that HPA itself has the potential to promote breast cancer metastasis through increased vascular invasion and lymph node involvement.
+  tfidf_val: 798.8244245052222
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: A different lectin from the giant African land snail (Achatina fulica) has been found to cause apoptosis (programmed cell death) in human breast cancer cells.
+  tfidf_val: 934.0409533378829
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: 'However, evidence concerning the giant African land snail and the fact that a component of escargot snails binds specifically to aggressive breast cancer cells does not mean that consuming escargot will help prevent breast cancer.'
+  tfidf_val: 1300.4322661713068
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: No population studies have been performed to test the hypothesis that consuming escargot is associated with reduced breast cancer risk.
+  tfidf_val: 1103.2999733981696
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Commercially farm-raised escargot snails typically are fed a diet of ground cereals, which results in a less favorable fatty acid profile than that of "free range" snails.'
+  tfidf_val: 524.0259684582596
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: Farm-raised snails are also said to be more rubbery and tasteless than snails that have been allowed to roam over a patch of grass and vegetables.
+  tfidf_val: 141.797498623507
+  'doc#': 531
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Retention of Quality and Nutritional Value of 13 Fresh-Cut Vegetables Treated with Low-Dose Radiation.md
+- sentence: 'However, since free range snails consume a variety of decayed matter, dead animals and insects, and a wide variety of leaves, their stomach contents can be harmful to humans and their digestive systems must be purged of such contents before cooking (often by feeding them a controlled diet for several days).'
+  tfidf_val: 514.4445931154673
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: Poisoning by snails that had consumed oleander leaves has been reported.
+  tfidf_val: 225.1356132246662
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md
+- sentence: Snails have been found to accumulate cadmium in their tissues from soil containing cadmium.
+  tfidf_val: 1408.178053183416
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: Snails can also become contaminated with cadmium and other carcinogens by roadside car exhaust fumes.
+  tfidf_val: 697.4631297960968
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: Cases of meningitis have been reported caused by people eating garden snails.
+  tfidf_val: 218.00404252199036
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Although customary in some areas of Europe, it appears unwise for inexperienced consumers to collect and consume garden snails or snails found in other natural settings.'
+  tfidf_val: 204.15140274352711
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: 'In addition, snails must not be eaten raw; there have been reports of parasitic infections resulting from consumption of raw snail meat.'
+  tfidf_val: 527.3798635329371
+  'doc#': 108
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactivity of Antioxidants in Extruded Products Prepared from Purple Potato and Dry Pea Flours.md
+- sentence: French restaurants and specialty stores typically are the best sources of escargot.
+  tfidf_val: 173.68901356080895
+  'doc#': 303
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Evidence for the complex relationship between free amino acid and sugar concentrations and acrylamide-forming potential .md
+- sentence: Consumers preparing their own escargot or other snails should be aware of their source and assure themselves of their freshness and safety.
+  tfidf_val: 122.87768038095749
+  'doc#': 532
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Risks and Benefits of Consumption of Great Lakes Fish.md
+- sentence: Escargot are considered good protection against breast cancer for individuals with type A or type AB blood type by some alternative health practitioners.
+  tfidf_val: 709.9072839388259
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: This theory appears to be based in part on the fact that the escargot lectin will recognize blood group A antigen.
+  tfidf_val: 335.80352848520727
+  'doc#': 309
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Expression of Helix pomatia lectin binding glycoproteins in women with breast cancer in relationship to their blood grou.md
+- sentence: 'The assumption is that HPA can expose the cancerous cells, thereby making them more available and susceptible to attack by antibodies of the blood type.'
+  tfidf_val: 432.47659543751763
+  'doc#': 588
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Effectiveness of Cucurbitacin B in BRCA1 Defective Breast Cancer Cells.md
+- sentence: 'However, we have not found any scientific studies that support this theory.'
+  tfidf_val: 306.2093860471786
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'Note that while we are continually searching for new evidence specifically concerning this food, there is not much interest in it among breast cancer researchers, so few studies are available.'
+  tfidf_val: 986.7099244707111
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md

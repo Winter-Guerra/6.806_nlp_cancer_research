@@ -1,0 +1,44 @@
+- sentence: 'Adzuki beans (Vigna angularis or Phaseolus angularis Wight., both the same plant) are small, usually red, beans popular in Japan and other parts of Asia.'
+  tfidf_val: 539.8493244445008
+  'doc#': 241
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Distribution profiles of tocopherols and fatty acids of phospholipids in adzuki beans vigna angularis.md
+- sentence: 'Adzuki beans, which are also known as azuki beans, are the principal ingredient in the "red bean paste" found in many Asian dishes and sweets.'
+  tfidf_val: 527.3405244859076
+  'doc#': 393
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Isolation of a hemagglutinin with potent antiproliferative activity and a large antifungal defensin from Hokkaido large .md
+- sentence: 'Adzuki bean phenolics include catechin and epicatechin glucosides, procyanidin dimers, myricetin and protocatechuic acid.'
+  tfidf_val: 719.4506770249669
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: The principal fatty acids in adzuki bean are linoleic acid and oleic acid.
+  tfidf_val: 887.489242545723
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: 'Adzuki beans have been shown to have antioxidant, hypoglycemic, antitumorigenesis, and hepatoprotective actions, as well as lowering cholesterol and triglyceride levels.'
+  tfidf_val: 330.95597284103957
+  'doc#': 241
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Distribution profiles of tocopherols and fatty acids of phospholipids in adzuki beans vigna angularis.md
+- sentence: 'Adzuki bean extracts have been shown to inhibit metastasis of lung cancer and melanoma in the laboratory, as well as inhibiting the growth and proliferation of carcinogen-induced stomach cancer.'
+  tfidf_val: 887.5312956671273
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Ethanol extracts of adzuki beans have been found to increase proliferation of estrogen and progesterone responsive (ER+/PR+) human breast cancer cells.
+  tfidf_val: 1032.9714211226715
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: The estrogenic effects of adzuki bean appears to have unique characteristics compared to that of other beans with significant phytoestrogen content.
+  tfidf_val: 414.1571282598002
+  'doc#': 393
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Isolation of a hemagglutinin with potent antiproliferative activity and a large antifungal defensin from Hokkaido large .md
+- sentence: 'In Asia and Asian cuisine, "red beans" normally refers to adzuki beans, whereas in the Americas "red beans" (in dishes such as Red Beans and Rice) refers to the larger common red dry beans (phaseolus vulgaris).'
+  tfidf_val: 950.0784545345282
+  'doc#': 241
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Distribution profiles of tocopherols and fatty acids of phospholipids in adzuki beans vigna angularis.md
+- sentence: Mung bean paste can be used as a healthier substitute for red bean paste in many dishes.
+  tfidf_val: 646.815413317006
+  'doc#': 393
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Isolation of a hemagglutinin with potent antiproliferative activity and a large antifungal defensin from Hokkaido large .md
+- sentence: 'Note that while we are continually searching for new evidence concerning this food, there is not much interest in it among cancer researchers so few recent studies are available.'
+  tfidf_val: 907.1435742864229
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md

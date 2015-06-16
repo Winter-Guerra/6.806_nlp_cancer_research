@@ -1,0 +1,184 @@
+- sentence: 'Beef is a very good dietary source of protein, iron, zinc, copper and B-vitamins.'
+  tfidf_val: 448.3603355140388
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Beef also contains conjugated linoleic acid (CLA)and stearate, both of which have been shown to induce cancer cell death, including breast cancer apoptosis.'
+  tfidf_val: 1099.6341129453187
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: "However, the potentially favorable effects of CLA and stearate appear to be overwhelmed by beef's high level of saturated fat and the carcinogenic effects of naturally-occurring beef compounds, beef additives and beef preparation methods."
+  tfidf_val: 731.4047860437272
+  'doc#': 613
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Trans-10 cis 12-Conjugated Linoleic Acid-Induced Milk Fat Depression Is Associated with Inhibition of PPAR Signaling and Inflammation in Murine Mammary Tissue.md
+- sentence: 'Diets high in beef or well done beef have been linked in multiple population studies to higher risks of leukemia and cancers of the esophagus, lung, stomach, pancreas, kidney, bladder, intestine, colon, rectum, endometrium, testis and prostate.'
+  tfidf_val: 514.3986899206353
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'While beef fat may be responsible for some of these results, restricting consumption to lean beef would not eliminate the increased risks of most of these cancers.'
+  tfidf_val: 467.6570792682981
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: "Higher red meat consumption during adolescence by women in the Nurses' Health Study II has been found to be associated with increased risk of premenopausal breast cancer in adulthood."
+  tfidf_val: 1525.7462082903623
+  'doc#': 232
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary protein sources in early adulthood and breast cancer incidence prospective cohort study.md
+- sentence: A French population study found that increasing meat consumption was associated with increasing breast cancer risk.
+  tfidf_val: 1150.6260299966334
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: A UK study found that both pre- and postmenopausal women who consumed the most meat (including red meat) had the highest risk of breast cancer.
+  tfidf_val: 1511.413335570396
+  'doc#': 510
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Racial disparities in red meat and poultry intake and breast cancer risk.md
+- sentence: 'A German study of women under 51 years of age also found that breast cancer risk was increased with higher consumption of red meat; women with the highest consumption quartile had an 85% elevated breast cancer risk compared to the lowest quartile.'
+  tfidf_val: 2299.1656958189837
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'For premenopausal women, the association of meat (especially beef) intake with breast cancer risk was found to be even stronger in this study.'
+  tfidf_val: 1466.0258148297248
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: "A study of tissue removed from healthy women undergoing breast reduction surgery found that the levels of DNA adducts (which are associated with cancer development) in the breast tissue was correlated with the women's consumption of fried meat, beef and processed meat."
+  tfidf_val: 1714.1469052933082
+  'doc#': 510
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Racial disparities in red meat and poultry intake and breast cancer risk.md
+- sentence: 'High intake of animal fats has been linked in several studies to increased breast density, a risk factor for breast cancer and recurrence.'
+  tfidf_val: 1596.7876120670076
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'A study that included 52,158 postmenopausal women reported that, comparing the fifth to the first quintile, red meat, the heterocyclic amine (HCA) 2-amino-3,8-dimethylimidazo[4,5-f]quinoxaline, and dietary iron each were associated with increased risk of breast cancer.'
+  tfidf_val: 1750.832805628358
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: "Women in the Iowa Women's Health Study who consistently ate their hamburgers, steak, and bacon very well done were found to have a 4.62 times higher risk of breast cancer than women who consumed the meats rare or medium well done."
+  tfidf_val: 1442.0531902286657
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'However, not all studies have found an association between meat consumption and breast cancer risk.'
+  tfidf_val: 1161.279270632066
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: >-
+    A number of different factors and mechanisms have been proposed to account
+    for the findings of increased breast cancer risk associated with beef
+    consumption:
+
+
+
+       The U.S. beef and veal industry uses zeranol (Ralgro), a non-steroidal
+    substance with estrogenic activity, as a growth promoter.
+  tfidf_val: 1088.3516262162684
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Zeranol has been found to stimulate human breast cancer cell growth and proliferation.
+  tfidf_val: 651.9602367025825
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Other growth promoters (mostly hormones) that are routinely administered to cattle also are suspected to contribute to breast cancer risk.
+  tfidf_val: 918.2905565986016
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Irradiation of beef, which is widespread in the U.S., has been found to result in the formation of alkylcyclobutanones, which have been shown to have mutagenic and tumor promoting activities.'
+  tfidf_val: 276.18725816244034
+  'doc#': 531
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Retention of Quality and Nutritional Value of 13 Fresh-Cut Vegetables Treated with Low-Dose Radiation.md
+- sentence: Red meat intake has been shown reduce circulating melatonin.
+  tfidf_val: 734.9629328843745
+  'doc#': 260
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effect of Melatonin on Tumor Growth and Angiogenesis in Xenograft Model of Breast Cancer.md
+- sentence: 'Melatonin protects against breast cancer in several ways, including by reducing aromatase activity within the breast, thereby reducing estrogen production.'
+  tfidf_val: 1094.32768689471
+  'doc#': 426
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Melatonin modulates aromatase activity and expression in endothelial cells.md
+- sentence: 'Bovine leukemia virus (BLV), which estimated to infect at least 14% of U.S. beef herds, is thought by some observers to be capable of contributing to human breast cancer.'
+  tfidf_val: 640.8561668296554
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Many women have antibodies to BLV, indicating exposure to the virus.'
+  tfidf_val: 471.88292512568637
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Some of the HCAs formed in very well done beef and steak, and in beef gravy, are known human carcinogens.'
+  tfidf_val: 230.78977200117757
+  'doc#': 516
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Reduction of Carcinogenic Polycyclic Aromatic Hydrocarbons in Meat by Sugar-Smoking and Dietary Exposure Assessment in T.md
+- sentence: 'Two of the HCAs, 2-amino-3-methylimidazo[4,5-b]pyridine and 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine, have also been shown to have potent estrogenic activity, inducing activation of estrogen-regulated genes, proliferation of estrogen-dependent cells and up-regulation of progesterone receptor.'
+  tfidf_val: 921.3115503653204
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'While iron deficiency anemia obviously is to be avoided, the contribution of significant heme iron in the diet as a result of regularly consuming beef could be detrimental for some women.'
+  tfidf_val: 648.124410213995
+  'doc#': 592
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Potato in the Human Diet a Complex Matrix with Potential Health Benefits.md
+- sentence: Iron depletion has been shown to lead to significant inhibition of breast cancer cell growth in the laboratory.
+  tfidf_val: 657.6985224569274
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Relatively high levels of iron in benign breast tissue was found in one prospective study to be associated with an increase in risk of subsequent breast cancer.
+  tfidf_val: 1582.2093409969093
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Other studies have found high levels of iron in the blood to be associated with increased breast cancer risk.
+  tfidf_val: 1152.4259516218995
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'If beef or veal is to be consumed, it makes sense to buy organic beef to avoid irradiated and growth hormone-treated meat.'
+  tfidf_val: 686.0349910592337
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: Well done or flame-broiled beef are the most to be avoided.
+  tfidf_val: 77.39069855375811
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: This includes all fast-food hamburgers.
+  tfidf_val: 158.07113167846543
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Although they are traditionally used as a base for gravies and sauces, be aware that fat drippings and grill residue scrapings contain particularly high levels of HCAs and ideally should be discarded.'
+  tfidf_val: 381.1774115668678
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: "Calf's liver (veal liver) and beef liver contain especially high levels of copper, which could contribute to angiogenesis and metastasis of breast cancer."
+  tfidf_val: 665.0425463213895
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Although we do not recommend supplementation with CLA (conjugated linoleic acid), we wish to advise those who do to avoid the t10,c12-CLA isomer (referred to on some supplement labels as Trans-10, Cis-12).'
+  tfidf_val: 1517.174723951593
+  'doc#': 613
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Trans-10 cis 12-Conjugated Linoleic Acid-Induced Milk Fat Depression Is Associated with Inhibition of PPAR Signaling and Inflammation in Murine Mammary Tissue.md
+- sentence: 'The t10,c12 CLA isomer was found to dramatically enhance mammary tumor development in one mouse experiment.'
+  tfidf_val: 826.8603175030862
+  'doc#': 613
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Trans-10 cis 12-Conjugated Linoleic Acid-Induced Milk Fat Depression Is Associated with Inhibition of PPAR Signaling and Inflammation in Murine Mammary Tissue.md
+- sentence: 'The time by which 50% of the mice in the group developed a tumor was shortened from 267 days for mice on a control diet to 169 days for mice fed t10,c12-CLA.'
+  tfidf_val: 1280.7952318552343
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'Choose products with only the c9,t11 isomer (Cis-9, Trans-11).'
+  tfidf_val: 154.42177639590278
+  'doc#': 108
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactivity of Antioxidants in Extruded Products Prepared from Purple Potato and Dry Pea Flours.md
+- sentence: The beef industry appears to take an active interest in academic studies concerning the health benefits and drawbacks of beef.
+  tfidf_val: 264.2929139388963
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md
+- sentence: "The Cattlemen's Beef Board finances some cancer-related studies, raising the question of objectivity."
+  tfidf_val: 540.5988798357776
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: The tone of non-U.S. studies can appear more forthright than the constrained and cautious tone of some U.S. studies.
+  tfidf_val: 506.96393274228876
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md
+- sentence: We have not come across this problem to the same degree in any other food industry that we cover.
+  tfidf_val: 214.12152110786758
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on beef._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

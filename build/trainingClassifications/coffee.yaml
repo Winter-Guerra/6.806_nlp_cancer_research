@@ -1,0 +1,192 @@
+- sentence: 'Drinking coffee, especially unfiltered coffee (e.g., espresso), can raise cholesterol levels, including LDL (the harmful type of cholesterol).'
+  tfidf_val: 1203.025924187817
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: 'It also acts as a stimulant, increasing the production of cortisone and adrenaline.'
+  tfidf_val: 79.95214419546608
+  'doc#': 514
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Red bean extract reduces inflammation and increases survival in a murine sepsis model.md
+- sentence: Fertility may be impaired for coffee drinkers.
+  tfidf_val: 618.396830033948
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: 'However, coffee drinking appears to be protective against heart disease on balance.'
+  tfidf_val: 617.0654250944262
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: "It also has been shown to reduce the risks of type 2 diabetes, Parkinson's disease, and gallstone development."
+  tfidf_val: 158.8685416797979
+  'doc#': 80
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Applying the Precautionary Principle to Nutrition and Cancer.md
+- sentence: Caffeine consumption has been associated with higher risks of osteoporosis and benign fibrocystic breast disease.
+  tfidf_val: 573.1741377042109
+  'doc#': 499
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Prospective study of breast cancer in relation to coffee tea and caffeine in Sweden.md
+- sentence: Childhood malignant central nervous system tumors have been found to be associated with maternal coffee drinking during pregnancy.
+  tfidf_val: 720.6692030271927
+  'doc#': 152
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee prevents early events in tamoxifen-treated breast cancer patients and modulates hormone receptor status.md
+- sentence: Drinking coffee also has been shown to be correlated with a marginally increased risk of lung cancer in smokers.
+  tfidf_val: 872.2638362495014
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'However, coffee is also associated with decreased risks of non-Hodgkin lymphoma, as well as liver, kidney, and colorectal cancers.'
+  tfidf_val: 730.8364490609747
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: The coffee diterpenes kahweol and cafestol have been shown to offer some protection against mutagenic damage by heterocylic amines and aflatoxin B1 in laboratory rats; human consumption of these coffee components has been associated with lower rates of colon tumors.
+  tfidf_val: 1498.1908836423963
+  'doc#': 152
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee prevents early events in tamoxifen-treated breast cancer patients and modulates hormone receptor status.md
+- sentence: 'Caffeine, caffeic acid, acrylamide, the phytoestrogen trigonelline, hydroxyl hydroquinone, and various other polyphenols and volatile aroma and heterocyclic substances are also thought to contribute to the cancer-related effects of coffee consumption.'
+  tfidf_val: 2286.806883220566
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Coffee drinking has been reported to have either a small positive or negative association with breast cancer risk, or no association at all, in the general population.'
+  tfidf_val: 1227.097077048849
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: "However, the body's reaction to coffee can vary significantly for different women based on genetic differences and other factors."
+  tfidf_val: 696.5895356465774
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: Large population studies tend to mask such individual differences by combining results of subgroups for whom coffee drinking may reduce breast cancer risk with subgroups for whom coffee may increase risk.
+  tfidf_val: 1829.0971482540585
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: 'One study found that, for women with benign breast disease, statistically significant positive correlations existed between caffeine consumption and hormone receptor negative (ER-/PR-) disease, as well as breast tumors greater than 2 cm in size.'
+  tfidf_val: 1418.412725547636
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: The implication is that coffee drinking should be avoided by women with fibrocystic breast disease.
+  tfidf_val: 770.6610298998102
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: 'Several studies have found that among women with BRCA1 or BRCA2 gene mutations, heavy coffee consumption is associated with significantly reduced breast cancer risk.'
+  tfidf_val: 1506.1782395404935
+  'doc#': 588
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Effectiveness of Cucurbitacin B in BRCA1 Defective Breast Cancer Cells.md
+- sentence: 'However, a 2013 study reported that increased breast cancer risk was found for BRCA1 mutation carriers who were heavy coffee drinkers.'
+  tfidf_val: 1517.2068478260512
+  'doc#': 588
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Effectiveness of Cucurbitacin B in BRCA1 Defective Breast Cancer Cells.md
+- sentence: 'The effect of coffee consumption on breast cancer risk depends in part on her CYP1A2 genotype, whether or not she is a BRCA carrier.'
+  tfidf_val: 1114.9671960811568
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: The CYP1A2 gene plays a crucial role in the metabolism of both estrogen and coffee.
+  tfidf_val: 616.1151937718209
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: "Like BRCA1 and BRCA2 mutations, a woman's CYP1A2 genotype can only be determined through genetic testing and this testing is not normally performed."
+  tfidf_val: 1265.8109805723684
+  'doc#': 588
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Effectiveness of Cucurbitacin B in BRCA1 Defective Breast Cancer Cells.md
+- sentence: 'Regular heavy coffee consumption increases the expression of the CYP1A2 gene, which encodes a member of the cytochrome P450 family of enzymes.'
+  tfidf_val: 792.0526395632738
+  'doc#': 152
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee prevents early events in tamoxifen-treated breast cancer patients and modulates hormone receptor status.md
+- sentence: Coffee has been found to protect C-allele carriers against breast cancer by reducing breast volume.
+  tfidf_val: 1063.2839453958431
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: Coffee consumption has also been shown to slow the growth of ER+ tumors in women with the CYP1A21F A/A genotype.
+  tfidf_val: 1070.660209005488
+  'doc#': 152
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee prevents early events in tamoxifen-treated breast cancer patients and modulates hormone receptor status.md
+- sentence: 'One Swedish study found that coffee consumption was associated with a reduction in the risk of breast cancer for lean women, whereas it appeared to have the opposite effect in heavy women.'
+  tfidf_val: 1401.3728561182377
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Studies that have attempted to study the possible influence of coffee consumption on risk of breast cancer according to menopausal status have produced conflicting results.
+  tfidf_val: 1180.5305004578256
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: 'Heavy coffee drinking has variously been reported to increase, reduce or have no association with breast cancer risk among premenopausal women.'
+  tfidf_val: 1260.2847195110226
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Coffee has been linked to reduced breast cancer risk or no association with risk in postmenopausal women.
+  tfidf_val: 1549.4071432806531
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Studies that have attempted to study the possible influence of coffee consumption on risk of breast cancer according to hormone receptor status have also produced inconsistent results.
+  tfidf_val: 1317.483955567808
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: Several studies have reported results that are suggestive of a possible association between heavy coffee drinking and increased risk of ER- breast cancer in premenopausal women.
+  tfidf_val: 1338.7741850752282
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'However, several studies have reported that coffee drinking is associated with reduced risk of ER- breast cancer in postmenopausal women.'
+  tfidf_val: 1362.3903417623724
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: One Swedish study specifically reported that coffee consumption is associated with reduced risk of ER+/PR- disease.
+  tfidf_val: 1156.5327623311725
+  'doc#': 152
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee prevents early events in tamoxifen-treated breast cancer patients and modulates hormone receptor status.md
+- sentence: 'Regularly consuming at least two cups of coffee per day might increase the effectiveness of tamoxifen treatment, according to recent research.'
+  tfidf_val: 958.113594502866
+  'doc#': 152
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee prevents early events in tamoxifen-treated breast cancer patients and modulates hormone receptor status.md
+- sentence: 'Acrylamide, a chemical contained in coffee, among other foods, is a suspected carcinogen.'
+  tfidf_val: 2000.0372647296722
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Numerous studies have examined the association between acrylamide and breast cancer, with mostly inconclusive or negative results.'
+  tfidf_val: 2517.1668531757987
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'However, a 2012 Danish study reported that pre-diagnostic exposure to acrylamide was associated with increased mortality among breast cancer patients with ER+ breast cancer.'
+  tfidf_val: 3576.1844314275645
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Coffee might reduce the effectiveness of Adriamycin (doxorubicin) and other anthracycline chemotherapy because of its caffeine content.
+  tfidf_val: 670.1041685897379
+  'doc#': 499
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Prospective study of breast cancer in relation to coffee tea and caffeine in Sweden.md
+- sentence: There is also some preliminary evidence that coffee could reduce the effectiveness of Taxol (paclitaxel) and other taxane chemotherapy as a result of its caffeic acid content.
+  tfidf_val: 598.3106567221969
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: 'Based on the available evidence, women with benign breast disease should avoid coffee consumption.'
+  tfidf_val: 864.6985334902448
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: 'Moderate coffee consumption appears to be safe for most postmenopausal women, including breast cancer survivors.'
+  tfidf_val: 1102.083016014599
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: Drinking coffee may be beneficial for those undergoing treatment with tamoxifen.
+  tfidf_val: 809.0222430257955
+  'doc#': 152
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee prevents early events in tamoxifen-treated breast cancer patients and modulates hormone receptor status.md
+- sentence: The potential risks of heavy coffee consumption appear to outweigh the potential benefits for most premenopausal women and it would appear prudent for them to limit coffee consumption.
+  tfidf_val: 1531.2828120997503
+  'doc#': 152
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee prevents early events in tamoxifen-treated breast cancer patients and modulates hormone receptor status.md
+- sentence: Coffee should not be consumed during chemotherapy.
+  tfidf_val: 671.583869236563
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: We present these tentative conclusions for the many coffee drinkers who cannot wait until more definitive studies are published to decide whether to drink coffee.
+  tfidf_val: 1209.061966213725
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: 'However, more research is needed to clarify the association between coffee drinking and breast cancer risk and prognosis.'
+  tfidf_val: 1109.0722794360422
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: Organic coffee is a better choice than non-organic coffee since coffee is often grown using high levels of pesticides.
+  tfidf_val: 1848.6881923997996
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on coffee._'
+  tfidf_val: 641.3754791912017
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md

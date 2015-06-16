@@ -1,0 +1,143 @@
+- sentence: 'Mushrooms have been shown to have anti-inflammatory, antiviral, cholesterol-reducing, and immune-enhancing properties, as well helping to reduce blood pressure and blood sugar levels.'
+  tfidf_val: 416.4037093190765
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: 'Generally speaking, mushrooms are a good source of dietary selenium and vitamin D, as well as some B vitamins.'
+  tfidf_val: 662.2610597509429
+  'doc#': 545
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Selenium intake and breast cancer mortality in a cohort of Swedish women.md
+- sentence: White button mushrooms are a good source of conjugated linoleic acid (CLA).
+  tfidf_val: 669.2013371223907
+  'doc#': 613
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Trans-10 cis 12-Conjugated Linoleic Acid-Induced Milk Fat Depression Is Associated with Inhibition of PPAR Signaling and Inflammation in Murine Mammary Tissue.md
+- sentence: Consumption of mushrooms was found to be associated with lower risk of heart disease in one European study.
+  tfidf_val: 516.8294401876718
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Mushrooms contain numerous compounds with anti-cancer activities, including various β-glucans and lectins, butein, ganodermanontriol, grifolin, lentinan, marmorin, and nebrodeolysin.'
+  tfidf_val: 436.6431542155668
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Various mushroom extracts have been shown to reduce proliferation and/or induce apoptosis of human bladder, cervical, colorectal, esophageal, head and neck, kidney, leukemia, liver, lymphoma, multiple myeloma, non-small cell lung, ovarian, pancreas, prostate, spleen, and stomach cancer cells, as well as malignant glioma cells.'
+  tfidf_val: 1458.193027093162
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Mushroom extracts also have been shown to prolong survival of mice inoculated with melanoma cells, inhibit the growth of human colon cells in mice, and induce apoptosis of colon cancer cells in mice.'
+  tfidf_val: 1474.08283989012
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'A case-control study of 1,009 Chinese breast cancer patients found that mushroom consumption was inversely related to breast cancer risk.'
+  tfidf_val: 1672.8124514589958
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: A study of Korean breast cancer patients also found consumption of mushrooms to be associated with a significantly decreased risk of breast cancer.
+  tfidf_val: 1713.1755195464334
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Another Korean study found that both high daily intake and high consumption frequency of mushrooms was associated with reduced risk of breast cancer among postmenopausal women.
+  tfidf_val: 1687.9654537897131
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Many types of mushroom appear to have beneficial effects with respect to breast cancer prevention (although note that some mushrooms are poisonous and others have been shown to strongly promote cancer in the laboratory).
+  tfidf_val: 997.8756079736487
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: |-
+    The information below concerns mushrooms commonly available in the U.S.
+
+       White button mushrooms (Agaricus bisporous) are the most common mushrooms sold in supermarkets.
+  tfidf_val: 182.3098850464316
+  'doc#': 224
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary mushroom intake may reduce the risk of breast cancer evidence from a meta-analysis of observational studies.md
+- sentence: 'They are also known as button mushrooms, white mushrooms, or table mushrooms.'
+  tfidf_val: 187.13611052749837
+  'doc#': 540
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Schizophyllan inhibits the development of mammary and hepatic carcinomas induced by 712 dimethylbenzanthracene and decre.md
+- sentence: Portobello and crimini mushrooms are closely related to white button mushrooms.
+  tfidf_val: 116.10738512025956
+  'doc#': 224
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary mushroom intake may reduce the risk of breast cancer evidence from a meta-analysis of observational studies.md
+- sentence: 'Of the mushrooms studied, white button mushrooms have among the most powerful proven breast cancer chemopreventive properties, since they have been shown to suppress aromatase activity and estrogen biosynthesis, in addition to inhibiting proliferation of estrogen receptor positive (ER+) breast cancer cells.'
+  tfidf_val: 1476.6697468675934
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: 'Several studies have concluded that diets high in white button mushrooms may lower the risk of estrogen receptor positive breast cancer, especially in postmenopausal women, by reducing aromatase activity.'
+  tfidf_val: 1296.1268760414096
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Maitake mushrooms (Grifola frondosa) are sold dried or fresh in upscale supermarkets and specialty markets.
+  tfidf_val: 167.5053852086976
+  'doc#': 321
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fish and seafood availability in markets in the Baie des Chaleurs region New Brunswick Canada a heavy metal contaminatio.md
+- sentence: 'Maitake mushrooms have been shown to reduce growth, inhibit angiogenesis, and induce apoptosis of human breast cancer cells in the laboratory.'
+  tfidf_val: 816.2542981303767
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'However, a 2009 trial of maitake mushroom supplementation in postmenopausal breast cancer survivors found that, contrary to expectations, the maitake extract had both immune enhancing and immune suppressant effects at various doses.'
+  tfidf_val: 836.1453271985375
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Shiitake mushrooms (Lentinus edodes) are widely available fresh or dried in grocery stores and specialty markets.
+  tfidf_val: 164.24124170118793
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: Shiitake mushrooms have been found to inhibit increases in tumor volume of human breast cancer cells implanted in mice.
+  tfidf_val: 738.673029517984
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: 'Reishi mushrooms (Ganoderma lucidum) usually are sold only in powder form in capsules, in liquid extracts and as tea, since they are too bitter and tough to be eaten as food.'
+  tfidf_val: 424.2946286972224
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Reishi mushroom extracts have been shown to inhibit proliferation, adhesion, angiogenesis, migration, and invasion of several types of breast cancer cells.'
+  tfidf_val: 809.8605503722874
+  'doc#': 588
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Effectiveness of Cucurbitacin B in BRCA1 Defective Breast Cancer Cells.md
+- sentence: 'The addition of green tea extract to reishi extract has been shown to have a synergistic effect in the inhibiting adhesion, migration and invasion of hormone receptor negative (ER-/PR-) breast cancer cells.'
+  tfidf_val: 1160.898937213554
+  'doc#': 102
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Dietary Supplements Reactivate ER Expression in ER-Negative Breast Cancer Cells by Active Chromatin Modificati.md
+- sentence: 'Reishi extract has been shown to be effective in inhibiting inflammatory breast cancer (IBC) progression, one of the few foods to have demonstrated beneficial impact on this form of the disease.'
+  tfidf_val: 692.5415292356555
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'While reishi mushroom extracts have been shown to have anti-cancer activities against ER+/PR+ breast cancer cells, they have also been shown to have estrogenic properties.'
+  tfidf_val: 1202.7631047218385
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: 'Therefore, we would advise those at high risk for breast cancer and those with non-IBC ER+ breast cancer against consuming reishi.'
+  tfidf_val: 1528.1434702769852
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Generally speaking, we would be very cautious about consuming mushroom supplements because safe and effective dosages have not been established.'
+  tfidf_val: 272.06079632079377
+  'doc#': 224
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary mushroom intake may reduce the risk of breast cancer evidence from a meta-analysis of observational studies.md
+- sentence: Raw white button mushrooms have been shown to cause various cancers when consumed by mice.
+  tfidf_val: 347.0029962136913
+  'doc#': 97
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Beneficial bacteria stimulate host immune cells to counteract dietary and genetic predisposition to mammary cancer in mi.md
+- sentence: 'A 2005 study found that the risk of breast cancer for Latina mushroom agricultural workers in California was sharply higher than the risk for any other type of agriculture, for reasons that are not clear.'
+  tfidf_val: 1314.5650886168478
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: This high risk may have been the result of pesticide use in enclosed areas or contaminants in the compost (white button and related mushrooms typically are grown on straw-bedded sterilized horse manure compost).
+  tfidf_val: 364.24028614415613
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'In addition to neutralizing the carcinogenic compounds in raw mushrooms, cooking would serve to eradicate any pathogenic bacteria on the surface of the mushrooms.'
+  tfidf_val: 384.479496228554
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: 'It makes sense to thoroughly clean and cook any white button, Portobello, crimini or related mushrooms before consuming them.'
+  tfidf_val: 98.64959620631853
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on mushrooms._'
+  tfidf_val: 256.36293407787105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

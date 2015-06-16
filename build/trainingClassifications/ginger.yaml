@@ -1,0 +1,88 @@
+- sentence: Ginger refers to the fresh or dried rhizome (underground stem) of the ginger plant (Zingiber officinale).
+  tfidf_val: 822.0735377129878
+  'doc#': 340
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Ginger Zingiber officinale reduces acute chemotherapy-induced nausea a URCC CCOP study of 576 patients.md
+- sentence: 'Ginger contains numerous compounds that have been shown to have antioxidant, anti-inflammatory, antimicrobial, antiviral, antifungal, anti-arthritic, hypotensive, antiatherogenic, radioprotective and antiemetic properties.'
+  tfidf_val: 635.7102606665787
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: 'Ginger is believed to affect serotonin receptors in the digestive tract and it has been traditionally used to aid digestion and treat stomach upset and nausea (including pregnancy-related "morning sickness").'
+  tfidf_val: 980.2545971522184
+  'doc#': 340
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Ginger Zingiber officinale reduces acute chemotherapy-induced nausea a URCC CCOP study of 576 patients.md
+- sentence: Ginger may assist in prevention of the progression of type 2 diabetes through its hypoglycemic effects and by increasing insulin sensitivity.
+  tfidf_val: 444.76396751609093
+  'doc#': 340
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Ginger Zingiber officinale reduces acute chemotherapy-induced nausea a URCC CCOP study of 576 patients.md
+- sentence: 'Ginger also contains components shown to have anti-cancer effects, including various gingerols, shogaols, paradols, as well as β-elemene, gingerdione and zingerone.'
+  tfidf_val: 509.16940003732947
+  'doc#': 39
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anti-Oxidative and Anti-Inflammatory Effects of Ginger in Health and Physical Activity Review of Current Evidence.md
+- sentence: 'Ginger has been shown to have protective effect in cell and animal prostate cancer models and to suppress colorectal, skin and lung carcinogenesis in laboratory animals.'
+  tfidf_val: 672.8814035472893
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Ginger has also been shown to inhibit the growth of leukemia cells, as well as gastric, pancreatic, liver and ovarian cancer cells in the laboratory.'
+  tfidf_val: 941.9304777211111
+  'doc#': 588
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Effectiveness of Cucurbitacin B in BRCA1 Defective Breast Cancer Cells.md
+- sentence: Ginger has been found to significantly inhibit mammary tumorigenesis and tumor growth in laboratory mice when fed in drinking water.
+  tfidf_val: 896.0076370979492
+  'doc#': 97
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Beneficial bacteria stimulate host immune cells to counteract dietary and genetic predisposition to mammary cancer in mi.md
+- sentence: 'Ginger components 6-Shogaol and [6]-gingerol have been shown to inhibit cell adhesion, invasion, and motility in both hormone receptor positive (ER+/PR+) and triple negative (ER-/PR-/HER2-) human breast cancer cells in the laboratory.'
+  tfidf_val: 1607.1367676288278
+  'doc#': 102
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Dietary Supplements Reactivate ER Expression in ER-Negative Breast Cancer Cells by Active Chromatin Modificati.md
+- sentence: 'Ginger has been found to be effective in treating chemotherapy-induced nausea and vomiting, although not all studies agree.'
+  tfidf_val: 1227.9610675535487
+  'doc#': 340
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Ginger Zingiber officinale reduces acute chemotherapy-induced nausea a URCC CCOP study of 576 patients.md
+- sentence: The key appears to be to take the ginger _before_ undergoing a chemotherapy treatment as well as afterwards.
+  tfidf_val: 643.8768853418984
+  'doc#': 340
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Ginger Zingiber officinale reduces acute chemotherapy-induced nausea a URCC CCOP study of 576 patients.md
+- sentence: 'However, it has not been determined whether this reduction in gastrointestinal symptoms is accompanied by a reduction in the effectiveness of chemotherapy.'
+  tfidf_val: 309.4997364022948
+  'doc#': 340
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Ginger Zingiber officinale reduces acute chemotherapy-induced nausea a URCC CCOP study of 576 patients.md
+- sentence: 'Until more research establishes the safety of using ginger during chemotherapy, we do not recommend it.'
+  tfidf_val: 686.7506475524455
+  'doc#': 340
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Ginger Zingiber officinale reduces acute chemotherapy-induced nausea a URCC CCOP study of 576 patients.md
+- sentence: 'On the other hand, ginger should be avoided during radiation treatment since it has been shown to help protect cells against the cytotoxic effects of radiation.'
+  tfidf_val: 662.6127416737085
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: "Edible tropical ginger (Zingiber zerumbet Smith), also known as subtropical ginger, contains compounds such as zerumbone and 1'-acetoxychavicol acetate, which have been shown to have anti-breast cancer effects in the laboratory."
+  tfidf_val: 845.694536722262
+  'doc#': 340
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Ginger Zingiber officinale reduces acute chemotherapy-induced nausea a URCC CCOP study of 576 patients.md
+- sentence: 'However, note that this ginger is typically not sold in the U.S. and many "tropical gingers" are inedible ornamental plants.'
+  tfidf_val: 427.16627137733553
+  'doc#': 340
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Ginger Zingiber officinale reduces acute chemotherapy-induced nausea a URCC CCOP study of 576 patients.md
+- sentence: 'Wild ginger (Asarum canadense), which is used in some weight loss and Chinese herbal preparations, should be avoided.'
+  tfidf_val: 438.9946590475553
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Wild ginger incorporates aristolochic acid, which has been shown to be toxic to the kidneys and is a suspected human carcinogen.'
+  tfidf_val: 397.76992526670375
+  'doc#': 340
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Ginger Zingiber officinale reduces acute chemotherapy-induced nausea a URCC CCOP study of 576 patients.md
+- sentence: 'Ginger ale or ginger beer is a soft drink that, as formulated commercially in the U.S., typically contains high amounts of sugar and low or nonexistent amounts of ginger.'
+  tfidf_val: 1206.4154529037635
+  'doc#': 340
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Ginger Zingiber officinale reduces acute chemotherapy-induced nausea a URCC CCOP study of 576 patients.md
+- sentence: 'For example Canada Dry regular ginger ale contains the following ingredients: carbonated water, high fructose syrup and/or sugar, citric acid, natural flavors, sodium benzoate and caramel color.'
+  tfidf_val: 498.19710550435525
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on ginger._'
+  tfidf_val: 408.40218839226554
+  'doc#': 340
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Ginger Zingiber officinale reduces acute chemotherapy-induced nausea a URCC CCOP study of 576 patients.md

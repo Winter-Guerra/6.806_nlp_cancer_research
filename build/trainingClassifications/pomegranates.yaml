@@ -1,0 +1,76 @@
+- sentence: 'Pomegranates are a good source of important polyphenols, including ellagic acid, punicic acid, ursolic acid, luteolin, delphinidin, and several anthocyanins.'
+  tfidf_val: 1076.3052798988954
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: Pomegranates are also a good dietary source of the lignan enterolactone.
+  tfidf_val: 444.75685811685616
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Pomegranates have been shown to suppress inflammation and joint damage in rheumatoid arthritis, improve hypertension and heart disease, reduce cholesterol, protect against UVB-induced damage to human skin, protect the brain, and improve sperm quality in rats.'
+  tfidf_val: 480.66917000779335
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: 'In addition, pomegranates have been shown to inhibit prostate cancer growth in mice, retard pancreatic cancer cell growth, and inhibit the proliferation of human oral, colon and lung cancer cells.'
+  tfidf_val: 1552.987348032337
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Pomegranates and pomegranate extracts have been shown to inhibit breast cancer cell proliferation and invasion and promote cell apoptosis in both estrogen receptor positive (ER+) and negative ER- breast cancer cells in a dose dependent manner, as well as preventing mammary tumor formation in HER2/neu transgenic mice.'
+  tfidf_val: 1945.1917429020225
+  'doc#': 102
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Dietary Supplements Reactivate ER Expression in ER-Negative Breast Cancer Cells by Active Chromatin Modificati.md
+- sentence: 'Pomegranate seed oil, fermented pomegranate juice polyphenols, and ellagic acid have all been shown to inhibit angiogenesis in breast cancer cells.'
+  tfidf_val: 2040.325887599958
+  'doc#': 283
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Efficacy and Safety of Pomegranate Medicinal Products for Cancer.md
+- sentence: Pomegranate fermented juice polyphenols and pomegranate seed oil have also been shown to reduce the number of carcinogen-induced mammary tumors in mice.
+  tfidf_val: 1841.6036943261897
+  'doc#': 283
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Efficacy and Safety of Pomegranate Medicinal Products for Cancer.md
+- sentence: 'In addition, pomegranates have been shown to inhibit aromatase activity.'
+  tfidf_val: 564.5914933665135
+  'doc#': 383
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Inhibitory effect of luteolin on estrogen biosynthesis in human ovarian granulosa cells by suppression of aromatase CYP1.md
+- sentence: Pomegranate juice has been shown to inhibit metastatic processes in breast cancer cells.
+  tfidf_val: 945.0432450350423
+  'doc#': 283
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Efficacy and Safety of Pomegranate Medicinal Products for Cancer.md
+- sentence: 'Both pomegranate juice and the combination of luteolin, ellagic acid and punicic acid stimulated the expression of genes that increase breast cancer cell adhesion, as well as inhibiting genes that stimulate cell migration and inhibit breast cancer cells movement to the bone in one study.'
+  tfidf_val: 1714.1661372943508
+  'doc#': 484
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Pomegranate juice and specific components inhibit cell and molecular processes critical for metastasis of breast cancer.md
+- sentence: 'In addition, the treatments reduced pro-inflammatory compounds, which implies that they could reduce inflammation and its promotion of cancer progression.'
+  tfidf_val: 522.5967551872242
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: Pomegranates would appear to be an ideal chemopreventative agent against breast cancer were it not for the fact that pomegranates (and especially pomegranate seeds) are a significant source of a wide variety of phytoestrogens (plant estrogens).
+  tfidf_val: 904.3307014214114
+  'doc#': 283
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Efficacy and Safety of Pomegranate Medicinal Products for Cancer.md
+- sentence: 'While pomegranate juice is beneficial, its estrogenic components may make pomegranate harmful at concentrated dosages (even for ER- cancer) and we do not know the levels or conditions under which this might be true.'
+  tfidf_val: 1787.8948444055277
+  'doc#': 283
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Efficacy and Safety of Pomegranate Medicinal Products for Cancer.md
+- sentence: 'The safety and efficacy of consumption of large amounts of pomegranate juice, pomegranate seed oil and pomegranate extract needs to be confirmed in large scale clinical trials.'
+  tfidf_val: 2641.800677747074
+  'doc#': 283
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Efficacy and Safety of Pomegranate Medicinal Products for Cancer.md
+- sentence: 'Therefore, we conclude that breast cancer patients, survivors and those at high risk can enjoy pomegranates and pomegranate juice in moderation, but should avoid "enhanced" pomegranate juice, pomegranate seed oil and pomegranate extracts.'
+  tfidf_val: 3373.367867681823
+  'doc#': 283
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Efficacy and Safety of Pomegranate Medicinal Products for Cancer.md
+- sentence: 'Earlier studies suggested that, like grapefruit juice, pomegranate juice could affect the metabolism of certain drugs.'
+  tfidf_val: 1063.2462570425391
+  'doc#': 283
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Efficacy and Safety of Pomegranate Medicinal Products for Cancer.md
+- sentence: 'However, it has since been demonstrated that pomegranate juice does not generally interfere with oral or intravenous medication.'
+  tfidf_val: 974.7884202237722
+  'doc#': 283
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Efficacy and Safety of Pomegranate Medicinal Products for Cancer.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on pomegranates._'
+  tfidf_val: 256.36293407787105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

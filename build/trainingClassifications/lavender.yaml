@@ -1,0 +1,48 @@
+- sentence: 'English lavender (Lavandula angustifolia) essential oil has been used for centuries to reduce pain, combat infection, reduce anxiety and promote relaxation.'
+  tfidf_val: 259.9134835907232
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'Like other essential oils, lavender essential oil is very concentrated; at least 60 lbs of lavender flowers typically are used to make 16 fluid ounces of the oil.'
+  tfidf_val: 458.3478075670025
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'The oil is used in detergents, baked goods, candles, cosmetics, body powder, massage oil, shampoo, soap, perfume, and tea.'
+  tfidf_val: 460.66209874993257
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: It is also an ingredient in some breast enlargement pills and creams.
+  tfidf_val: 300.59648926099294
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Some cancer patients are receiving aromatherapy massage using lavender essential oil.
+  tfidf_val: 443.08134391560657
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Lavender essential oil has been shown to have a high antioxidant content and a component of lavender, perillyl alcohol, has been studied in cancer prevention.'
+  tfidf_val: 496.55805632639897
+  'doc#': 80
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Applying the Precautionary Principle to Nutrition and Cancer.md
+- sentence: 'However, lavender essential oil (in the concentrations found in commercial hair care and body cream products) was reported to cause breast enlargement in otherwise healthy and normal boys in one well known 2007 New England Journal of Medicine article.'
+  tfidf_val: 647.959626049572
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'While there have not been any follow up studies that confirmed the estrogenic effects of lavender-containing skin products, applying lavender creams or oils to the skin appears unwise.'
+  tfidf_val: 345.4494217371911
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: Use of lavender products can trigger allergic contact dermatitis and allergic reactions to lavender are not uncommon.
+  tfidf_val: 315.66510989948154
+  'doc#': 593
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Safety of Cruciferous Plants in Humans A Systematic Review.md
+- sentence: 'For example, lavender flower satchels placed inside pillowcases have been found to cause facial rashes in some individuals.'
+  tfidf_val: 118.12419495204668
+  'doc#': 593
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Safety of Cruciferous Plants in Humans A Systematic Review.md
+- sentence: Lavender baby products probably should be avoided.
+  tfidf_val: 318.20486724401894
+  'doc#': 464
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytochemical characterization and antioxidant properties of baby-leaf watercress produced under organic production syst.md
+- sentence: '_Note that while we are continually searching for new evidence specifically concerning lavender, there is not much interest in it among breast cancer researchers, so few studies are available._'
+  tfidf_val: 828.6387927922457
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md

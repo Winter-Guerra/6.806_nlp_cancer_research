@@ -1,0 +1,60 @@
+- sentence: 'Safflower (Carthamus tinctorius L.) oil is a polyunsaturated edible seed oil consisting primarily (76%-82%) of the omega-6 fatty acid linoleic acid.'
+  tfidf_val: 910.3199843892089
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: Linoleic acid is converted into arachidonic acid in the body.
+  tfidf_val: 484.13431740124645
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: Safflower oil has been shown to have pro-inflammatory properties.
+  tfidf_val: 245.90686710224574
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: Linoleic acid has been shown to enhance the invasion and peritoneal metastasis of gastric carcinoma cells.
+  tfidf_val: 512.6460992196862
+  'doc#': 428
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Metastaticgastric and Breast Cancer Cells Consume Oleic Acid in an AMPK Dependent Manner.md
+- sentence: Safflower oil has the highest proportion of linoleic acid of all common cooking oils.
+  tfidf_val: 353.5088189665021
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: 'In addition to cancer cell studies, numerous experiments using either carcinogen-induced tumors or transplanted mammary tumors in mice have demonstrated that linoleic acid promotes mammary tumor development.'
+  tfidf_val: 1294.490007860097
+  'doc#': 97
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Beneficial bacteria stimulate host immune cells to counteract dietary and genetic predisposition to mammary cancer in mi.md
+- sentence: Daughter mice of female mice fed a high linoleic diet are more prone to develop mammary tumors.
+  tfidf_val: 1117.5254685923992
+  'doc#': 97
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Beneficial bacteria stimulate host immune cells to counteract dietary and genetic predisposition to mammary cancer in mi.md
+- sentence: 'One study reported that women with a specific genotype (ALOX5AP −4900 A>G polymorphism) who consumed a significant amount of linoleic acid in their diets had an increased risk of breast cancer.'
+  tfidf_val: 1389.6930208036324
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Another study found increased breast cancer risk among women cooking primarily with high linoleic acid vegetable or corn oil compared to women using olive or canola oil.
+  tfidf_val: 1531.4172630409219
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Women with breast cancer have been found to have higher levels of omega-6 in their breast tissue than similar women without breast cancer.
+  tfidf_val: 1792.0958375699956
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Several studies have found that lower dietary omega-6/omega-3 ratios are associated with reduced risk of breast cancer.
+  tfidf_val: 1381.3836512261578
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Consuming safflower oil would tend to increase the ratio for most women because of its high omega-6 content.
+  tfidf_val: 396.8780226449703
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: 'Note that while we are continually searching for new evidence specifically concerning this food, there is not much interest in it among breast cancer researchers, so few studies are available.'
+  tfidf_val: 986.7099244707111
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on safflower oil._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

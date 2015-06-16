@@ -1,0 +1,36 @@
+- sentence: Cranberries contain among the highest concentration of antioxidants per serving size of all fruits.
+  tfidf_val: 228.41237030230945
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'They are a good source of phytochemicals that include flavonol glycosides, anthocyanins, proanthocyanidins, resveratrol, and organic and phenolic acids.'
+  tfidf_val: 950.2509660466416
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: Cranberries are also a good dietary source of the lignan enterolactone.
+  tfidf_val: 444.75685811685616
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Cranberries have been shown to have antiproliferative activity against cancer in vitro and in vivo and to induce apoptosis.
+  tfidf_val: 476.7443947403742
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'When fed to mice bearing human breast cancer cells, cranberry presscake (the material remaining after squeezing juice from the berries) has been shown to decrease the growth and metastasis of the tumors.'
+  tfidf_val: 876.0956470289113
+  'doc#': 233
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary selenium supplementation modifies breast tumor growth and metastasis.md
+- sentence: 'Cranberries are a good source of resveratrol, which has been shown to increase the effects of radiation treatment, aromatase inhibitors and the chemotherapy drug Taxol (paclitaxel) against breast cancer.'
+  tfidf_val: 687.9488538461487
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: Lingonberries are a close relative of cranberries.
+  tfidf_val: 110.27944290304164
+  'doc#': 388
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Intake of fish and marine n-3 polyunsaturated fatty acids and risk of breast cancer meta-analysis of data from 21 indepe.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on cranberries._'
+  tfidf_val: 256.36293407787105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

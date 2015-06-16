@@ -1,0 +1,116 @@
+- sentence: 'Sunflower (Helianthus annuus) oil ranks fourth in world vegetable oil production, after palm oil, soybean oil and canola oil.'
+  tfidf_val: 1262.6314112994678
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'Sunflower oil (sunflower seed oil) is an abundant dietary source of unsaturated fat (primarily the polyunsaturated omega-6 fatty acid, linoleic acid), vitamin E, and some phenolic compounds.'
+  tfidf_val: 1184.5873929731465
+  'doc#': 65
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antioxidant activity of phenolic compounds identified in sunflower seeds.md
+- sentence: 'Unlike olive oil, canola oil or walnut oil, sunflower oil has not been found to be associated with health benefits such as reducing cardiovascular risk factors.'
+  tfidf_val: 1153.8091952842708
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: Nor has it been associated with any reductions in cancer risk in population studies.
+  tfidf_val: 916.4987158802523
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: The relationships between oil and fat consumption and breast cancer are complex and appear to depend on the specific attributes of the oil or fat in question.
+  tfidf_val: 1347.7867631475465
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'It was originally thought that consumption of fat promoted breast cancer, regardless of the source of the fat.'
+  tfidf_val: 1262.6812149683938
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'The focus then shifted to saturated versus unsaturated fat, with further refinements concerning monounsaturated fatty acids (MUFAs) and polyunsaturated fatty acids (PUFAs).'
+  tfidf_val: 1296.9808448134006
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'More recently, the emphasis has shifted to the balance between omega-6 and omega-3 fatty acids in the diet.'
+  tfidf_val: 648.1750793649941
+  'doc#': 532
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Risks and Benefits of Consumption of Great Lakes Fish.md
+- sentence: The reason for these changes in emphasis is that none of the theories were found to hold consistently in population studies.
+  tfidf_val: 266.3252582938002
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'While the theory that cancer is caused in part by an excess of omega-6 fatty acids in the Western diet appears to be valid, it is not a global explanation for the relationship between oils and fats and breast cancer.'
+  tfidf_val: 1426.6939069367381
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'For example, it does not explain the fact that olive oil, which does not have a high omega-3 content, is protective against breast cancer.'
+  tfidf_val: 749.8505208146272
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'In the case of sunflower oil, there is evidence from experiments using either carcinogen-induced or transplanted animal mammary tumor models, as well as in vitro studies, which demonstrates that linoleic acid, the primary fatty acid in sunflower oil, promotes mammary tumor development.'
+  tfidf_val: 1261.8660980907446
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'One study found that women with a specific genotype (ALOX5AP −4900 A>G polymorphism) who consumed a significant amount of linoleic acid in their diets had an increased risk of breast cancer.'
+  tfidf_val: 1358.7097329682265
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Another study found increased breast cancer risk among women cooking primarily with vegetable or corn oil compared to women using olive or canola oil.
+  tfidf_val: 1425.0652649785084
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Women with breast cancer have been found to have higher levels of omega-6 in their breast tissue than similar women without breast cancer.
+  tfidf_val: 1792.0958375699956
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Several studies have found that lower dietary omega-6/omega-3 ratios are associated with reduced risk of breast cancer.
+  tfidf_val: 1381.3836512261578
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Consuming sunflower oil would tend to increase the ratio for most women because of its high omega-6 content.
+  tfidf_val: 401.335915370309
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: It has been demonstrated that consumption of either olive oil or eicosapentaenoic acid (found in fish oil) improves absorption and metabolism of beta-carotene in food compared with linoleic acid.
+  tfidf_val: 1074.368845181474
+  'doc#': 532
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Risks and Benefits of Consumption of Great Lakes Fish.md
+- sentence: This could be important for reducing breast cancer risk since dietary carotenoids have been found to be associated with lower risk of breast cancer.
+  tfidf_val: 2089.7415917718436
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Sunflower seeds have been shown to have antioxidant activities and are a very good source of melatonin and vitamin B6.
+  tfidf_val: 739.4850410831581
+  'doc#': 260
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effect of Melatonin on Tumor Growth and Angiogenesis in Xenograft Model of Breast Cancer.md
+- sentence: 'Of the products typically consumed as snack foods, pistachio and sunflower kernel were found to be richest in phytosterols, according to one study.'
+  tfidf_val: 328.8971705260982
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: 'However, sunflower seeds and kernels can contain high levels of the carcinogenic heavy metal cadmium, since sunflower plants have a tendency to accumulate cadmium.'
+  tfidf_val: 1456.5953564503855
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: Sunflower seeds grown for consumption as seeds are known as confectionary sunflower seeds.
+  tfidf_val: 789.957202553735
+  'doc#': 65
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antioxidant activity of phenolic compounds identified in sunflower seeds.md
+- sentence: 'U.S. confectionary sunflower seeds are grown primarily in North and South Dakota, a region with relatively high cadmium levels in the soil.'
+  tfidf_val: 801.1558338839287
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: Stricter European rules on cadmium in sunflower imports from the U.S. have caused confectionary sunflower seeds grown in U.S. soils with lower levels of cadmium to be diverted to the European market.
+  tfidf_val: 1386.5136244889782
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: 'Efforts have been under way for several years to breed sunflower hybrids that will take up less cadmium, however it is not clear to what extent U.S. consumers are benefiting from such efforts.'
+  tfidf_val: 795.8189119771262
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: 'In addition, sunflower seeds also contains relatively high levels of copper, which has been shown to increase angiogenesis and metastasis of breast cancer.'
+  tfidf_val: 678.0875388211648
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on sunflower oil._'
+  tfidf_val: 282.83938001277414
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md

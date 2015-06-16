@@ -1,0 +1,104 @@
+- sentence: 'Corn oil has a relatively high omega-6 fatty acid content, in the form of linoleic acid.'
+  tfidf_val: 908.0674661444042
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: Linoleic acid is converted into arachidonic acid in the body.
+  tfidf_val: 484.13431740124645
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: 'Increasing consumption of corn oil has been shown in animals studies to be associated with higher risks of cancer of the stomach, prostate, pancreas, liver and lung.'
+  tfidf_val: 759.672475591007
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'However, note that cornmeal appears to be protective against colon cancer, possibly due to its fiber content.'
+  tfidf_val: 475.341352192126
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Exposure to cooking oil fumes, including corn oil fumes, has been shown to increase the risk of lung cancer.'
+  tfidf_val: 1117.932891780525
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'One study published in 2008 attributed the documented increase in the incidence of esophageal cancer in the U.S. to increasing carbohydrate consumption, including corn.'
+  tfidf_val: 708.0305521503226
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Various studies of non-U.S. populations have found that consumption of corn contaminated with fusarium fungi accounts for high levels of esophageal cancer in parts of Iran, Brazil, South Africa, and China.'
+  tfidf_val: 705.1172307197854
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Fusarium fungi produce fumonisins that reduce to compounds that synthesize carcinogenic nitrosamines.
+  tfidf_val: 188.56638829928153
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: Fumonisins have been found to survive most types of baking and frying.
+  tfidf_val: 246.28248260678743
+  'doc#': 282
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of traditional chinese cooking methods on formation of heterocyclic aromatic amines in lamb patties.md
+- sentence: Both fumonisin and aflatoxin (also found in corn) levels are regulated by the Food and Drug Administration in corn meant for human consumption and animal feed.
+  tfidf_val: 433.88302299137627
+  'doc#': 490
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Potential Risks Resulting from FruitVegetable-Drug Interactions Effects on Drug-Metabolizing Enzymes and Drug Transporte.md
+- sentence: Numerous studies have shown that a diet high in corn oil stimulates the formation of breast tumors in laboratory rats.
+  tfidf_val: 667.144424791678
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: Several experiments also have shown that offspring of rat mothers fed high corn oil diets are more likely to develop mammary tumors than offspring of mothers fed canola oil diets.
+  tfidf_val: 1386.229039122994
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: "The explanations given for these findings are related to corn oil's relatively high level of omega-6 fatty acids."
+  tfidf_val: 636.7078332850501
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'One study reported that women with a specific genotype (ALOX5AP −4900 A>G polymorphism) who consumed a significant amount of linoleic acid in their diets had an increased risk of breast cancer.'
+  tfidf_val: 1389.6930208036324
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Another study found increased breast cancer risk among women cooking primarily with high linoleic acid vegetable or corn oil compared to women using olive or canola oil.
+  tfidf_val: 1531.4172630409219
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Women with breast cancer have been found to have higher levels of omega-6 in their breast tissue than similar women without breast cancer.
+  tfidf_val: 1792.0958375699956
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Several studies have found that lower dietary omega-6/omega-3 ratios are associated with reduced risk of breast cancer.
+  tfidf_val: 1381.3836512261578
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Consuming corn oil would tend to increase the ratio for most women because of its high omega-6 content.
+  tfidf_val: 502.14838458523116
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'There is little available information concerning the relationship between the consumption of fresh corn, cornmeal, cornstarch and grits and breast cancer risk.'
+  tfidf_val: 939.9057722970801
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Sweet corn contains some melatonin.
+  tfidf_val: 720.1405832665226
+  'doc#': 260
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effect of Melatonin on Tumor Growth and Angiogenesis in Xenograft Model of Breast Cancer.md
+- sentence: 'Melatonin protects against breast cancer in several ways, including by reducing aromatase activity within the breast, thereby reducing estrogen production.'
+  tfidf_val: 1094.32768689471
+  'doc#': 426
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Melatonin modulates aromatase activity and expression in endothelial cells.md
+- sentence: 'Sweet corn and yellow cornmeal contain the carotenoids lutein and zeaxanthin, which may have chemopreventive properties.'
+  tfidf_val: 310.6277287174527
+  'doc#': 169
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of sweet foods and mammographic breast density a cross-sectional study.md
+- sentence: 'Cornmeal, cornstarch and grits do not appear to promote breast cancer directly.'
+  tfidf_val: 645.213358404442
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'However, one study found a link between increased starch intake after a diagnosis of early-stage breast cancer and a greater risk of recurrence.'
+  tfidf_val: 1297.9918860314249
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on corn oil._'
+  tfidf_val: 343.516517073218
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md

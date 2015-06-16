@@ -1,0 +1,108 @@
+- sentence: 'Celery (Apium graveolens) is an excellent dietary source of vitamin C and vitamin K, and also contains potassium, fiber, manganese, molybdenum and some B vitamins.'
+  tfidf_val: 728.1883360359343
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: 'Among vegetables, celery has relatively high sodium and nitrate levels, but the amounts are still low compared to those found in processed foods.'
+  tfidf_val: 444.5042831797064
+  'doc#': 289
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Endogenous Enzymes Heat and pH Affect Flavone Profiles in Parsley Petroselinum crispum var neapolitanum and Celery Apium.md
+- sentence: 'Celery has been shown to have anti-inflammatory, antioxidant, antifungal, antimicrobial, and diuretic properties and can help lower cholesterol levels.'
+  tfidf_val: 480.23955428989956
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: 'Celery contains several substances with suspected or demonstrated cancer fighting properties, including apigenin, apiuman, luteolin, chrysoeriol, coumarin, and several polyacetylenes and phthalides.'
+  tfidf_val: 787.8776087283325
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: 'Celery seeds also contain perillyl alcohol, which has been found to have chemopreventive activity.'
+  tfidf_val: 390.7611357760527
+  'doc#': 594
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The association of alcohol consumption with mammographic density in a multiethnic urban population.md
+- sentence: Celery seed extracts have been shown to inhibit carcinogen-induced liver and stomach cancer in laboratory animals.
+  tfidf_val: 452.94470298045024
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Apigenin has been shown to induce apoptosis in human skin, thyroid, gastric, liver, colon, cervical, and prostate cancer cells, and to inhibit migration and invasion of ovarian cancer cells.'
+  tfidf_val: 1351.8204127334736
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Luteolin has been shown to induce apoptosis in oral cancer calls, to promote cell cycle arrest and apoptosis in colon cancer cells, and to inhibit insulin-like growth factor 1 (IGF-1) receptor signaling in prostate cancer cells.'
+  tfidf_val: 1864.5141260227308
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Luteolin and apigenin have also been shown increase the anti-cancer effects of the chemotherapy drug Taxol (paclitaxel).
+  tfidf_val: 1393.2396644381934
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: 'Celery consumption has been found to be associated with lower risks of lung, ovarian, gastric and colorectal cancers in population studies.'
+  tfidf_val: 507.998498151115
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: The flavone apigenin has been shown to exhibit potent growth-inhibitory effects in HER2/neu overexpressing breast cancer cells; exposure of HER2+ breast cancer cells to apigenin results in induction of apoptosis by depleting HER2/neu protein.
+  tfidf_val: 2103.5916546105213
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: The growth-inhibitory effects of apigenin are less powerful for those cells expressing normal levels of HER2/neu.
+  tfidf_val: 963.7524784974222
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: Perillyl alcohol has been shown to inhibit both ER+ and ER- human breast cancer cell growth and suppress growth and metastasis in a nude mouse model.
+  tfidf_val: 1177.9810870934853
+  'doc#': 102
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Dietary Supplements Reactivate ER Expression in ER-Negative Breast Cancer Cells by Active Chromatin Modificati.md
+- sentence: 'Celery has been shown to have a modest ability to inhibit aromatase activity (the synthesis of estrogen from androgens within the body), which is important for reducing growth-stimulatory effects in estrogen-dependent breast cancer.'
+  tfidf_val: 1001.0419545217188
+  'doc#': 383
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Inhibitory effect of luteolin on estrogen biosynthesis in human ovarian granulosa cells by suppression of aromatase CYP1.md
+- sentence: 'A major Italian population study including 2,569 women with breast cancer found that the risk of breast cancer was reduced for increasing intake of flavones such as apigenin and luteolin in the diet.'
+  tfidf_val: 2056.934967761463
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Like carrots, parsnips, fennel, dill and parsley, celery is an apiaceous or umbelliferae vegetable.'
+  tfidf_val: 575.350157537474
+  'doc#': 289
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Endogenous Enzymes Heat and pH Affect Flavone Profiles in Parsley Petroselinum crispum var neapolitanum and Celery Apium.md
+- sentence: The tender innermost stalks of a celery plant are called the celery heart.
+  tfidf_val: 738.3420912378632
+  'doc#': 289
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Endogenous Enzymes Heat and pH Affect Flavone Profiles in Parsley Petroselinum crispum var neapolitanum and Celery Apium.md
+- sentence: Celery seed spice can be high in sodium.
+  tfidf_val: 371.53637581891627
+  'doc#': 289
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Endogenous Enzymes Heat and pH Affect Flavone Profiles in Parsley Petroselinum crispum var neapolitanum and Celery Apium.md
+- sentence: 'Celery root (Apium graveolens rapaceum), also called celeriac, is an edible root vegetable closely related to celery.'
+  tfidf_val: 739.4407035265313
+  'doc#': 289
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Endogenous Enzymes Heat and pH Affect Flavone Profiles in Parsley Petroselinum crispum var neapolitanum and Celery Apium.md
+- sentence: 'The stalks and leaves of celery root generally are not eaten because of their unpleasant taste, however the celery root tuber has an excellent flavor.'
+  tfidf_val: 791.7607211643649
+  'doc#': 289
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Endogenous Enzymes Heat and pH Affect Flavone Profiles in Parsley Petroselinum crispum var neapolitanum and Celery Apium.md
+- sentence: 'Celery root contains falcarinol, which has been shown to have toxicity against acute lymphoblastic leukemia cells.'
+  tfidf_val: 393.0121701495327
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'We do not recommend taking apigenin, luteolin, perillyl alcohol or celery seed extract supplements.'
+  tfidf_val: 739.0020604232207
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: 'None of these have been demonstrated to be safe and effective; in fact, apigenin may promote breast cancer growth in some circumstances.'
+  tfidf_val: 793.2974951066234
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: Women who are pregnant or nursing should not take celery seed since it can stimulate the uterus.
+  tfidf_val: 375.5957850793949
+  'doc#': 289
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Endogenous Enzymes Heat and pH Affect Flavone Profiles in Parsley Petroselinum crispum var neapolitanum and Celery Apium.md
+- sentence: Non-organic celery must be washed very thoroughly to remove pesticide residue as much as possible.
+  tfidf_val: 365.74786933055066
+  'doc#': 289
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Endogenous Enzymes Heat and pH Affect Flavone Profiles in Parsley Petroselinum crispum var neapolitanum and Celery Apium.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on celery._'
+  tfidf_val: 370.13944908177626
+  'doc#': 289
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Endogenous Enzymes Heat and pH Affect Flavone Profiles in Parsley Petroselinum crispum var neapolitanum and Celery Apium.md

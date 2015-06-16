@@ -1,0 +1,56 @@
+- sentence: Watermelon (Citrullus vulgaris) is a rich dietary source of vitamin C and glutathione.
+  tfidf_val: 454.54602479161406
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Watermelon also is an excellent source of carotenoids such as lycopene, beta-carotene, and beta-cryptoxanthin, as well as L-citrulline (an effective precursor of L-arginine) and a small fraction of cucurbitacins, all of which have been shown to have chemopreventive properties.'
+  tfidf_val: 804.3540569407173
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md
+- sentence: 'Watermelon also has been shown to possess anti-inflammatory and antimicrobial properties, and to reduce cardiovascular risk factors by improving glycemic control and ameliorating vascular dysfunction in laboratory animals with type 2 diabetes.'
+  tfidf_val: 613.9028515723612
+  'doc#': 214
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary carbohydrates and breast cancer risk A prospective study of the roles of overall glycemic index and glycemic loa.md
+- sentence: 'Consumption of the watermelon, papaya and cantaloupe (taken together) was found to be associated with a lower risk of breast cancer in one 2009 study of Chinese women.'
+  tfidf_val: 1236.7256416264136
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'However, a previous 2003 study found no reduction in breast cancer risk associated with watermelon consumption.'
+  tfidf_val: 1163.9584573000411
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Cucurbitacins, compounds found in watermelon, have been shown to induce cell cycle arrest and apoptosis in human breast cancer cells.'
+  tfidf_val: 1106.8514410948092
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: The high carotenoid levels found in watermelon are also likely to offer protection against breast cancer.
+  tfidf_val: 661.8753265682944
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Watermelons should be washed before cutting to remove pesticide residue.
+  tfidf_val: 237.42109445490817
+  'doc#': 117
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Brassinosteroids Promote Metabolism of Pesticides in Cucumber.md
+- sentence: 'Although watermelon seeds and watermelon rind (including pickled watermelon rind) are eaten by many peoples across the world, we have not been able to determine whether this practice is completely safe.'
+  tfidf_val: 172.31020855531534
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: 'Colocynth (Citrullus colocynthis), also known as bitter apple or bitter cucumber, and bitter Hawkesbury watermelon (Citrullus lanatus) are closely related to watermelon, but with a much higher fraction of cucurbitacins.'
+  tfidf_val: 382.872517534089
+  'doc#': 459
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic Compounds in Apple Malus x domestica Borkh Compounds Characterization and Stability during Postharvest and afte.md
+- sentence: 'Colocynth and other high-cucurbitacin cucurbits are sometimes sold as herbal remedies, including for cancer.'
+  tfidf_val: 809.7248007811635
+  'doc#': 588
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Effectiveness of Cucurbitacin B in BRCA1 Defective Breast Cancer Cells.md
+- sentence: 'However, while chemotherapy based on cucurbitacins may eventually be developed, these are toxic chemicals whose safety profiles and appropriate dosages have not been determined.'
+  tfidf_val: 254.42404614215343
+  'doc#': 340
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Ginger Zingiber officinale reduces acute chemotherapy-induced nausea a URCC CCOP study of 576 patients.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on watermelon._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

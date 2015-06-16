@@ -1,0 +1,96 @@
+- sentence: 'Like herring, mackerel is a good source of vitamin D, vitamin B6, coenzyme Q10 (CoQ10), selenium and omega-3 polyunsaturated fatty acids.'
+  tfidf_val: 710.9752020028986
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: 'Generally speaking, the benefits of consuming fatty fish are thought to outweigh the potentially detrimental effects of the toxins from pollution and other sources that tend to accumulate in their adipose tissue.'
+  tfidf_val: 1136.8002585870877
+  'doc#': 532
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Risks and Benefits of Consumption of Great Lakes Fish.md
+- sentence: Consumption of fatty fish or fish oil has been found to reduce the risk of coronary heart disease.
+  tfidf_val: 2016.7149215119227
+  'doc#': 532
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Risks and Benefits of Consumption of Great Lakes Fish.md
+- sentence: 'Consumption of dried mackerel was shown in one study to improve the learning ability of laboratory mice, apparently by increasing the level of the marine omega-3 fatty acid docosahexaenoic acid (DHA) in their brains.'
+  tfidf_val: 935.9333897013709
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: 'Eating fatty fish such as mackerel has been found to be associated with reduced risks of leukemia, multiple myeloma, and non-Hodgkin lymphoma, as well as renal cell, endometrial and prostate cancer.'
+  tfidf_val: 1083.3024638450443
+  'doc#': 532
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Risks and Benefits of Consumption of Great Lakes Fish.md
+- sentence: 'Like other fatty fish, mackerel contains the marine fatty acids DHA and eicosapentaenoic acid (EPA), which have chemopreventive properties.'
+  tfidf_val: 1381.103426088991
+  'doc#': 532
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Risks and Benefits of Consumption of Great Lakes Fish.md
+- sentence: These marine fatty acids have been shown to inhibit proliferation of breast cancer cells in the laboratory.
+  tfidf_val: 1013.8229593879857
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Relatively high fatty fish intake has been shown to be associated with reduced risk of breast cancer and improved survival.
+  tfidf_val: 1495.9088855758444
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'In one experiment, higher omega-3 to omega-6 fatty acid diets reduced mammary gland density in mice, which in turn reduced carcinogen-induced mammary tumor development.'
+  tfidf_val: 1139.5346524742308
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: Fish oil has been shown to inhibit early stages of mammary tumor development in a mouse model of HER-2/neu overexpressing (HER2+) breast cancer.
+  tfidf_val: 826.8817930210607
+  'doc#': 532
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Risks and Benefits of Consumption of Great Lakes Fish.md
+- sentence: DHA has been demonstrated to reduce bone metastasis in a mouse model of breast cancer.
+  tfidf_val: 669.2365609886531
+  'doc#': 130
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Characterization of synergistic anti-cancer effects of docosahexaenoic acid and curcumin on DMBA-induced mammary tumorig.md
+- sentence: 'Many epidemiological studies have found convincing evidence of a negative association between DHA and EPS intake or fatty fish consumption and the risk of breast cancer, although not all are in agreement.'
+  tfidf_val: 1675.8559830497145
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: One study concluded that higher intakes of fish were actually associated with higher incidence rates of ER+ breast cancer for postmenopausal women.
+  tfidf_val: 1119.6383430221174
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Several studies have found that higher omega-3 to omega-6 fatty acid ratios are associated with reduced risk of breast cancer; consuming mackerel would tend to improve the ratio for most women.
+  tfidf_val: 1546.2520067562068
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Marine fatty acids have also been found to enhance the therapeutic effects of tamoxifen and chemotherapy drugs such as Adriamycin and Taxol.
+  tfidf_val: 461.0919438377081
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: 'However, note that recent research suggests that mackerel and similar fish should not be consumed the day before through the day after a chemotherapy treatment and in moderation during the remaining days of each cycle.'
+  tfidf_val: 916.3018912095904
+  'doc#': 532
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Risks and Benefits of Consumption of Great Lakes Fish.md
+- sentence: 'Mackerel contains a fatty acid (hexadeca-4,7,10,13-tetraenoic acid) that can induce resistance to a broad spectrum of chemotherapy drugs.'
+  tfidf_val: 745.3050149633266
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: Mackerel consumption should be reduced or eliminated by pregnant and nursing mothers since toxins from pollution and other sources might reduce birth weight and are secreted in breast milk.
+  tfidf_val: 467.86530436983975
+  'doc#': 191
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dairy consumption and calcium intake and risk of breast cancer in a prospective cohort The Norwegian Women and Cancer st.md
+- sentence: 'While mackerel is not generally considered a high mercury level fish, king mackerel and other mackerel from the Gulf of Mexico have been found to have high levels of mercury and should be avoided.'
+  tfidf_val: 1190.9108657551765
+  'doc#': 532
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Risks and Benefits of Consumption of Great Lakes Fish.md
+- sentence: 'We recommend against consuming all but modest amounts of smoked mackerel, dried mackerel, salted dried mackerel, or mackerel pâté since such preserved fish foods have been associated with increased risks of gastric, colorectal and other cancers.'
+  tfidf_val: 938.8739056520623
+  'doc#': 532
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Risks and Benefits of Consumption of Great Lakes Fish.md
+- sentence: Pan frying mackerel has been shown to release carcinogenic heterocyclic amines (HCAs) in concentrations high enough to affect human health.
+  tfidf_val: 806.8708617375282
+  'doc#': 282
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of traditional chinese cooking methods on formation of heterocyclic aromatic amines in lamb patties.md
+- sentence: Population studies have found that consumption of fried fish is associated with increased risk of breast cancer.
+  tfidf_val: 1194.3572944727916
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on mackerel._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

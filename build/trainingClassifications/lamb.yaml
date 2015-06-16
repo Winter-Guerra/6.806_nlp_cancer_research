@@ -1,0 +1,164 @@
+- sentence: 'Lamb is a good dietary source of protein, zinc, selenium, B-vitamins and iron.'
+  tfidf_val: 630.7380973177466
+  'doc#': 545
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Selenium intake and breast cancer mortality in a cohort of Swedish women.md
+- sentence: 'Lamb also contains high levels of conjugated linoleic acid (CLA) and stearate, both of which have been shown to induce breast cancer cell death.'
+  tfidf_val: 800.7210876710782
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: "However, the potentially favorable effects of these components appear to be overwhelmed by lamb's high level of saturated fat and the carcinogenic effects of naturally-occurring lamb compounds, lamb additives and lamb preparation methods."
+  tfidf_val: 990.6790265914833
+  'doc#': 282
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of traditional chinese cooking methods on formation of heterocyclic aromatic amines in lamb patties.md
+- sentence: "Diets high in red meat or well-done red meat have been linked in various population studies to higher risks of non-Hodgkin's lymphoma and cancers of the oral cavity, throat, esophagus, lung, stomach, pancreas, liver, colon, rectum, endometrium and prostate."
+  tfidf_val: 1075.5267187820273
+  'doc#': 510
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Racial disparities in red meat and poultry intake and breast cancer risk.md
+- sentence: Most population studies combine lamb with other red meat intake when evaluating the influence of lamb consumption on breast cancer risk and some groups of people seldom eat lamb.
+  tfidf_val: 1342.968040090855
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: >-
+    The following studies specifically included lamb, either as part of red meat
+    consumption, or separately:
+
+
+
+       A prospective study that was designed to investigate the relationship
+    between post-diagnosis diet and survival after breast cancer reported that
+    women in the highest compared to the lowest fifth of intake of saturated fat
+    intake had a significantly higher risk of dying from any cause.
+  tfidf_val: 2305.366856743605
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Saturated fats are found primarily in meats and dairy foods (fatty beef, lamb, pork, poultry with skin, lard, whole milk, cream, butter, cheese) and baked and fried foods containing palm oil, palm kernel oil or coconut oil.'
+  tfidf_val: 799.7230487442321
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'Results were similar for risk of dying specifically from breast cancer, however they did not reach statistical significance.'
+  tfidf_val: 988.5909226025162
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'A Chinese retrospective case-control study designed to investigate the relationship between dietary patterns and risk of breast cancer found that a diet characterized by high consumption of vegetables, fruit, soy, milk, poultry, and fish and low consumption of refined grains, red meat, and pickles was associated with reduced risk of breast cancer.'
+  tfidf_val: 2562.543868730766
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: A Uruguayan study which analyzed 39 food groups to determine association with ductal breast cancer reported that a dietary pattern that included lamb was associated with increased breast cancer risk.
+  tfidf_val: 2280.2500286757386
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'A study that included 52,158 postmenopausal women reported that, comparing the fifth to the first quintile, red meat, the heterocyclic amine (HCA) 2-amino-3,8-dimethylimidazo[4,5-f]quinoxaline, and dietary iron each were associated with increased risk of breast cancer.'
+  tfidf_val: 1750.832805628358
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: "Higher red meat consumption during adolescence by women in the Nurses' Health Study II has been found to be associated with increased risk of premenopausal breast cancer in adulthood."
+  tfidf_val: 1525.7462082903623
+  'doc#': 232
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary protein sources in early adulthood and breast cancer incidence prospective cohort study.md
+- sentence: A UK study found that both pre- and postmenopausal women who consumed the most meat (including red meat) had the highest risk of breast cancer.
+  tfidf_val: 1511.413335570396
+  'doc#': 510
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Racial disparities in red meat and poultry intake and breast cancer risk.md
+- sentence: >-
+    A number of factors may account for the findings of increased breast cancer
+    risk:
+
+
+
+       The U.S. lamb industry uses zeranol (Ralgro), a non-steroidal substance
+    with estrogenic activity, as a growth promoter.
+  tfidf_val: 990.6961739655258
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Zeranol has been found to stimulate human breast cancer cell growth and proliferation.
+  tfidf_val: 651.9602367025825
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Other growth promoters (mostly hormones) that are routinely administered to lamb are also suspected to contribute to breast cancer risk.
+  tfidf_val: 922.9715928752545
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Irradiation of lamb, which is widespread in the U.S., has been found to result in the formation of alkylcyclobutanones, which have been shown to have mutagenic and tumor promoting activities.'
+  tfidf_val: 307.64323375176684
+  'doc#': 282
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of traditional chinese cooking methods on formation of heterocyclic aromatic amines in lamb patties.md
+- sentence: 'Some of the HCAs formed in very well done lamb and in lamb drippings are known human carcinogens that have been shown to have potent estrogenic activity, inducing activation of estrogen-regulated genes, proliferation of estrogen-dependent cells and up-regulation of progesterone receptor.'
+  tfidf_val: 1017.3182358833552
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'However, note that not all studies have found an association between red meat consumption and breast cancer risk.'
+  tfidf_val: 1161.279270632066
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Most U.S. consumers never eat mutton (the meat of grown sheep), which has a strong flavor compared to lamb.'
+  tfidf_val: 501.94605252293604
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: 'The majority of lambs consumed in the U.S. are grown in Texas, California, Wyoming, Colorado or South Dakota and processed in Colorado, Iowa, Michigan or New Jersey.'
+  tfidf_val: 271.8901515606376
+  'doc#': 431
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Multivariate Analysis of Water Quality and Plankton Assemblages in an Urban Estuary.md
+- sentence: 'Lambs are normally "finished" (grown to maturity) in feedlots.'
+  tfidf_val: 196.7502708263544
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: Colorado produces the most organic lambs and sheep.
+  tfidf_val: 222.8748711277892
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: 'However, over 40 percent of U.S. lamb and mutton is imported from Australia and New Zealand.'
+  tfidf_val: 222.31311689099596
+  'doc#': 282
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of traditional chinese cooking methods on formation of heterocyclic aromatic amines in lamb patties.md
+- sentence: 'If lamb is to be consumed, it makes sense to buy grass-fed organic lamb to avoid eating irradiated, growth hormone-treated meat from soy- or corn-fed animals.'
+  tfidf_val: 721.4732092365358
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: 'Grass-fed lamb has a more favorable fatty acid content, with a higher proportion of omega-3 fatty acids.'
+  tfidf_val: 994.9581895575521
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: Note that the organic label does not necessarily mean free range or grass fed.
+  tfidf_val: 273.53082119682875
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: 'The primary requirements for lamb to be labeled organic is that the animals are raised without the use of antibiotics and growth hormones and that their feed (grain, hay, pellets) must be organically grown.'
+  tfidf_val: 388.37458499605845
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: 'Although most New Zealand land is grass-fed, lamb grown for export to the U.S. may be corn fed (to satisfy U.S. consumer tastes).'
+  tfidf_val: 326.0230971888085
+  'doc#': 416
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Mammary tumour development is dose-dependently inhibited by n-3 polyunsaturated fatty acids in the MMTV-neundl-YD5 trans.md
+- sentence: Well done and flame-broiled lamb is not recommended.
+  tfidf_val: 221.1280537190068
+  'doc#': 282
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of traditional chinese cooking methods on formation of heterocyclic aromatic amines in lamb patties.md
+- sentence: Fat drippings and grill residue scrapings contain particularly high levels of HCAs and should be discarded.
+  tfidf_val: 357.52835787446645
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Although we do not recommend supplementation with CLA (conjugated linoleic acid), we wish to advise those who do to avoid the t10,c12-CLA isomer (referred to on some supplement labels as Trans-10, Cis-12).'
+  tfidf_val: 1517.174723951593
+  'doc#': 613
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Trans-10 cis 12-Conjugated Linoleic Acid-Induced Milk Fat Depression Is Associated with Inhibition of PPAR Signaling and Inflammation in Murine Mammary Tissue.md
+- sentence: 'The t10,c12 CLA isomer was found to dramatically enhance mammary tumor development in one mouse experiment.'
+  tfidf_val: 826.8603175030862
+  'doc#': 613
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Trans-10 cis 12-Conjugated Linoleic Acid-Induced Milk Fat Depression Is Associated with Inhibition of PPAR Signaling and Inflammation in Murine Mammary Tissue.md
+- sentence: 'The time by which 50% of the mice in the group developed a tumor was shortened from 267 days for mice on a control diet to 169 days for mice fed t10,c12-CLA.'
+  tfidf_val: 1280.7952318552343
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'Choose products with only the c9,t11 isomer (Cis-9, Trans-11).'
+  tfidf_val: 154.42177639590278
+  'doc#': 108
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactivity of Antioxidants in Extruded Products Prepared from Purple Potato and Dry Pea Flours.md
+- sentence: _Below are links to recent studies concerning this food and related foods.
+  tfidf_val: 333.4027331001203
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on lamb._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

@@ -1,0 +1,60 @@
+- sentence: There are a number of varieties of dry beans (Phaseolus vulgaris) consumed in the United States and their chemopreventative potential varies greatly.
+  tfidf_val: 322.95431631781906
+  'doc#': 303
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Evidence for the complex relationship between free amino acid and sugar concentrations and acrylamide-forming potential .md
+- sentence: 'For the purposes of this website, dry beans are defined as black beans, kidney beans, navy beans, pinto beans, pink beans, red beans and white beans.'
+  tfidf_val: 1238.046639985014
+  'doc#': 241
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Distribution profiles of tocopherols and fatty acids of phospholipids in adzuki beans vigna angularis.md
+- sentence: 'The following beans are specifically excluded from the dry bean category: adzuki beans, black-eyed peas, chickpeas, fava beans, lentils, lima beans, and mung beans.'
+  tfidf_val: 950.4250482703278
+  'doc#': 241
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Distribution profiles of tocopherols and fatty acids of phospholipids in adzuki beans vigna angularis.md
+- sentence: Dry beans have been shown to contain potent antioxidant and antiproliferative components.
+  tfidf_val: 220.14989955458603
+  'doc#': 108
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactivity of Antioxidants in Extruded Products Prepared from Purple Potato and Dry Pea Flours.md
+- sentence: One study found six flavonoids in the coats of black beans with potent antiproliferative activities against hormone receptor positive (ER+/PR+) breast cancer cells.
+  tfidf_val: 1242.292231985468
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: Another study found that tanins isolated from black beans inhibited angiogenesis.
+  tfidf_val: 355.7287422906443
+  'doc#': 616
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Tumor Angiogenesis as a Target for Dietary Cancer Prevention.md
+- sentence: Several studies have found that dry bean consumption reduces mammary tumor incidence and number in rats.
+  tfidf_val: 392.7815855641787
+  'doc#': 97
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Beneficial bacteria stimulate host immune cells to counteract dietary and genetic predisposition to mammary cancer in mi.md
+- sentence: One study that examined the cellular processes by which tumor burden was reduced reported that the dominant process was induction of apoptosis (programmed cell death).
+  tfidf_val: 577.8976217435895
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Circuling insulin and insulin-like growth factor-1 (both risk factors for breast cancer) were also reduced.
+  tfidf_val: 915.9022092636898
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'A study of the diets of 90,630 women in the Nurses Health Study II found a significant inverse relationship between breast cancer and the intake of beans.'
+  tfidf_val: 1351.6904023750608
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Another study found that higher intake of dry beans improved survival among postmenopausal women with breast cancer.
+  tfidf_val: 1246.105688628847
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: The authors attributed this survival advantage to the lignan content of beans.
+  tfidf_val: 301.13795114437534
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: A number of studies have shown that dry beans are antiproliferative and proapoptic versus colon cancer cells and that this effect appears to be due to both soluble and insoluble components of the beans.
+  tfidf_val: 713.758612877021
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on dry beans._'
+  tfidf_val: 256.36293407787105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

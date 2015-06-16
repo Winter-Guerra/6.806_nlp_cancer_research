@@ -1,0 +1,68 @@
+- sentence: 'Diets high in bacon and other processed meats have been linked in population studies to higher risks of leukemia, stomach cancer, colorectal cancer, esophageal cancer, brain cancer, lung cancer, bladder cancer, pancreatic cancer, and prostate cancer.'
+  tfidf_val: 3843.632843087218
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Processed meats include those that are salted, cured, smoked or preserved, including hot dogs, sausage, ham, bologna, other sandwich or luncheon meats, pâtés, salami, pepperoni, and beef jerky, to name a few.'
+  tfidf_val: 386.2406030210085
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: Fresh pork is covered in another web page.
+  tfidf_val: 158.91022440836707
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: Processed meats tend to have high saturated fat content.
+  tfidf_val: 402.9150161742474
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: Sodium nitrite and related compounds are normally added to processed meats to preserve their freshness and coloring.
+  tfidf_val: 209.4801982374906
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: 'Sodium nitrite has been shown to react with chemicals in the stomach to produce nitrosamines, which are known to be cancer-promoting.'
+  tfidf_val: 433.10946579708514
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'In addition to their nitrite content, the carcinogenic potential of processed meats appears to be related to the effects of frying or broiling, which have been shown to produce mutagenic compounds such as heterocyclic amines (HCAs) and polycyclic aromatic hydrocarbons (PAHs).'
+  tfidf_val: 797.3689195397405
+  'doc#': 282
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of traditional chinese cooking methods on formation of heterocyclic aromatic amines in lamb patties.md
+- sentence: 'One study reported that fried bacon had a higher level of HCAs than fried pork, fried beef and fried chicken.'
+  tfidf_val: 750.09531755064
+  'doc#': 282
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of traditional chinese cooking methods on formation of heterocyclic aromatic amines in lamb patties.md
+- sentence: A large 2007 U.K. study found that both premenopausal and postmenopausal women with the highest processed meat intake had the highest risk of breast cancer.
+  tfidf_val: 1577.1573113397812
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Another study found that higher red meat consumption during adolescence was associated with increased risk of premenopausal breast cancer in adulthood.
+  tfidf_val: 1279.5456342258751
+  'doc#': 232
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary protein sources in early adulthood and breast cancer incidence prospective cohort study.md
+- sentence: "A study of tissue removed from healthy women undergoing breast reduction surgery found that the levels of DNA adducts (which are associated with cancer development) in the breast tissue was correlated with the women's consumption of fried meat, beef and processed meat."
+  tfidf_val: 1714.1469052933082
+  'doc#': 510
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Racial disparities in red meat and poultry intake and breast cancer risk.md
+- sentence: 'High intake of animal fats has been linked in several studies to increased breast density, a risk factor for breast cancer and recurrence.'
+  tfidf_val: 1596.7876120670076
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Another study found that consumption of well done or fried meat (including bacon) appeared to increase the risk of breast cancer in a dose-dependent manner.
+  tfidf_val: 1089.0604080151068
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: 'A study that examined the risks of recurrence and death following diagnosis with early-stage breast cancer found that both the risk of recurrence and the risk of death were positively correlated with the consumption of bacon, especially for premenopausal women.'
+  tfidf_val: 1470.4666300336878
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Generally speaking, bacon-like products made from turkey, beef, and combinations of pork and turkey also contain sodium nitrite and form carcinogenic nitrosamines when consumed, however the levels tend to be lower than traditional bacon.'
+  tfidf_val: 372.25821080093317
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on processed meat._'
+  tfidf_val: 452.17170388523215
+  'doc#': 513
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Red and processed meat intake and risk of breast cancer a meta-analysis of prospective studies.md

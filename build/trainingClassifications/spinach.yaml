@@ -1,0 +1,68 @@
+- sentence: 'Like beets and Swiss chard, spinach (Spinacia oleracea) belongs to the amaranth family.'
+  tfidf_val: 182.95357143254245
+  'doc#': 367
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Impact of spinach consumption on DNA stability in peripheral lymphocytes and on biochemical blood parameters results of .md
+- sentence: 'Spinach is a good dietary source of vitamin A, vitamin B6, vitamin C, vitamin D, folate, and vitamin K, as well as iron, manganese and magnesium.'
+  tfidf_val: 1787.5797194795148
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: 'Spinach contains various carotenoids such as beta-carotene and lutein, as well as flavonoids such as kaempferol, and a variety of lignans, chlorophylls, and glycolipids with suspected or demonstrated cancer fighting properties.'
+  tfidf_val: 464.0611721961939
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Spinach has been shown to have anti-inflammatory, antioxidant, neuroprotective, and antimutagenic properties, and to protect the eyes from macular degeneration and cataracts.'
+  tfidf_val: 324.6874353705851
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: Spinach components have been shown to inhibit growth and proliferation of cervical cancer cells in the laboratory and carcinogen-induced colon cancer in mice.
+  tfidf_val: 936.1586084356304
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Dietary intake of spinach has been found to be associated with lower risks of head and neck, lung, gallbladder, stomach, liver, bladder, prostate and ovarian cancer in population studies.'
+  tfidf_val: 1755.9295797611856
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Carotenoids and glycolipids isolated from spinach have been demonstrated to cause dose-dependent growth inhibition in breast cancer cells.
+  tfidf_val: 811.4288191470182
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: Several population studies have found that spinach consumption is associated with lower risk of breast cancer.
+  tfidf_val: 1107.3274367498243
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Spinach consumption may help counteract the cancer-promoting effects of the heme iron in red meat.
+  tfidf_val: 693.6459891084074
+  'doc#': 510
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Racial disparities in red meat and poultry intake and breast cancer risk.md
+- sentence: Baby spinach has higher flavonoid concentration than mature spinach.
+  tfidf_val: 395.807157693441
+  'doc#': 193
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Determination of Phenolic Compounds in Artichoke Garlic and Spinach by Ultra-High-Performance Liquid Chromatography Coup.md
+- sentence: Red spinach (Amaranthus gangeticus) is a plant used in South Asian cooking that is closely related to common spinach.
+  tfidf_val: 392.04186919451377
+  'doc#': 367
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Impact of spinach consumption on DNA stability in peripheral lymphocytes and on biochemical blood parameters results of .md
+- sentence: 'Based on the few studies that have been performed, red spinach appears to have anti-cancer activities similar to that of common spinach.'
+  tfidf_val: 621.519940311421
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Spinach contains oxalic acid, which interferes with calcium absorption, and therefore spinach should not be eaten at the same time as calcium-rich foods by breast cancer patients and others to whom calcium levels are important.'
+  tfidf_val: 881.2381193736617
+  'doc#': 191
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dairy consumption and calcium intake and risk of breast cancer in a prospective cohort The Norwegian Women and Cancer st.md
+- sentence: Boiling reduces the oxalic acid content of spinach and increases iron availability.
+  tfidf_val: 415.15677072609753
+  'doc#': 592
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Potato in the Human Diet a Complex Matrix with Potential Health Benefits.md
+- sentence: Non-organic spinach must be washed very thoroughly to remove pesticide residue as much as possible.
+  tfidf_val: 252.9657461515823
+  'doc#': 117
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Brassinosteroids Promote Metabolism of Pesticides in Cucumber.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on spinach._'
+  tfidf_val: 256.36293407787105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

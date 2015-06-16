@@ -1,0 +1,68 @@
+- sentence: 'Kefir is a fermented milk drink that is popular in the middle east, parts of the Mediterranean, eastern Europe and Russia.'
+  tfidf_val: 129.62077324296436
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md
+- sentence: 'It is prepared by inoculating milk (cow, camel, goat, sheep or even soy milk, almond milk) with kefir grains.'
+  tfidf_val: 605.3115705605534
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: Kefir grains consist of a complex living culture of yeasts and bacteria.
+  tfidf_val: 164.70895297449874
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: The organisms have been shown to inhibit both salmonella and E. Coli in the laboratory.
+  tfidf_val: 137.22868357859943
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Raw milk has traditionally been used to make kefir.
+  tfidf_val: 258.84477742071783
+  'doc#': 108
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactivity of Antioxidants in Extruded Products Prepared from Purple Potato and Dry Pea Flours.md
+- sentence: "Unless otherwise noted, the discussion below refers to kefir and other fermented drinks made from cow's milk."
+  tfidf_val: 151.86778015269877
+  'doc#': 356
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hormone Use in Food Animal Production Assessing Potential Dietary Exposures and Breast Cancer Risk.md
+- sentence: Fermented milk has been shown in one study to have a protective effect against liver cancer in experimental mice.
+  tfidf_val: 609.3362969526131
+  'doc#': 540
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Schizophyllan inhibits the development of mammary and hepatic carcinomas induced by 712 dimethylbenzanthracene and decre.md
+- sentence: 'Similarly, lactobacilli strains common to fermented milk have been shown to possess inhibitory and cytotoxic activity towards human bladder cancer cells.'
+  tfidf_val: 824.3573026844325
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Lactic acid bacteria from fermented milk drink also have been shown to have antiproliferative activity against colon cancer cells.
+  tfidf_val: 684.579661945605
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'However, one study found that kefir with a 3.5% fat content appeared to stimulate chemically-induced colorectal tumors in experimental rats compared to both 1.1% fat kefir and 1.1% fat sterilized milk.'
+  tfidf_val: 1102.2261061796098
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Kefir has been shown to have antiproliferative activity against hormone receptor positive (ER+/PR+) human breast cancer cells and this anticancer effect was observed at much lower concentrations than similar effects of yogurt.
+  tfidf_val: 1188.6962169848268
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: 'Several studies have demonstrated that milk fermented with L. helveticus decreased the growth rate of mammary tumors in experimental rats and that this involved decreased production of pro-inflammatory cytokines, including IL-6, which is implicated in estrogen synthesis.'
+  tfidf_val: 545.1665843875186
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Kefir is also a good source of conjugated linoleic acid (CLA), which has been shown to inhibit the growth and migration of breast cancer cells.'
+  tfidf_val: 755.4155671130445
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: A Swedish study of the relationship between various fats in the diet and risk of breast cancer for women aged at least 50 found that fat from fermented milk products was negatively associated with breast cancer risk.
+  tfidf_val: 2504.281580439749
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Kefir should be avoided during radiation treatment because it has been shown to protect cells against cell death caused by radiation damage, raising the possibility that it will lessen the cytotoxic impact of radiation on breast cancer cells.'
+  tfidf_val: 1494.0101203730069
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on kefir._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

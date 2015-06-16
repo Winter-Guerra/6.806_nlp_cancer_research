@@ -1,0 +1,60 @@
+- sentence: 'Like broccoli, cabbage, and kale, horseradish (Armoracia rusticana) is a brassica vegetable.'
+  tfidf_val: 716.1668765262156
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: 'Components of horseradish have been shown to have anti-hypercholesterolemic, antimutagenic, and both antioxidant and pro-oxidant effects.'
+  tfidf_val: 570.0071416952565
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md
+- sentence: 'Horseradish and wasabi (Japanese horseradish) have been reported to have anti-cancer effects due to the glucosinolate sinigrin and various isothiocyanates, including allyl isothiocyanate.'
+  tfidf_val: 1459.2308461956643
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md
+- sentence: Horseradish also contains flavonoids such as kaempferol.
+  tfidf_val: 543.667120350461
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md
+- sentence: Horseradish has been shown to inhibit the growth of food poisoning bacteria and fungi.
+  tfidf_val: 610.97820121373
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md
+- sentence: Raw cruciferous vegetables have been shown to reduce the risk of bladder cancer.
+  tfidf_val: 752.6451969182965
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Horseradish and wasabi have been shown to inhibit the proliferation of colon, lung, pancreatic, prostate and stomach cancer cells.'
+  tfidf_val: 758.9441866372985
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Isothiocyanates found in cruciferous vegetables have been shown to have chemopreventive and anti-angiogenic effects in breast cancer cell studies and animal models of breast cancer.
+  tfidf_val: 1367.7323351378077
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'While one carefully designed study of Chinese women found that brassica vegetable consumption was associated with significantly reduced breast cancer risk, population studies specifically evaluating the impact of consuming horseradish or wasabi are not available.'
+  tfidf_val: 1400.555413361174
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Uncooked horseradish root typically is used in making horseradish sauce (the root can also be used simply grated).
+  tfidf_val: 1533.9335109659048
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md
+- sentence: 'This preserves much of its anti-cancer properties, since cooking can substantially reduce or destroy isothiocyanates.'
+  tfidf_val: 469.04728028225907
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Cruciferous vegetables contain thioglucoside compounds that can interfere with the formation of thyroid hormone.
+  tfidf_val: 337.5682989651342
+  'doc#': 593
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Safety of Cruciferous Plants in Humans A Systematic Review.md
+- sentence: Horseradish and wasabi are both toxic at high doses.
+  tfidf_val: 555.4287324088347
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on horseradish._'
+  tfidf_val: 555.2740693950749
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md

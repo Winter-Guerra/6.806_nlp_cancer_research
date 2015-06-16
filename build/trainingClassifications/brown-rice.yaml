@@ -1,0 +1,196 @@
+- sentence: 'While all types of rice (Oryza sativa) are a good source of energy, white rice (polished or milled rice) contains a limited amount of micronutrients.'
+  tfidf_val: 1370.9035955750774
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: 'White rice is a dietary source of potassium, magnesium, and calcium, as well as copper, iron, molybdenum, manganese, zinc, geranylgeranoic acid and vitamin B6.'
+  tfidf_val: 575.3688595616361
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: 'The positive health-related benefits of consuming rice are for the most part limited to brown (i.e., unmilled, whole grain) rice, not white rice.'
+  tfidf_val: 1699.428035304755
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: 'Brown rice has been shown to have antioxidant, hypoglycemic, anti-inflammatory, antimutagenic and cardioprotective properties.'
+  tfidf_val: 471.5910108500058
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: 'Brown rice contains numerous biologically active substances, including the carotenoids beta-carotene, lutein and zeaxanthin, as well as tricin, α-tocopherol, ү-tocotrienol, ү-oryzanol, caffeic acid, ferulic acid, methoxycinnamic acid, phytic acid, and momilactone B.'
+  tfidf_val: 1085.5660460174518
+  'doc#': 458
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic Acid Composition Antiatherogenic and Anticancer Potential of Honeys Derived from Various Regions in Greece.md
+- sentence: 'Black, purple and red rice also contain the anthocyanins cyanidin 3-glucoside, peonidin 3-glucoside, malvidin, and cyanidin hexoside, as well as several cyanidin dihexosides.'
+  tfidf_val: 1045.7065785623574
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'Brown rice or its components have been shown to induce apoptosis and inhibit proliferation of human lymphoma, Ehrlich ascites carcinoma, myeloma, colorectal cancer and liver cancer cells and carcinogen-induced colon cancer in laboratory rats.'
+  tfidf_val: 1381.557946952734
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Fermented brown rice has been shown to inhibit carcinogen-induced development of oral, stomach, and colon cancer in rats.'
+  tfidf_val: 504.5557605846896
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Consumption of brown rice has been shown to be associated with reduced risk of pancreatic cancer in a San Francisco bay area population (however, note that high rates of pancreatic cancer in southern Louisiana have been explained, in part, by consumption of locally grown rice incorporating high levels of cadmium).'
+  tfidf_val: 2003.5465551383625
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: Phytic acid (found in rice bran) has been shown to induce marked growth inhibition in breast cancer cells without harming normal cells.
+  tfidf_val: 1103.8703164644553
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: Purple rice bran extract reduced vascular endothelial growth factor (VEGF)-induced angiogenesis by inhibiting proliferation and migration in one cell study.
+  tfidf_val: 991.1394560999724
+  'doc#': 243
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Docosahexaenoic Acid Inhibits Vascular Endothelial Growth Factor VEGF-Induced Cell Migration via the GPR120PP2AERK12eNOS Signaling Pathway in Human Umbilical Vein Endothelial Cells.md
+- sentence: 'A study that examined the anti-cancer activity of eight brown rice phenols (protocatechuic acid, p-coumaric acid, caffeic acid, ferulic acid, sinapic acid, vanillic acid, methoxycinnamic acid, and tricin) found that caffeic acid, ferulic acid, and tricin each were effective in reducing the colony-forming ability of triple negative breast cancer cells.'
+  tfidf_val: 2861.0667800706765
+  'doc#': 458
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic Acid Composition Antiatherogenic and Anticancer Potential of Honeys Derived from Various Regions in Greece.md
+- sentence: An anthocyanin-rich extract from black rice reduced the viability of several breast cancer cell lines in another study.
+  tfidf_val: 720.7344625496581
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: The same study found that the extract significantly suppressed tumor growth and angiogenesis in mice implanted with HER2/neu overexpressing (HER2+) tumors.
+  tfidf_val: 770.8989948720903
+  'doc#': 97
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Beneficial bacteria stimulate host immune cells to counteract dietary and genetic predisposition to mammary cancer in mi.md
+- sentence: Brown rice has been shown to inhibit the growth and proliferation of mouse mammary tumors.
+  tfidf_val: 491.007164315658
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: One study reported that a compound found in rice bran sensitized metastatic hormone receptor positive breast cancer cells to Taxol (paclitaxel).
+  tfidf_val: 844.0987494076071
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: Rice represents a major path of arsenic exposure for people who depend on a rice diet.
+  tfidf_val: 916.84334054398
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: 'Generally speaking, rice has more elevated arsenic levels than all other grains, with brown rice having higher levels than white rice.'
+  tfidf_val: 1506.9128978210683
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: 'Arsenic is contributed both by arsenic in the soil and arsenic in rice field water, much of which is naturally occurring.'
+  tfidf_val: 707.0024341364299
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: A 2008 report found unacceptable arsenic levels in common U.K. brands of baby foods.
+  tfidf_val: 330.86615102152797
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: Most of the rice in the baby foods were thought to come from Europe.
+  tfidf_val: 470.4349533152137
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: Ten of the 17 samples tested used organically grown rice.
+  tfidf_val: 500.35067161424587
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: Similar concerns have been raised concerning rice in U.S. baby foods.
+  tfidf_val: 482.60246878596126
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: High levels of arsenic have been reported in rice from areas of the United States where former cotton fields have been converted to rice production.
+  tfidf_val: 1030.6897311063772
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: Arsenic herbicides were used in cotton fields in the early to mid-20th century.
+  tfidf_val: 140.64200208497866
+  'doc#': 152
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee prevents early events in tamoxifen-treated breast cancer patients and modulates hormone receptor status.md
+- sentence: 'In addition, southern Louisiana is home to numerous oil refineries and petrochemical plants that have introduced cadmium and other carcinogenic contaminants to some of the soil used for rice production.'
+  tfidf_val: 908.6987456232154
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: 'Cadmium exposure has been associated with increased risk of breast cancer, among other cancers.'
+  tfidf_val: 1355.0628462716754
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Although the U.S. is a net rice exporter, it imports specialty rice varieties such as jasmine and Basmati rice from countries such as Thailand and India.'
+  tfidf_val: 1385.139808929236
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: This rice is often grown under conditions and using pesticides and fungicides that would be unacceptable inside U.S. borders.
+  tfidf_val: 504.8943744911278
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: 'Rice grown in California is most likely to have low levels of arsenic, cadmium and other contaminants.'
+  tfidf_val: 771.6022404513282
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: 'Brown rice syrup, which is not regulated in the U.S. with respect to arsenic and other heavy metal content, may be produced from rice sourced from countries with high levels of contamination.'
+  tfidf_val: 1104.2140347902414
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: 'Brown rice syrup is a sweetener found in some cereal and high energy bars and high energy drinks, including those with the "organic" label.'
+  tfidf_val: 549.2462382699492
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: 'Since it is impossible for consumers to evaulate the safety of brown rice syrup, foods containing this ingredient should be limited or avoided.'
+  tfidf_val: 496.90785346453106
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: Chinese red yeast rice (red mold rice) is a food spice and medicinal herb made by fermenting a type of yeast (Monascus purpureus Went) with white rice.
+  tfidf_val: 1405.0142527869034
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: 'It contains a mixture of monacolins, one of which is essentially identical to lovastin, a statin used for lowering cholesterol.'
+  tfidf_val: 173.1591870376434
+  'doc#': 399
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/LDL-cholesterol signaling induces breast cancer proliferation and invasion.md
+- sentence: Chinese red yeast rice has been shown to inhibit tumor cell growth and enhance apoptosis of breast and colon cancer cells.
+  tfidf_val: 1031.5554831139154
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: It also has been found to inhibit both androgen-dependent and androgen-independent prostate tumor growth in human prostate cancer xenografts in mice.
+  tfidf_val: 743.6562654652496
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'However, note that when nine different commercially available Chinese red yeast rice dietary supplements were tested in one study, the total monacolin content ranged from 0% to 0.58% w/w and only one of the preparations contained all 10 possible monacolins.'
+  tfidf_val: 737.1777161193405
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'In addition, measurable concentrations of citrinin, a mycotoxin known to cause kidney damage, was found in seven of the nine samples.'
+  tfidf_val: 216.69535472639876
+  'doc#': 365
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Impact of a phosphate fertilizer plant on the contamination of marine biota by heavy elements.md
+- sentence: 'Wild rice (e.g., Zizania palustris) refers to four species of plants, three of which are native to North America, that are closely related to rice.'
+  tfidf_val: 940.2778814808703
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: 'The anthocyanins in wild rice, black rice and other darkly pigmented rice are degraded least by stovetop cooking.'
+  tfidf_val: 1358.0682539633485
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: 'Using a pressure cooker results in the most thermal degradation, followed by using a rice cooker.'
+  tfidf_val: 467.5090624442681
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: White rice has been stripped of much of the chemopreventive compounds and fiber that make brown rice a healthy food choice.
+  tfidf_val: 956.2491355066234
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md
+- sentence: A 2011 study found a link between increased starch intake after a diagnosis of early-stage breast cancer and a greater risk of recurrence.
+  tfidf_val: 1279.396667918607
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Rice bran oil is used as a cooking oil and salad oil in parts of Asia.
+  tfidf_val: 659.6798753301814
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: It is valued for its high smoking point and delicate flavor.
+  tfidf_val: 210.7115765681327
+  'doc#': 516
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Reduction of Carcinogenic Polycyclic Aromatic Hydrocarbons in Meat by Sugar-Smoking and Dietary Exposure Assessment in T.md
+- sentence: 'While rice bran oil appears to have some chemopreventive properties, not enough information is available to make a recommendation with respect to its consumption.'
+  tfidf_val: 536.0555674546922
+  'doc#': 360
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hull extracts from pigmented rice exert antioxidant effects associated with total flavonoid contents and induce apoptosi.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on rice._'
+  tfidf_val: 462.75674656470255
+  'doc#': 359
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/How Does Contamination of Rice Soils with Cd and Zn Cause High Incidence of Human Cd Disease in Subsistence Rice Farmers.md

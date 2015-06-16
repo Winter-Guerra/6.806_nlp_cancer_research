@@ -1,0 +1,60 @@
+- sentence: 'Carrots have been shown to have antioxidant, antifungal, antibacterial, and anti-inflammatory effects.'
+  tfidf_val: 284.24864552721596
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: 'Carrots are an excellent dietary source of vitamin A (converted in the body from beta-carotene and alpha-carotene) and fiber, and contains some vitamin C and B vitamins, as well as calcium, iron, magnesium, and manganese.'
+  tfidf_val: 949.9970028157803
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: 'In addition to various carotenoids, carrots contain other bioactive compounds such as falcarinol, luteolin, sulfoquinovosyl diacylglycerol, and various lignans, all of which have been shown to have, or are suspected of having, anti-cancer activities.'
+  tfidf_val: 565.8894645782568
+  'doc#': 578
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic effect between celecoxib and luteolin is dependent on estrogen receptor in human breast cancer cells.md
+- sentence: 'Carrots have been shown to suppress inflammation, promote good vision and be cardioprotective.'
+  tfidf_val: 118.60749837417768
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Consumption of carrots has been found to be associated with reduced risk of esophageal, lung, colon, bladder, urothelial, cervical, prostate, and ovarian cancer.'
+  tfidf_val: 1106.2995982687225
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Consumption of carrots has been found to be associated with reduced risk of breast cancer in numerous (but not all) population studies.
+  tfidf_val: 1134.4491724466877
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'This protective effect appears to be due to the interaction of multiple components of carrots, not just the presence of alpha-carotene and beta-carotene.'
+  tfidf_val: 556.7623087387266
+  'doc#': 580
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synthetic astaxanthin is significantly inferior to algal-based astaxanthin as an antioxidant and may not be suitable as .md
+- sentence: Higher levels of carotenoids and vitamin A (retinol) in the blood of breast cancer survivors have both been found to be associated with greater likelihood of breast cancer-free survival.
+  tfidf_val: 1370.3523672792055
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Consuming 8 fluid ounces of fresh carrot juice per day has been shown to raise carotenoids in the blood to levels associated with protection against breast cancer.
+  tfidf_val: 767.1568505020803
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Supplementation with beta-carotene or with vitamin A will not provide the same beneficial effects as consuming high-carotenoid foods such as carrots and in fact these supplements have been associated with increased risk of certain cancers (e.g., lung cancer).'
+  tfidf_val: 1036.889277831684
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Non-organic carrots must be washed very thoroughly to remove pesticide residue.
+  tfidf_val: 250.7270569102986
+  'doc#': 117
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Brassinosteroids Promote Metabolism of Pesticides in Cucumber.md
+- sentence: The original carrots were purple in color and purple carrots are still available.
+  tfidf_val: 184.32059291612893
+  'doc#': 108
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactivity of Antioxidants in Extruded Products Prepared from Purple Potato and Dry Pea Flours.md
+- sentence: Purple carrots contain beneficial anthocyanins in addition to carotenoids.
+  tfidf_val: 300.6094876702434
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a list of studies that includes less recent research, please click on carrots._'
+  tfidf_val: 251.45931240514105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

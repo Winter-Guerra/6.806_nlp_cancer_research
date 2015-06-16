@@ -1,0 +1,92 @@
+- sentence: 'Parsley has been shown to have potent anti-inflammatory and antioxidant activities, as well as moderate antimicrobial, antifungal, antiviral, radioprotective, antispasmodic, anti-anxiety, and cholesterol-lowering properties.'
+  tfidf_val: 540.1226936449677
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: 'Because parsley typically does not comprise a large portion of the diet of any group of people, there are no population-based studies that specifically isolate the association between consuming parsley and the risk of cancer.'
+  tfidf_val: 1233.005011628131
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Instead, the epidemiological information available comes from studies in which parsley was a vegetable component of the diet.'
+  tfidf_val: 270.8604576588255
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md
+- sentence: There are numerous studies concerning the anti-cancer components of parsley.
+  tfidf_val: 526.8708416200874
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Parsley contains 8-methoxypsoralen, which has been shown to inhibit the development of carcinogen-induced lung cancer in laboratory mice.'
+  tfidf_val: 484.97211017343847
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Parsley also is a dietary source of imperatorin and isopimpinellin, which have been shown to have chemopreventive effects in liver, lung and mammary epithelial cells.'
+  tfidf_val: 523.4008697689887
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Parsley leaf oil and parsley seed oil contain myristicin, which has been shown to inhibit the proliferation of carcinogen-induced lung cancer in mice.'
+  tfidf_val: 674.9792162466808
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'Parsley contains the flavones apigenin, luteolin, chrysoeriol, the flavonols quercetin, myricetin and isorhamnetin, and the isoflavone genistein.'
+  tfidf_val: 725.4046298093267
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: 'Parsley is a good dietary source of apigenin, which has been shown to induce apoptosis in human skin, thyroid, gastric, liver, colon, cervical, and prostate cancer cells, and to inhibit migration and invasion of ovarian cancer cells.'
+  tfidf_val: 1579.039326535698
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Apigenin has also been shown to exhibit potent growth-inhibitory effects in HER2/neu overexpressing breast cancer cells.
+  tfidf_val: 1015.276079535103
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: The growth-inhibitory effects of apigenin are less powerful for those cells expressing normal levels of HER2/neu.
+  tfidf_val: 963.7524784974222
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: 'Luteolin has been shown to induce apoptosis in oral cancer calls, to promote cell cycle arrest and apoptosis in colon cancer cells, and to inhibit insulin-like growth factor 1 (IGF-1) receptor signaling in prostate cancer cells.'
+  tfidf_val: 1864.5141260227308
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Luteolin has also been shown increase the anti-cancer effects of the chemotherapy drug Taxol (paclitaxel).
+  tfidf_val: 667.8350346288669
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: Quercetin has been shown to inhibit proliferation of estrogen receptor negative (ER-) breast cancer cells.
+  tfidf_val: 1127.22129530218
+  'doc#': 102
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Dietary Supplements Reactivate ER Expression in ER-Negative Breast Cancer Cells by Active Chromatin Modificati.md
+- sentence: 'A major Italian population study including 2,569 women with breast cancer found that the risk of breast cancer was reduced for increasing intake of flavones and flavonols.'
+  tfidf_val: 2021.2853094497116
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Italian, or flat leaf parsley is named for its leaves, which are flat compared to the curly leaves of common parsley.'
+  tfidf_val: 766.8458602464295
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: 'Cilantro, also called Chinese parsley, consists of the stems and leaves of the coriander plant (coriandrum sativum), which is in the parsley family.'
+  tfidf_val: 462.208148979838
+  'doc#': 289
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Endogenous Enzymes Heat and pH Affect Flavone Profiles in Parsley Petroselinum crispum var neapolitanum and Celery Apium.md
+- sentence: 'The antioxidant capacity of parsley is enhanced when it is used in soups or stews (i.e., when it is boiled) but is reduced when grilled or fried.'
+  tfidf_val: 265.11461523318053
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: 'Parsley seed oil is an ingredient in some breath freshening products, presumably for its antimicrobial and antiseptic properties.'
+  tfidf_val: 446.8035737005281
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: Parsley seed oil contains oleic acid (the main fatty acid in olive oil).
+  tfidf_val: 823.7749633062457
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: 'However, the biologically active components of parsley seed oil are very concentrated and it should generally be avoided, especially by those who are pregnant (since it can cause miscarriage), have kidney, heart, or liver disorders, or are on high blood pressure medications, lithium, monoamine oxidase Inhibitors, or opiates.'
+  tfidf_val: 380.0753298557386
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on parsley._'
+  tfidf_val: 256.36293407787105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

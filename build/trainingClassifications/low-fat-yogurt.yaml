@@ -1,0 +1,72 @@
+- sentence: 'Yogurt, or yoghurt, is made by adding bacterial cultures to milk, which ferments it.'
+  tfidf_val: 149.80148582675915
+  'doc#': 191
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dairy consumption and calcium intake and risk of breast cancer in a prospective cohort The Norwegian Women and Cancer st.md
+- sentence: 'Fermentation of lactose (milk sugar) converts it into lactic acid, which gives yogurt its slightly sour taste.'
+  tfidf_val: 336.8247137406517
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'Yogurt is a good dietary source of calcium, phosphorus, iodine, vitamin B2, and vitamin B12.'
+  tfidf_val: 939.4778311247528
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: Consumption of yogurt has been shown to improve cholesterol profile.
+  tfidf_val: 212.01537534485215
+  'doc#': 152
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee prevents early events in tamoxifen-treated breast cancer patients and modulates hormone receptor status.md
+- sentence: Intake of yogurt has been found to be associated with lower risks of colorectal and bladder cancer.
+  tfidf_val: 831.0723924098332
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'On the other hand, some (but not all) studies have reported that yogurt consumption is associated with an increased risk of kidney cancer and squamous cell skin cancer.'
+  tfidf_val: 1464.3758687645463
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Yogurt is a good source of conjugated linoleic acid (CLA), which has been shown to inhibit the growth and migration of breast cancer cells.'
+  tfidf_val: 755.4155671130445
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Case-control studies conducted in France and Uruguay have found that yogurt consumption is associated with a reduction in the risk of breast cancer.
+  tfidf_val: 1117.1041057653947
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'While yogurt appears to have some ability to protect against breast cancer, kefir (a fermented milk drink popular in the middle east, parts of the Mediterranean, eastern Europe and Russia) has been shown to have stronger effects at lower concentrations.'
+  tfidf_val: 653.1760304731218
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Kefir is made using kefir grains, which consist of a complex living culture of yeasts and bacteria, whereas yogurt typically is made using only lactobacillus strains.'
+  tfidf_val: 226.6215199358696
+  'doc#': 95
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Avocado Persea americana Mill Phenolics In Vitro Antioxidant and Antimicrobial Activities and Inhibition of Lipid and Pr.md
+- sentence: Yogurt with added probiotics (microbial cells that are intended to have a beneficial effect on health) is designed to improve intestinal functioning.
+  tfidf_val: 388.33916352335444
+  'doc#': 588
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Effectiveness of Cucurbitacin B in BRCA1 Defective Breast Cancer Cells.md
+- sentence: Probiotics appear to act by reinforcing the intestinal mucosal barrier against deleterious agents.
+  tfidf_val: 152.78651336681807
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: 'Other health claims have also been made for probiotic yogurt, however one study found that probiotic yogurt did not perform better than regular yogurt in stimulating cellular immune functions.'
+  tfidf_val: 318.05629684235356
+  'doc#': 97
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Beneficial bacteria stimulate host immune cells to counteract dietary and genetic predisposition to mammary cancer in mi.md
+- sentence: Organic yogurt is preferable to non-organic yogurt because the milk used to produce it contains fewer hormones.
+  tfidf_val: 483.9673896104384
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: Many flavored yogurts contain substantial amounts of sugar.
+  tfidf_val: 284.91678391494474
+  'doc#': 169
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of sweet foods and mammographic breast density a cross-sectional study.md
+- sentence: 'Plain yogurt can be used successfully in many recipes that call for sour cream, milk or melted butter.'
+  tfidf_val: 185.08091359755497
+  'doc#': 191
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dairy consumption and calcium intake and risk of breast cancer in a prospective cohort The Norwegian Women and Cancer st.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on yogurt._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

@@ -1,0 +1,104 @@
+- sentence: 'Like watermelons, pumpkins, zucchini and other types of squash, cucumbers (Cucumis sativus) belong to the cucurbitaceae (gourd) family.'
+  tfidf_val: 86.97430776393409
+  'doc#': 50
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer Activity of Sea Cucumber Triterpene Glycosides.md
+- sentence: Cucumbers have a high water content and are low in calories and relatively low in nutrients compared to most other vegetables.
+  tfidf_val: 537.5169663882755
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: 'The flesh of the cucumber contains some vitamin C and vitamin A. Cucumber components which have been shown to have some anticancer activities include fisetin, lutein, caffeic acid and cucurbitacins.'
+  tfidf_val: 1290.3435463251794
+  'doc#': 312
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/FISETIN A DIETARY ANTIOXIDANT FOR HEALTH PROMOTION.md
+- sentence: 'The skin of the cucumber is a source of dietary fiber and contains minerals such as potassium, magnesium, and molybdenum.'
+  tfidf_val: 450.9513481396814
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Cucumbers have been shown to have some antioxidant activities, but these are low compared to those of intensely colored vegetables and do not appear to be the source of its apparent anticancer properties.'
+  tfidf_val: 380.0785070366167
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Cucumber consumption may help reduce cholesterol.
+  tfidf_val: 235.3411688451636
+  'doc#': 152
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee prevents early events in tamoxifen-treated breast cancer patients and modulates hormone receptor status.md
+- sentence: 'Cucumber fruit and leaf extracts have been found to be useful in lightening and soothing the skin, and to treat inflammatory skin conditions such as rosacea.'
+  tfidf_val: 441.93279014882006
+  'doc#': 331
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit cuticular waxes as a source of biologically active triterpenoids.md
+- sentence: Cucumbers with excessive bitterness are typically rejected by the consumer and cultivated species have been selected for low bitterness.
+  tfidf_val: 233.42119336291074
+  'doc#': 431
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Multivariate Analysis of Water Quality and Plankton Assemblages in an Urban Estuary.md
+- sentence: 'The bitterness is caused by a class of phytochemicals called cucurbitacins (oxygenated tetracyclic triterpenes), which have been shown to have some anticancer properties, but which also can be highly toxic when ingested.'
+  tfidf_val: 272.47363527661116
+  'doc#': 103
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Properties of the Main Triterpenes Found in Olives Virgin Olive Oil and Leaves of Olea europaea.md
+- sentence: 'Fisetin, a flavonoid found in cucumbers, has been shown to reduce the viability of postate cancer cells in the laboratory without harming normal prostate cancer cells.'
+  tfidf_val: 1779.5711919916291
+  'doc#': 312
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/FISETIN A DIETARY ANTIOXIDANT FOR HEALTH PROMOTION.md
+- sentence: Consumption of cucumbers has been found to be associated with lower risk of lung cancer among tin miners in China.
+  tfidf_val: 901.5233307519683
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Caffeic acid has been shown to have antiproliferative and apoptotic effects on human breast cancer cells in the laboratory.
+  tfidf_val: 746.4306342033005
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'A Korean case-control study comparing the diets of breast cancer patients with a healthy control group of women found that the breast cancer patients consumed a significantly lower quantity of vegetables, including cucumbers, than the control group.'
+  tfidf_val: 1573.4217247493007
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: A Greek study also found that women with breast cancer consumed significantly less cucumber than those without breast cancer.
+  tfidf_val: 1474.5304511479094
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'A Swiss study found that consumption of cucumbers, among other fruits and vegetables, was associated with significant protection against breast cancer.'
+  tfidf_val: 1046.8124784455974
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: Gherkins are a different cultivar of Cucumis sativus and have a similar nutritional profile as cucumbers.
+  tfidf_val: 188.8540629478552
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: 'Seedless cucumbers typically are longer in length, have thinner skins, and are grown in greenhouses.'
+  tfidf_val: 72.80796765327361
+  'doc#': 50
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer Activity of Sea Cucumber Triterpene Glycosides.md
+- sentence: 'The sodium content of commercial dill pickles, sweet pickles, bread and butter pickles, pickle relish and pickled gherkins can be high.'
+  tfidf_val: 333.89162613223596
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: 'Although cucumber skin is nutritious, waxed cucumbers should always be peeled before consumption since the wax can trap pesticide residue and other contaminants.'
+  tfidf_val: 523.1279093618243
+  'doc#': 331
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit cuticular waxes as a source of biologically active triterpenoids.md
+- sentence: Non-organic cucumbers must be washed very thoroughly to remove pesticides as much as possible before cutting or peeling even if not waxed.
+  tfidf_val: 312.47863471944015
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: 'Non-organic greenhouse cucumbers were found to incorporate unacceptably high levels of cadmium, lead, and chromium in one 2009 study.'
+  tfidf_val: 836.4189912886313
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: 'Colocynth (Citrullus colocynthis), also known as bitter apple or bitter cucumber, is related to cucumber, but contains a much higher fraction of cucurbitacins.'
+  tfidf_val: 423.4910743195407
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'Colocynth and other high-cucurbitacin cucurbits are sometimes sold as herbal remedies, including for cancer.'
+  tfidf_val: 809.7248007811635
+  'doc#': 588
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Effectiveness of Cucurbitacin B in BRCA1 Defective Breast Cancer Cells.md
+- sentence: 'However, while chemotherapy based on cucurbitacins may eventually be developed, these are toxic chemicals whose safety profiles and appropriate dosages have not been determined.'
+  tfidf_val: 254.42404614215343
+  'doc#': 340
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Ginger Zingiber officinale reduces acute chemotherapy-induced nausea a URCC CCOP study of 576 patients.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on cucumber._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

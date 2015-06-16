@@ -1,0 +1,56 @@
+- sentence: 'Brussels sprouts have been shown to suppress inflammation and can reduce the risk of occurrence of multiple myeloma, as well as gallbladder, prostate, lung, ovarian, cervical and colorectal cancer.'
+  tfidf_val: 1032.3942177752356
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: "Brussels sprouts contain numerous substances with suspected or demonstrated cancer fighting properties, including beta-carotene, sulforaphane, indole-3-carbinol (I3C), 3,3'-diindolylmethane (DIM), and several other glucosinolates."
+  tfidf_val: 2008.4290322391298
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Brussels sprouts are also a good source of the lignan enterolactone.
+  tfidf_val: 355.09096422882305
+  'doc#': 549
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Serum enterolactone and postmenopausal breast cancer risk by estrogen progesterone and HER2 receptor status.md
+- sentence: 'Brussels sprouts have been found to be promote apoptosis, suppress cell cycle progression and inhibit angiogenesis of human breast cancer cells.'
+  tfidf_val: 1021.9388694498102
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Futhermore, brussels sprouts can protect against cell DNA damage.'
+  tfidf_val: 452.10432515045
+  'doc#': 410
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Low concentrations of isothiocyanates protect mesenchymal stem cells from oxidative injuries while high concentrations e.md
+- sentence: 'Consumption of brassica vegetables has been shown to reduce the estrogen metabolite 16alpha-hydroxyestrone, which is a breast cancer promoter, and to be marginally inversely associated with breast cancer risk in a population of premenopausal women.'
+  tfidf_val: 1767.2676345554498
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Brussels sprouts components I3C and sulforaphane have both been shown increase the anti-cancer effects of the chemotherapy drug Taxol (paclitaxel).
+  tfidf_val: 1903.1621201896185
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: The kaempferol in brussels sprouts might help protect against the cardiotoxicity of Adriamycin chemotherapy.
+  tfidf_val: 328.6494723897871
+  'doc#': 395
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Kaempferol Reduces Matrix Metalloproteinase-2 Expression by Down-Regulating ERK12 and the Activator Protein-1 Signaling .md
+- sentence: We recommend consuming brussels sprouts and other brassica vegetables as food and against consuming broccoli pills that have been enhanced to boost the proportion of the presumed key anti-cancer chemicals in these vegetables.
+  tfidf_val: 640.2623412797524
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: There is some evidence that concentrated cruciferous vegetable extracts can act as estrogen agonists and promote breast cancer cell proliferation.
+  tfidf_val: 652.3309642411161
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: 'Also, the anticancer properties of broccoli are likely to be the result of synergistic interaction of its various chemical components - isolated components have successfully inhibited proliferation in the laboratory, but their efficacy and safety in humans needs to be evaluated in large scale clinical trials.'
+  tfidf_val: 521.3395866171002
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Cruciferous vegetables contain thioglucoside compounds that can interfere with the formation of thyroid hormone.
+  tfidf_val: 337.5682989651342
+  'doc#': 593
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Safety of Cruciferous Plants in Humans A Systematic Review.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a list of studies that includes older research, please click on brussels sprouts._'
+  tfidf_val: 251.45931240514105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

@@ -1,0 +1,88 @@
+- sentence: 'Artichokes (Cynara scolymus), otherwise known as globe artichokes, are a member of the thistle family.'
+  tfidf_val: 75.99626323801857
+  'doc#': 119
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Accumulation by Plants of Brassicaceae Family and Its Connection with Their Primary and Secondary Metabolism.md
+- sentence: 'Artichokes are a good dietary source of phosphorus, magnesium, iron, niacin, vitamin B1 and vitamin B2, and also include some folate, manganese, and zinc.'
+  tfidf_val: 727.2677990131788
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: 'Artichokes also contain apigenin, luteolin, silibinin, chlorogenic acid, cynarin, caffeic acid, ferulic acid, several anthocyanins, and oligofructose compounds such as inulin, most of which have been reported to have anti-cancer properties.'
+  tfidf_val: 1252.0820312774226
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'Artichokes have been shown to have antioxidant, antifungal, antigenotoxic, liver-protective and hypoglycemic activities, as well as reducing cholesterol and ameliorating indigestion and irritable bowel syndrome.'
+  tfidf_val: 228.6119644827801
+  'doc#': 464
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytochemical characterization and antioxidant properties of baby-leaf watercress produced under organic production syst.md
+- sentence: Artichoke extract has been shown to inhibit proliferation and induce apoptosis (programmed cell death) in triple negative (ER-/PR-/HER2-) breast cancer cells in the laboratory.
+  tfidf_val: 1234.1649107556073
+  'doc#': 102
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Dietary Supplements Reactivate ER Expression in ER-Negative Breast Cancer Cells by Active Chromatin Modificati.md
+- sentence: Flavone components of artichoke (apigenin and luteolin) have been shown to induce apoptosis across a variety of breast cancer cell lines.
+  tfidf_val: 973.6173342928669
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: Silibinin has been shown to induce apoptosis in both triple negative and hormone receptor positive (ER+/PR+) breast cancer cells.
+  tfidf_val: 1178.8489351285054
+  'doc#': 102
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Dietary Supplements Reactivate ER Expression in ER-Negative Breast Cancer Cells by Active Chromatin Modificati.md
+- sentence: Silibinin has also been shown to reduce the degree of stem cell-like properties of clusters of triple negative cells.
+  tfidf_val: 743.2141709769319
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'In addition, silibinin has been shown to suppress ER+/PR+ breast cancer cell migration.'
+  tfidf_val: 917.9366000082864
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: 'An Italian population study found that the risk of breast cancer was reduced for increasing intake of apigenin and luteolin, among other flavones.'
+  tfidf_val: 1415.4043931305432
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'However, no population studies have specifically evaluated the impact of consuming artichokes on the risk of breast cancer.'
+  tfidf_val: 1068.0432073062425
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Milk thistle (Silybum marianum), a herb related to the artichoke, traditionally has been used for its liver-protective properties, but increasingly is being used by cancer patients.'
+  tfidf_val: 461.04108929746656
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Milk thistle is the best known source of the compound flavonoid silymarin, which contains silibinin, silybin, silicristin, silidianin and related compounds.'
+  tfidf_val: 264.1123701691892
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: Silibinin is the most biologically active component of silymarin.
+  tfidf_val: 204.74961255429722
+  'doc#': 555
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Silibinin inhibits TPA-induced cell migration and MMP-9 expression in thyroid and breast cancer cells.md
+- sentence: 'However, silybin has also been shown to inhibit growth and induce apoptosis in human breast cancer cells and HER2/neu overexpressing mammary tumors in a mouse model.'
+  tfidf_val: 916.5844541753179
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: 'Silymarin has been shown to have a synergistic effect with Adriamycin (doxorubicin), increasing its treatment effects.'
+  tfidf_val: 373.78601778922376
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: 'However, one study found that treatment of human breast cancer tumor grafts in rodents with silymarin isolated from milk thistle stimulated tumor growth.'
+  tfidf_val: 842.3166849205551
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: 'Therefore, we caution breast cancer patients, survivors and those at high risk against taking concentrated milk thistle, artichoke or silymarin supplements.'
+  tfidf_val: 940.663081271028
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Cardoon (Cynara cardunculus), also known as artichoke thistle or wild artichoke, is an edible thistle-like plant native to the Mediterranean.'
+  tfidf_val: 512.5806636749908
+  'doc#': 479
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Polyphenol Compounds in Artichoke Plant Tissues and Varieties.md
+- sentence: Jerusalem artichokes (Helianthus tuberosus) are part of the sunflower family and are not related to artichokes.
+  tfidf_val: 264.7875989943652
+  'doc#': 65
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antioxidant activity of phenolic compounds identified in sunflower seeds.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on artichokes._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

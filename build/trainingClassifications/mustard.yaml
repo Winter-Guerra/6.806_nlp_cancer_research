@@ -1,0 +1,112 @@
+- sentence: 'Like horseradish sauce, mustard is made from a brassica vegetable.'
+  tfidf_val: 609.3607789825875
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md
+- sentence: 'The yellow mustard commonly used in the U.S. is made from the ground seeds of the white or yellow mustard plant (Sinapis alba Linn., otherwise known as Sinapis hirta), which are mixed into a paste with water, vinegar, turmeric and other spices or flavorings.'
+  tfidf_val: 495.3027273345609
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md
+- sentence: Mustard is also made from brown or Indian mustard (Brassica juncea) seeds or black mustard (Brassica nigra) seeds.
+  tfidf_val: 493.9891754003463
+  'doc#': 465
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytoextraction of potentially toxic elements by Indian mustard rapeseed and sunflower from a contaminated riparian soil.md
+- sentence: Brown and French-style mustards typically are made with Indian mustard seeds.
+  tfidf_val: 248.5614127386644
+  'doc#': 465
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytoextraction of potentially toxic elements by Indian mustard rapeseed and sunflower from a contaminated riparian soil.md
+- sentence: 'Mustard greens, which are the leaves of Indian mustard, are covered in a separate web page.'
+  tfidf_val: 350.843351396695
+  'doc#': 465
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytoextraction of potentially toxic elements by Indian mustard rapeseed and sunflower from a contaminated riparian soil.md
+- sentence: 'Biologically active compounds in various mustards include allyl isothiocyanate, alpha-linolenic acid, sinalbin, sinigrin, gallic acid, protocatechuic acid, p-hydroxybenzoic acid, vanillic acid, caffeic acid, p-coumaric acid, ferulic acid, and sinapic acid.'
+  tfidf_val: 2732.416034645954
+  'doc#': 458
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic Acid Composition Antiatherogenic and Anticancer Potential of Honeys Derived from Various Regions in Greece.md
+- sentence: 'Components of mustard have been shown to have antimutagenic, antidiabetic, antifungal, antimicrobial and antioxidant effects.'
+  tfidf_val: 356.1876756249009
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: White mustard seed has been shown to inhibit colon cancer formation when added to the diets of both normal and obese rats.
+  tfidf_val: 458.723081505784
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Brassica compestris, another mustard grown in India, has been shown to inhibit the formation of carcinogen-induced stomach and uterine cancer in mice.'
+  tfidf_val: 476.10012323165114
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Cruciferous vegetables have also been shown to reduce the risk of gallbladder and urinary bladder cancer and to inhibit the proliferation of lung, pancreatic, and prostate cancer cells.'
+  tfidf_val: 1334.790236204948
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'While one carefully designed study of Chinese women found that brassica vegetable consumption was associated with significantly reduced breast cancer risk, population studies specifically evaluating the impact of consuming mustard seed are not available.'
+  tfidf_val: 1400.555413361174
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: White and black mustard seeds are an excellent source of melatonin.
+  tfidf_val: 728.6862817610269
+  'doc#': 260
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effect of Melatonin on Tumor Growth and Angiogenesis in Xenograft Model of Breast Cancer.md
+- sentence: 'Melatonin protects against breast cancer in several ways, including by reducing aromatase activity within the breast, thereby reducing estrogen production.'
+  tfidf_val: 1094.32768689471
+  'doc#': 426
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Melatonin modulates aromatase activity and expression in endothelial cells.md
+- sentence: 'Indian mustard is known for its tendency to incorporate heavy metals and other minerals (e.g., cadmium, arsenic and lead) from its soil.'
+  tfidf_val: 896.5006208930497
+  'doc#': 119
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Accumulation by Plants of Brassicaceae Family and Its Connection with Their Primary and Secondary Metabolism.md
+- sentence: 'This property has been used to develop a high-selenium mustard (i.e., Brassica juncea that has been grown in soil with high levels of selenium) for use in combating prostate and other cancers (see the discussion regarding selenium and breast cancer in our brazil nuts web page).'
+  tfidf_val: 2041.797432800674
+  'doc#': 545
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Selenium intake and breast cancer mortality in a cohort of Swedish women.md
+- sentence: 'However, it also means that pollution resulting in heavy metal contamination of soil will result in the accumulation of high concentrations of such substances in locally grown mustard, with potentially harmful health effects.'
+  tfidf_val: 740.7693463262311
+  'doc#': 465
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytoextraction of potentially toxic elements by Indian mustard rapeseed and sunflower from a contaminated riparian soil.md
+- sentence: 'Heavy metal contamination of agricultural soils and stream sediments have been reported in many countries, including China near coal and copper mines, in India near tanneries, and in Russia near uranium plants and heavy metal smelting complexes.'
+  tfidf_val: 681.689784654338
+  'doc#': 321
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fish and seafood availability in markets in the Baie des Chaleurs region New Brunswick Canada a heavy metal contaminatio.md
+- sentence: 'Much of the foreign Indian mustard consumed in the U.S. is imported from Canada, but it is also imported from parts of the old Soviet Union, India and China.'
+  tfidf_val: 235.21909462058605
+  'doc#': 465
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytoextraction of potentially toxic elements by Indian mustard rapeseed and sunflower from a contaminated riparian soil.md
+- sentence: Buyers of Indian or black mustard from specialty markets should be aware of its source and assure themselves of its safety and quality.
+  tfidf_val: 251.15005740635357
+  'doc#': 465
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phytoextraction of potentially toxic elements by Indian mustard rapeseed and sunflower from a contaminated riparian soil.md
+- sentence: 'Although it is used widely in Indian cooking, depending on the mustard seed from which it is prepared, mustard oil (mustard seed oil) can be hazardous to health because of its relatively high content of erucic acid and allyl isothiocyanate.'
+  tfidf_val: 755.0738137494816
+  'doc#': 325
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Flaxseeda potential functional food source.md
+- sentence: 'In addition, mustard oil adulteration (e.g., the addition of argemone oil, a poison) has occasionally been reported in India.'
+  tfidf_val: 421.992598868081
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'Mustard oil has been shown to cause early carcinogenic changes in rat livers, especially when consumed after the oil has been heated to the boiling point.'
+  tfidf_val: 569.4773279446375
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: The FDA has not approved mustard oil for human consumption.
+  tfidf_val: 288.59765534738057
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: We do not recommend using it.
+  tfidf_val: 85.27804123011694
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: 'Mustard oil should not be confused with mustard essential oil (also known as volatile oil of mustard) which is produced by grinding the seeds, adding water, and extracting the resulting volatile oil by distillation.'
+  tfidf_val: 877.5787231522614
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: The high allyl isothiocyanate content of mustard essential oil makes it frankly toxic when used undiluted.
+  tfidf_val: 449.86940250033786
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on mustard._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

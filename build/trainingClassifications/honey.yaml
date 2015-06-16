@@ -1,0 +1,172 @@
+- sentence: 'Honey has been found to have antioxidant, anti-inflammatory, antimutagenic, antimicrobial, antiatherogenic, and antithrombotic effects, as well as wound healing properties.'
+  tfidf_val: 1377.7329633068102
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: 'Honey is composed primarily of the sugars levulose, dextrose, and maltose, with a small fraction of sucrose, whereas table sugar consists of sucrose.'
+  tfidf_val: 1138.4246374225777
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: 'Honey also contains chrysin, galangin, pinobanksin, pinostrobin, pinocembrin, acacetin, caffeic acid, caffeic acid phenyl esters, quercetin, kaempferol, and apigenin, all of which have known or suspected anticancer activities.'
+  tfidf_val: 1386.6671266882627
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: 'In addition to its beneficial flavonol content, honey consumption has been shown to have slower uptake into the bloodstream (making it less likely to cause an overstimulation of insulin production) than sugar, and to result in lower blood glucose and triglyceride levels than sugar consumption, all of which may mean that using honey as a sweetener instead of table sugar could be beneficial to overall health.'
+  tfidf_val: 2539.0907947525056
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: 'Chrysin, found in high concentrations in honey, has been found to inhibit tumor angiogenesis in nude mice.'
+  tfidf_val: 1407.4005983227994
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: Chrysin has also been shown to be an inhibitor of aromatase activity (the synthesis of estrogen from androgens within the body) and to suppress the growth of metastatic triple negative breast cancer cells.
+  tfidf_val: 1025.1068072543767
+  'doc#': 154
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Combined treatment with chrysin and 12346-penta-O-galloyl--D-glucose synergistically inhibits LRP6 and Skp2 activation i.md
+- sentence: 'Caffeic acid phenethyl ester has been shown to induce apoptosis of human leukemic lymphoblasts and colon cancer cells, protect against tamoxifen-induced liver damage in rats, and to suppress osteoclastogenesis (suggesting that it may be useful as a therapeutic agent for treatment of bone destructive diseases).'
+  tfidf_val: 1137.702484110556
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Galangin has been found to have an antiproliferative effect in human breast cancer and leukemia cells.
+  tfidf_val: 680.9638620728147
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: Honey extracts have been shown to have anti-proliferative effects in colon cancer cells; honey samples with higher phenolic content were found to have more significant anti-proliferative effect.
+  tfidf_val: 3131.2705983493393
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: Honey has also been shown to inhibit the growth of bladder cancer cell lines in vitro and in vivo.
+  tfidf_val: 1628.734559712594
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: One study of Greek honey extracts found that they possessed anti-estrogenic activity at low concentrations and estrogenic activity at high concentrations in estrogen receptor positive (ER+) human breast cancer cells.
+  tfidf_val: 1850.6056830206865
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: 'Since honey typically is a small component of most diets, very few population studies have been performed that attempt to isolate the impact of honey consumption on breast cancer risk.'
+  tfidf_val: 2518.2178826266795
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: 'One Italian study found that consumption of sweet desserts and sugars (including honey) was positively associated with the risk of breast cancer, even after adjusting for body mass index.'
+  tfidf_val: 1499.126880497787
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: The antitumor activity of certain chemotherapeutic drugs such as 5-fluorouracil and cyclophosphamide have been shown to be facilitated by honey.
+  tfidf_val: 1207.7308336232302
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: 'However, it also has been shown that the flavonoids quercetin, apigenin, galangin and chrysin, all found in honey, decrease Adriamycin (doxorubicin) cytotoxicity against murine leukemia cells.'
+  tfidf_val: 1561.2319536347086
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: Quercetin has been found to induce cytotoxicity and DNA strand breaks and other damage in normal cells at concentrations that could result from a dietary supplement of one to two grams of quercetin per day.
+  tfidf_val: 1271.6288651785594
+  'doc#': 507
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quercetin regulates -catenin signaling and reduces the migration of triple negative breast cancer.md
+- sentence: Our conclusion is that supplements that contain concentrated extracts of honey components should be avoided.
+  tfidf_val: 1144.6762482824454
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: The phenolic content of different types of honey can vary greatly.
+  tfidf_val: 1210.6958790841616
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: 'The phenolic compounds contribute significantly to the antioxidant capacity of honey, but are not solely responsible for it.'
+  tfidf_val: 1271.6619578761945
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: 'The darkest honeys, such as buckwheat honey, are a better source of antioxidants than lighter-colored honeys.'
+  tfidf_val: 1452.7349855192103
+  'doc#': 458
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic Acid Composition Antiatherogenic and Anticancer Potential of Honeys Derived from Various Regions in Greece.md
+- sentence: Raw or minimally processed honey is generally superior to filtered and otherwise highly processed honey.
+  tfidf_val: 2222.5694283877438
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: 'Honey has been found to be useful during breast cancer treatment for hand and foot skin reactions resulting from chemotherapy, as well as radiation-induced mucositis and skin reactions.'
+  tfidf_val: 1522.9593109512446
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: Propolis (also known as bee glue or hive dross) is a waxy resinous substance used by honeybees in hive construction and maintenance.
+  tfidf_val: 1012.133571594038
+  'doc#': 590
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Immunomodulatory and Anticancer Properties of Propolis.md
+- sentence: 'It is made by bees from plant resins, essential oils and pollen.'
+  tfidf_val: 171.61943731254303
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md
+- sentence: The chemical composition of propolis can vary greatly from region to region.
+  tfidf_val: 995.3731426420807
+  'doc#': 590
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Immunomodulatory and Anticancer Properties of Propolis.md
+- sentence: Propolis has been used in traditional medicine to treat a variety of ills and it continues to be used today.
+  tfidf_val: 1016.4495004402822
+  'doc#': 590
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Immunomodulatory and Anticancer Properties of Propolis.md
+- sentence: 'Propolis contains several compounds with suspected or demonstrated anti-cancer effects, including chrysin, caffeic acid phenethyl ester, and galangin.'
+  tfidf_val: 1180.3404038540975
+  'doc#': 590
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Immunomodulatory and Anticancer Properties of Propolis.md
+- sentence: 'Brazilian propolis has been shown to suppress tumor-induced angiogenesis, apparently through action of its component artepillin C (i.e., 3,5-diprenyl-4-hydroxycinnamic acid, typically not found in propolis of European origin).'
+  tfidf_val: 2813.8789082675544
+  'doc#': 590
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Immunomodulatory and Anticancer Properties of Propolis.md
+- sentence: 'However, Brazilian propolis has also been found to cause acute kidney failure.'
+  tfidf_val: 1379.733748149882
+  'doc#': 590
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Immunomodulatory and Anticancer Properties of Propolis.md
+- sentence: Propolis has been shown to produce estrogenic effects in human breast cancer cells through activation of estrogen receptors.
+  tfidf_val: 1240.9542690330868
+  'doc#': 590
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Immunomodulatory and Anticancer Properties of Propolis.md
+- sentence: We do not recommend taking propolis as a dietary supplement.
+  tfidf_val: 984.1487632670829
+  'doc#': 590
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Immunomodulatory and Anticancer Properties of Propolis.md
+- sentence: Royal jelly is a bee secretion that is used to feed the larvae in a honey bee colony.
+  tfidf_val: 1115.4493229245793
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: It has traditionally been thought to improve menopausal symptoms.
+  tfidf_val: 131.01193703015304
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md
+- sentence: 'Royal jelly has been found to have estrogenic effects in human breast cancer cells, enhancing their proliferation.'
+  tfidf_val: 686.6254192167085
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: 'It should also be avoided by breast cancer patients, survivors and those at high risk.'
+  tfidf_val: 916.410594604729
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Cases of honey food poisoning ("honey intoxication" or "mad honey poisoning") have been reported as a result of consuming grayanotoxin-contaminated honey.'
+  tfidf_val: 4470.433840622392
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: 'Grayanotoxin and similar neurotoxins can cause serious heart disturbances, among other symptoms.'
+  tfidf_val: 140.39518777723723
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Grayanotoxin is found in the pollen and nectar (and other parts) of rhododendrons and other plants of the Ericaceae family, including the western azalea, California rosebay, mountain laurel, and sheep laurel.'
+  tfidf_val: 242.76145428634473
+  'doc#': 119
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Accumulation by Plants of Brassicaceae Family and Its Connection with Their Primary and Secondary Metabolism.md
+- sentence: 'Honey from Japan, Brazil, United States, Nepal, British Columbia, and Turkey on occasion have been found to contain grayanotoxin.'
+  tfidf_val: 1149.8947243199968
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: Honey produced by farmers from only a few hives can be at higher risk than honey pooled in large quantities from multiple sources during commercial processing.
+  tfidf_val: 2239.675430959037
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md
+- sentence: Consumers should assure themselves of the safety of any specialty honeys they consume.
+  tfidf_val: 374.9457499032503
+  'doc#': 458
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic Acid Composition Antiatherogenic and Anticancer Potential of Honeys Derived from Various Regions in Greece.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on honey._'
+  tfidf_val: 1181.8391404462075
+  'doc#': 272
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of Honey and Its Mechanisms of Action on the Development and Progression of Cancer.md

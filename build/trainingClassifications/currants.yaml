@@ -1,0 +1,64 @@
+- sentence: 'Currants are small sour berries that are normally eaten in dried form (resembling small raisins) in the U.S. Black currants (Ribes nigrum), red currents (R. rubrum) and white currants (R. sativum) are the most common varieties.'
+  tfidf_val: 837.4584616846013
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: 'Currants, which are related to gooseberries (Ribes uva-crispa), are good sources of vitamin C and fiber.'
+  tfidf_val: 380.2387015548195
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: 'Darker varieties are rich sources of anthocyanins, which have been reported to have anticancer properties.'
+  tfidf_val: 372.896371143063
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'Currants also contain myricetin and quercetin, ellagic acid, and the isoflavone phytoestrogens genistein and daidzein.'
+  tfidf_val: 574.0604671998225
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: Currants have been shown to have antioxidant and anti-inflammatory properties.
+  tfidf_val: 429.2008520782347
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: 'Currant roots and seeds are high in gamma-linolenic acid (GLA), which has been traditionally used to treat pre-menstrual syndrome and other "female" health problems.'
+  tfidf_val: 410.05426777887607
+  'doc#': 357
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Horseradish Armoracia rusticana a neglected medical and condiment species with a relevant glucosinolate profile a review.md
+- sentence: Currants share many of the properties of blueberries and cranberries and therefore would be expected to have similar chemopreventive effects against breast cancer.
+  tfidf_val: 631.1196719312018
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'However, the few population studies that have been undertaken which have included currants have not attempted to isolate the effects of this berry.'
+  tfidf_val: 467.6043882113696
+  'doc#': 380
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Influence of Berry-Polyphenols on Receptor Signaling and Cell-Death Pathways Implications for Breast Cancer Prevention.md
+- sentence: 'Black currant seed oil, evening primrose oil, and borage oil are all marketed as sources of GLA.'
+  tfidf_val: 624.2696468167877
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'GLA is an omega-6 unsaturated fatty acid with anti-inflammatory properties (unlike the omega-6 fatty acids in vegetable oils, which tend to be pro-inflammatory).'
+  tfidf_val: 920.4214444407976
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: 'GLA and its metabolites affect the expression of various genes, including ones that play a significant role in immune functions and cell death.'
+  tfidf_val: 787.4796069966715
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Most people obtain abundant levels of GLA through their diets (GLA is produced in the body from linoleic acid) and do not need supplementation.
+  tfidf_val: 316.26371187167825
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'Black currant oil, evening primrose oil, and borage oil have numerous biologically active components (such as flavonols and phenolic acids) in addition to GLA and their health-related effects may be the result of these other components.'
+  tfidf_val: 704.0839021932535
+  'doc#': 420
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Maternal consumption of canola oil suppressed mammary gland tumorigenesis in C31 TAg mice offspring.md
+- sentence: 'Consumers should be aware that, like cranberry juice, currant juice may have high levels of sugar or other sweeteners.'
+  tfidf_val: 526.0699051113652
+  'doc#': 490
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Potential Risks Resulting from FruitVegetable-Drug Interactions Effects on Drug-Metabolizing Enzymes and Drug Transporte.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on currants._'
+  tfidf_val: 256.36293407787105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

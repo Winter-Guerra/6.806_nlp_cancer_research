@@ -9,6 +9,7 @@ rename = require("gulp-rename")
 replace = require('gulp-replace')
 tap = require('gulp-tap')
 natural = require('natural')
+yaml = require('js-yaml')
 
 gulp.task 'countSources', () ->
 	stream = gulp.src([ 'sources/raw/**/*.md' ])
@@ -49,7 +50,7 @@ gulp.task 'tokenizeSummary', () ->
 
 # This will use tf-idf to match all the summary sentences with the best match in our corpus  
 
-gulp.task 'generateTrainingSet', () ->
+gulp.task 'generateTrainingClassifications', () ->
 
 	TfIdf = natural.TfIdf
 	tfidf = new TfIdf()
@@ -67,20 +68,35 @@ gulp.task 'generateTrainingSet', () ->
 	# Our corpus has been filled. Let's start doing lookups
 	.on 'end', () ->
 
-		rankings = ( { 'tfidf_val': tfidf.tfidf('cloudy apple juice', i) , 'doc#': i, 'key': tfidf.documents[i].__key} for i in [0...tfidf.documents.length]) 
+		stream = gulp.src([ './build/summaries/*.yaml' ])
 
-		rankings.sort (a,b) ->
-			return if a['tfidf_val'] >= b['tfidf_val'] then 1 else -1
+		.pipe(
+			tap (file) ->
+				# read YAML file
+				sentences = yaml.safeLoad( file.contents.toString() )
 
-		rankings.reverse() # Because we want in decending order
+				# file.contents = '' 
 
-		# Check which is the best fit
+				# Iterate through every sentence in the yaml
+				rankings = []
+				for sentence in sentences
 
-		console.log rankings[0]
+					# For each sentence, find the document that best fits the sentence
+					max = {'tfidf_val':0}
+					for i in [0...tfidf.documents.length]
 
+						ranking = { 'sentence': sentence, 'tfidf_val': tfidf.tfidf(sentence, i) , 'doc#': i, 'key': tfidf.documents[i].__key}
+						max = ranking if max['tfidf_val'] < ranking['tfidf_val'] 
 
-	# Then, let's load every summary.yaml and run it through a search function
+					rankings.push(max)
 
-	# 
+					# Append the sentence to the yaml file in ./build/classifications
+				file.contents = new Buffer yaml.safeDump(rankings)
+				return file.contents
+		)
+		.pipe( gulp.dest('./build/trainingClassifications') )
+
+		
+
 
 

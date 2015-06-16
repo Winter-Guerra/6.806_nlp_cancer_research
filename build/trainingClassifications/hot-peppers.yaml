@@ -1,0 +1,136 @@
+- sentence: Hot peppers include peppers of many varieties in the genus Capsicum that are characterized by intense heat resulting from their capsaicinoid contents.
+  tfidf_val: 264.17217363031494
+  'doc#': 303
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Evidence for the complex relationship between free amino acid and sugar concentrations and acrylamide-forming potential .md
+- sentence: 'Examples include cayenne chili peppers, hot chilli peppers, jalapeño peppers, and Sichuan peppers.'
+  tfidf_val: 125.58684147826963
+  'doc#': 383
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Inhibitory effect of luteolin on estrogen biosynthesis in human ovarian granulosa cells by suppression of aromatase CYP1.md
+- sentence: 'Also included in this category are hot sauce, chili powder, red pepper flakes and red pepper paste.'
+  tfidf_val: 403.754877663009
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: Not included are black pepper or bell peppers (or other mild or sweet peppers).
+  tfidf_val: 331.4173396582863
+  'doc#': 169
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of sweet foods and mammographic breast density a cross-sectional study.md
+- sentence: 'By hot sauce, we mean supermarket sauces such as Tabasco Sauce and various Louisiana hot sauces, as well as specialty sauces advertised as fiery or hot in which the heat is derived from capsaicin-containing peppers.'
+  tfidf_val: 249.63284260057455
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'By chili powder, we mean the common supermarket spice mixture made primarily from the dried, ground fruit of red chili peppers (Capsicum annum L.), as well as specialty chili powders advertised as hot.'
+  tfidf_val: 353.35734795507085
+  'doc#': 331
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit cuticular waxes as a source of biologically active triterpenoids.md
+- sentence: 'Hot peppers have been shown to have anti-inflammatory, antioxidant, antiarthritic, analgesic, and antithrombotic properties and may improve cholesterol levels and glucose metabolism and assist in weight loss.'
+  tfidf_val: 360.8968458468662
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Most peppers are good dietary sources of beta-carotene, lycopene (red varieties) and vitamin C, as well as flavonoids such as apigenin and luteolin.'
+  tfidf_val: 815.001346271903
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md
+- sentence: 'Studies concerning hot peppers, capsaicin and cancer have produced mixed results.'
+  tfidf_val: 543.3465055437939
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'On the one hand, capsaicin has been shown to induce apoptosis in several different types of cancer cells and mechanisms have been proposed to explain its apparent anti-cancer activity.'
+  tfidf_val: 1069.987161004104
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'On the other hand, capsaicin also appears to act as a carcinogen in some parts of the body.'
+  tfidf_val: 80.94881236366595
+  'doc#': 483
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Pomegranate and its derivatives can improve bone health through decreased inflammation and oxidative stress in an animal.md
+- sentence: 'As noted above, capsaicin has been shown to induce apoptosis or have chemoprotective actions in the laboratory in a variety of human cancer cells, including lung, pancreatic, bladder, colon, urothelial, and prostate cancer cells.'
+  tfidf_val: 1471.3365887494697
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: Population studies have found hot pepper consumption to be associated with lower risks of lung and liver cancers.
+  tfidf_val: 446.3556961102144
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: The population-based evidence with respect to colon cancer is inconsistent.
+  tfidf_val: 561.2104812797559
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Frequent consumption of hot peppers has been found to be associated with esophageal, gall bladder and gastric (stomach and intestinal) cancers in multiple population studies.'
+  tfidf_val: 434.39145920172314
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'In Chileans (who have among the highest rates of gall bladder cancer in the world), those with the highest intake of red chilli peppers and a history of gallstone disease have the highest risk of developing gall bladder cancer.'
+  tfidf_val: 1757.1475951228872
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: One Mexican study found that intake of capsaicin was associated with increased risk of gastric cancer independent of H. pylori infection.
+  tfidf_val: 1206.11517535326
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Maternal consumption of chili peppers during pregnancy has also been found to be associated with subsequent higher risk for the child of medulloblastoma/primitive neuroectodermal tumor (PNET), a common childhood brain tumor.'
+  tfidf_val: 535.8576617360886
+  'doc#': 616
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Tumor Angiogenesis as a Target for Dietary Cancer Prevention.md
+- sentence: 'Capsaicin has been shown to inhibit growth and induce apoptosis in breast cancer cells, including HER2/Neu overexpressing (HER2+) and epidermal growth factor receptor (EGFR)-overexpressing breast cancer.'
+  tfidf_val: 1278.1764348344095
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Several population studies have found an association between hot pepper consumption and lower incidence of breast cancer.
+  tfidf_val: 879.047303366431
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: There is some evidence that breast cancer survivors are at increased risk of developing stomach cancer.
+  tfidf_val: 1256.233457300525
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Lobular breast cancer survivors in particular are vulnerable to gastric metastases.
+  tfidf_val: 618.0894977025389
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Women with lobular breast cancer and those with gallstones, as well as pregnant women, should moderate their hot pepper consumption.'
+  tfidf_val: 850.5493629959819
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'On the other hand, hot pepper consumption may be beneficial for other women with breast cancer or those at risk.'
+  tfidf_val: 1033.6095564081027
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: By this we mean modest amounts up to several times per week.
+  tfidf_val: 177.75143904576782
+  'doc#': 594
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The association of alcohol consumption with mammographic density in a multiethnic urban population.md
+- sentence: 'Large or frequent meals that have been made very hot by the incorporation of one or more forms of hot peppers are to be avoided, as are capsaicin supplements.'
+  tfidf_val: 232.08149616253874
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'Despite the heat of red chilli peppers, aflatoxin contamination has been found in some samples.'
+  tfidf_val: 332.9657840232854
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: 'Aflatoxins, which are produced by various species of Aspergillus fungus, are mutagenic, carcinogenic and teratogenic and cause immuno-suppression in humans.'
+  tfidf_val: 225.2042629670361
+  'doc#': 431
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Multivariate Analysis of Water Quality and Plankton Assemblages in an Urban Estuary.md
+- sentence: 'Aflatoxin B1 has been shown to cause liver cancer, especially in hepatitis B-positive individuals.'
+  tfidf_val: 451.4184247895942
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'One study of aflatoxin in Indonesian foods found that peanut-chilli sauces had one of the highest percentages of aflatoxin contamination, indicating that the addition of chili peppers to peanut sauce did not neutralize the aflatoxin that probably came, in part, from the peanuts.'
+  tfidf_val: 448.08450841634885
+  'doc#': 625
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Vegetable protein and vegetable fat intakes in pre-adolescent and adolescent girls and risk for benign breast disease in young women.md
+- sentence: 'Buyers of hot peppers, sauces containing hot peppers, or hot pepper paste from specialty markets should assure themselves of their safety and quality.'
+  tfidf_val: 290.861062348175
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: Non-organic peppers must be washed very thoroughly to remove pesticide residue as much as possible.
+  tfidf_val: 252.9657461515823
+  'doc#': 117
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Brassinosteroids Promote Metabolism of Pesticides in Cucumber.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on hot peppers._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

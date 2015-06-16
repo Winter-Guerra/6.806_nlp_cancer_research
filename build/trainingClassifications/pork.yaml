@@ -1,0 +1,104 @@
+- sentence: Pork is a dietary source of iron and selenium.
+  tfidf_val: 628.8335484037491
+  'doc#': 545
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Selenium intake and breast cancer mortality in a cohort of Swedish women.md
+- sentence: Pork fat has a high saturated fatty acid and cholesterol content.
+  tfidf_val: 692.5605372233878
+  'doc#': 505
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quantitative Determination of Fatty Acids in Marine Fish and Shellfish from Warm Water of Straits of Malacca for Nutrace.md
+- sentence: "Diets high in pork have been linked in population studies to higher risks of esophageal, thyroid, lung, pancreatic, liver, bladder, colorectal, and prostate cancer, as well as non-Hodgkin's lymphoma."
+  tfidf_val: 955.3467917891649
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'In this article, we evaluate the potential impact on breast cancer risk of consuming pork products that are not salted, smoked or cured.'
+  tfidf_val: 930.0375535817604
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Such pork products are covered under bacon.
+  tfidf_val: 144.94455537308409
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: Breast cancer risk has been found to increase with increasing consumption of pork in several population studies.
+  tfidf_val: 1041.1530690399836
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'In addition, high red meat consumption during adolescence has been found to be associated with increased risk of premenopausal breast cancer.'
+  tfidf_val: 1160.0693594490333
+  'doc#': 232
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary protein sources in early adulthood and breast cancer incidence prospective cohort study.md
+- sentence: A small Brazilian study found that breast cancer risk was sharply higher for women who regularly consumed lard (rendered pig fat) and fatty red meat.
+  tfidf_val: 1667.7368140623064
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'However, a 2009 Swedish population study found no association between fresh red meat intake and overall breast cancer risk, while suggesting that fried red meat intake may increase the risk of estrogen receptor-positive/progesterone receptor-negative ER+/PR- breast cancer.'
+  tfidf_val: 3353.1906076508453
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: Red meat intake has been shown reduce circulating melatonin.
+  tfidf_val: 734.9629328843745
+  'doc#': 260
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effect of Melatonin on Tumor Growth and Angiogenesis in Xenograft Model of Breast Cancer.md
+- sentence: 'Melatonin protects against breast cancer in several ways, including by reducing aromatase activity within the breast, thereby reducing estrogen production.'
+  tfidf_val: 1094.32768689471
+  'doc#': 426
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Melatonin modulates aromatase activity and expression in endothelial cells.md
+- sentence: 'Relatively high levels of heterocyclic aromatic amines (HCAs) have been found in pork dishes such as pork chops and other pan-fried pork, Chinese-style and Western-style roasted pork, pork ribs, and barbecued pork, as well as pork drippings.'
+  tfidf_val: 1091.0725990075916
+  'doc#': 282
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effects of traditional chinese cooking methods on formation of heterocyclic aromatic amines in lamb patties.md
+- sentence: 'HCAs have been shown be associated with the development of various cancers, including breast cancer.'
+  tfidf_val: 723.6963036466719
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Two of the HCAs found in pork cooked using high temperature methods, 2-amino-3-methylimidazo[4,5-b]pyridine and 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine, have also been shown to have potent estrogenic activity, inducing activation of estrogen-regulated genes, proliferation of estrogen-dependent cells and up-regulation of progesterone receptor.'
+  tfidf_val: 988.6124555151163
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'While iron deficiency anemia is a serious condition to be avoided, the contribution of significant iron in the diet as a result of regularly consuming pork could be detrimental for some women.'
+  tfidf_val: 620.4019402849761
+  'doc#': 592
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Potato in the Human Diet a Complex Matrix with Potential Health Benefits.md
+- sentence: Pork contains approximately 60 percent of the iron in beef.
+  tfidf_val: 294.76620847026265
+  'doc#': 592
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Potato in the Human Diet a Complex Matrix with Potential Health Benefits.md
+- sentence: Iron depletion has been shown to lead to significant inhibition of breast cancer cell growth in the laboratory.
+  tfidf_val: 657.6985224569274
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Relatively high levels of iron in benign breast tissue was found in one prospective study to be associated with an increase in risk of subsequent breast cancer.
+  tfidf_val: 1582.2093409969093
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Other studies have found high levels of iron in the blood to be associated with increased breast cancer risk.
+  tfidf_val: 1152.4259516218995
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: High intake of saturated fat from animal sources including pork has also been found to be associated with increased risk of breast cancer.
+  tfidf_val: 1662.7983385330426
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Based on the available evidence, pork prepared using high temperature methods (roasting, barbecuing, deep frying), pork drippings (and gravy made with pork drippings), charred pork, pork fat, and lard all should be avoided by breast cancer patients, survivors and those at high risk for breast cancer.'
+  tfidf_val: 1956.6986621908968
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'In addition, consumption of lean pork dishes prepared using lower temperature methods should be limited.'
+  tfidf_val: 241.6942017711068
+  'doc#': 152
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee prevents early events in tamoxifen-treated breast cancer patients and modulates hormone receptor status.md
+- sentence: 'Pork should eaten fully cooked, not rare or raw, to minimize the risk of trichinosis and listeriosis infections.'
+  tfidf_val: 367.84355277985446
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'While most U.S. consumers avoid cooking with lard because of its known negative health profile, it is used in some processed foods such as baked goods, often in hydrogenated form.'
+  tfidf_val: 341.9878449164941
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on pork._'
+  tfidf_val: 256.36293407787105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

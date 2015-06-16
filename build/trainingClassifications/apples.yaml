@@ -1,0 +1,67 @@
+- sentence: 'Like pears, apples are a member of the Rosaceae family.'
+  tfidf_val: 250.13915229359708
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'The most beneficial varieties have red, rosy or red streaked peels.'
+  tfidf_val: 474.1891596418097
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: 'The peel has the most micronutrients, however, nonorganic apple peels are likely to be contaminated with pesticides.'
+  tfidf_val: 458.37093982319413
+  'doc#': 459
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic Compounds in Apple Malus x domestica Borkh Compounds Characterization and Stability during Postharvest and afte.md
+- sentence: 'One study found that the consumption of apples was inversely related to the risk of breast cancer when the results were adjusted for factors such as age, education, body mass index (BMI), alcohol consumption, total energy intake, vegetable consumption and physical activity.'
+  tfidf_val: 1586.504561470338
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: Apples have been shown to shrink the size of mammary tumors in rats and to induce breast cancer cell apoptosis.
+  tfidf_val: 660.4315395170793
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Apple peel contains chemicals that may be important for this effect.
+  tfidf_val: 501.59979637775257
+  'doc#': 459
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic Compounds in Apple Malus x domestica Borkh Compounds Characterization and Stability during Postharvest and afte.md
+- sentence: One study reported that an apple peel diet significantly inhibited the growth of mammary tumors in a mouse model of breast cancer.
+  tfidf_val: 821.0964388616633
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: The same study reported that a triterpenoid found in apple peel induced apoptosis (programmed cell death) in triple negative breast cancer cells.
+  tfidf_val: 980.1577970366884
+  'doc#': 447
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Olive Phenolics as c-Met Inhibitors --Oleocanthal Attenuates Cell Proliferation Invasiveness and Tumor Growth in Breast .md
+- sentence: The apple flavonoid phloretin has been shown to increase the anti-cancer effects of the chemotherapy drug Taxol (paclitaxel).
+  tfidf_val: 667.8350346288669
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: Red apples have more antioxidant and antiproliferative phytochemicals than green or yellow apples.
+  tfidf_val: 461.17164018339184
+  'doc#': 73
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antiproliferative Effects of Fresh and Thermal Processed Green and Red Cultivars of Curly Kale Brassica oleracea L conva.md
+- sentence: Organic U.S. apples are the best choice.
+  tfidf_val: 236.40242918696794
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: Non-organic apples must be washed very thoroughly to remove pesticide residue.
+  tfidf_val: 250.7270569102986
+  'doc#': 117
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Brassinosteroids Promote Metabolism of Pesticides in Cucumber.md
+- sentence: 'Apple juice is not particularly beneficial compared to raw apples, however cloudy apple juice has more antioxidants than clear apple juice.'
+  tfidf_val: 1386.224981755461
+  'doc#': 459
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic Compounds in Apple Malus x domestica Borkh Compounds Characterization and Stability during Postharvest and afte.md
+- sentence: >-
+    There have been reports of meaningful levels of arsenic in apple juice
+    produced from apples grown in countries that use certian pesticides no longer
+    approved for use in the U.S.
+
+
+
+    _Below are links to recent studies concerning this food.
+  tfidf_val: 619.415088210306
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: 'For a more complete list of studies, please click on apples._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

@@ -1,0 +1,180 @@
+- sentence: Soy protein isolate is produced by removing most of the fats and carbohydrates from defatted soy flour (soy flour is made by grinding soybeans into a powder).
+  tfidf_val: 1831.775916387376
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'Soybeans have a protein content of approximately 40%, whereas soy protein isolate has a protein content of 90% or higher.'
+  tfidf_val: 793.7505721777408
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'Depending on processing, soy protein isolates vary widely in concentrations of genistein and other soy isoflavones.'
+  tfidf_val: 1477.42822228347
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: Soy protein concentrate is a product similar to soy protein isolate which is produced by removing the water soluble carbohydrates from defatted soy flour.
+  tfidf_val: 1878.0809653346541
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'Soy protein concentrate has a protein content of approximately 70% and also contains some carbohydrate, ash and oil.'
+  tfidf_val: 711.0063968602935
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'Textured soy protein is made by forming a dough from defatted soy flour plus water, extruding it through a die, and drying it.'
+  tfidf_val: 1228.1246824432437
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'The extrusion process alters the structure of the soy protein, resulting in a meat like texture.'
+  tfidf_val: 642.4951925768075
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'Textured soy protein contains approximately 50% soy protein.'
+  tfidf_val: 1302.8841133699088
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'It is used as a meat replacement (e.g., in veggie burgers).'
+  tfidf_val: 340.25403293848456
+  'doc#': 510
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Racial disparities in red meat and poultry intake and breast cancer risk.md
+- sentence: 'Unlike soy protein isolate and soy protein concentrate, textured soy protein is a good source of fiber and soy isoflavones.'
+  tfidf_val: 2702.496011815359
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'This web page focuses on soy protein isolate, which is a component of many processed foods, including baked foods, breakfast cereals, processed meat products, soy-based infant formulas, and some protein shakes and protein bars.'
+  tfidf_val: 1372.0630070995915
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'Soybean oil, soy lecithin and soy protein isolate in processed foods are the primary forms of soy consumed by many U.S. residents.'
+  tfidf_val: 1844.7014266245064
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'Separate web pages cover soybeans, soybean oil, soybean paste and tofu.'
+  tfidf_val: 763.3633892941824
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: We attempt to untangle the conflicting findings regarding breast cancer risk and soybean isoflavones in the genistein and daidzein web page.
+  tfidf_val: 905.5422107814544
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Soy protein has been shown to improve glycemic control in diabetic postmenopausal women and to improve insulin sensitivity in female ovariectomized monkeys as well as in male monkeys.
+  tfidf_val: 948.0874145997819
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md
+- sentence: Dietary intake of soy protein isolate has been found to reduce circulating insulin levels in rats.
+  tfidf_val: 867.8852564152862
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: Dietary soy has also been found to reduce atherosclerotic plaque development in male monkeys.
+  tfidf_val: 687.7628454592265
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: Several studies have found that rats with carcinogen-induced colon cancer that were fed soy protein isolate had reduced tumor incidence compared to control diets.
+  tfidf_val: 1180.9479145044434
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: The reduction in colon tumor incidence in soy protein isolate-fed rats was found to be associated with reduced circulating insulin and leptin in one study.
+  tfidf_val: 948.3933031128811
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: One population study of soy consumption and thyroid cancer risk conducted in the San Francisco Bay Area found that consumption of traditional and nontraditional soy-based foods were associated with reduced risk of thyroid cancer.
+  tfidf_val: 2240.3143925926065
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'However, consumption of "Western" foods with added soy flour or soy protein did not affect thyroid cancer risk.'
+  tfidf_val: 1688.9651318934505
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: Soy protein isolate consumption has been found to have potentially beneficial impact on prostate cancer progression in some studies.
+  tfidf_val: 1131.7320703466548
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: Estrogen is antiresorptive on the skeleton.
+  tfidf_val: 160.99793167068765
+  'doc#': 383
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Inhibitory effect of luteolin on estrogen biosynthesis in human ovarian granulosa cells by suppression of aromatase CYP1.md
+- sentence: 'Hence, the lower estrogen levels associated with menopause typically result in bone loss.'
+  tfidf_val: 364.18348812045576
+  'doc#': 483
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Pomegranate and its derivatives can improve bone health through decreased inflammation and oxidative stress in an animal.md
+- sentence: Diets supplemented with soy isoflavones or isoflavone-rich soy protein isolate have not been found to prevent bone resorption in postmenopausal women.
+  tfidf_val: 1881.4791588968947
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md
+- sentence: 'However, in a study comparing the effects of diets with casein, soy protein isolate, whey protein hydrolysate and rice protein isolate on bone in intact growing female rats and in ovariectomized rats showing signs of sex steroid deficiency-induced bone loss, soy protein isolate was found to have the greatest positive effects in both intact and ovariectomized rats.'
+  tfidf_val: 1732.3626455537753
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: Soy protein isolate increased serum bone formation markers but suppressed bone resorption markers.
+  tfidf_val: 782.2711820988028
+  'doc#': 483
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Pomegranate and its derivatives can improve bone health through decreased inflammation and oxidative stress in an animal.md
+- sentence: It is possible that consumption of soy protein isolate low in soy isoflavones may improve postmenopausal bone health but more studies are required to determine whether this is the case.
+  tfidf_val: 1777.8779579932084
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: Evidence concerning the impact of soy protein isolate on breast cancer risk consists of animal studies and human experiments.
+  tfidf_val: 1420.7904848288472
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'Population studies concerning any possible association between soy protein isolate and risk of breast cancer are not available, which is especially unfortunate since experimental studies have produced conflicting findings.'
+  tfidf_val: 1602.3282929612544
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: Feeding soy protein isolate to female rats has been shown in several studies to decrease carcinogen-induced mammary tumor incidence.
+  tfidf_val: 875.6039892228661
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'The female offspring of the rats in one of these studies were found to have smaller mammary fat cells, lower abdominal fat mass and lower overall body weight.'
+  tfidf_val: 807.7063862775757
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Another study found that while rats fed a soy protein isolate diet had a lower tumor incidence than rats fed a control diet, the tumors had more invasive characteristics.'
+  tfidf_val: 886.394959987781
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'The authors ascribed the increased invasiveness to a higher ratio of progesterone receptor A to progesterone receptor B in the soy protein isolate group, accompanied by increased levels of HER-2/neu oncogene.'
+  tfidf_val: 950.7828451691034
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'However, note that soy protein isolate also contains relatively high levels of copper, which has been shown to increase angiogenesis and metastasis of breast cancer.'
+  tfidf_val: 1140.053656969744
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: Another study found that soy protein isolate stimulated estrogen positive breast tumor growth and increased uterus weight in ovariectomized mice.
+  tfidf_val: 1089.0439285846774
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: Yet another study found that a high soy protein diet increased mitosis (leading to cell division) in the mammary glands of rats.
+  tfidf_val: 815.1748262636833
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: The change in proliferation was associated with increased estrogen receptor α (ERα) and decreased estrogen receptor β (ERβ) expression.
+  tfidf_val: 982.1482814705018
+  'doc#': 102
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Dietary Supplements Reactivate ER Expression in ER-Negative Breast Cancer Cells by Active Chromatin Modificati.md
+- sentence: 'A one-year study of the effects of soy protein isolate consumption in women that measured changes in nipple aspirate fluid and plasma hormones, cholesterol and triglycerides found that prolonged consumption of soy protein isolate with a defined level of genistein had little effect on postmenopausal women.'
+  tfidf_val: 1962.23254794382
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'However, a stimulatory effect on the breasts of the premenopausal women was observed, characterized by increased secretion of breast fluid, the appearance of hyperplastic epithelial breast cells, and increased levels of plasma estradiol.'
+  tfidf_val: 853.6136324050326
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: The authors note that these findings did not support their a priori hypothesis that soy protein isolate consumption would be protective against breast cancer.
+  tfidf_val: 1183.5330698964772
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: The U.S. Food and Drug Administration is in the process of investigating the levels of furan in soy protein isolate and other foods.
+  tfidf_val: 698.0555143940429
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'Furan, which has been found in soy protein isolate, is a toxin which is a possible human carcinogen (furan is carcinogenic in rats and mice) and has been found as a byproduct of heat treatment during processing of various foods.'
+  tfidf_val: 838.8428634327129
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on soy protein isolate._'
+  tfidf_val: 805.046080277886
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md

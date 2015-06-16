@@ -1,0 +1,84 @@
+- sentence: Soybean paste is a type of fermented bean paste widely used in Asian cuisine.
+  tfidf_val: 363.55135972808245
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: Soybean paste normally is salty and may also be spicy.
+  tfidf_val: 189.89545594280827
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: 'The soybeans may be roasted or aged before being ground to make the paste and various other ingredients such as wheat flour, sugar or hot pepper paste may be incorporated into the paste.'
+  tfidf_val: 602.5872513869567
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: The conditions of fermentation and microflora used in production also affect the flavor.
+  tfidf_val: 200.13585358331179
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: Soybean paste is used as a condiment to flavor dishes such as stir-fries and soups.
+  tfidf_val: 229.8841290337806
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: Miso is a fermented soybean paste widely used in Japan as a soup base or for seasoning.
+  tfidf_val: 306.33316229302835
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: 'This web page focuses on soybean paste; tofu, soybean oil, soy protein isolate and soybeans are covered in separate web pages.'
+  tfidf_val: 778.3664347165704
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: We attempt to untangle the conflicting findings regarding breast cancer risk and soybean isoflavones in the genistein and daidzein web page.
+  tfidf_val: 905.5422107814544
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Soybean paste contains higher levels of genistein and daidzein than soybeans and extracts of soybean paste have been shown to have antimutagenic activities.
+  tfidf_val: 1050.1467780028765
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: 'However, whereas some Asian population studies have found reductions in breast cancer risk associated with consumption of other soy products such as tofu, such a reduction in risk usually is not found for soybean paste.'
+  tfidf_val: 1808.5978109598436
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'On the other hand, Asian studies have consistently found that frequent consumption of soybean paste is associated with higher risk of gastric cancer.'
+  tfidf_val: 886.5103386753428
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Stomach cancer is the most prevalent cancer in Korea and it is also common in other parts of Asia compared to the U.S.
+  tfidf_val: 856.4142269625985
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Some observers have suggested that the association between soybean paste and gastric cancer is mainly due to its high salt content.
+  tfidf_val: 540.2338577657698
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: There is some evidence that breast cancer survivors are at increased risk of developing stomach cancer and lobular breast cancer survivors in particular are vulnerable to gastric metastases.
+  tfidf_val: 1860.2023625230818
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'However, the effect of consuming soybean paste are likely to be minimal if not part of a high-salt diet; it may be that regularly eating small amounts of soybean paste (including miso) in a diet that contains few other traditional fermented, salted or pickled foods might have little carcinogenic effect compared to eating it as part of a traditional Asian diet.'
+  tfidf_val: 690.5452382567838
+  'doc#': 97
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Beneficial bacteria stimulate host immune cells to counteract dietary and genetic predisposition to mammary cancer in mi.md
+- sentence: 'Based on the available evidence, soybean paste should not be considered protective against breast cancer and consuming much of it could heighten gastric cancer risk.'
+  tfidf_val: 1321.8267688365286
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Soybean paste was found to be a meaningful source of aflatoxin B1 in the Koran diet in one study.
+  tfidf_val: 228.02203731979793
+  'doc#': 138
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Chemopreventive and therapeutic activity of dietary blueberry against estrogen-mediated breast cancer.md
+- sentence: 'Aflatoxins, which are mutagenic, carcinogenic and teratogenic and cause immuno-suppression in humans, are produced by molds.'
+  tfidf_val: 215.1934436800422
+  'doc#': 167
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Consumption of organic meat does not diminish the carcinogenic potential associated with the intake of persistent organi.md
+- sentence: 'Aflatoxin B1 has been shown to cause liver cancer, especially in hepatitis B-positive individuals.'
+  tfidf_val: 451.4184247895942
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Buyers of soybean paste should be aware of its source and assure themselves of its safety and quality.
+  tfidf_val: 203.39165312432027
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: '_Note that while we are continually searching for new evidence concerning soybean paste, there is not much interest in it among cancer researchers so few recent studies are available._'
+  tfidf_val: 749.0724426079574
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md

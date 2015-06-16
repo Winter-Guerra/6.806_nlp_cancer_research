@@ -1,0 +1,44 @@
+- sentence: 'Raspberries are rich in phenolic phytochemicals, including ellagitannin and anthocyanins, which have been shown to have anti-inflammatory, chemopreventive, antiproliferative and proapoptic effects.'
+  tfidf_val: 685.7470945337192
+  'doc#': 461
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Phenolic compounds in Rosaceae fruit and nut crops-A review.md
+- sentence: Raspberries are also a good dietary source of the lignan enterolactone.
+  tfidf_val: 444.75685811685616
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Raspberry powder has been shown to have antiproliferative effects when fed to female rats prone to mammary tumors.
+  tfidf_val: 478.9387396064952
+  'doc#': 97
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Beneficial bacteria stimulate host immune cells to counteract dietary and genetic predisposition to mammary cancer in mi.md
+- sentence: Black raspberries appear to have more cancer-preventative chemicals than the closely-related red raspberries.
+  tfidf_val: 420.365673867112
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Studies that have compared blueberry and black raspberry diets in rats have found that while blueberries result in lower tumor volume than black raspberries, black raspberries are more effective in delaying the first appearance of tumors in rats implanted with estradiol.'
+  tfidf_val: 779.6464416513228
+  'doc#': 382
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Inhibition of estrogen-mediated mammary tumorigenesis by blueberry and black raspberry.md
+- sentence: 'Ellagic acid, found in raspberries, has been shown to inhibit breast cancer in cell and animal studies, in part by inhibiting angiogenesis.'
+  tfidf_val: 826.8027866548476
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: "Cancer cells induce angiogenesis during the early stages of tumor development \x97 this is a crucial step that separates preinvasive and dormant forms of cancer from invasive and metastatic malignant growth."
+  tfidf_val: 1084.5805233532137
+  'doc#': 616
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Tumor Angiogenesis as a Target for Dietary Cancer Prevention.md
+- sentence: Non-organic raspberries must be washed very thoroughly to remove pesticide residue.
+  tfidf_val: 250.7270569102986
+  'doc#': 117
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Brassinosteroids Promote Metabolism of Pesticides in Cucumber.md
+- sentence: Loganberries are a hybrid cross between between a blackberry and a raspberry.
+  tfidf_val: 271.4818633514507
+  'doc#': 37
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anthocyanin-Rich Blackberry Extract Suppresses the DNA-Damaging Properties of Topoisomerase I and II Poisons in Colon Ca.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on raspberries._'
+  tfidf_val: 256.36293407787105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

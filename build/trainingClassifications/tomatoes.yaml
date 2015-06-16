@@ -1,0 +1,128 @@
+- sentence: 'Tomatoes are a rich source of the carotenoids lycopene, alpha-carotene, and beta-carotene, as well as melatonin, the anthocyanidin delphinidin, and the flavanoids quercetin, fisetin and naringenin, all of which have been found to have anti-cancer activities.'
+  tfidf_val: 1349.9362394990183
+  'doc#': 312
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/FISETIN A DIETARY ANTIOXIDANT FOR HEALTH PROMOTION.md
+- sentence: 'Tomatoes have been shown to have anti-oxidant, anti-inflammatory, antimutagenic, and cardioprotective properties.'
+  tfidf_val: 577.0130403678099
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: Increased intake of tomatoes is associated with decreased cardiovascular disease and reduced risk of heart attack.
+  tfidf_val: 663.4238223007621
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Tomato consumption has been found to be associated with reduced risks of cancer of the mouth, breast, lung, stomach, pancreas, prostate, colon, ovary, and endometrium.'
+  tfidf_val: 752.1989310417315
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'However, tomatoes or lycopene have been shown not to have significant anticancer effects on renal cell, uterine, ovarian, and bladder cancers.'
+  tfidf_val: 1138.9874745377683
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md
+- sentence: 'A number of studies have found an inverse association between breast cancer risk and increasing consumption of tomatoes, components of tomatoes, or vegetables that have high levels of carotenoids (including tomatoes).'
+  tfidf_val: 1487.0130820411346
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md
+- sentence: "For example, one study comprising 84,805 postmenopausal women in the Women's Health Initiative Observational Study found that dietary α-carotene, β-carotene, and lycopene were each found to be inversely associated with the risk of ER+/PR+ breast cancer."
+  tfidf_val: 2031.036080755042
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Another study found that dietary carotenoids inhibit the cancer-promoting effects of both estradiol and genistein (the phytoestrogen found in soy), thereby reducing their harmful effect in hormone-dependent breast cancer.'
+  tfidf_val: 1586.7816169425214
+  'doc#': 563
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Soy red clover and isoflavones and breast cancer a systematic review.md
+- sentence: 'Studies of naringenin, a tomato flavanone, have shown that it also inhibits ER+ breast cancer cell growth and migration in the presence of estradiol.'
+  tfidf_val: 770.6254333051616
+  'doc#': 102
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Bioactive Dietary Supplements Reactivate ER Expression in ER-Negative Breast Cancer Cells by Active Chromatin Modificati.md
+- sentence: 'Delphinidin, an anthocyanin found in tomatoes, has been shown to block epidermal growth factor receptor (EGFR) signaling in breast cancer cells (EGFR is expressed at high levels in at least 30% of breast cancers and is associated with a poor prognosis).'
+  tfidf_val: 1105.5063743428227
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'However, one large study found no association between dietary or plasma lycopene levels and the risk of breast cancer in middle-aged and older women.'
+  tfidf_val: 1744.0388769574954
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: Several studies of early-stage breast cancer survivors have found that higher levels of cartenoids in the blood are associated with both lower risk of break cancer recurrence and lower risk of a new primary breast tumor.
+  tfidf_val: 2020.267592355736
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Another study found that plasma levels of retinol (a form of vitamin A that is a by-product of β-carotene in the body) also are positively associated with breast cancer survival in postmenopausal women.
+  tfidf_val: 1071.2228887028052
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'As noted above, tomatoes are a good dietary source of melatonin.'
+  tfidf_val: 725.7630349814139
+  'doc#': 260
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Effect of Melatonin on Tumor Growth and Angiogenesis in Xenograft Model of Breast Cancer.md
+- sentence: 'Melatonin protects against breast cancer in several ways, including by reducing aromatase activity within the breast, thereby reducing estrogen production.'
+  tfidf_val: 1094.32768689471
+  'doc#': 426
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Melatonin modulates aromatase activity and expression in endothelial cells.md
+- sentence: Several studies have shown that the cardioprotective effect of tomatoes and lycopene extends to reducing the impact of myocardial toxicity from Adriamycin (doxorubicin) chemotherapy by ameliorating cardiac cell injury.
+  tfidf_val: 1192.488810597953
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md
+- sentence: 'Cherry tomatoes rank the highest of all tomatoes in lycopene and overall antioxidant content, presumably because of their high ratio of tomato skin to tomato flesh and rich color.'
+  tfidf_val: 2388.9877917062922
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md
+- sentence: 'However, lycopene is absorbed in greater quantities from cooked tomatoes than fresh tomatoes.'
+  tfidf_val: 1382.9816966350186
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md
+- sentence: The best sources of bioavailable lycopene are tomato paste and tomato sauce.
+  tfidf_val: 1498.9360989227087
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md
+- sentence: Frying greatly reduces the lycopene content of fresh tomatoes.
+  tfidf_val: 1077.5840466551701
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md
+- sentence: 'While tomato ketchup has a relatively low overall carotenoid content compared to fresh tomatoes or tomato sauce, it is a good source of lycopene.'
+  tfidf_val: 2024.8793878890867
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md
+- sentence: 'However, note that high fructose corn syrup is the second most abundant ingredient in regular ketchup and that versions without this ingredient are available.'
+  tfidf_val: 176.99599122371006
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: 'Sun dried tomatoes contain relatively high levels of copper, which could contribute to angiogenesis and metastasis of breast cancer.'
+  tfidf_val: 662.5680024107381
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'Ready-made tomato soups can have high levels of sodium nitrite, a known carcinogen.'
+  tfidf_val: 529.8547554660539
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md
+- sentence: Check the labels of canned or otherwise pre-made soups and avoid those containing sodium nitrite.
+  tfidf_val: 515.9879074632572
+  'doc#': 575
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Supplementing long-chain n-3 polyunsaturated fatty acids in canned wild Pacific pink salmon with Alaska salmon oil.md
+- sentence: The table salt content of such soups can also be acceptably high for those who must limit their sodium intake.
+  tfidf_val: 385.7997094758564
+  'doc#': 17
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Acrylamide in Processed Potato Products.md
+- sentence: 'Beta carotene, vitamin A and lycopene should be obtained from food rather than supplements.'
+  tfidf_val: 717.6112763123123
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md
+- sentence: 'Generally speaking, synergistic interactions between the biologically active components in a given fruit or vegetable are important to its potential health-related characteristics.'
+  tfidf_val: 464.51007873181345
+  'doc#': 331
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit cuticular waxes as a source of biologically active triterpenoids.md
+- sentence: Supplementation by β-carotene and lycopene both have been found to be ineffective in reducing the risk of breast cancer.
+  tfidf_val: 911.9860596562974
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: 'In addition, β-carotene supplementation has been linked to increased risk of lung cancer in high-risk persons and high serum β-carotene concentrations (presumably also resulting from supplementation) have been associated with increased risk of aggressive prostate cancer.'
+  tfidf_val: 2036.2627399419803
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on tomatoes._'
+  tfidf_val: 438.7648299560266
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md

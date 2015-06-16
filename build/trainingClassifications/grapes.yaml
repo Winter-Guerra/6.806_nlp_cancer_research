@@ -1,0 +1,52 @@
+- sentence: 'Grapes contain polyphenols (resveratrol, quercetin, and catechin) that can act as antioxidants, antiangiogenics, and selective estrogen receptor modifiers.'
+  tfidf_val: 511.27112668280694
+  'doc#': 507
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quercetin regulates -catenin signaling and reduces the migration of triple negative breast cancer.md
+- sentence: Each of these polyphenols have been found to have chemopreventative properties.
+  tfidf_val: 185.76962500391974
+  'doc#': 380
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Influence of Berry-Polyphenols on Receptor Signaling and Cell-Death Pathways Implications for Breast Cancer Prevention.md
+- sentence: 'Grapes also contain lupeol, pterostilbene, and fisetin, which also have been shown to have anti-cancer properties.'
+  tfidf_val: 1339.0959877910118
+  'doc#': 312
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/FISETIN A DIETARY ANTIOXIDANT FOR HEALTH PROMOTION.md
+- sentence: Green or white grapes have less powerful anticancer properties than red grapes since they contain fewer polyphenols.
+  tfidf_val: 651.3828249199283
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: Note that grape seed oil and grape seed extract are covered in another web page.
+  tfidf_val: 1013.9532724470312
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: 'Red grapes and grape seeds are a good source of resveratrol, which has the ability to suppress proliferation of breast cancer cells and promote cell death.'
+  tfidf_val: 878.90544301555
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: 'Resveratrol also can inhibit aromatase (the synthesis of estrogen from androgens within the body), which is important for reducing growth-stimulatory effects in estrogen-dependent breast cancer.'
+  tfidf_val: 937.2867012501855
+  'doc#': 383
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Inhibitory effect of luteolin on estrogen biosynthesis in human ovarian granulosa cells by suppression of aromatase CYP1.md
+- sentence: Other grape polyphenols such as quercetin and catechin have also been shown to have chemopreventive effects and appear to act synergistically with resveratrol in inhibiting breast cancer growth.
+  tfidf_val: 689.9472914139543
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: Several population studies have reported that grape consumption is associated with reduced risk of breast cancer.
+  tfidf_val: 1140.165076923244
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Resveratrol has also been shown to increase the effects of radiation treatment and the chemotherapy drug Taxol (paclitaxel) against breast cancer.
+  tfidf_val: 685.6368924037587
+  'doc#': 576
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Synergistic Effects of Apigenin and Paclitaxel on Apoptosis of Cancer Cells.md
+- sentence: Non-organic (especially imported) grapes must be washed very thoroughly to remove pesticide residue.
+  tfidf_val: 263.8937476901333
+  'doc#': 66
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antioxidant and Antiproliferative Activities of Twenty-Four Vitis vinifera Grapes.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on grapes._'
+  tfidf_val: 270.74666519797546
+  'doc#': 66
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antioxidant and Antiproliferative Activities of Twenty-Four Vitis vinifera Grapes.md

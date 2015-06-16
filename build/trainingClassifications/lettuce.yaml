@@ -1,0 +1,64 @@
+- sentence: 'By lettuce (Lactuca sativa), we mean iceberg, romaine, red leaf, or butterhead (Boston, bibb) lettuce.'
+  tfidf_val: 619.4271207817419
+  'doc#': 531
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Retention of Quality and Nutritional Value of 13 Fresh-Cut Vegetables Treated with Low-Dose Radiation.md
+- sentence: 'Not included in the lettuce category is arugula (Eruca sativa), which is a cruciferous vegetable.'
+  tfidf_val: 348.6437452573849
+  'doc#': 593
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The Safety of Cruciferous Plants in Humans A Systematic Review.md
+- sentence: 'Lettuce is a dietary source of vitamin A (from its relatively high beta-carotene content), vitamin K, vitamin C, folate and manganese.'
+  tfidf_val: 1089.0198675132754
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: 'Generally speaking, romaine lettuce is far more nutritious than iceberg lettuce, with higher levels of all of these vitamins and minerals.'
+  tfidf_val: 542.5329064176826
+  'doc#': 531
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Retention of Quality and Nutritional Value of 13 Fresh-Cut Vegetables Treated with Low-Dose Radiation.md
+- sentence: Bibb lettuce and red leaf lettuce fall in between.
+  tfidf_val: 435.3934271413955
+  'doc#': 531
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Retention of Quality and Nutritional Value of 13 Fresh-Cut Vegetables Treated with Low-Dose Radiation.md
+- sentence: 'Lettuce also contains the flavonoids quercetin and luteolin, both of which have been shown to be protective against breast cancer.'
+  tfidf_val: 659.5518002737335
+  'doc#': 507
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Quercetin regulates -catenin signaling and reduces the migration of triple negative breast cancer.md
+- sentence: Lettuce has been shown to have antioxidant properties (but lower than most other vegetables) and to improve cholesterol profile.
+  tfidf_val: 327.5595227246105
+  'doc#': 531
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Retention of Quality and Nutritional Value of 13 Fresh-Cut Vegetables Treated with Low-Dose Radiation.md
+- sentence: 'Lettuce consumption has been found to be associated with lower risks of lung, gastric, bladder and colorectal cancer.'
+  tfidf_val: 576.7369599542187
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: A Japanese study found that frequent lettuce consumption was associated with lower risk of breast cancer.
+  tfidf_val: 1096.7588609546463
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: One Mexican study found that consumption of lettuce was associated with lower risk of breast cancer in premenopausal women.
+  tfidf_val: 1218.068663937229
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: A Greek study found that women with breast cancer consumed significantly less lettuce than those without breast cancer.
+  tfidf_val: 1474.5304511479094
+  'doc#': 210
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Intake of Specific Fatty Acids and Breast Cancer Risk Among Postmenopausal Women in the VITAL Cohort.md
+- sentence: Non-organic lettuce must be washed very thoroughly to remove pesticide residue as much as possible.
+  tfidf_val: 252.9657461515823
+  'doc#': 117
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Brassinosteroids Promote Metabolism of Pesticides in Cucumber.md
+- sentence: 'Outbreaks of E. coli, salmonella, and shigellosis infections linked to lettuce occur from time to time.'
+  tfidf_val: 208.19651727654673
+  'doc#': 531
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Retention of Quality and Nutritional Value of 13 Fresh-Cut Vegetables Treated with Low-Dose Radiation.md
+- sentence: Consumers should stay aware of and act upon any such reports.
+  tfidf_val: 113.1874394960125
+  'doc#': 149
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Coffee and tea consumption and risk of pre- and postmenopausal breast cancer in the European Prospective Investigation i.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list of studies, please click on lettuce._'
+  tfidf_val: 245.31995272284334
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md

@@ -1,0 +1,112 @@
+- sentence: 'Papayas (Carica papaya) and their seeds contain substances that have been shown to have antihypertensive, antioxidant, anti-amoebic, antiparasitic, antiseptic, wound and burn healing, contraceptive and neuroprotective properties, as well as improving cholesterol profile and assisting with digestion.'
+  tfidf_val: 299.17356766573755
+  'doc#': 53
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticancer effects of bioactive berry compounds.md
+- sentence: Papaya is a good dietary source of vitamin C and vitamin A (through its beta-carotene content).
+  tfidf_val: 726.3083838546709
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: The fruit has been selected to raise levels of vitamin A in children in deficiency-prone countries such as Cameroon and Sri Lanka.
+  tfidf_val: 366.8945690994617
+  'doc#': 19
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Adolescent intakes of vitamin D and calcium and incidence of proliferative benign breast disease.md
+- sentence: 'Compounds with known cancer-fighting properties found in papayas include carotenoids such as lycopene, beta-carotene and cryptoxanthin, as well as several isothiocyanates.'
+  tfidf_val: 950.2235185547856
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md
+- sentence: 'The benzyl isothiocyanate found in papaya has been shown to induce apoptosis in pancreas, prostate, and leukemic cancer cells and to inhibit carcinogen-induced bladder cancer.'
+  tfidf_val: 1101.6202450859023
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Benzyl isothiocyanate, found in papaya flesh and seeds, has been shown to selectively induce apoptosis in human breast cancer cells.'
+  tfidf_val: 818.0606415841648
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: The high carotenoid levels found in papayas suggest that consuming the fruit could serve to protect against breast cancer.
+  tfidf_val: 674.7561282201287
+  'doc#': 332
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit vegetable and animal food intake and breast cancer risk by hormone receptor status.md
+- sentence: 'However, no population studies have been performed that directly assess the effects of papaya on the risk of breast cancer.'
+  tfidf_val: 1074.1282862120697
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'Papayas are sometimes referred to as paw paws, but the paw paw (Asiminia triloba) sold in the U.S. is a different fruit.'
+  tfidf_val: 330.1101589736707
+  'doc#': 331
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit cuticular waxes as a source of biologically active triterpenoids.md
+- sentence: 'Papayas have two possible flesh colors, yellow and red.'
+  tfidf_val: 237.88825366940398
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: The red color of red papaya fruit is due to an accumulation of lycopene; the yellow color of yellow papaya is the result of conversion of lycopene to beta-carotene and beta-cryptoxanthin.
+  tfidf_val: 1518.0860247466967
+  'doc#': 55
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anticarcinogenic Cardioprotective and Other Health Benefits of Tomato Compounds Lycopene -Tomatine and Tomatidine in Pur.md
+- sentence: 'Papayas should be eaten ripe, without the skin or seeds.'
+  tfidf_val: 133.1855115428517
+  'doc#': 48
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Antibacterial Antiviral and Antifungal Properties of Wines and Winery Byproducts in Relation to Their Flavonoid Content.md
+- sentence: 'Even though the peel is not eaten, papayas should be washed thoroughly before being cut up for consumption since potent pesticides typically are used in growing them.'
+  tfidf_val: 270.5894490678837
+  'doc#': 331
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit cuticular waxes as a source of biologically active triterpenoids.md
+- sentence: 'Both raw and cooked green papayas (i.e., unripe papayas) are used in some Asian cuisines.'
+  tfidf_val: 291.40143137104275
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'For example, atchara, a Filipino condiment or side dish, is made of primarily of pickled raw green papaya.'
+  tfidf_val: 283.1810347619297
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: Ground papaya seeds are used in some cuisines similarly to black pepper.
+  tfidf_val: 178.34371932405543
+  'doc#': 111
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Biological activities of fermented soybean paste Doenjang prepared using germinated soybeans and germinated black soybea.md
+- sentence: 'However, we recommend against consuming green papaya (whether raw, cooked or dried) or papaya seeds.'
+  tfidf_val: 308.56637604901533
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'Unlike ripe papaya, green papaya contains a high concentration of a type of latex that has been shown to produce uterine contractions in rats; this may be the basis for the belief in parts of Asia that consumption of papaya is unsafe during pregnancy.'
+  tfidf_val: 365.06772121317977
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'In fact, green papaya is used for female contraception and abortion in some traditional medicine systems.'
+  tfidf_val: 331.3119175043371
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: Papaya seeds contain a higher proportion of benzyl isothiocyanate than does the flesh and they are sometimes used as part of herbal preparations.
+  tfidf_val: 395.3599054810647
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: 'However, one study found that rats consuming papaya seed extract exhibited liver cell damage and precancerous liver changes in a dose-dependent manner.'
+  tfidf_val: 562.3361697193421
+  'doc#': 350
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Hepatotoxicity of green tea an update.md
+- sentence: Another study found that benzyl isothiocyanate promoted urinary bladder carcinogenesis in rats.
+  tfidf_val: 286.49999216551504
+  'doc#': 121
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cadmium Exposure and Pancreatic Cancer in South Louisiana.md
+- sentence: 'Papaya seed extracts also have been shown to have dose-dependent spermicidal effects, causing human sperm immobilization and death.'
+  tfidf_val: 454.9161912979239
+  'doc#': 95
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Avocado Persea americana Mill Phenolics In Vitro Antioxidant and Antimicrobial Activities and Inhibition of Lipid and Pr.md
+- sentence: 'Dried papaya typically has been treated with sulfur dioxide to prevent the fruit from oxidizing during and after the drying process, thereby preserving its color.'
+  tfidf_val: 385.109125768546
+  'doc#': 331
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit cuticular waxes as a source of biologically active triterpenoids.md
+- sentence: 'However, sulfur dioxide and its derivatives have been shown to increase the frequencies of chromosomal aberrations in mammalian cells and cause oxidative damage in multiple organs of male and female mice.'
+  tfidf_val: 573.0236704411363
+  'doc#': 235
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary sulforaphane in cancer chemoprevention The role of epigenetic regulation and HDAC inhibition.md
+- sentence: 'Therefore, we recommend obtaining unsulfured dried fruit where possible.'
+  tfidf_val: 318.8578814975059
+  'doc#': 331
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fruit cuticular waxes as a source of biologically active triterpenoids.md
+- sentence: _Below are links to recent studies concerning this food.
+  tfidf_val: 280.35907310429496
+  'doc#': 205
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Dietary Acrylamide and Human Cancer A Systematic Review of Literature.md
+- sentence: 'For a more complete list, including less recent studies, please click on papaya._'
+  tfidf_val: 256.36293407787105
+  'doc#': 93
+  key: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Association between Soy Isoflavone Intake and Breast Cancer Risk for Pre- and Post-Menopausal Women A Meta-Analysis of E.md
