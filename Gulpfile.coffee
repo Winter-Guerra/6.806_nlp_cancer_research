@@ -86,10 +86,10 @@ gulp.task 'generateTrainingClassifications', () ->
 					documentRanking = ( tfidf.tfidf(sentence, i) for sentence in sentences )
 
 					# Check that this document vector is not all zeros
-					continue if Math.max.apply(Math, documentRanking) is 0
+					# continue if Math.max.apply(Math, documentRanking) is 0
 
 					documentPath = tfidf.documents[i].__key
-					output['documentRankings'][documentPath] = documentRanking
+					output['documentRankings'][i] = documentRanking
 
 
 				# Append the sentence to the yaml file in ./build/classifications
@@ -103,6 +103,8 @@ gulp.task 'generateTrainingClassifications', () ->
 
 # This task will take the sentences output from the summaries and pair them with a specific sentence from 
 gulp.task 'mapSentenceClassificationsToOriginalFiles', () ->
+
+
 
 		
 
