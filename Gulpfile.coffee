@@ -198,29 +198,37 @@ gulp.task 'collapseBinData', () ->
 			category = path.basename file.path, '.yaml'
 
 			# each outer array signifies a document. Let's take the tf-idf sum of each document
-			documentTFIDFValues = ( [math.sum(docScore)] for docNum, docScore of documentRankings )
-			console.log documentTFIDFValues
+			documentTFIDFValues = ( 0 for i in [0...Object.keys(documentRankings).length])
+			# console.log documentTFIDFValues
+			for docNum, docScore of documentRankings
+				documentTFIDFValues[parseInt(docNum)] = math.sum(docScore) 
+			# console.log documentTFIDFValues
 
-			# Let's try to find an appropriate binary separation of the data using k-means
-			kmeans = new clusterfck.Kmeans( [[0],[20000]] ) # Initialize with centroids
-			clusters = kmeans.cluster(documentTFIDFValues, 2)
-			centroids = ( centroid[0] for centroid in kmeans.centroids )
+			# Let's build our bucket by looking for the expected number of results.
 
-			# Figure out which cluster index (0,1) corresponds to a higher probability
-			clusterIndex = centroids.indexOf( math.max(centroids) )
+			# Let's see how many documents we should have in the bucket
+			shouldHave = math.sum( ( 1 for hash, categoryList of hashTable when category in categoryList) )
 
-			console.log clusterIndex
+			
+			bucket = ( {docScore:0, docNum:0} for i in [0...shouldHave])
+			for docScore, i in documentTFIDFValues
+				if docScore > bucket[0].docScore
+					bucket.push({docScore, docNum:i})
+					bucket.sort (a,b) ->
+						if a.docScore > b.docScore
+							return 1
+						else if a.docScore < b.docScore
+							return -1
+						else 
+							return 0
+					bucket.shift()
 
-			bucket = []
-			for i in [0...documentTFIDFValues.length]
-				docScore = documentTFIDFValues[i]
-				bucket.push({docNum:i, docScore}) if kmeans.classify(docScore) is clusterIndex
+			console.log bucket
 			
 
 			console.log "Category: #{category}, bucket length: #{bucket.length} docs in the bucket."
 
-			# Let's see how many documents we should have in the bucket
-			shouldHave = math.sum( ( 1 for hash, categoryList of hashTable when category in categoryList) )
+			
 
 			# Let's compute how many of the documents in the bucket actually should be there.
 			actuallyHave = 0
