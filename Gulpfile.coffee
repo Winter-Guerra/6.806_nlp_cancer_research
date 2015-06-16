@@ -10,6 +10,9 @@ replace = require('gulp-replace')
 tap = require('gulp-tap')
 natural = require('natural')
 yaml = require('js-yaml')
+numbers = require('numbers')
+crypto = require('crypto')
+fs = require('fs-extra')
 
 gulp.task 'countSources', () ->
 	stream = gulp.src([ 'sources/raw/**/*.md' ])
@@ -101,9 +104,40 @@ gulp.task 'generateTrainingClassifications', () ->
 	.on	'error', (err) ->
 		console.error err
 
-# This task will take the sentences output from the summaries and pair them with a specific sentence from 
-gulp.task 'mapSentenceClassificationsToOriginalFiles', () ->
 
+# Let's make a table of what the content of a file is and what bins the file belongs to.
+gulp.task 'createHashTable', () ->
+
+	hashTable = {}
+
+	gulp.src(['sources/raw/badFoods/**/*.md', 'sources/raw/recommendedFoods/**/*.md'])
+
+	.pipe(
+		tap (file) ->
+			# Find the bin that the file should be in
+			[unused..., bin, unused ] = file.path.split('/')
+			# bin = file.base
+
+			fileHash = crypto.createHash('md5').update(file.contents).digest("hex").toString()
+
+			# Now, append the bin to the binary dictionary of the files
+			if not hashTable[fileHash]?
+				hashTable[fileHash] = [bin]
+			else
+				hashTable[fileHash].push(bin) if bin not in hashTable[fileHash]
+
+			return 
+		)
+	.on	'end', () ->
+
+		# Now, write out the hash table
+		# console.log hashTable
+
+		console.log Object.keys(hashTable).length
+
+		# Save the hash table
+		yamlData = yaml.safeDump(hashTable)
+		fs.outputFileSync('./sources/hashtable.yaml', yamlData)
 
 
 		
