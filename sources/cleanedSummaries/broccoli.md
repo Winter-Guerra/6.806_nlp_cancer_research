@@ -1,0 +1,4 @@
+
+
+Broccoli contains numerous substances with suspected or demonstrated cancer fighting properties, including sulforaphane, quercetin, sinigrin, enterolactone, kaempferol glycosides, beta-carotene, indole-3-carbinol (I3C), 3,3'-diindolylmethane (DIM), and several other glucosinolates. Broccoli has been found to promote apoptosis, suppress cell cycle progression and inhibit angiogenesis of human breast cancer cells. Consumption of broccoli has been shown to reduce the estrogen metabolite 16alpha-hydroxyestrone, which is a breast cancer promoter, and to be marginally inversely associated with breast cancer risk in a population of premenopausal women. Broccoli components quercetin, I3C and sulforaphane have all been shown increase the anti-cancer effects of the chemotherapy drug Taxol (paclitaxel). Broccoli sprouts are particularly rich in anticancer nutrients.
+

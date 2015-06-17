@@ -1,0 +1,4 @@
+
+
+Components of kale have been found to down-regulate hormone receptor expression, promote apoptosis, suppress cell cycle progression and inhibit angiogenesis of human breast cancer cells. Consumption of brassica vegetables has been shown to reduce the estrogen metabolite 16alpha-hydroxyestrone, which is a breast cancer promoter, and to be marginally inversely associated with breast cancer risk in population studies. A Korean study found an association between kale consumption and lower incidence of breast cancer. Kale components quercetin and I3C have been shown increase the anti-cancer effects of the chemotherapy drug Taxol (paclitaxel).
+

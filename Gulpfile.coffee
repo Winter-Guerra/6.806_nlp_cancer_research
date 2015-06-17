@@ -10,13 +10,16 @@ replace = require('gulp-replace')
 tap = require('gulp-tap')
 natural = require('natural')
 yaml = require('js-yaml')
+YAML = require('yaml-js') # The better yaml
 math = require('mathjs')
 crypto = require('crypto')
 fs = require('fs-extra')
 path = require 'path'
 clusterfck = require("clusterfck")
+buffer = require 'vinyl-buffer'
+util = require('util')
 
-gulp.task 'countSources', () ->
+gulp.task 'dedupeSources', () ->
 	stream = gulp.src([ 'sources/raw/**/*.md' ])
 	.pipe(flatten())
 	.pipe(dedupe())
@@ -24,24 +27,19 @@ gulp.task 'countSources', () ->
 	.pipe(gulp.dest('./sources/deduped'))
 	return stream
 
-	# Let's tokenize our summary dataset by sentence
-gulp.task 'tokenizeSummary', () ->
-	
+gulp.task 'cleanSummary', () ->
 	stream = gulp.src([ 'sources/raw/*Summary/**/*.md' ])
 	.pipe(dedupe())
-
 	# Fix the naming scheme
 	.pipe(rename( (path) ->
 		path.basename = path.dirname
 		path.dirname = './'
-		path.extname = '.yaml'
+		# path.extname = '.yaml'
 		return path
 	))
 	.pipe(flatten())
-
 	# For debugging
 	.pipe(count('## summaries read'))
-
 	# remove all paragraphs before ## xxx breast cancer-related
 	.pipe( replace(/[\s\S]*^## .*cancer-related.*/mg, '') )
 
@@ -57,17 +55,36 @@ gulp.task 'tokenizeSummary', () ->
 			if file.contents.toString().length < 100
 				console.error "ERR: #{file.path} does not have enough characters in the tokenized summary"
 		)
+	# Save the output
+	.pipe(gulp.dest('./sources/cleanedSummaries'))
+
+	return stream
+
+
+
+	# Let's tokenize our summary dataset by sentence
+gulp.task 'tokenizeSummary', ['cleanSummary'], () ->
+	
+	stream = gulp.src([ './sources/cleanedSummaries/*.md' ])
+
+	# Fix the naming scheme
+	.pipe(rename( (path) ->
+		# path.basename = path.dirname
+		# path.dirname = './'
+		path.extname = '.yaml'
+		return path
+	))
 	
 	# Tokenize the sentence
-	.pipe(run('python3 sentence_tokenizer.py', {silent:true})) # This generates yaml files of each sentence of the summaries
+	.pipe(run('python3 sentence_tokenizer.py', {verbosity:0})) # This generates yaml files of each sentence of the summaries
 	
 	# Save the output
-	.pipe(gulp.dest('./build/summaries')) # Save this to a temp directory so that we can check the output of the tokenizer
+	.pipe(gulp.dest('./sources/tokenizedSummaries')) # Save this to a temp directory so that we can check the output of the tokenizer
 
 	return stream
 
 # This will use tf-idf to match all the summary sentences with the best match in our corpus  
-gulp.task 'generateTrainingClassifications', (cb) ->
+gulp.task 'generateTrainingClassifications', ['tokenizeSummary'], (cb) ->
 
 	TfIdf = natural.TfIdf
 	tfidf = new TfIdf()
@@ -85,7 +102,7 @@ gulp.task 'generateTrainingClassifications', (cb) ->
 	# Our corpus has been filled. Let's start doing lookups
 	.on 'end', () ->
 
-		stream = gulp.src([ './build/summaries/*.yaml' ])
+		stream = gulp.src([ './sources/tokenizedSummaries/*yaml' ])
 
 		.pipe(
 			tap (file) ->
@@ -114,11 +131,88 @@ gulp.task 'generateTrainingClassifications', (cb) ->
 				file.contents = new Buffer yaml.safeDump(output)
 				return file.contents
 		)
-		.pipe( gulp.dest('./build/trainingClassifications') )
-		.on('end', cb)
+		.pipe( gulp.dest('./sources/trainingClassifications') )
+		.on 'end', cb
 
 	.on	'error', (err) ->
 		console.error err
+
+	return 
+
+# This task will put all sentences from our articles into a yaml of sentence lists. Each entry will also have the hash of the document it came from
+gulp.task 'tokenizeCorpus', (cb) ->
+	outputList = []
+	
+	stream = gulp.src(['./sources/deduped/*.md'])
+
+	# Let's remove headings from the sources (these cannot count as sentences)
+	.pipe(replace(/^#.*/mg, ''))
+	 
+	# Now, let's tokenize the document
+	.pipe(run('python3 sentence_tokenizer.py', {verbosity:0}))
+	# The above command outputs streams. Let's buffer the streams.
+	.pipe(buffer())
+	.pipe(
+		tap (file) ->
+			sentenceList = yaml.safeLoad(file.contents.toString())
+			# console.log util.inspect(sentenceList)
+
+			# Now, for each sentence, add the sentence and the hash it came from to the output list
+			pathHash = crypto.createHash('md5').update(file.path).digest("hex").toString()
+			# console.log fileHash
+			
+			outputList.push {sentence, pathHash} for sentence in sentenceList 
+
+			# console.log outputList
+	)
+	.on 'end', () ->
+
+		# Now, let's output our final tokenized corpus
+		yamlData = yaml.safeDump(outputList)
+		fs.outputFileSync('./sources/tokenizedCorpus.yaml', yamlData)
+		cb()
+
+	.on	'error', (err) ->
+		console.error err
+
+	return 
+
+
+# This will use tf-idf to match all the summary sentences with sentence and document that best match from our corpus  
+gulp.task 'generateSentencebasedTrainingClassifications', ['tokenizeSummary', 'tokenizeCorpus'], (cb) ->
+
+	tokenizedCorpus = yaml.safeLoad(fs.readFileSync('./sources/tokenizedCorpus.yaml'))
+
+	TfIdf = natural.TfIdf
+	tfidf = new TfIdf()
+
+	# First, let's make our corpus of sentences
+	tfidf.addDocument(sentence, pathHash) for {sentence, pathHash} in tokenizedCorpus
+
+	stream = gulp.src([ './sources/tokenizedSummaries/*yaml' ])
+
+	.pipe(
+		tap (file) ->
+			# read YAML file
+			sentences = yaml.safeLoad( file.contents.toString() )
+
+			# Iterate through every sentence in the yaml
+			rankings = []
+			output = [] # a 2d vector that holds summary sentences and their relation to corpus sentences
+
+			for i in [0...tfidf.documents.length]
+				sentenceRanking = ( tfidf.tfidf(sentence, i) for sentence in sentences )
+
+				output.push(sentenceRanking)
+
+
+			# record the relation vector to the file
+			file.contents = new Buffer yaml.safeDump(output)
+			return file.contents
+	)
+	.pipe( gulp.dest('./sources/trainingClassifications') )
+
+	return stream
 
 
 # Let's make a table of what the content of a file is and what bins the file belongs to.
@@ -190,15 +284,48 @@ gulp.task 'createFileIndexedHashTable', () ->
 
 
 	return stream
+
+gulp.task 'createDedupedPathIndexedHashTable', () ->
+
+	hashTable = yaml.safeLoad(fs.readFileSync('./sources/hashTable.yaml'))
+	indexedHashTable = {}
+
+
+	stream = gulp.src([ 'sources/deduped/*.md' ])
+	.pipe(
+		tap (file) =>
+			# Find the bin that the file should be in
+
+			fileHash = crypto.createHash('md5').update(file.contents).digest("hex").toString()
+			filePathHash = crypto.createHash('md5').update(file.path).digest("hex").toString()
+
+			# Find the tags that go with this file
+			tagData =
+				hash: fileHash
+				tags: hashTable[fileHash]
+
+			indexedHashTable[filePathHash] = tagData
+			return 
+	)
+	.on 'end', () ->
+
+		# Save the hash table
+		console.log indexedHashTable
+		yamlData = yaml.safeDump(indexedHashTable)
+		fs.outputFileSync('./sources/dedupedPathIndexedHashTable.yaml', yamlData)
+
+
+
+	return stream
 	
 
 # Collapses the feature vectors in each section yaml, 
-gulp.task 'collapseBinData', () ->
+gulp.task 'collapseBinData',['generateTrainingClassifications'], () ->
 
 	indexedHashTable = yaml.safeLoad(fs.readFileSync './sources/indexedHashTable.yaml' )
 	hashTable = yaml.safeLoad(fs.readFileSync './sources/hashTable.yaml' )
 
-	stream = gulp.src(['build/trainingClassifications/*.yaml'])
+	stream = gulp.src(['./sources/trainingClassifications/*.yaml'])
 
 	.pipe(
 		tap (file) ->
@@ -240,8 +367,6 @@ gulp.task 'collapseBinData', () ->
 			
 
 			console.log "Category: #{category}, bucket length: #{bucket.length} docs in the bucket."
-
-			
 
 			# Let's compute how many of the documents in the bucket actually should be there.
 			actuallyHave = 0

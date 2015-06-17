@@ -1,0 +1,4 @@
+
+
+Caffeic acid has been shown to have antiproliferative and apoptotic effects on human breast cancer cells in the laboratory. A Korean case-control study comparing the diets of breast cancer patients with a healthy control group of women found that the breast cancer patients consumed a significantly lower quantity of vegetables, including cucumbers, than the control group. A Greek study also found that women with breast cancer consumed significantly less cucumber than those without breast cancer. A Swiss study found that consumption of cucumbers, among other fruits and vegetables, was associated with significant protection against breast cancer.
+
