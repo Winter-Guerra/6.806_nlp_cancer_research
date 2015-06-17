@@ -42,8 +42,21 @@ gulp.task 'tokenizeSummary', () ->
 	# For debugging
 	.pipe(count('## summaries read'))
 
-	# Remove headings
+	# remove all paragraphs before ## xxx breast cancer-related
+	.pipe( replace(/[\s\S]*^## .*cancer-related.*/mg, '') )
+
+	# Remove all paragraphs after the following headings
+	.pipe(replace(/^## [\s\S]*/mg, ''))
+
+	# Remove all remaining headings
 	.pipe(replace(/^#.*/mg, ''))
+
+	# Do a sanity check that all files have at least 1 sentence in them
+	.pipe(
+		tap (file) ->
+			if file.contents.toString().length < 100
+				console.error "ERR: #{file.path} does not have enough characters in the tokenized summary"
+		)
 	
 	# Tokenize the sentence
 	.pipe(run('python3 sentence_tokenizer.py', {silent:true})) # This generates yaml files of each sentence of the summaries
