@@ -1,0 +1,409 @@
+---
+- Cell migration plays an important role in angiogenesis and wound repair.
+- Vascular endothelial growth factor (VEGF) is an endothelial cell-specific mitogen
+  that is essential for endothelial cell survival, proliferation, and migration.
+- Docosahexaenoic acid (DHA), an n-3 polyunsaturated fatty acid, shows both anti-inflammatory
+  and antioxidant activities in vitro and in vivo.
+- This study investigated the molecular mechanism by which DHA down-regulates VEGF-induced
+  cell migration.
+- HUVECs were used as the study model, and the MTT assay, Western blot, wound-healing
+  assay, and phosphatase activity assay were used to explore the effects of DHA on
+  cell migration.
+- GPR120 is the putative receptor for DHA action.
+- The results showed that DHA, PD98059 (an ERK1/2 inhibitor), and GW9508 (a GPR120
+  agonist) inhibited VEGF-induced cell migration.
+- In contrast, pretreatment with okadaic acid (OA, a PP2A inhibitor) and _S_-nitroso-_N_-acetyl-dl-penicillamine
+  (an NO donor) reversed the inhibition of cell migration by DHA.
+- VEGF-induced cell migration was accompanied by phosphorylation of ERK1/2 and eNOS.
+- Treatment of HUVECs with DHA increased PP2A enzyme activity and decreased VEGF-induced
+  phosphorylation of ERK1/2 and eNOS.
+- However, pretreatment with OA significantly decreased DHA-induced PP2A enzyme activity
+  and reversed the DHA inhibition of VEGF-induced ERK1/2 and eNOS phosphorylation.
+- These results suggest that stimulation of PP2A activity and inhibition of the VEGF-induced
+  ERK1/2/eNOS signaling pathway may be involved in the DHA suppression of VEGF-induced
+  cell migration.
+- Thus, the effect of DHA on angiogenesis and wound repair is at least partly by virtue
+  of its attenuation of cell migration.
+- 'cell migration; docosahexaenoic acid (DHA); human umbilical vein endothelial cells
+  (HUVECs); nitric oxide (NO); vascular endothelial growth factor (VEGF)
+
+
+
+
+  Docosahexaenoic acid (DHA, 22:6, n-3) is enriched in fatty fish and fish oil supplements
+  and is well-known for its anti-inflammatory,(1) immunomodulatory,(2) and anticancer(3)
+  properties.'
+- Cancer is among the leading causes of death in both economically developed countries
+  and developing countries.
+- (4) Epidemiological studies show that a diet rich in n-3 polyunsaturated fatty acids
+  (PUFAs) is correlated with reduced risk of angiogenic diseases such as cancers.
+- (5, 6) DHA has been shown to inhibit vascular sprout formation in retinal microvascular
+  endothelial cells.
+- (7) However, the mechanism underlying the inhibition of cell migration by DHA, which
+  is critical for angiogenesis and wound repair, is not fully understood.
+- G protein-coupled receptors (GPRs) are important signaling molecules involved in
+  many cellular functions.
+- Specific ligand binding to GPRs stimulates and induces a variety of cellular responses
+  via several second messenger pathways, for example, regulation of cAMP generation,
+  the phospholipase C pathway, ion channels, and mitogen-activated protein kinases.
+- (8-10) In a previous study, Oh et al.
+- (11) found that DHA exerted potent anti-inflammatory effects through GPR120.
+- Angiogenesis, the process of the formation of new blood vessels by sprouting of
+  the preexisting microvascular network, is involved in numerous physiological processes
+  including embryogenesis, tissue remodeling, wound healing,(12) and disease development
+  such as diabetic retinopathy, rheumatoid arthritis, tumor growth, and growth of
+  atherosclerotic plaques.
+- (13) Angiogenesis is controlled by vascular endothelial growth factor (VEGF), a
+  pro-angiogenic factor.
+- (14) VEGF-induced signal transduction involves binding to tyrosine kinase receptors,
+  which leads to endothelial cell proliferation, migration, and new vessel formation.
+- (15) VEGF was reported to induce a wide variety of signaling pathways, including
+  protein kinase C, phospholipase C-γ, extracellular signal-regulated kinase (ERK),
+  p38 MAPK, phospholipase C, and phosphatidyl inositol 3-kinase (PI3K)/Akt.
+- (16) Hence, it is critical to understand the VEGF-activated signaling pathways that
+  play an important role in VEGF-mediated cell processes.
+- Nitric oxide (NO), which is synthesized from the amino acid l-arginine by the NOS
+  family of enzymes, is a gaseous molecule with a wide range of physiological and
+  pathophysiological activities, including the regulation of angiogenesis.
+- '(17) The NOS family is composed of three members: neuronal NOS (nNOS), endothelial
+  NOS (eNOS), and inducible NOS (iNOS).'
+- eNOS is constitutively expressed in endothelial cells, but various physical and
+  chemical stimuli affect eNOS levels in vivo and in vitro.
+- (18) Moreover, eNOS is activated upon exposure to fluid shear stress and numerous
+  agonists via cellular events such as protein phosphorylation.
+- Protein phosphatase 2A (PP2A) is a heterotrimeric complex composed of three subunits
+  including a structural subunit (PP2A-A), a regulatory subunit (PP2A-B), and a catalytic
+  subunit (PP2A-C).
+- (19) PP2A is a crucial intracellular serine/threonine phosphatase.
+- (20) In addition, PP2A plays a significant role in the regulation of specific signal
+  transduction cascades including ERK1/2,(21) JNK,(22) and p38 MAPK.
+- (23) In recent years, PP2A was shown to have tumor suppressor activity in myeloid
+  CML-BC patient-derived mononuclear marrow cells.
+- (24) Thus, enhancement of PP2A tumor suppressor activity may represent a potential
+  therapeutic strategy for malignancy.
+- The antitumor effect of DHA has been studied in MCF-7 human breast cancer cells
+  by induction of heme oxygenase 1 and inhibition of TPA-induced matrix metalloproteinase
+  9 (MMP-9) expression.
+- (3) Moreover, DHA was reported to have a potent anti-angiogenic effect.
+- (25) The pro-angiogenic effect of VEGF and NO has also been demonstrated.
+- (15) In this study, therefore, we investigated whether DHA has an opposing effect
+  on cell migration that is associated with angiogenesis and wound repair and the
+  possible mechanisms involved.
+- Medium 199 (M199), Dulbecco’s modified Eagle’s medium, 0.25% trypsin–EDTA, and penicillin–streptomycin–amphotericin
+  solution were from GIBCO-BRL (Grand Island, NY, USA); endothelial cell growth supplement
+  (ECGS) was from Upstate Biotechnology (Lake Placid, NY, USA); fetal bovine serum
+  (FBS) was from HyClone (Logan, UT, USA); DHA was from Cayman Chemical (Ann Arbor,
+  MI); 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide, sodium bicarbonate,
+  heparin, gelatin, _S_-nitroso-_N_-acetyl-dl-penicillamine (SNAP, NO donor), LY294002
+  (PI3K kinase inhibitor), GW9508 (GPR120 agonist), and antibody against β-actin were
+  from Sigma-Aldrich (St. Louis, MO, USA); VEGF was from Peprotech (Rocky Hill, NJ,
+  USA); okadaic acid (OA) was from Millipore (Darmstadt, Germany); PD98059 (ERK1/2
+  inhibitor) was from TOCRIS (Ellisville, MO, USA); and antibodies against ERK1/2,
+  phospho-ERK1/2, eNOS, and phospho-eNOS were from Cell Signaling Technology (Danvers,
+  MA, USA).
+- The human umbilical vein endothelial cell line (HUVEC; CC-2517) was obtained from
+  Clonetics (San Diego, CA, USA) and was cultured on gelatin-coated cell culture dishes
+  in M199 supplemented with 2.2 g/L sodium bicarbonate (NaHCO3), 0.1 g/L heparin,
+  37.5 mg/L ECGS, 20% FBS, 100,000 units/L penicillin, 0.25 mg/mL amphotericin, and
+  100 mg/L streptomycin at 37 °C in a 5% CO2 humidified incubator.
+- Cell viability was assessed by the MTT assay.
+- The MTT assay measures the ability of viable cells to reduce a yellow 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium
+  bromide to a purple formazan by mitochondrial succinate dehydrogenase.
+- HUVECs were grown to 80–90% confluence and then treated with various concentrations
+  of DHA (0–200 μM) and GW9508 (1–10 μM) with or without VEGF (50 ng/mL) for 8 h in
+  M199 containing 2% FBS.
+- Finally, the medium was removed, and the cells were washed with phosphate-buffered
+  saline (PBS).
+- The cells were then incubated with MTT (0.5 mg/mL) in M199 medium at 37 °C for an
+  additional 3 h. The medium was removed, and 2-propanol was added to dissolve the
+  formazan.
+- After centrifugation at 10000_g_ for 5 min, the supernatant of each sample was transferred
+  to 96-well plates, and absorbance was read at 595 nm in an ELISA reader.
+- The absorbance in the control group was regarded as 100% cell viability.
+- After each experiment, cells were washed twice with PBS and were harvested with
+  150 μL of lysis buffer (10 mM Tris-HCl, pH 8.0, 0.1% Triton X-100, 320 mM sucrose,
+  5 mM EDTA, 1 mM PMSF, 1 mg/L leupeptin, 1 mg/L aprotinin, and 2 mM DTT).
+- Cell homogenates were centrifuged at 14000_g_ for 20 min at 4 °C.
+- The resulting supernatant was used as a cellular protein for Western blotting analysis.
+- The total protein was analyzed by use of the Coomassie Plus protein assay reagent
+  kit (Pierce Biotechnology Inc., Rockford, IL, USA).
+- Equal amounts of cellular proteins were electrophoresed in a sodium dodecyl sulfate
+  (SDS)–polyacrylamide gel, and proteins were then transferred to polyvinylidene fluoride
+  membranes (Millipore Corp., Bedford, MA, USA).
+- Nonspecific binding sites on the membranes were blocked with 5% nonfat milk in 15
+  mM Tris/150 mM NaCl buffer (pH 7.4) at room temperature for 2 h. Membranes were
+  probed with anti-ERK1/2, antiphospho-ERK1/2, anti-eNOS, antiphospho-eNOS, and anti-β-actin.
+- The membranes were then probed with the secondary antibody labeled with horseradish
+  peroxidase.
+- The bands were visualized by using an enhanced chemiluminescence kit (PerkinElmer
+  Life Science, Boston, MA, USA) and were scanned by use of a luminescence image analyzer
+  (LAS-4000, FUJIFILM, Japan).
+- The bands were quantitated with ImageGauge software (FUJIFILM).
+- An in vitro wound-healing assay was used to measure directional endothelial cell
+  migration.
+- HUVECs were seeded onto gelatin-coated 6-well plates and allowed to form a confluent
+  monolayer.
+- Monolayers were wounded by using a sterile 200 μL pipet tip, washed with PBS to
+  remove floating cells, and photographed (time 0).
+- Cells were then cultured in M199 medium containing 2% FBS and 50 ng/mL VEGF.
+- Meanwhile, the cells were treated with various concentrations of DHA (0–100 μM)
+  with or without SNAP (20 μM) or OA (10 nM) for 8 h. In addition, the cells were
+  treated with GW9508 (10 μM) for 8 h. Cells were then photographed (100× magnification)
+  to monitor cell migration into the wounded area, and the width of the cell-free
+  zone (distance between the edges of the injured monolayer) was calculated.
+- PP2A activity was determined by use of a Ser/Thr phosphatase assay kit according
+  to the instructions of the manufacturer (Upstate, Darmstadt, Germany).
+- After treatment, cells were scraped with lysis buffer (10 mM tris/Triton X-100,
+  0.32 M sucrose, 5 mM EDTA) and protease inhibitors, sonicated for 10 s, and centrifuged
+  at 2000_g_ for 5 min.
+- Thereafter, phosphopeptide (K-R-pT-I-R-R) was added to the cell lysate, followed
+  by incubation at room temperature for 15 min, and then Malachite Green phosphate
+  was added and the reaction was allowed to proceed at room temperature for another
+  15 min for color development.
+- The relative absorbance was measured at 650 nm in a microplate reader (Bio-Rad).
+- Data were analyzed by using analysis of variance (SAS Institute, Cary, NC, USA).
+- The significance of the difference between mean values was determined by one-way
+  analysis of variance followed by Tukey’s test.
+- _p_ values &lt;0.05 were taken to be statistically significant.
+- As measured by the MTT assay, the cell viabilities of HUVECs treated with VEGF alone;
+  50, 100, or 200 μM DHA; or VEGF and 50, 100, or 200 μM DHA were 110.5 ± 6.6, 92.9
+  ± 1.2, 92.4 ± 2.7, 12.1 ± 2.5, 103.6 ± 7.4, 98.5 ± 7.8, and 11.8 ± 0.8%, respectively,
+  compared with the unstimulated controls (100%).
+- Thus, there were no adverse effects on the growth of cells up to a concentration
+  of 100 μM DHA in the presence or absence of 50 ng/mL VEGF, which was used to induce
+  cell migration.
+- The highest concentration of DHA used in the present study was 100 μM.
+- The cell viabilities of HUVECs treated with VEGF alone, 1 or 10 μM GW9508, or VEGF
+  and 1 or 10 μM GW9508 were 116.3 ± 5.8, 97.6 ± 3.5, 99.1 ± 2.5, 107.6 ± 4.5, and
+  107.0 ± 7.3%, respectively, compared with the unstimulated controls (100%).
+- Thus, there were no adverse effects on the growth of cells up to a concentration
+  of 10 μM GW9508 in the presence or absence of 50 ng/mL VEGF.
+- Endothelial cell migration is necessary to angiogenesis and wound repair.
+- In addition to activation by chemotactic, hepatotactic, and mechanotactic stimuli,
+  angiogenesis involves degradation of the extracellular matrix by matrix metalloproteinases
+  (MMPs) to enable progression of the migrating cells.
+- (26) Moreover, at least 10 MMPs are up-regulated during wound healing by epidermal,
+  dermal, fibroblast, and blood cells in mammals.
+- (27) To determine the effect of DHA on endothelial cell migration in vitro, confluent
+  monolayers of HUVECs were scratched and cultured with M199 medium containing 2%
+  FBS plus 50 ng/mL VEGF alone or in addition to 100 μM DHA.
+- As shown in Figure 1, VEGF significantly induced cell migration, whereas coculture
+  with DHA inhibited the VEGF-induced cell migration (_p_ &lt; 0.05).
+- Figure 1.
+- DHA inhibits VEGF-induced migration of HUVECs.
+- Cells were scratched and then stimulated with 50 ng/mL VEGF in the presence or absence
+  of 100 μM DHA for 8 h. Migration was observed by using a phase-contrast microscope,
+  at 100× magnification.
+- Values are the mean ± SD, _n_ = 3.
+- Values not sharing the same letter are significantly different (_p_ &lt; 0.05).
+- VEGF has been shown to induce a wide variety of signaling pathways that transduce
+  the physiological or pathophysiological activities of VEGF.
+- ERK1/2 is one such pathway.
+- It has been shown that there is a relationship between ERK1/2 phosphorylation and
+  eNOS activation in rat sinusoidal endothelial cells.
+- (28) Thus, we determined the effect of VEGF on both ERK1/2 and eNOS phosphorylation.
+- As shown in Figure 2A, VEGF stimulated the phosphorylation of ERK1/2 and eNOS, and
+  this activation was abolished by the ERK1/2 inhibitor PD98059.
+- However, VEGF showed no effect on Akt phosphorylation (data not shown).
+- VEGF stimulated cell migration, and this effect was dependent on ERK1/2 (Figure
+  2B).
+- These results suggested that VEGF stimulation of cell migration is mediated by the
+  ERK1/2/eNOS pathway.
+- Figure 2.
+- Phosphorylation of ERK1/2 and eNOS is involved in VEGF-induced migration of HUVECs.
+- (A) Cells were starved in M199 containing 2% FBS for 7 h and then pretreated with
+  20 μM of the ERK1/2 inhibitor PD98059 for 1 h followed by incubation with 50 ng/mL
+  VEGF for another 15 min.
+- (B) Cells were scratched and were cotreated with 20 μM PD98059 and 50 ng/mL VEGF
+  or treated with 50 ng/mL VEGF for 8 h. Values are the mean ± SD, _n_ = 3.
+- Values not sharing the same letter are significantly different (_p_ &lt; 0.05).
+- 'Inhibition of VEGF-Induced Cell Migration by DHA Is Associated with the Induction
+  of PP2A Enzyme Activity and the Inhibition of ERK1/2 and eNOS Phosphorylation
+
+
+  Tumor metastasis, the spreading of the primary tumor to distant organs, is recognized
+  to be one of the major causes of failure in the treatment of cancer.'
+- (29) Thus, intervention in a key step in the metastatic process, such as angiogenesis,
+  is an effective mechanism for cancer therapy.
+- VEGF plays a critical role in tumor angiogenesis and has been shown to phosphorylate
+  eNOS on Ser1177 in glomerular endothelial cells.
+- (30) NO produced by activation of eNOS regulates angiogenesis.
+- Dephosphorylation of phosphorylated eNOS is mediated by protein phosphatase 2A (PP2A).
+- (31) In the present study, the role of DHA in VEGF-induced cell migration was studied
+  by using a wound-healing assay.
+- As shown in Figure 3A, DHA inhibited VEGF-induced cell migration, and this inhibition
+  was abolished by treatment with the PP2A inhibitor, OA.
+- These results suggested that DHA inhibition of VEGF-induced cell migration is likely
+  associated with activation of PP2A enzyme activity.
+- Figure 3.
+- Protein phosphatase 2A (PP2A) is involved in DHA inhibition of VEGF-induced phosphorylation
+  of ERK1/2 and eNOS and cell migration.
+- (A) HUVECs were scratched and pretreated with or without 10 nM of the PP2A inhibitor
+  okadaic acid (OA) for 1 h and were then treated with 100 μM DHA along with 50 ng/mL
+  VEGF or with 50 ng/mL VEGF for another 8 h. (B) HUVECs were pretreated with or without
+  10 nM OA for 1 h and were then treated with 100 μM DHA for another 4 h. (C) HUVECs
+  were pretreated with 10 nM OA for 1 h and were then treated with 100 μM DHA for
+  8 h before being challenged with 50 ng/mL VEGF for another 15 min.
+- Values are the mean ± SD, _n_ = 3.
+- Values not sharing the same letter are significantly different (_p_ &lt; 0.05).
+- Recently, it was shown that PP2A has tumor suppressor activity in myeloid CML-BC
+  patient-derived mononuclear marrow cells.
+- (24) We used the Ser/Thr phosphatase assay to measure PP2A enzyme activity.
+- As shown in Figure 3B, DHA significantly stimulated PP2A enzyme activity compared
+  with that in the control group, and this activation was attenuated by treatment
+  with OA.
+- We next examined whether OA reversed the DHA inhibition of VEGF-induced ERK1/2 and
+  eNOS phosphorylation.
+- As shown in Figure 3C, VEGF induced phosphorylation of ERK1/2 and eNOS, and pretreatment
+  with DHA attenuated this induction.
+- Nevertheless, pretreatment with OA reversed the inhibition of eNOS phosphorylation
+  by DHA.
+- OA also reversed the attenuation of VEGF-induced ERK1/2 phosphorylation by DHA,
+  although this effect was not significant.
+- 'Effect of GPR120 Agonist on VEGF-Induced Phosphorylation of ERK1/2 and eNOS as
+  well as Cell Migration
+
+
+  GPR120 is a physiological receptor for long-chain fatty acids, in particular n-3
+  fatty acids, such as α-linolenic acid, eicosapentaenoic acid (EPA), and DHA.'
+- (11, 32) To determine the role of GPR120 in DHA’s inhibition of cell migration,
+  we used the GPR120 agonist GW9508.
+- As shown in Figure 4A, GW9508 had an effect similar to that of DHA on the VEGF-induced
+  phosphorylation of ERK1/2 and eNOS.
+- Moreover, the inhibitory effect of DHA on VEGF-induced cell migration was replicated
+  by GW9508 (Figure 4B).
+- These results suggested that the effects of DHA were highly associated with binding
+  to GPR120.
+- Figure 4.
+- Effect of GPR120 agonist on phosphorylation of ERK1/2 and eNOS and cell migration
+  induced by VEGF in HUVECs.
+- (A) Cells were pretreated with 100 μM DHA or 10 μM GW9508 for 8 h followed by incubation
+  with 50 ng/mL VEGF for another 15 min.
+- (B) Cells were scratched and were cotreated with 100 μM DHA or 10 μM GW9508 along
+  with 50 ng/mL VEGF for 8 h. Values are the mean ± SD, _n_ = 3.
+- Values not sharing the same letter are significantly different (_p_ &lt; 0.05).
+- VEGF activates eNOS and stimulates the release of NO from HUVECs.
+- (33) Endothelium-derived NO is critical regulator of endothelial cell migration,
+  survival, and angiogenesis.
+- (34) To determine the effect of the NO donor SNAP on endothelial cell migration
+  in vitro, confluent monolayers of HUVECs were scratched and cultured in M199 medium
+  containing 2% FBS plus vehicle, 50 ng/mL VEGF, 100 μM DHA and 50 ng/mL VEGF, or
+  100 μM DHA, 20 μM SNAP, and 50 ng/mL VEGF, respectively.
+- As shown in Figure 5, SNAP reversed DHA inhibition of VEGF-induced cell migration.
+- Figure 5.
+- SNAP reverses DHA inhibition of VEGF-induced migration in HUVECs.
+- Cells were scratched and were treated with 50 ng/mL VEGF alone, cotreated with 100
+  μM DHA and 50 ng/mL VEGF, or cotreated with 20 μM SNAP, 100 μM DHA, and 50 ng/mL
+  VEGF for 8 h. Values are the mean ± SD, _n_ = 3.
+- Values not sharing the same letter are significantly different (_p_ &lt; 0.05).
+- Cancer has attracted considerable attention in the past decades because it is among
+  the leading causes of death globally.
+- (4) Protection against cancer by DHA is attributed to the anti-angiogenic activity
+  of DHA.
+- (35) However, the mechanisms by which DHA inhibits angiogenesis are still not fully
+  clarified.
+- In this study, we explored the inhibition of HUVEC cell migration by DHA and the
+  possible mechanisms involved.
+- We demonstrated that DHA inhibits VEGF-induced HUVEC cell migration and that this
+  suppression is likely associated with binding to GPR120, activation of PP2A enzyme
+  activity, and inhibition of the ERK1/2/eNOS signaling pathway.
+- Several mechanisms have been proposed to demonstrate the inhibitory role of DHA
+  in angiogenesis, including induction of apoptosis and reduction of cell proliferation.
+- (36-38) Rose and Connolly(36) proposed that the inhibition of breast cancer cell
+  proliferation by DHA was related to the reduced production of series 2 eicosanoids.
+- Although DHA may prevent the occurrence of angiogenic diseases, it has potential
+  side effects on subjects receiving revascularization therapy because of its inhibition
+  of cell migration.
+- (39) In recent years, EPA and DHA have been shown to inhibit angiogenesis, possibly
+  by regulating the production or activation of various pro-angiogenic factors such
+  as eNOS, VEGF, cyclooxygenase 2 (COX-2)-derived prostanoids, and MMP-9.
+- (7, 40, 41) Moreover, EPA and DHA dose-dependently inhibit ERK1/2 phosphorylation,
+  and this is likely associated with reduced PGE2 and VEGF production by EPA and DHA
+  in HT-29 human colorectal cells.
+- '(40)
+
+
+  VEGF has been shown to induce eNOS phosphorylation and cell migration in HUVECs,
+  and this activation is abolished by DHA.'
+- (42) Moreover, DHA has been demonstrated to inhibit TPA-induced MMP-9 expression
+  and cell migration and invasion in MCF-7 breast cancer cells.
+- (3) Consistent with the results of these previous studies, our data showed that
+  DHA exerted an inhibitory effect on VEGF-induced cell migration in HUVECs (Figure
+  1).
+- Cell migration is essential for angiogenesis.
+- Thus, the results of the present study suggest that DHA is a potential anti-angiogenic
+  agent.
+- ERK1/2 is known to play an important role in cell proliferation, and protein phosphatases
+  are generally identified as inhibitors of cell proliferation via dephosphorylation
+  of ERK1/2.
+- (21) Activation of the Akt/eNOS(43) or ERK1/2/eNOS(30) pathways is reported to be
+  involved in VEGF-induced NO release.
+- In the present study, VEGF activated phosphorylation of ERK1/2 but not of Akt (data
+  not shown).
+- Pretreatment with the ERK1/2 inhibitor PD98059 abolished VEGF-induced phosphorylation
+  of ERK1/2 and eNOS in HUVECs (Figure 2A).
+- These results suggest that eNOS is the downstream target of ERK1/2.
+- Moreover, DHA was shown to inhibit VEGF-induced cell migration via suppression of
+  the ERK1/2/eNOS signaling pathway (Figure 3A,C).
+- Similar to DHA treatment, the ERK1/2 inhibitor PD98059 abolished cell migration
+  (Figure 2B).
+- Furthermore, as shown in Figure 5, SNAP reversed the DHA inhibition of VEGF-induced
+  cell migration.
+- These results strongly suggest that the DHA inhibition of VEGF-induced cell migration
+  is through the ERK1/2/eNOS-mediated signaling pathway.
+- Reversible protein phosphorylation plays an important role in many cellular processes.
+- (20) In general, cells use protein phosphorylation to alter enzyme properties such
+  as activity and cell distribution of key regulatory proteins involved in specific
+  pathways.
+- Through the use of specific PP2A inhibitors and gene silencing technique, PP2A has
+  been shown to play a key role in the regulation of cell cycle, cell morphology,
+  and development.
+- In addition, PP2A was demonstrated to be a tumor suppressor and can be a target
+  for cancer therapy.
+- (44) For example, it is reported that conjugated linoleic acid inhibits the proliferation
+  of MCF-7 human breast cancer cells and that the working mechanisms include activation
+  of PP2A and inhibition of ERK1/2 activation.
+- (21) Pretreatment with the PP2A inhibitor OA reverses the effect of conjugated linoleic
+  acid on both increased PP2A expression level and dephosphorylation of ERK1/2.
+- This result strongly suggests that dephosphorylation of ERK1/2 is mediated by PP2A.
+- Phosphorylated eNOS is also a substrate of PP2A.
+- (31) It is reported that endostatin inhibits endothelial cell migration and angiogenesis
+  by down-regulating the phosphorylation of eNOS at Ser1177 via PP2A, which results
+  in a decrease in NO synthesis.
+- (45, 46) In the present study, we demonstrated that DHA activated PP2A enzyme activity,
+  which was inhibited by OA pretreatment (Figure 3B).
+- Pretreatment with OA reversed the inhibitory effect of DHA on VEGF-induced cell
+  migration and phosphorylation of ERK1/2 and eNOS (Figure 3A,C).
+- These results indicate that PP2A participates in the DHA inhibition of VEGF-induced
+  ERK1/2/eNOS phosphorylation and cell migration.
+- Activation of PP2A by DHA is by an as yet unidentified signaling pathway.
+- DHA exerts anti-inflammatory effects, but the mechanisms of these effects are not
+  fully understood.
+- It has been shown that GPR120 functions as an n-3 PUFA receptor.
+- (11) In an in vitro study using RAW 264.7 cells and primary intraperitoneal macrophages,
+  stimulation of GPR120 with n-3 PUFAs or the chemical agonist GW9508 causes a wide
+  range of anti-inflammatory effects.
+- All of these effects are abolished by GPR120 knockdown.
+- Therefore, we hypothesize that DHA inhibits VEGF-induced cell migration through
+  binding with GPR120.
+- We used the GPR120 agonist GW9508 to simulate the activation of GPR120 by DHA in
+  the suppression of VEGF-induced cell migration.
+- The results showed that GW9508 significantly inhibited VEGF-induced cell migration,
+  and the inhibitory effect was similar to that of DHA (Figure 4B).
+- In addition, GW9508 significantly suppressed VEGF-induced phosphorylation of ERK1/2
+  and eNOS (Figure 4A), which is critical to cell migration.
+- Our findings in the present study are presented schematically in Figure 6.
+- In conclusion, DHA significantly inhibits VEGF-induced phosphorylation of ERK1/2
+  and eNOS and cell migration via binding to GPR120 and induction of PP2A enzyme activity
+  in HUVECs.
+- Treatment with the NO donor SNAP reverses the DHA inhibition of VEGF-induced cell
+  migration.
+- Taken together, these results support an opposing role of DHA in cell migration,
+  which is implicated in its anticancer and anti-wound-repair properties.
+- Figure 6.
+- Model showing the pathways that mediate DHA inhibition of VEGF-induced cell migration
+  in HUVECs.
+- DHA inhibits VEGF-induced cell migration via binding to GPR120, activation of PP2A,
+  and inhibition of ERK1/2 and eNOS phosphorylation.
+- This study was supported by Grants NSC-101-2313-B-039-007-MY3 and CMU101-ASIA-11.
+...

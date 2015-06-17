@@ -1,0 +1,512 @@
+---
+- In the Yucatan Peninsula coast, a large diversity of seaweed species are found,
+  and recent studies have reported the presence of metabolites with pharmaceutical
+  importance.
+- In this study, a biological screening of brown seaweed extracts from _Dictyota ciliolata_,
+  _Padina sanctae-crucis_, _Sargassum fluitans_, and _Turbinaria tricostata_ was carried
+  out.
+- Their cytotoxicity and antiproliferative activities were evaluated by the sulforhodamine
+  B assay on human embryonic kidney (HEK 293), human breast cancer (MCF-7), human
+  prostate cancer (LNCaP), and human hepatic cancer (Hep-G2) cell lines.
+- Seaweed extracts were also tested for their anti-trichomonal (_Trichomonas vaginalis_)
+  and anti-giardicidal (_Giardia lamblia_) properties.
+- Fucan fractions were extracted using successive maceration with ethanol/water and
+  freeze-dried.
+- Organics extracts were obtained from ethanol residue from liquid–liquid fractionation.
+- A total of four ethanol extracts, four fucan-rich fractions, four ethanolic extracts,
+  and 12 organic fractions were obtained.
+- Only the ethanolic extracts from _Turbinaria tricostata_ and _D.
+- ciliolata_ were active against LNCaP (CC50 of 24.4 and 29.3 μg mL−1, respectively).
+- Interestingly, the activity found in the extracts from _D.
+- ciliolata_ and _Turbinaria tricostata_ was maintained when both extracts were subjected
+  to a liquid–liquid fractionation with hexane on the LNCaP cell line (CC50 of 24.4
+  and 25.2 μg mL−1, respectively).
+- The antiproliferative assays showed that both dichloromethane and ethanolic fractions
+  from _P.
+- sanctae-crucis_ were active against MCF-7, with IC50 of 26.1 and 29.8 μg mL−1, respectively.
+- These species have been selected for further bio-guided fractionation and isolation
+  of active compounds.
+- The search for marine natural products has generated great interest for the pharmaceutical
+  industry, which regards them as a new source of bioactive compounds with medicinal
+  potential (Mayer et al.
+- 2010).
+- In this context, seaweeds have attracted the attention of the pharmaceutical industry,
+  due to the great diversity of species that are available, the ability to produce
+  secondary metabolites with various pharmacological activities, and the ease of obtaining
+  industrial crops (Hu et al.
+- 2011).
+- To date, more than 2,400 natural products with a wide diversity of chemical structures
+  have been isolated mostly from tropical seaweeds (Faulkner 2002).
+- In particular, brown seaweeds have been also characterized for their secondary metabolites,
+  terpene type, and phlorotannin pigments (Blunt et al.
+- 2013), and some of them have been reported to possess cytotoxic activity, antiproliferative,
+  antimicrobial, antiparasitic, and/or antioxidant activities (Ioannou et al.
+- 2011; Kim et al.
+- 2011; Lee and Seo 2011; Pereira et al.
+- 2011; Moghadam et al.
+- 2013).
+- Moreover, brown seaweed fucoidans, a family of sulfated polysaccharides containing
+  fucose, sulfate, and uronic acids, have attracted attention due to their high bioactive
+  properties as antibacterial, anticoagulant, antiviral, and anti-tumoral agents (Jiao
+  et al.
+- 2011; Ale et al.
+- 2011; Dantas-Santos et al.
+- 2012; Dore et al.
+- 2013).
+- Most recently, several patents on the extraction of high-value biologically active
+  materials from seaweed have been published, but generally, the active components
+  have not been fully characterized and they have not been produced using a whole
+  plant approach.
+- Therefore, the determination of whether such bioactive compounds can be isolated
+  as co-products in a process yielding hydrocolloids, lipids, or other components
+  from them is necessary as a possible feedstock for biorefinery (Jung et al.
+- 2013).
+- Extraction technology is critical for the complete use of seaweed raw materials
+  with low consumption of solvents, reducing time, and with high yields at low costs.
+- On this regard, extraction methods for fucans involve treatments with acid or base
+  solutions, which leads to a possible degradation of other organic compounds, which
+  may have potential applications in the pharmaceutical industry (Rupérez et al.
+- 2002; Nakayasu et al.
+- 2009).
+- However, in recent years, some authors (Ponce et al.
+- 2003; Foley et al.
+- 2011) established a methodology extraction of fucans using water and ethanol alone,
+  without the previous use of acids or bases.
+- Likewise, for the extraction of organic extracts, the used mixtures of dichloromethane/methanol
+  (7:3) or direct maceration give low yields and are not selective for particular
+  compounds polarity.
+- Currently, there is no methodology for extracting fucans and the organic extracts
+  from the same plant material.
+- This would bring advantages in screening studies and a more comprehensive use of
+  brown seaweed products.
+- In previous studies on brown seaweed from the Yucatan Peninsula, biological activity
+  in the genus _Dictyota_, _Sargassum_, _Padina_, and _Turbinaria_ has been reported
+  (Zubia et al.
+- 2007; Freile-Pelegrin et al.
+- 2008; Moo-Puc et al.
+- 2008; León-Deniz et al.
+- 2009; Moo-Puc et al.
+- 2009; Cantillo-Ciau et al.
+- 2010).
+- In this study, we evaluated cytotoxic, antiproliferative, and antiprotozoal activities
+  of fucans and organic fractions from _Dictyota ciliolata_, _Padina sanctae-crucis_,
+  _Sargassum fluitans_, and _Turbinaria tricostata_ as part of our search for compounds
+  with biological activity and to the integral use of seaweed from the Yucatan Peninsula.
+- The objective of this work is to extract native fucans using a soft chemically modified
+  technique, thus obtaining extracts and organic fractions of the same seaweed sample
+  evaluating its activities with different biological assays.
+- This kind of approach could be implemented in the extraction process to use the
+  waste from one process as a feedstock in the next.
+- 'The material collected consisted of two species from the Dictyotaceae: _Dictyota
+  ciliolata_ Sonder ex Kützing and _Padina sanctae-crucis_ Børgesen and two species
+  of Fucaceae: _Sargassum fluitans_ (Børgesen) Børgesen and _Turbinaria tricostata_
+  E.S.'
+- Barton.
+- All specimens were collected at the Caribbean coast of the Yucatan peninsula in
+  Puerto Morelos (20°46′07″ N, 86°57′14″ O) during the winter of 2012.
+- The seaweeds were centrifuged on site to remove excess seawater using a commercial
+  portable centrifuge and stored in plastic bags on ice during transport to the laboratory.
+- Once in the laboratory, samples were washed thoroughly with fresh water to remove
+  salts, sand, and epiphytes and stored at −20 °C.
+- Voucher specimens for all species were identified according to Wynne (2005) at the
+  MEXU Herbarium (IB-UNAM).
+- Native fucans were extracted with selective solvents by constant mechanical stirring
+  at different temperature ranges according to the method described by Foley et al.
+- (2011).
+- Seaweeds previously stored (−20 °C) were milled using a commercial blender.
+- Subsequently, milled algae (100 g) were mixed using ethanol (EtOH) (80 % v/v) extraction
+  at room temperature for 12 h. After this time, another extraction was performed
+  for another 12 h at 70 °C.
+- The EtOH supernatants were kept at −4 °C for further use.
+- Successive extraction of the solid residue with Milli-Q H2O was done, first at room
+  temperature for 7 h, then at 70 °C for 7 h, and later at 70 °C for 4 h. The resultant
+  water fractions were treated with CaCl2 in order to precipitate alginates; after
+  alginate removal, the resulting extract was rich in fucoidan.
+- Dialysis was carried out over a 48-h period to decrease salinity using Milli-Q H2O
+  changes every 12 h. Resultant fucans were freeze-dried and stored until required
+  (Fig.
+- 1).
+- General diagram of the extraction proposed in this study (modified from Foley et
+  al.
+- 2011).
+- '_Superscripts_ indicate biological activities obtained from the different species
+  and fractions: 1Cytotoxic activity by _D.'
+- ciliolata_ and _T.
+- tricostata_; antiproliferative activity by _P.
+- sanctae-crucis_.
+- 2Cytotoxic activity by _D.
+- ciliolata_ and _T.
+- tricostata_.
+- 3Antiproliferative activity by _P.
+- sanctae-crucis_.
+- 'Preliminary fractionation was performed polar fractions by liquid–liquid chromatography:
+  4using a separating funnel and solvents of increasing polarity
+
+
+
+
+  Liquid–liquid chromatography fractionation was carried out by means of a separating
+  funnel.'
+- This is a standardized method widely used in chemistry for the separation of molecules
+  making use of the partition coefficient of each molecule.
+- Briefly, the ethanol supernatants were filtered and evaporated under vacuum by means
+  of a rotary evaporator to obtain a dried extract.
+- 'The ethanol extract was suspended in 150 mL methanol–H2O (1:3) and extracted by
+  funnel separation using 300 mL (once) and with 150 mL (two times) of solvents of
+  increasing polarity: hexane, dichloromethane, and ethyl acetate.'
+- Samples of each organic fraction were solubilized in dimethyl sulfoxide (DMSO),
+  or H2O/DMSO (1:1) in the case of fucans, prior to be added to the appropriate culture
+  medium and were stocked at a concentration of 10 mg mL−1.
+- _Giardia intestinalis_ strain IMSS:0696:1 was cultured in TYI-S-33 modified medium,
+  supplemented with 10 % calf serum and bovine bile.
+- _Trichomonas vaginalis_ strain GT3 was cultured in TYI-S-33 medium, supplemented
+  with 10 % bovine serum.
+- In vitro growth susceptibility assays were performed using a method previously described
+  (Cedillo-Rivera et al.
+- 2002).
+- Briefly, stock solutions from each extract were added to microtubes containing 1.5
+  mL of medium in order to reach concentrations of 0.5, 1, 5, and 10 μg mL−1.
+- Subsequently, 4 × 104 trophozoites mL−1 of _Giardia lamblia_ or _Trichomonas vaginalis_
+  were added to microtubes and incubated for 48 h at 37 ºC.
+- At the end of this period, trophozoites were counted with a hemocytometer, and the
+  inhibitory concentration (IC50) was calculated by nonlinear fit (GraphPad Prim 4
+  software).
+- Experiments were carried out in triplicate and repeated at least twice.
+- As the negative control, we used DMSO and metronidazole as positive control.
+- The cell lines used were hepatocellular carcinoma (Hep-G2, American Type Culture
+  Collection (ATCC)-HB-8065), breast adenocarcinoma (MCF-7, ATCC-HTB-22), prostate
+  carcinoma (LNCaP, ATCC-CRL-1740), and a human cell embryonic kidney cell line (HEK-293,
+  ATCC-CRL-1573) from the ATCC.
+- The cells were cultured in sterile Costar T75 flasks containing D-MEM medium (Gibco)
+  (MCF-7 and HEK-293) or RPMI-1640 (Gidco) (LNCaP), supplemented with fetal bovine
+  serum (10 % v/v), 100 U mL−1 penicillin G, and 100 μg mL−1 streptomycin at 37 °C
+  in an atmosphere of 5 % CO2 (95 % humidity).
+- At 70–80 % confluence, cells were detached from the cultured flask by treatment
+  with 0.05 % trypsin–EDTA (Gibco), and a suspension of 1.5 × 104 cells mL−1 of viable
+  cells was seeded in a 96-well microtiter plate (Costar) and incubated for 24 h.
+  When cells reached 80–90 % confluence, the medium was replaced and cells were incubated
+  with stock solutions of extracts serially diluted to reach concentrations of 50.0,
+  25.0, 12.5, and 6.25 μg mL−1.
+- After 48 h of incubation, viability of the cell lines was evaluated by the sulforhodamine
+  B (SRB) method (Skehan et al.
+- 1990; Moo-Puc et al.
+- 2009).
+- The concentration of the extract that killed 50 % of the cells (CC50) was calculated
+  by nonlinear fit (GraphPad Prism 4 software).
+- All concentrations were evaluated in duplicate, and each experiment was performed
+  in triplicate.
+- The selectivity index (SI) of each extract was calculated as the ratio of cytotoxicity
+  on normal cells to cancer cells (SI = CC50 normal cells/CC50 cancer cells) (Mena-Rejon
+  et al.
+- 2009).
+- It is generally considered that biological efficacy is not due to general toxicity
+  when SI ≥ 10 (Vonthron-Sénécheau et al.
+- 2003).
+- In order to elucidate if the effect of extracts were directly correlated to suppression
+  of cell proliferation, we evaluate the growth inhibition of extracts and fraction
+  from the brown seaweed studied.
+- Cells were cultured in 96-well plates at a concentration of 5 × 104 cells per well,
+  after cultured at 37 °C in an atmosphere of 5 % CO2 (95 % humidity).
+- Once the cells reached 70 % confluence, the medium was replaced using same conditions
+  as the cytotoxic assays, except that the medium was replaced with DMEM 10 % SFB
+  to induce cellular proliferation.
+- The growth inhibition of the cell lines was evaluated by the SRB method (Skehan
+  et al.
+- 1990; Moo-Puc et al.
+- 2009).
+- The IG50 value, defined as the extract concentration that resulted in 50 % of cell
+  growth inhibition, was calculated.
+- All concentrations were evaluated in duplicate, and each experiment was performed
+  in triplicate.
+- In both assays (cytotoxic and antiproliferative), docetaxel was used as a positive
+  control, while cells incubated only with 0.05 % of DMSO were used as a negative
+  control.
+- The optical density of the developed plates with SRB was read in a GloMax multi-detection
+  system spectrophotometer at 450 nm (Promega).
+- The chromatographic separation and analysis was carried out in a gas chromatography–mass
+  spectrometry (GC–MS) (Agilent, Model 6890N) coupled to a mass selective detector
+  model 5975B.
+- Compounds were separated on an Ultra-1 capillary column (30 m × 0.32 mm, i.e., 0.25
+  μm film thickness) (J&amp;W Scientific, USA).
+- One microliter of the sample was injected into GC–MS using split mode (50:1).
+- The injector temperature was 250 °C.
+- 'The column temperature was programmed as follows: initial temperature at 100 °C
+  for 4 min, 10 °C min−1 to 300 °C, and 300 °C for 20 min.'
+- Mass detector conditions were electronic impact mode at 70 eV, source temperature
+  230 °C, scanning rate 1 scan s−1, mass acquisition range 20–600 am, and solvent
+  delay 4 min.
+- Carrier gas was helium at 1 mL min−1.
+- Volatile components present in the seaweed fractions were identified by comparing
+  their mass spectra using NIST Standard Reference Database (version NIST 05).
+- Yield of extracts and fractions (% of dry weight) obtained from the brown seaweed
+  studied are shown in Table 1.
+- In general, low polarity fraction yields were higher in all four seaweeds.
+- The alga _D.
+- ciliolata_ produced the highest yield for the ethanol extract while _T.
+- tricostata_ yield higher fucans.
+- The CC50 value is the concentration (μg mL−1) of the extract that killed 50 % of
+  the cells during the assay.
+- 'Extract activity was considered as: high (≤30 μg mL–1), medium (31–60 μg mL–1),
+  and low (61–99 μg mL–1) as previously established by Moo-Puc et al.'
+- '(2009)
+
+
+
+
+
+  The cytotoxic activities of extracts and fractions from the brown seaweed against
+  four cancer cell lines examined in this study are shown in Table 1.'
+- Our results suggest that only ethanolic extracts from _D.
+- ciliolata_ and _T.
+- tricostata_ had a high cytotoxic activity (CC50 = 29.3 and 24.4 μg mL–1, respectively)
+  in the LNCaP cell line, while the ethanolic extracts from _S.
+- fluitans_ and _P.
+- sanctae-crucis_ showed moderate and low activity (CC50 = 49.6 and 65.6 μg mL–1,
+  respectively) on the same line.
+- Moderate activity was observed on cell line MCF-7 with _D.
+- ciliolata_ ethanol extract (CC50 = 40.9 μg mL–1) and in _T.
+- tricostata_ methanol extract (CC50 = 56.3 μg mL–1), whereas low activity was found
+  in _P.
+- sanctae-crucis_ and _S.
+- fluitans_ ethanolic extracts (CC50 &gt; 80 μg mL–1).
+- Additionally, the hepatoma cell line Hep-G2 showed a high resistance to all extracts
+  tested, with reduced activity in _D.
+- ciliolata_ and _T.
+- tricostata_ extracts (CC50 = 50.3 and 68.2 μg mL–1, respectively).
+- Liquid–liquid fractionation of the ethanol extracts using hexane, dichloromethane,
+  and ethyl acetate was performed in order to know the nature of the compounds responsible
+  for the biological activity.
+- When _D.
+- ciliolata_ ethanol extract was fractionated, we observed that the cytotoxic activity
+  of the original extract remained in the nonpolar hexane fraction and to a lesser
+  extent in the low polar dichloromethane fraction.
+- The hexane fraction of _D.
+- ciliolata_ showed cytotoxic activity toward LNCaP cell line (CC50 = 24.3 μg mL–1)
+  and moderate activity on Hep-G2 and MCF-7 cell lines (CC50 = 48.4 and 55.4 μg mL–1,
+  respectively).
+- _Turbinaria tricostata_ extracts maintained its cytotoxic activity only in the hexane
+  and ethyl acetate fractions toward LNCaP and MCF-7 cell lines (Table 1).
+- None of the fractions of _P.
+- sanctae-crucis_ and _S.
+- fluitans_ showed cytotoxic activity in the human cancer cell lines tested.
+- Overall, a moderate selectivity of the ethanol extracts and organic fractions from
+  the four brown seaweed studied was found (SI = 1 to 6).
+- None of the fucan fractions from the four brown seaweed studied showed cytotoxic
+  activity to a concentration of 500 μg mL–1 (Table 1).
+- The antiproliferative activity from four ethanolic extracts is summarized in Table
+  2.
+- Ethanolic extract from _P.
+- sanctae-crucis_ had high antiproliferative activity against MCF-7 (IG50 = 29.8 μg
+  mL–1) and low activity on LNCaP (IG50 = 65.2 μg mL–1) cell lines, while moderate
+  activity was found in the ethanolic extract of _D.
+- ciliolata_ (IG50 = 45.3 μg mL–1) on LNCaP cell line.
+- The extract from _S.
+- fluitans_ showed low activity toward cell lines MCF-7 and LNCaP (IG50 = 69.3 and
+  76.2 μg mL–1, respectively).
+- None of the extract or fractions of _T.
+- tricostata_ showed antiproliferative activity in the cell lines studied at a concentration
+  &lt;100 μg mL–1.
+- When the fractions obtained from the four extracts were subjected to the antiproliferative
+  assay, only the dichloromethane fraction of _P.
+- sanctae-crucis_ kept its antiproliferative activity for breast cancer lines (MCF-7).
+- Hexane and ethyl acetate fractions from the same species show low activity toward
+  MCF-7 and LNCaP.
+- Moderate antiproliferative activity was also observed in the hexane fraction of
+  _D.
+- ciliolata_ extract toward prostate cancer line (LNCaP).
+- Fucan fractions from the brown seaweed studied did not show significant antiproliferative
+  activity (&gt;500 μg mL−1) (Table 2).
+- The IG50 value is the extract concentration (μg mL−1) that resulted in 50 % of cell
+  growth inhibition during the assay.
+- 'Extract activity was considered as: high (≤30 μg mL–1), medium (31–60 μg mL–1),
+  and low (61–99 μg mL–1) as previously established by Moo-Puc et al.'
+- '(2009)
+
+
+
+
+
+  The activity was tested in two clinically important human parasites (_G.'
+- lamblia_ and _Trichomonas vaginalis_), but results show that none of the extracts
+  or fractions had significant activity as low as 13 μg mL−1 (data not shown).
+- The constituent compounds from the three most active fractions were analyzed by
+  means of gas chromatography.
+- 'Figure 2 illustrates the fingerprint of the three fractions with higher activity:
+  cytotoxic (hexane fractions of _T.'
+- tricostata_ and _D.
+- ciliolata_) and antiproliferative (dichloromethane fraction of _P.
+- sanctae-crucis_).
+- The chromatograms show that _D.
+- ciliolata_ has five compounds, followed by _P.
+- sanctae-crucis_ with eight compounds, and finally _T.
+- tricostata_ with nine compounds.
+- 'From the 22 peaks present in the three chromatograms, only four compounds were
+  identified by comparison of their mass spectra with the NIST5 database: Hexadecanoic
+  acid ethyl ester (Rt = 15,154 min) was present in all three fractions and in greater
+  proportion in _P.'
+- sanctae-crucis_ fraction (Fig.
+- 2); pentadecanoic acid methyl ester (Rt = 14,481 min) and ethyl ester of (_E_)-9-octadecenoic
+  (Rt = 16,724 min) were detected in _P.
+- sanctae-crucis_; while the compound 6, 10, 14-trimethyl-2-pentadecanone (Rt = 13,676
+  min) was only identified in the _D.
+- ciliolata_ fraction.
+- Two common unknown peaks (Rt = 25.8 and 13,785 min) were detected in both _P.
+- sanctae-crucis_ and _T.
+- tricostata_.
+- Chromatograms obtained from _A_ hexane active fraction from _D.
+- ciliolata_, _B_ hexane active fraction from _Turbinaria tricostata_, and _C_ dichloromethane
+  active fraction from _P.
+- sanctae-crucis_.
+- 'GC–MS: ultra-1 capillary column.'
+- The injector temperature was 250 °C.
+- 'The column temperature was programmed as follows: initial temperature at 100 °C
+  for 4 min, 10 °C min−1 to 300 °C, 300 °C for 20 min.'
+- Hexadecanoic acid ethyl ester (Rt = 15,154 min) was present in all three fractions;
+  pentadecanoic acid methyl ester (Rt = 14,481 min) and ethyl ester of (_E_)-9-octadecenoic
+  (Rt = 16,724 min) were detected in _P.
+- sanctae-crucis_; 6, 10, 14-trimethyl-2-pentadecanone (Rt = 13,676 min) was only
+  identified in the _D.
+- ciliolata_ fraction.
+- Two common unknown peaks (Rt = 25.8 and 13,785 min) were detected in both _P.
+- sanctae-crucis_ and _T.
+- 'tricostata_
+
+
+
+
+  Most of the published literatures on the screening compounds from seaweeds evaluate
+  organic or aqueous extracts separately, focusing basically toward a main type of
+  compounds (either organics or polysaccharides) and mainly using extraction by maceration
+  (Mhadhebi et al.'
+- 2011; Mary et al.
+- 2012; Stabili et al.
+- 2012).
+- In this paper, our proposal evaluated a simple protocol for extraction of both polysaccharide-rich
+  extracts (mostly fucans) and other usable organic extracts.
+- The yields for organic extracts reported in the literature are ∼8 % in _Dictyota_,
+  ∼2.5 % in _Padina_, ∼2 % in _Sargassum_, and ∼2 % in _Turbinaria_ (Freile-Pelegrin
+  et al.
+- 2008; Moo-Puc et al.
+- 2008; León-Deniz et al.
+- 2009; Moo-Puc et al.
+- 2009).
+- Fucan yields are quite variable depending on the species from which they were extracted
+  and the method used for extraction.
+- Nevertheless, previous studies suggest that generally fucans have a yield ranging
+  between 3 and 12 % (Foley et al.
+- 2011).
+- In this study, comparable yields were obtained for both organic extracts and fucans
+  (Table 1).
+- On the other hand, ethanol extracts from _D.
+- ciliolata_ and _T.
+- tricostata_ showed high cytotoxic activity, whereas ethanolic extract of _P.
+- sanctae-crucis_ had high antiproliferative activity, demonstrating that cytotoxic
+  and antiproliferative assays are not directly related.
+- These results could suggest that the main pharmacological mechanism of each extract
+  is different; thus, _D.
+- ciliolata_ and _T.
+- tricostata_ compounds may be related to necrosis or apoptosis, while _P.
+- sanctae-crucis_ compounds may be responsible for the antiproliferative activity
+  by inhibiting cell cycle.
+- Liquid–liquid chromatography led us to identify the polarity of the active compounds
+  present in the crude extracts of the brown seaweed studied.
+- The hexane fractions of _D.
+- ciliolata_ and _T.
+- tricostata_ had an effect for prostate cancer (LNCaP), whereas dichloromethane fraction
+  from _P.
+- sanctae-crucis_ was the most active toward breast cancer (MCF-7).
+- These data demonstrate the nonpolar nature of the active compounds in all the three
+  fractions.
+- Isolated diterpenes from the genus _Dictyota_ have been reported to exert cytotoxic
+  and protective DNA damage activities (Gedara et al.
+- 2003; Jongaramruong and Kongkam 2007; Ayyad et al.
+- 2011).
+- This genus has been extensively investigated from a chemical viewpoint and is regarded
+  as a rich source of these compounds (Teixeira et al.
+- 2001; Vallim et al.
+- 2005; Viano et al.
+- 2009).
+- Moreover, from _D.
+- ciliolata_, prenylated guaiane and xenicane like-type diterpenes have been isolated
+  (Cronin et al.
+- 1995; Manzoa et al.
+- 2011).
+- However, there is no information indicating cytotoxic activity of these compounds
+  from this species.
+- We are currently isolating and elucidating the compounds present in the hexane fraction
+  of _D.
+- ciliolata_.
+- Although we do not know at the moment the chemical compounds responsible for the
+  observed activity of the species from which we isolated some of the bioactive chemical
+  compounds, these are related to the same genera that have been previously studied.
+- In particular for the genus _Dictyota_, diterpenes with cytotoxic properties have
+  been described (Ayyad et al.
+- 2011).
+- Nevertheless, the pharmacological mechanism by which guaiane and xenicane like-type
+  diterpenes exert their cytotoxic effect is not known; therefore, pharmacological
+  studies on cell lines using these compounds are needed.
+- Previous studies with the genus _Turbinaria_ have isolated compounds with potent
+  cytotoxic activity such as turbinaric acid (Asari et al.
+- 1989) and oxygenated sterols (Sheu et al.
+- 1997, 1999) that can be responsible for the cytocidal effect observed in this study.
+- To our knowledge, there are not reports in the literature on biological and/or phytochemistry
+  of _T.
+- tricostata_.
+- In relation to the genus _Padina_, very few studies have been published regarding
+  biological activity and chemical composition.
+- Two previous studies with _Padina pavonica_ indicate the presence of oxygenated
+  sterols and diterpenes with cytotoxic active compounds (Ktari and Guyot 1999; Awad
+  et al.
+- 2008).
+- The compound 24(_R_)-hydroproxy-24-vinylcholesterol is an oxygenated sterol previously
+  isolated from other species of _Turbinaria_ and _Padina_.
+- This is a potent cytotoxic compound, which main pharmacological mechanism is the
+  induction of apoptosis and it has been described for the brown algae _Nizamuddinia
+  zanardinii_ (Moghadam et al.
+- 2013).
+- The biological activity observed in _T.
+- tricostata_ and _P.
+- sanctae-crucis_ extracts could be related to the presence of this compound; however,
+  these should be studied further.
+- In our results, we showed antiproliferative activity of the dichloromethane fraction;
+  therefore, it is important to isolate compounds from this fraction to identify the
+  main compound responsible for such activity.
+- As to the chemical composition of the three most active fractions, we observed similarities
+  from the GC–MS spectra, especially in the presence of fatty acid esters.
+- It is well-known that seaweed produce mostly saturated and unsaturated hydrocarbons
+  (Patarra et al.
+- 2012; Pereira et al.
+- 2012).
+- However, the chromatograms and mass data fragmentation studies indicate that other
+  type of compounds may also be present in these species (data not shown).
+- In fact, from the chemotaxonomical point of view, it is known from the literature
+  that the genus _Dictyota_ produces mainly diterpenes, _Turbinaria_ oxygenated sterols
+  and sterols, and _Padina_ contains both types of compounds (Sheu et al.
+- 1997, 1999; Ktari and Guyot 1999; Vallim et al.
+- 2005; Awad et al.
+- 2008).
+- In this study, we performed a preliminary fingerprint on the chemical composition
+  of the three most active fractions of _D.
+- ciliolata_, _T.
+- tricostata_, and _P.
+- sanctae-crucis_, in order to learn more on the chemical compounds present in these
+  species and lay the groundwork for further studies and biotechnological applications.
+- In conclusion, these results confirm that the methodology proposed is a simple,
+  selective, and a suitable alternative for obtaining both fucans and organic fractions
+  from same plant material.
+- The versatility and assurance to fully utilize biomass to screening and biological
+  testing of organic extracts and fucans must be studied in detail in order to optimize
+  the recovery of other useful products (alginates and/or solid residues) for possible
+  application.
+- Therefore, further studies are needed in order to evaluate the possibility of using
+  up to 100 % of the biomass available of these or other abundant brown seaweeds in
+  tropical coastal areas.
+- Additionally, we propose a bio-guided isolation of the compounds responsible for
+  the biological activity present, with the purpose of being used as pharmaceutical
+  entities or for the standardization of herbal medicines.
+- The first author acknowledges a postdoctoral fellowship under the research project
+  SEP-CONACYT (CB-83386-Z).
+- The authors thank J.L.
+- Godinez (IB-UNAM) for identification of seaweed species and C. Chávez and M.L.
+- Zaldivar for technical assistance during analysis.
+...

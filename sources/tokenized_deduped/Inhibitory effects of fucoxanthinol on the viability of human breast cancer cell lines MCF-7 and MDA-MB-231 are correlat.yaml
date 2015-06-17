@@ -1,0 +1,473 @@
+---
+- Fucoxanthin is a carotenoid present in the chloroplasts of brown seaweeds.
+- When ingested, it is metabolized mainly to fucoxanthinol in the gastrointestinal
+  tract by digestive enzymes.
+- These compounds have been shown to have many beneficial health effects.
+- The present study was designed to evaluate the molecular mechanisms of action of
+  fucoxanthin and/or of its metabolite fucoxanthinol against viability of estrogen-sensitive
+  MCF-7 and estrogen-resistant MDA-MB-231 breast cancer cell lines.
+- Fucoxanthin and fucoxanthinol reduced the viability of MCF-7 and MDA-MB-231 cells
+  in dose- and time-dependent manners as a result of increased apoptosis.
+- Furthermore, fucoxanthinol-induced apoptosis was more potent than that of fucoxanthin
+  and correlated, for MDA-MB-231 cells, with inhibitory actions on members of the
+  NF-κB pathway p65, p50, RelB, and p52.
+- Being overexpressed and regulated by NF-κB in different types of cancers, the transcription
+  factor SOX9 was also decreased at the nuclear level by fucoxanthin and fucoxanthinol
+  in MDA-MB-231.
+- Taken together, the current results suggest that fucoxanthinol and fucoxanthin could
+  be potentially effective for the treatment and/or prevention of different types
+  of cancers, including breast cancer.
+- Breast cancer is the most common cancer diagnosed in women worldwide.
+- In the United States alone, it is estimated that 40,000 women will die of breast
+  cancer and over 208,000 new cases will be diagnosed each year (Jemal et al.
+- 2010).
+- These statistics emphasize the urgent need for improvements in detection, diagnosis,
+  and treatment of breast cancer.
+- Several studies have linked diets rich in carotenoids with reduced risk of chronic
+  diseases and cancers, including breast cancer (Lordan et al.
+- 2011; Peng et al.
+- 2011; Tanaka et al.
+- 2012).
+- Fucoxanthin (Fx) is a naturally occurring brown- or orange-colored pigment that
+  belongs to the class of non-provitamin A carotenoids present in the chloroplasts
+  of brown seaweeds.
+- It is the most abundant of all carotenoids, accounting for more than 10 % of the
+  estimated total natural production of carotenoids (Matsuno 2001).
+- It forms a complex with chlorophyll–protein and plays an important role in light
+  harvesting and photoprotection for effective light use and upregulation of photosynthesis.
+- Oral administration of Fx does not exhibit toxicity and mutagenicity under experimental
+  conditions in mice (Beppu et al.
+- 2009a, b).
+- Carotenoids and Fx, being mostly fat soluble, follow the same intestinal absorption
+  path as dietary fat.
+- Ingested Fx is metabolized mainly to fucoxanthinol (Fxol), which is further converted
+  to amarouciaxanthin A in the liver (Asai et al.
+- 2004), thus the bioactive forms of Fx are Fxol and/or amarouciaxanthin A. Dietary
+  Fx is hydrolyzed to Fxol in the gastrointestinal tract by digestive enzymes such
+  as lipase and cholesterol esterase and then absorbed into intestinal cells (Sugawara
+  et al.
+- 2002).
+- Fx and Fxol have been shown to have many beneficial health effects, including anti-mutagenic
+  (Nishino et al.
+- 2009), antidiabetic (Nishikawa et al.
+- 2012), antiobesity (Maeda et al.
+- 2005), anti-inflammatory (Kim et al.
+- 2010b; Shiratori et al.
+- 2005), and preventive actions on liver, breast, prostate, colon, and lung cancers
+  (Das et al.
+- 2005; Kotake-Nara et al.
+- 2005; Le Marchand et al.
+- 1993; Nishino et al.
+- 2009; Slattery et al.
+- 2000; Zhang et al.
+- 1999).
+- Most of these actions involve modulation of the nuclear factor kappaB (NF-κB) signaling
+  pathway.
+- The transcription factor members of the NF-κB family found in most cells are p50,
+  p65/RelA, c-Rel, p52, and RelB (Hayden and Ghosh 2004).
+- 'NF-κB is regulated by two main pathways: the canonical and noncanonical pathways
+  (Hayden and Ghosh 2008).'
+- In its resting state, NF-κB dimers are secured in the cytoplasm by IκB proteins
+  which render the NF-κB transcription factors inactive.
+- These IκB members α, β, and ε contain two conserved serine residues that become
+  phosphorylated by IκB kinases (IKKs) upon NF-κB pathway activation, followed by
+  proteasome-dependent degradation and NF-κB transcription factors activation (Karin
+  and Ben-Neriah 2000).
+- NF-κB members then translocate to the nucleus to form dimers likely to have distinct
+  regulatory functions.
+- Among the NF-κB target genes are inflammatory cytokines, anti-apoptotic proteins,
+  and cell cycle regulators that promote cancer cells proliferation (Karin and Lin
+  2002).
+- Indeed, NF-κB is activated by most carcinogens, leading to expression of anti-apoptotic
+  gene products which allow survival and growth of tumors (Baker et al.
+- 2011; Kumar et al.
+- 2004; Zubair and Frieri 2013).
+- It has been shown that p65 and p50 subunits of NF-κB are constitutively active and
+  are overexpressed in breast cancer (Nakshatri et al.
+- 1997), resulting in further transcription of anti-apoptotic genes (Fan et al.
+- 2008).
+- The objective of the current research was to determine if Fx and/or Fxol have inhibitory
+  effects on viability and on the NF-κB signaling pathway of breast cancer cell lines.
+- Comparative studies have been undertaken in two different types of cells, the MCF-7
+  and MDA-MB-231 cell lines.
+- Since MCF-7 cells inherently express high levels of estrogen receptor (ER)-α and
+  MDA-MB-231 express very low, if any, ER-α or -β, we sought to determine if the presence
+  of a functional ER altered the effects of Fx and/or Fxol treatments.
+- Here, we report that Fxol has been shown to reduce cell viability, to increase apoptosis,
+  and to regulate components of the NF-κB pathway in both cell lines from breast cancers.
+- Fucoxanthin (Fx) and fucoxanthinol (Fxol) were purchased from Wako Chemicals (Richmond,
+  VA, USA).
+- Human breast cancer cell lines MCF-7 (hormone sensitive) and MDA-MB-231 (hormone
+  resistant) were obtained from the American Type Culture Collection (ATCC; Bethesda,
+  MD, USA).
+- MCF-7 and MDA-MB-231 cells were grown in DMEM/F12 medium supplemented with 10 %
+  heat-inactivated fetal bovine serum (Canadian origin) and 100 U/ml penicillin/streptomycin
+  (Corning, Tewksbury, MA, USA).
+- Cells were cultured at 37 °C and 5 % CO2.
+- The viability of Fx- or Fxol-treated cells were measured using CellTiter-Blue cell
+  viability assay (Promega, Madison, WI, USA) according to manufacturer’s instructions.
+- Following dose (20, 30, or 40 μM) and time-dependent (12, 24, or 48 h) treatments
+  with Fx or Fxol of breast cancer cell lines, cell viability was estimated by measuring
+  the amount of reduced resorufin by its fluorescence at 560Ex/590Em using a multimode
+  microplate reader (Varioskan, Thermo Scientific, Waltham, MA, USA).
+- IC50 values were determined from linear regression of fluorescence versus concentration
+  and correspond to doses of Fx or Fxol necessary to reduce cell viability by 50 %
+  for 12 h of treatment.
+- The breast cancer cell lines were treated with 20 μM Fx or Fxol for 12 h, followed
+  by staining with FITC-Annexin V, ethidium homodimer III, and Hoechst 33342 according
+  to the manufacturer’s protocol (Biotium, Inc., Hayward, CA, USA).
+- Fluorescence was assessed using an Axio Observer A1 inverted fluorescence microscope
+  (Carl Zeiss, Gottingen, Germany) with FITC, rhodamine, and DAPI filters.
+- Images were merged and analyzed using the ImageJ software (http://​rsbweb.​nih.​gov/​ij/​).
+- The breast cancer cell lines were treated with 20 μM Fx or Fxol for 12 h, followed
+  by protein extractions for nuclear and cytoplasmic proteins, using hypertonic buffer
+  with phosphatase inhibitors (10 mM NaF, 1 mM Na3VO4, and 20 mM glycerol2-phosphate)
+  and protease inhibitors (30 μg/ml aprotinin, 2.5 μg/ml leupeptin, 10 μg/ml pepstatin,
+  and 1 mM phenylmethyl fluoride) as described previously (Schreiber et al.
+- 1989).
+- Protein concentrations of protein extracts were evaluated using the Bradford method
+  (Bradford 1976).
+- Ten micrograms (for nuclear extracts) or 30 μg (for cytoplasmic extracts) of protein
+  from each sample was separated by SDS–polyacrylamide gels (SDS–PAGE) and electrophoretically
+  transferred onto a PVDF membrane.
+- Membranes were incubated in blocking solution containing 5 % nonfat dry milk in
+  TBST buffer (TBS buffer containing 0.1 % Tween 20) for 1 h at room temperature,
+  followed by incubation with a specific primary antibody overnight at 4 °C.
+- 'Specific proteins were detected using the following primary antibodies: polyclonal
+  anti-CASPASE 3 (1:1,000, Cat.'
+- ': 9662, Cell Signaling, Danvers, MA, USA), polyclonal anti-Poly(ADP-ribose) polymerase-1
+  (PARP) (1:1,000, Cat.'
+- ': 9542, Cell Signaling), NF-κB family member antibody sampler kit (1:1,000, Cat.'
+- ': 4766, Cell Signaling), monoclonal anti-Phospho-NF-κB p65 (Ser536) (1:1,000, Cat.'
+- ': 3033, Cell Signaling), monoclonal anti-STAT3 (1:2,000, Cat.'
+- ': 4904, Cell Signaling), polyclonal anti-STAT5 (1:1,000, Cat.'
+- ': 9363, Cell Signaling), polyclonal anti-SOX9 (1:500, Cat.'
+- ': AB5535, Millipore, Billerica, MA, USA), monoclonal anti-α-Tubulin (1:5,000, Cat.'
+- ': 05-829, Millipore), and polyclonal anti-NCL (1:1,000, Cat.'
+- ': 12247S, Cell Signaling).'
+- The membranes were washed three times in TBST buffer for 5 min, followed by incubation
+  for 1 h with horseradish peroxidase-conjugated secondary antibody.
+- The membranes were washed again and developed using an enhanced chemiluminescent
+  detection system (Luminata Forte, Millipore) according to the manufacturer’s instructions.
+- Images were taken using the FluorChem IS 8900 imaging system (Alpha Innotech, San
+  Jose, CA, USA).
+- The Western blotting results were referred to NCL (for nuclear extracts) and α-Tubulin
+  level (for cytoplasmic extracts) as references.
+- Experiments for cells viabilities were repeated at least three times, and the data
+  were presented as means ± S.E.M.
+- Statistical analysis of the data was performed using Student’s _t_ test and ANOVA
+  with GraphPad Prism (GraphPad Software Inc., San Diego, Ca, USA).
+- _P_ &lt; 0.05 was considered significant.
+- We first examined the effects of Fx and Fxol on cell viability of human breast cancer
+  cell lines MCF-7 and MDA-MB-231 (Fig.
+- 1).
+- Fx and Fxol significantly decreased cell viability in a time- and dose-dependent
+  manner for both cell lines.
+- A two-way ANOVA test showed a significant effect of time and dose on cell viability
+  (_P_ &lt; 0.0001).
+- Fxol-induced suppression of cell viability was more rapid and more pronounced, compared
+  to Fx.
+- Indeed, IC50 values of 121.89 and 39.63 μM for Fx and Fxol, respectively, were calculated
+  for MCF-7, whereas for MDA-MB-231, IC50 values of 141.54 and 33.59 μM for Fx and
+  Fxol were determined for 12 h of treatment.
+- In addition, these results also demonstrate a more efficient inhibitory action of
+  Fxol on cell viability of MDA-MB-231, compared to MCF-7, for all times of treatments
+  investigated.
+- Only Fxol had significant inhibitory effects on viability at 12 h with doses of
+  30 and 40 μM of treatments in both breast cancer cell lines.
+- Although giving nonsignificant viability reduction, we used the dose of 20 μM for
+  12 h as treatments with Fx or Fxol for the remaining of the study to obtain enough
+  cells for protein extractions and the study of apoptotic markers by Western blot
+  assays.
+- Fx and Fxol reduce cell viability of MCF-7 and MDA-MB-231 cell lines.
+- Exponentially growing cells were incubated in the absence or presence of 20–40 μM
+  of Fx or Fxol, for 12–48 h, followed by determination of cell viability as described
+  in Material and methods.
+- The results are presented as absolute fluorescence signal and are expressed as means
+  ± standard error of mean deviation of four independent experiments in which each
+  treatment was performed in quadruplicate.
+- 'Comparisons to control were done using a multiple comparison test (significant,
+  _P_ &lt; 0.05)
+
+
+  Reduction of breast cancer cell lines viability in response to Fxol involves increase
+  of apoptotic pathways activities (Fig.'
+- 2).
+- In MCF-7 cells, lacking caspase-3 expression (Jänicke 2009), PARP was cleaved in
+  response to 20 μM Fx and Fxol stimulations for 12 h and resulted in cytoplasmic
+  (Fig.
+- 2a) and nuclear (Fig.
+- 2b) accumulations of the cleaved fragment.
+- For MDA-MB-231 cells, procaspase-3 was cleaved following Fxol treatment (Fig.
+- 2a), whereas PARP cleavage in response to Fx and Fxol treatments resulted in nuclear
+  accumulation of the cleaved form (Fig.
+- 2b) with no cytoplasmic detection.
+- Increased apoptosis of breast cancer cell lines in response to treatments for 12
+  h with 20 μM Fx or Fxol was also confirmed using fluorescence microscopy (Fig.
+- 2b).
+- For both cell lines, Fxol resulted in higher apoptotic levels compared to Fx treatment
+  as shown with FITC-Annexin V green fluorescence (Fig.
+- 2c).
+- However, although a major difference was observed between Fx and Fxol on viability
+  reduction of MDA-MB-231 cells (Fig.
+- 1b, d), Fxol treatment resulted in a slightly higher level of apoptosis when compared
+  to Fx (Fig.
+- 2c, lower panels).
+- In both cell lines, Fx and Fxol treatments did not result in increased levels of
+  necrosis as shown with ethidium homodimer III red fluorescence.
+- Thus, these changes correspond to increased apoptosis of breast cancer cells in
+  response to Fx/Fxol.
+- Effects of Fx and Fxol on markers of apoptosis in breast cancer cell lines.
+- MCF-7 and MDA-MB-231 cell lines were treated with 20 μM Fx or Fxol for 12 h. Cytoplasmic
+  (a) and nucleic (b) proteins were extracted from control and treated cells, followed
+  by determination of Caspase 3 and PARP cleavages using Western blot analysis as
+  described in Material and methods and use of α-Tubulin and Nucleolin (_NCL_) as
+  loading controls for cytoplasmic and nuclear extracts, respectively.
+- In c, MCF-7 cells (_left panel_) and MDA-MB-231 cells (_right panel_) were stained
+  with Hoechst 33342 (for viable cells in _blue_), FITC-Annexin V (for apoptotic cells
+  in _green_), and ethidium homodimer III (for necrotic cells in _red_), followed
+  by imaging with an inverted fluorescence microscope with total magnifications of
+  ×200.
+- 'The experiments where repeated three times
+
+
+
+
+  Since several NF-κB target genes are involved in inhibiting apoptosis in breast
+  cancer cells (Nakshatri and Goulet 2002; Wu and Kral 2005; Zhou et al.'
+- 2005a), we examined whether Fx and/or Fxol inhibits members of the NF-κB pathway.
+- In MCF-7 cells, Fxol, but not Fx, increased the nuclear levels of p65, p50, cRel,
+  and p52 (Fig.
+- 3b).
+- In addition, the nuclear levels of phosphorylated p65 increased in response to Fxol.
+- Since cytoplasmic concentrations of p65, p50, and p52 remained constant following
+  Fxol treatments of MCF-7 cells (Fig.
+- 3a), increased nuclear accumulations of these NF-κB members might be attributed
+  to increases in their protein syntheses.
+- However, decreased cytoplasmic concentrations of cRel in response to Fxol in MCF-7
+  cells suggest that its nuclear accumulation is mainly attributed to increased nuclear
+  translocation.
+- In MDA-MB-231 cells, Fxol contributed to decreased nuclear levels p65, p50, RelB,
+  p52/p100, and phosphorylated-p65 (Fig.
+- 3d).
+- In this cell line, decreased nuclear levels of components of the NF-κB pathways
+  were attributed to decreased synthesis, as shown from cytoplasmic protein extracts
+  (Fig.
+- 3c).
+- Effects of Fx and Fxol on members of the NF-κB pathway.
+- MCF-7 and MDA-MB-231 cell lines were treated with 20 μM Fx or Fxol for 12 h and
+  cytoplasmic and nuclear proteins were extracted from controls and treated cells.
+- The levels of target proteins were determined using Western blot analysis as described
+  in Material and methods.
+- α-Tubulin and Nucleolin (_NCL_) were used as loading controls for cytoplasmic and
+  nuclear extracts, respectively.
+- 'Every experiment was repeated three times
+
+
+  Since SOX9 has been shown to be regulated by NF-κB at the transcriptional level
+  in other cancer cells (Saegusa et al.'
+- 2012; Sun et al.
+- 2013), we investigated whether Fx and/or Fxol could influence SOX9 expression in
+  breast cancer cell lines.
+- Although no effects on SOX9 could be observed in MCF-7 cells (Fig.
+- 4a), SOX9 expression and nuclear accumulation were decreased in response to Fx and
+  Fxol in MDA-MB-231 cells (Fig.
+- 4b).
+- SOX9 Western blots from MDA-MB-231 extracts show the presence of two forms of the
+  protein.
+- Such result might be attributed to SOX9 phosphorylation, as previously shown by
+  protein kinase A in Sertoli-like cells (Malki et al.
+- 2005).
+- Therefore, Fx and Fxol treatments might result in loss of SOX9 phosphorylation,
+  as seen with the disappearance of the upper band (Fig.
+- 4b).
+- Effects of Fx and Fxol on SOX9 protein levels and nuclear translocation.
+- MCF-7 and MDA-MB-231 cell lines were treated with 20 μM Fx or Fxol for 12 h and
+  cytoplasmic and nuclear proteins were extracted from controls and treated cells.
+- The levels of SOX9 were determined using Western blot analysis as described in Material
+  and methods.
+- 'Every experiment was repeated three times
+
+
+
+
+  Since deregulation of STAT signaling cascades is associated with cellular proliferation
+  and transformation (Kisseleva et al.'
+- 2002), we investigated whether Fx and/or Fxol could have any effects on expression
+  and nuclear localization of members of the STAT family in breast cancer cells.
+- Although Fxol had an inhibitory effect on STAT5 protein synthesis in MCF-7 cells
+  (Fig.
+- 5a), no changes in nuclear concentrations for STAT3 and STAT5 in response to Fx
+  or Fxol could be observed in MCF-7 and STAT3 did not vary in MDA-MB-231 nuclear
+  extracts (Fig.
+- 5b, d).
+- Unlike others (Lahusen et al.
+- 2007; Yuan et al.
+- 2010), we were not able to detect STAT5 at the protein level in MDA-MB-231 cells.
+- However, Fx alone had an inhibitory effect on cytoplasmic accumulation of STAT3
+  in MDA-MB-231 (Fig.
+- 5c), suggesting that nuclear translocation of STAT3 is increased in response to
+  Fx in MDA-MB-231 cells to maintain a constant nuclear concentration (Fig.
+- 5d).
+- Together, these results suggest that inhibitory effects of Fx and Fxol on cell viability
+  may be independent of the STAT signaling pathway.
+- Effects of Fx and Fxol on STAT members’ protein levels and nuclear translocation.
+- MCF-7 and MDA-MB-231 cell lines were treated with 20 μM Fx or Fxol for 12 h and
+  cytoplasmic and nuclear proteins were extracted from controls and treated cells.
+- The levels of STAT3 and STAT5 proteins were determined using Western blot analysis
+  as described in Material and methods.
+- Results for STAT5 in MCF-7 were analyzed for densitometry using the ImageJ software
+  (http://​rsbweb.​nih.​gov/​ij/​) and expressed as a ratio between STAT5 and Tubulin
+  followed by normalization to control.
+- 'Every experiment was repeated three times
+
+
+
+
+  In the current study, we demonstrated that Fxol show inhibitory effects on cell
+  viability and apoptosis-inducing effects on two human breast cancer cell lines,
+  MCF-7 and MDA-MB-231.'
+- Furthermore, the apoptosis-inducing activities of Fxol were more potent than that
+  of Fx and were correlated, for hormone independent MDA-MB-231 cells, to inhibitory
+  actions on members of the NF-κB pathway.
+- As shown in primary effusion lymphoma cell lines (Yamamoto et al.
+- 2011), Fxol-induced suppression of cell viability was more pronounced than that
+  of Fx for breast cancer cell lines MCF-7 and MDA-MB-231.
+- Compared to Fx, Fxol also had a stronger antiproliferative effect on PC-3 human
+  prostate cancer cells (Asai et al.
+- 2004), MCF-7 and Caco-2 human colon cancer cells (Konishi et al.
+- 2006), thus supporting our current results on breast cancer cells.
+- Indeed, Fxol has been shown previously to reduce MCF-7 cells viability by 75 % following
+  treatment with 25 μM Fxol for 48 h (Konishi et al.
+- 2006).
+- Differences with our results (87 % reduction with 20 μM Fxol for 48 h) may be attributed
+  to variations in culture conditions and Fxol concentration, purity, and stability.
+- Hallmarks of the apoptotic process are cleavages of PARP, an enzyme implicated in
+  DNA damage and repair mechanisms, and of Caspase-3, an enzyme activated during apoptosis
+  both by extrinsic (death ligand) and intrinsic (mitochondrial) pathways.
+- During apoptosis, PARP is cleaved from its precursor having a mass of 116 kDa to
+  yield an 85 kDa fragment (Kaufmann et al.
+- 1993).
+- PARP fragment migrates from the nucleus into the cytoplasm during late stages of
+  apoptosis associated with severe nuclear fragmentation (Soldani et al.
+- 2001), suggesting that apoptosis is more advanced in MCF-7 compared to MDA-MB-231
+  cells treated with Fxol.
+- Others have shown that Fx induced Caspase-3, -7, and PARP cleavages and thus triggered
+  apoptosis of human leukemia HL-60 and prostate cancer PC-3 cells (Kim et al.
+- 2010a; Kotake-Nara et al.
+- 2005).
+- Fx and Fxol also induced cell cycle arrest in G1 phase and caspase-dependent apoptosis,
+  inhibited the activation of NF-κB, and downregulated anti-apoptotic proteins in
+  primary effusion lymphoma cells (Yamamoto et al.
+- 2011).
+- The present study clearly demonstrated that Fxol induced apoptosis of breast cancer
+  cells MDA-MB-231 and MCF-7 by cleavages of procaspase-3 and PARP.
+- In support to our results, Fxol isolated from _Halocynthia roretzi_ induced apoptosis
+  in human breast cancer cells (Konishi et al.
+- 2006).
+- Lack of difference in necrosis levels between treatments in breast cancer cells
+  suggests that Fx and Fxol have no effects on necrotic pathways.
+- Indeed, apoptosis and necrosis are two processes than can occur independently, sequentially,
+  or simultaneously (Elmore 2007; Zeiss 2003).
+- Presence of necrosis in MCF-7 cells may be attributed to suboptimal cell culture
+  conditions.
+- Thus, our results suggest that reduction of breast cancer cells viability in response
+  to Fx and Fxol treatments may be attributed to increased apoptosis.
+- Estrogen receptors play an important role in breast cancer; women with ER-positive
+  tumors have an overall better prognosis and are more likely to have their tumors
+  respond to therapy.
+- However, in up to 25 % of cases, ER-positive tumors are nonresponsive to therapy
+  as a result of acquired resistance, possibly linked to constitutive NF-κB leading
+  to estrogen-independent growth (Frasor et al.
+- 2009; Kalaitzidis and Gilmore 2005; Zubair and Frieri 2013).
+- In this study, we looked at possible differences in the inhibitory actions of Fx
+  and/or Fxol on components of the NF-κB pathway between estrogen-sensitive MCF-7
+  and estrogen-resistant MDA-MB-231 breast cancer cell lines.
+- In lipopolysaccharide (LPS)-stimulated RAW 264.7 macrophages, others have shown
+  that Fx inhibited the nuclear translocation of p50 and p65 proteins, resulting in
+  lower levels of nuclear transactivation by NF-κB transcription factors (Kim et al.
+- 2010b; Lee et al.
+- 2013).
+- In the present study, major differences were observed in the inhibitory mechanisms
+  between Fx and Fxol on the activation of members of the NF-κB pathway in breast
+  cancer cell lines.
+- Indeed, Fxol treatment decreased nuclear levels p65, p50, RelB, and p52/p100 in
+  hormone independent MDA-MB-231 cells.
+- Thus, Fxol treatment may contribute to reduce viability of aggressive estrogen-independent
+  tumor growth and may involve inhibitions of nuclear translocation and transcriptional
+  activity of members of the NF-κB pathway.
+- Indeed, other NF-κB inhibitors such as celastrol and triptolide have been shown
+  to reduce MDA-MB-231 cell viability (Kang et al.
+- 2009; Kannaiyan et al.
+- 2011; Liu et al.
+- 2009).
+- Further regulation of NF-κB members by phosphorylation, acetylation, and coactivator
+  and corepressor interactions in response to Fx/Fxol remains to be investigated.
+- Surprisingly, our results show increased nuclear localization of members of the
+  NF-κB pathway (p65, p50, cRel) in response to Fxol in MCF-7 as opposed to MDA-MB-231
+  cells.
+- Although others have shown that inhibition of NF-κB activation in MCF-7 cells results
+  in reduced cell viability (Zhou et al.
+- 2005b), our results suggest that decreased MCF-7 cells viability in response to
+  Fx/Fxol may be independent of NF-κB inhibition.
+- However, the balance between the expression of genes involved in the survival and
+  apoptotic processes ultimately determines whether the cell undergoes apoptosis in
+  response to NF-κB (Aggarwal 2000).
+- Indeed, treatment of MCF-7 cells with Fxol resulted in increased apoptosis despite
+  the fact that NF-κB transcription factors were activated, thus suggesting that other
+  signaling pathways may be involved.
+- In breast cancer cells, SOX9, being regulated by NF-κB in other cell types (Saegusa
+  et al.
+- 2012; Sun et al.
+- 2013), has been reported mainly in the cytoplasm of MDA-MB-231 cells, and was located
+  mostly in the nucleus of MCF-7 cells (Chakravarty et al.
+- 2011).
+- We showed that nuclear levels of SOX9 were unchanged in MCF-7 cells when stimulated
+  with Fx or Fxol, whereas SOX9 was located mainly in the nucleus of MDA-MB-231 cells.
+- These differences with the Chakravarty et al.
+- 2011 study may be attributed to differences in cell culture and potential cross-reaction
+  of the antibody they used against SOX9.
+- Interestingly, upregulation of SOX9 in response to retinoic acid has also been shown
+  to induce cell growth arrest in breast cancer cells (Müller et al.
+- 2010).
+- This is in contrast to our results where treatments with Fx and Fxol resulted in
+  decreased nuclear levels of SOX9.
+- Indeed, SOX9 may rather be involved in MDA-MB-231 cells proliferation and downregulation
+  of its phosphorylation may contribute to the inhibitory effects of Fx and Fxol on
+  viability of estrogen resistant breast cancers.
+- In addition to having crucial roles in mammary gland development, STAT3/5 transcription
+  factors also contribute to tumorigenesis when deregulated (Desrivières et al.
+- 2006; Kisseleva et al.
+- 2002).
+- Indeed, constitutive activation of STAT3 has been linked to the growth and survival
+  of human breast cancer cells (Garcia et al.
+- 1997, 2001).
+- Higher concentrations of Fx (50–150 μM) than what was used in the current study
+  have been shown to inhibit STAT3 expression and phosphorylation in sarcoma tissue
+  (Wang et al.
+- 2012) and gastric adenocarcinoma cells (Yu et al.
+- 2011).
+- Although we have shown that Fx and Fxol had no effect on nuclear levels of STAT3/5
+  in breast cancer cells, the phosphorylation profiles of these transcription factors
+  may be modulated to promote apoptosis.
+- Indeed, decreased phosphorylation of STAT3 is associated to reduced invasiveness
+  and survival of breast tumors (Hsieh et al.
+- 2005).
+- In conclusion, Fx and Fxol effectively induced cell viability reduction and apoptotic
+  cell death of breast cancer cells.
+- Thus, dietary Fx or Fxol could be potentially effective for the treatment and/or
+  prevention of different types of cancers, including breast cancer.
+- Indeed, most dietary Fx may be converted to Fxol, and Fxol may exert a suppressive
+  effect on cancer cells more efficiently than Fx in vivo.
+- However, although there is a correlation between increased apoptosis and decreased
+  nuclear accumulations of p65, RelB, p50, and p52 in MDA-MB-231 cells, more research
+  will be required to clearly establish a regulatory action of Fxol on members of
+  NF-κB to activate apoptosis.
+- The current work was funded by the Canadian Breast Cancer Foundation (CBCF) (#5250
+  to L.J.M.
+- ), the New Brunswick Innovation Foundation (NBIF) (#IAR2012 and IAR2013-029 to L.J.M.
+- ), and the Natural Sciences and Engineering Research Council (NSERC) of Canada (#386557-2012
+  to L.J.M.).
+- The authors declare that there is no conflict of interest that would prejudice there
+  impartiality.
+...

@@ -1,0 +1,557 @@
+---
+- Black raspberry (_Rubus occidentalis_ L.) (BR) fruit extracts with differing compound
+  profiles have shown variable antiproliferative activities against HT-29 colon cancer
+  cell lines.
+- This study used partial least-squares (PLS) regression analysis to develop a high-resolution
+  1H NMR-based multivariate statistical model for discerning the biological activity
+  of BR constituents.
+- This model identified specific bioactive compounds and ascertained their relative
+  contribution against cancer cell proliferation.
+- Cyanidin 3-rutinoside and cyanidin 3-xylosylrutinoside were the predominant contributors
+  to the extract bioactivity, but salicylic acid derivatives (e.g., salicylic acid
+  glucosyl ester), quercetin 3-glucoside, quercetin 3-rutinoside, _p_-coumaric acid,
+  epicatechin, methyl ellagic acid derivatives (e.g., methyl ellagic acetyl pentose),
+  and citric acid derivatives also contributed significantly to the antiproliferative
+  activity of the berry extracts.
+- This approach enabled the identification of new bioactive components in BR fruits
+  and demonstrates the utility of the method for assessing chemopreventive compounds
+  in foods and food products.
+- 'NMR; black raspberries; Rubus occidentalis L.; cancer; anthocyanins; nonanthocyanins;
+  citric acid; salicylic acid; phenolics; partial least-squares regression; metabolomics;
+  chemoprevention
+
+
+
+
+  Secondary compounds (phytonutrients) in plant-based foods include well-known antioxidants(1)
+  that function on several metabolic levels to reduce oxidative stress and to regulate
+  signal transduction pathways, transcription factor function, gene expression, enzyme
+  activity, and other cellular and subcellular processes that moderate inflammatory
+  responses associated with the onset and development of chronic diseases.'
+- (2-8) To accomplish their roles, these bioactive compounds likely act in concert
+  rather than independently.
+- (4-6) Moreover, even simple fruit extracts may contain hundreds of secondary plant
+  compounds from several compound classes, of which a select few may interact to induce
+  a therapeutic response.
+- (9) Therefore, using metabolomics or metabolomics-based approaches(10, 11) involving
+  partial least-squares (PLS) regression analysis and/or other statistical procedures(12)
+  to identify specific bioactive phytonutrients and to define their role in moderating
+  disease may have significant advantages over more traditional investigative techniques
+  by which compound bioactivities are investigated sequentially.
+- Clinical research with animal/human models and subjects provides compelling evidence
+  that black raspberries (BR, _Rubus occidentalis_ L.) contain bioactive compounds
+  that have complex chemopreventive properties with regard to aerodigestive (oral,
+  esophageal, and colorectal) cancers(2, 5-8) and other cancers.
+- (2, 13, 14) Although these classical studies have identified several important chemopreventive
+  constituents of BR derivatives including anthocyanins(2, 7, 8) and nonanthocyanin
+  phenols such as ellagic acid, ferulic acid, gallic acid, _p_-coumaric acid, flavonols,
+  and their derivatives,(5) the total impact of the treatments could not be accounted
+  for by any single compound or single group of constituents.
+- (2, 7, 15) Therefore, the body of evidence confirming the potential efficacy of
+  BR-based clinical treatments and the current level of knowledge about their apparent
+  bioactive constituents offered a unique opportunity to develop analytical model
+  systems that delineate plant constituent–therapeutic response relationships.
+- To meet this challenge, we developed a model system that compares the 1H NMR spectra
+  of relatively crude BR extracts with the cellular proliferation of HT-29 human colon
+  cancer cells.
+- Our approach to modeling linked variable bioassay results to variation in plant
+  sample extract secondary metabolite complements and employed multivariate statistical
+  analyses to identify specific regions of the extract NMR spectra that were associated
+  with the array of biological responses.
+- Once spectral regions responsible for these relationships were identified by the
+  model, compound structures were verified using 2D NMR methods, such as heteronuclear
+  single-quantum coherence (HSQC)(16) and heteronuclear multiple-bond correlation
+  (HMBC)(17) experiments.
+- To validate this approach, we first ensured that BR extract profile variability
+  could be achieved by capitalizing upon the genetic and environmental influences
+  on fruit composition.
+- (18, 19) In addition, we verified that specific signals within complex NMR profiles
+  responsible for known chemical relationships could be identified through multivariate
+  statistical analyses.
+- Specifically, we regressed BR extract NMR profiles against standard biochemical
+  analyses [total monomeric anthocyanin content (TMA) and antioxidant capacity assays,
+  ferric-reducing antioxidant power (FRAP) and 2,2-diphenyl-1-picrylhydrazl (DPPH)].
+- (20) This verification model successfully recognized the specific protons within
+  the NMR spectra associated with anthocyanins that played significant roles in the
+  activity of extracts in these assays.
+- Furthermore, the model found structure–activity relationships to be statistically
+  identifiable.
+- Here we have applied our system to model the biological relationship between bioactive
+  compound variability among 73 BR extracts and their ability to inhibit HT-29 colon
+  cancer cell proliferation.
+- We previously reported the effects of these extracts on cancer cell cultures in
+  this study.
+- (21) The variable BR juice extracts inhibited HT-29 colon cancer cell growth broadly
+  from 33 to 118% when included in the culture media at low and high doses of 0.6
+  or 1.2 mg extract/mL, respectively (Table S1 in the Supporting Information).
+- Cell responses were dose-dependent, and the response arrays between doses were highly
+  correlated.
+- Although anthocyanins are known to contribute substantially to BR’s chemoprotective
+  properties,(2, 5-8) extract anthocyanin concentrations as measured by TMA were not
+  correlated to levels of growth inhibition, suggesting that nonanthocyanin components
+  also contribute to BR extract bioactivity in the HT-29 colon cancer cell assay.
+- Recently, we identified a cadre of nonanthocyanins present in our extracts, some
+  of which had yet to be reported as BR constituents.
+- '(22)
+
+
+  In this paper, we present the description of anthocyanin as well as nonanthocyanin
+  compounds identified by our modeling system that are responsible for the antiproliferative
+  properties of BR extracts within the HT-29 colon cancer cell bioassay.'
+- Our model also indicates that compounds of various classes present in extracts over
+  a broad concentration range may act together to affect cancer cell growth.
+- Marketable BR fruit samples of three cultivars (‘Bristol’, ‘Jewel’, or ‘MacBlack’)
+  varying in ripeness (slightly under-ripe, ripe, or slightly over-ripe)(21) from
+  seven Ohio commercial farms were obtained for this study.
+- Fruit were hand-harvested in fiber-board containers and transported on ice to the
+  Ohio Agricultural Research and Development Center.
+- Sample extracts from 75 samples for both NMR and cell assay procedures were prepared
+  as described by Johnson and coauthors.
+- '(21) This process included the following steps: sample handling, over-ripening
+  fruit, sample storage, preparation of BR juices, isolation of secondary product
+  constituent-rich methanolic extracts via solid phase extraction (SPE), evaporation
+  of solvents under an N2 stream, and freeze-drying of solvent-free SPE column eluates.'
+- All NMR studies of BR extract samples were performed with a Varian INOVA 750 MHz
+  NMR spectrometer (Varian Inc., Palo Alto, CA, USA) using a Varian triple-resonance
+  1H{13C/15N} pulsed field gradient cryoprobe.
+- Solid materials derived from the column eluate were diluted with appropriate amounts
+  of methanol-_d_4/trifluoroacetic acid-_d_ (95:5 v/v) and 5 mM 2,2-dimethyl-2-silapentane-5-sulfonate
+  sodium salt (DSS) in methanol-_d_4 to give 800 μL aliquots that contained 20 mg
+  of dried berry extract and 0.5 mM DSS.
+- The samples were filtered through glass wool and placed in 5 mm NMR tubes.
+- All samples were stored at 4 °C prior to analysis.
+- Two of the 75 samples were prepared incorrectly for NMR analysis and were excluded
+  from further examination.
+- The spectra were collected at 25 °C over a spectral width of 9023 Hz using a 6.2
+  μs (90°) pulse.
+- The acquisition time was 2.7 s, and 128 transients were accumulated with presaturation
+  of the HDO resonance in the 4.91–5.07 ppm region.
+- Data were processed with 0.5 Hz exponential line broadening and zero filled to 131,072
+  points before Fourier transformation.
+- 1H NMR free induction decays (FIDs) were processed as a batch, using KnowItAll Metabolomics
+  software 8.1 (Bio-Rad Laboratories, Informatics Division, Philadelphia, PA, USA)
+  with a Lorentzian apodization of 0.3 Hz, baseline correction with automatic base
+  point detection, and spline fitting.
+- The DSS reference peak was manually set to 0 ppm for each spectrum.
+- After the region containing solvent (CD3OD) resonances (3.257 −3.373 ppm) had been
+  flat-lined, each spectrum was normalized against the DSS peak.
+- Alignment macros were applied as a batch process to numerous specific locations
+  along the spectrum to compensate for peak shifting due to variation in pH and in
+  the constituent concentrations among samples.
+- Prior to statistical analysis, binning/bucketing was conducted from 0.550 to 9.200
+  ppm using the Bio-Rad IntelliBucket method, where the bin width was automatically
+  adjusted on the basis of the overlap density heatmap (ODH) consensus spectrum and
+  a bin width setting of 0.004 ± 0.002 ppm.
+- 'Regions that were excluded from binning were as follows: (1) 4.910–5.070 ppm (presaturation
+  region for HDO); (2) 3.257–3.373 ppm (flat-lined for solvent); (3) highly overlapping
+  peaks (3.220–4.000 ppm) of the saccharide region; and (4) regions throughout the
+  spectrum of low signal/noise.'
+- However, all regions containing resonances for anomeric protons were included in
+  the binning process.
+- This resulted in a data set of 1003 bins from each of 73 BR extract samples that
+  was further reduced to 464 bins by selecting bins with intensities above the analytically
+  justified limit of quantitation(23) (LOQ, i.e., ≥10 times the standard deviation
+  of intensity of bins from data representative of spectral noise).
+- The PLS regression-based predictive model building using Pirouette 4.0 (Infometrix,
+  Bothell, WA, USA) started with the 464 bin data sets.
+- Peak intensities of bins for each of the 73 BR samples were regressed against the
+  bioassay responses(21) as shown in Table S1 in the Supporting Information.
+- A maximum number of 15 factors and a probability threshold of 0.95 were set.
+- Two-component orthogonal signal correction(24) (OSC) was used to remove components
+  in our large _X_ block that were orthogonal to the _Y_ block, thus segregating the
+  portion of the _X_ block that was correlated.
+- To aid the interpretation of chemical information from the regression models, one
+  subset of relevant variables (NMR bins) was selected from the entire block of _X_-variables.
+- The criteria for variable selection were software-dependent measures of fit [prediction
+  residual error sum of squares (PRESS) and _r_].
+- The regression vector values from this subset of bins were then ranked from highest
+  to lowest for the low- and high-dose bioassays, respectively.
+- Classical biochemical studies of chemoprevention and cancer cell antiproliferation,
+  in response to berry fruits and BR in particular, are challenging because several
+  berry fractions and many specific secondary products have been shown to have some
+  effect on the cancer cell performance, but no single fraction or compound can account
+  for the efficacy of whole fruit or crude fruit extracts.
+- (2, 7) Our approach uses “omics” and bioinformatic procedures to identify active
+  components by NMR spectroscopy and to link them to their impact on cell proliferation
+  in HT-29 colon cancer cells in a manner similar to that described by Leiss et al.
+- (25) and Gavaghan et al.
+- (26) to determine important effectors of host-plant resistance and maize salt stress,
+  respectively.
+- Because many BR secondary compounds have been shown to have roles in BR regulation
+  of cancer cell development, there exists a large body of data for the potential
+  verification of the compounds identified by the model.
+- Modeling of secondary product chemistry, in conjunction with medical efficacy, provides
+  an opportunity to examine complex mixtures of secondary products that are present
+  in plant materials and determine how they affect cell health, chemoprevention, and/or
+  cancer cell proliferation.
+- NMR is a powerful method used to elucidate chemical structures of molecules; here
+  we have used it to identify components of complex mixtures of small molecule metabolites
+  simultaneously, at a high resolution.
+- Moreover, samples were readily prepared in a reproducible manner without the need
+  for additional separation techniques.
+- Processing the data with KnowItAll statistical software permitted the BR components
+  that play significant roles in the control of HT-29 cell proliferation to be identified.
+- Our model generated large blocks of data concerning the chemical nature of the extracts,
+  which were evaluated against a complex series of chemical reactions that we monitored
+  as cell proliferation.
+- The impact of these secondary compounds on cell proliferation represents the sum
+  of all of the reactions controlling cell growth, metabolism, and apoptosis that
+  have been demonstrated by a host of research.
+- '(2, 5, 7, 8, 15)
+
+
+
+  Model development was initiated by obtaining the 1H NMR spectra of the 73 BR extracts.'
+- The spectra of three representative BR extract samples are shown in Figure 1 [a,
+  slightly under-ripe sample (BR-2); b, ripe sample (BR-47); and c, slightly over-ripe
+  sample (BR-28)].
+- In all 1H spectra of BR extract samples, the HDO resonance from water that had been
+  observed in the 4.91–5.07 ppm region was suppressed using a presaturation pulse
+  sequence.
+- The singlet peak at 0.0 ppm is from DSS, which was added as an internal standard
+  for chemical shift measurement as well as a calibration standard for quantitation.
+- The strong peaks centered at 3.31 ppm (quintet), 3.35 ppm (singlet), and 3.97 ppm
+  (singlet) are attributed to the resonances of residual C_H_D2OD from methanol-_d_4,
+  a solvent-like impurity, and an artifact compound, respectively.
+- The resonances in the complex region, 4.00–3.22 ppm, are attributed to nonanomeric
+  resonances from the saccharides that are attached to the phenolic structures.
+- The suppression of these signals and the regions of low signal-to-noise ratios (see
+  Materials and Methods) in the initial data sets were made to ensure a robust analysis.
+- Figure 1.
+- '750 MHz 1H NMR spectra of three representative methanolic BR juice extract samples:
+  (a) sample BR-2 from slightly under-ripe berries; (b) sample BR-47 from ripe berries;
+  (c) sample BR-28 from slightly over-ripe berries.'
+- Resonances from anthocyanins are indicated in purple and those from nonanthocyanins
+  are indicated in green bars above the chemical shift scale.
+- The spectra of BR extract samples are dominated by the resonances from cyanidin
+  3-glycosides (1, Figure 2) as well as defining peaks for cyanidin 3-rutinoside (Cy
+  3-rut, 2), cyanidin 3-xylosylrutinoside (Cy 3-xylrut, 3), cyanidin 3-glucoside (Cy
+  3-glc, 4), and cyanidin 3-sambubioside (Cy 3-sam, 5), the major phenolic antioxidants
+  of BR fruits.
+- (19) The unique resonances from the minor anthocyanin, pelargonidin 3-rutinoside,
+  are also detected.
+- In Figure 1, the resonances from these anthocyanin phenolics are indicated in purple
+  bars above the chemical shift scale.
+- Figure 2.
+- Structures of the cyanidin aglycone and four major anthocyanin phenolic compounds
+  of black raspberry.
+- 1, cyanidin aglycone (Cy); 2, cyanidin 3-rutinoside (Cy 3-rut); 3, cyanidin 3-xylosylrutinoside
+  (Cy 3-xylrut); 4, cyanidin 3-glucoside (Cy 3-glc); and 5, cyanidin 3-sambubioside
+  (Cy 3-sam).
+- Several resonances from nonanthocyanin metabolites and the aliphatic moieties associated
+  with citric acid derivatives (6) were also observed (Figure 1, indicated in green
+  bars above the chemical shift scale).
+- The structures of nonanthocyanin phenolics, which were readily detected in the 1H
+  NMR spectra of BR extracts, are shown in Figure 3.
+- Compounds based on the quercetin moiety (7, Q, where R_n_ = H) included quercetin
+  3-glucoside (Q 3-glc, 8) and quercetin 3-rutinoside (Q 3-rut, 9).
+- Compound 11, salicylic acid glucosyl ester (SAGE), where the glucose moiety is attached
+  to a salicylic acid (SA, 10), was also evident.
+- Additional nonanthocyanin compounds that have been detected in the 1H NMR spectra
+  of BR extract samples are epicatechin (12), benzoic acid β-d-glucopyranosyl ester
+  (BAGE, 13), a salicylic acid derivative (SAD, 14), _p_-coumaric acid (15), and methyl
+  ellagic acid acetylpentose (MEAAP, 16).
+- Figure 3.
+- Structures of a citric acid derivative and nonanthocyanin phenolics detected in
+  BR juice extract samples and their aglycones.
+- 6, citric acid derivatives; 7, quercetin aglycone (Q); 8, quercetin 3-glucoside
+  (Q 3-glc); 9, quercetin 3-rutinoside (Q 3-rut); 10, salicylic acid aglycone; 11,
+  glucose ester of salicylic acid (SAGE); 12, epicatechin; 13, glucose ester of benzoic
+  acid (BAGE); 14, salicylic acid derivative (SAD); 15, _p_-coumaric acid; and 16,
+  methyl ellagic acid acetylpentose (MEAAP).
+- Although these minor metabolites are present at concentrations approximately 10–2–10–3
+  times the concentrations of the cyanidin 3-glycosides,(5) some of their proton resonances
+  are clearly visible in the 1H NMR spectra of the BR extracts (Figure 1).
+- For example, the H-8 and H-6 resonances from the quercetin glycosides, namely, Q
+  3-rut and Q 3-glc, are seen at 6.39 and 6.20 ppm, respectively.
+- Likewise, for SAGE, one of the readily detected resonances is H-1′ (5.73 ppm), the
+  anomeric proton resonance from the glucose attached to the phenolic structure via
+  an ester linkage.
+- Our model simultaneously analyzed a number of regions of the 1D 1H NMR spectra to
+  ensure that participating components of the BR could be identified.
+- This approach was demanding, because several proton resonances can be associated
+  with one compound and intensities may differ depending on the number of protons
+  in the compound structural unit.
+- In addition, similarities in structures (e.g., phenolics) can result in overlapping
+  peaks yielding complex spectral patterns.
+- To verify structures, especially for compounds present at low concentrations, additional
+  NMR experiments such as 1D selective total correlation spectroscopy, TOCSY, and
+  2D-NMR (gDQCOSY, gHSQCAD, and gHMBC) were conducted (Figures S1–S11 in the Supporting
+  Information).
+- Furthermore, during the statistical analysis, the NMR data were subjected to Pareto
+  scaling,(27) where the square root of the standard deviation was used as a scaling
+  factor.
+- This minimized the effect of larger intensities in the presence of much smaller
+  intensities.
+- To make regression modeling possible, we needed large amounts of variation in the
+  extracts with a corresponding amount of variability in the cancer cell responses.
+- This methodology differs from traditional medicinal chemistry approaches in which
+  consistency in treatments is essential to understanding experimental outcomes.
+- To verify the variability among our samples, the concentrations (μM) of cyanidin
+  structures were obtained for all 73 spectra on the basis of the manual integration
+  of the H-4 resonances using Bio-Rad’s ProcessIt NMR application.
+- Normalized peak areas were obtained relative to the integration of the CH3 peak
+  of DSS calibration standard at 0.0 ppm set to 100.
+- These data revealed that the concentrations of the anthocyanin components in the
+  73 BR extract samples exhibited the desired high level of variability needed for
+  our modeling efforts (Table S2 in the Supporting Information).
+- In this study, Cy 3-xylrut was the most abundant phenolic component of the berry
+  extracts (mean = 58 μM; CV = 34%), and the second most abundant component was Cy
+  3-rut (mean = 51 μM; CV = 31%).
+- In general, the amounts of Cy 3-xylrut and Cy 3-rut were higher in ripe samples
+  than in the under-ripe samples, whereas the amounts of Cy 3-glc and Cy 3-sam (mean
+  = 24 μM, CV = 52%; and mean = 13 μM, CV = 40%, respectively) both decrease with
+  increasing ripeness.
+- Initially, a model of the low-dose assay was generated with a data set of 464 bins
+  determined using Pareto scaling and leave-one-out cross-validation.
+- NMR bins were ranked according to their regression vector values.
+- Subsets of the highest ranked bins were then created and modeled against the low-dose
+  bioassay to determine the best fit of the NMR spectra to the extract impact on cell
+  proliferation.
+- Figure 4a shows a plot of PRESS as well as _r_ values against model sets with various
+  numbers of _X_-variables.
+- Figure 4b shows the corresponding line plot between model factors and number of
+  bins.
+- The arrows A4 and A5 represent the regions of minimum PRESS and maximum _r_, respectively.
+- Because the maximum number of bins does not exceed 2 times the number of samples,
+  the minimum value of PRESS, maximum value of _r_, and minimum number of model factors
+  are the quality indices of a good model.
+- A compromise among these quality indices indicated that the optimum number of bins
+  for the low-dose bioassay was 125 (Figure 4, indicated by arrow A5).
+- The indicators of the fit for this five-factor model are shown in Table 1.
+- This model has _r_ and slope values approaching 1 and values of the standard error
+  of cross-validation (SECV) and PRESS that approached their minima.
+- In addition, Figure 5a shows the goodness of the _Y_-fit between predicted and measured
+  values.
+- The random distribution of the residuals (Figure 5b) also indicates that the assumption
+  of linearity between the _X_\- and _Y_-variables is warranted.
+- Figure 4.
+- 'Partial least-squares (PLS) plots for the selection of _X_-variables (NMR bins):
+  (a) number of factors; (b) indicators of fit.'
+- Arrow A1 represents the regions of minimum prediction residual error sum of squares
+  (PRESS) values, and arrow A2 represents the regions of maximum _r_ values.
+- The vertical arrow indicated by A5 represents the subset of optimum of _X_-variables
+  and its PLS-derived low-dose model factors.
+- Figure 5.
+- _Y_-fits and residual plots for the models produced with low-dose (a, b) and high-dose
+  (c, d) bioassays.
+- Table 1.
+- "Pirouette PLS-Derived Summary of Fit Measurements for the Low- and High-Dose Bioassay
+  Activity of BRs  \n\n\n\nData are taken from the best PLS model with 125 highest
+  ranked _X_-variables (NMR bins) from the first test model."
+- Data are taken from the best PLS model with 100 highest ranked _X_-variables (NMR
+  bins) from the first test model.
+- When the top 125 bins of this model were ranked according to their regression vector
+  values, the contribution of specific compounds became evident.
+- Because regression vectors are the weighted sum of loadings included in the model,
+  they reveal the importance of each independent variable.
+- These predictor variables are the basis for interpreting the effect of NMR bins
+  (our independent variables), which carry the information about the chemical components,
+  on the dependent variable, percent inhibition of cell proliferation.
+- For the low-dose bioassay, Table 2 shows some of these compounds by their defining
+  atom assignments and their rank/bin number, with corresponding atomic assignments
+  being illustrated in Figures 2 and 3.
+- The complete table of all 125 bin assignments can be found in Table S3 in the Supporting
+  Information.
+- In Table 2, specific bins corresponding to each of the four major anthocyanins in
+  BR are shown to be important with Cy 3-xylrut and Cy 3-rut as the top-ranked.
+- Cy 3-sam and Cy 3-glc also have an impact on bioassay results.
+- A large number of bins were attributed to resonances of these cyanidin glycosides.
+- Table 2.
+- "Pirouette PLS Model Developed with the Top 125 Bins Showing Bin Assignments, Chemical
+  Shifts, and Rankings Based on Regression Vector Values for the Assessment of Low-Dose
+  Bioassay Activity of Black Raspberry Extracts  \n\n\nBins corresponding to nonanthocyanin
+  compounds were also shown to augment inhibition of cell proliferation in the HT29
+  low-dose bioassay (Table 2)."
+- BR anthocyanins and nonanthocyanin phenolic compounds share some similarities in
+  structure (Figures 2 and 3); therefore, their 1H NMR spectra (Figure 1) would be
+  expected to contain some overlapping resonances.
+- Although this overlap confounded compound identification, defining bins were found
+  to be important for MEAAP, epicatechin, Q 3-rut, Q 3-glc, _p_-coumaric acid, SAGE,
+  a salicylic acid derivative (SAD), BAGE, and citric acid derivatives.
+- When a model was calculated for the high-dose bioassay, similar but not identical
+  results were obtained.
+- This model was optimized at 100 bins (Figure S12 in the Supporting Information),
+  and indicators of fit are shown in Table 1 and Figure 5c,d.
+- When the 100 bins were ranked according to their regression vector values, a trend
+  similar to the low-dose results was evident (Table 3 and Table S4 in the Supporting
+  Information).
+- The highest ranked bin corresponded to Cy 3-xylrut and a defining bin for Cy 3-rut
+  was ranked 11th.
+- Bins consistent with Cy 3-sam and Cy 3-glc were also evident as well as a large
+  number of bins that corresponded to resonances of cyanidin glycosides.
+- The same nonanthocyanin compounds that affected the low-dose model were also evident.
+- However, the rankings of these compounds, especially a citric acid derivative, differed
+  from those in the low-dose model (Table 3).
+- In general, many of the nonanthocyanin constituents appeared to gain in predictive
+  value in the high-dose model.
+- Table 3.
+- "Pirouette PLS Model Developed with Top 100 Bins Showing Bin Assignments, Chemical
+  Shifts, and Rankings Based on Regression Vector Values for the Assessment of High-Dose
+  Bioassay Activity of Black Raspberry Extracts  \n\n\nOverall, the importance of
+  the nonanthocyanins was evident."
+- As shown in Tables 2 and 3, of our original 1003 bins for each of 73 samples, the
+  rankings of the NMR bins based on their regression vector values ranged from 30
+  to 121 for the low-dose bioassay and from 6 to 81 for the high-dose bioassay.
+- Furthermore, error analyses of PLS models that were calculated using only anthocyanin-related
+  bins proved to be less than optimal when compared to our PLS models containing both
+  anthocyanin- and nonanthocyanin-related bins.
+- As with other “omics” approaches, the cell assay (our _Y_-variable), provided a
+  simple phenotypic-like response to the treatments, here, control of the HT-29 colon
+  cancer cell proliferation.
+- However, just as a simple phenotypic response is controlled by changes in many overlapping
+  and/or independent biochemical pathways, cell proliferation reflects the combined
+  impacts of the extract components on the stimulation of apoptosis, regulation of
+  cell cycle gene expression, and the impact of BR extract components on overlapping
+  and independent biochemical pathways.
+- Therefore, the model must integrate all of these interactions to determine the impact
+  of the extracts on cancer cell growth.
+- This integration then provides data to identify compounds that affect any of a myriad
+  of chemical reactions.
+- Cy 3-xylrut and Cy 3-rut were identified by the model as the most important contributors
+  to the inhibition of proliferation of HT-29 colon cancer cells.
+- Anthocyanins constitute a major group of phenolic antioxidants produced in most
+  small fruits.
+- (28) According to Stoner,(5) anthocyanins are present in BR at concentrations that
+  exceed those of ellagic acid by approximately 15-fold and of all other phenolic
+  materials by factors of 102 or 103.
+- BR anthocyanins are known to effectively intercede against various forms of aerodigestive
+  cancers(2, 5-8) at several stages by initiating and maintaining the enzymatic defenses
+  against oxidative stress, reducing inflammation, and inhibiting mutagenesis, as
+  well as decreasing cell proliferation and stimulating apoptosis.
+- (8) BR anthocyanins or anthocyanin-rich fractions affect these chemopreventive processes
+  at cellular and subcellular levels by direct interaction or interaction with controlling
+  elements of kinase-based signaling cascades that influence gene expression, mRNA
+  translation, or enzymatic activity of key cancer-related factors.
+- '(2, 4-8)
+
+
+  However, the model data also support our previous conclusion that the antiproliferative
+  effectiveness of these BR extracts is not directly correlated with their TMA contents.'
+- (21) When we compared the NMR-determined concentrations of individual anthocyanins
+  herein with the low- and high-dose bioassay data using a simple Pearson correlation
+  analysis, only the Cy 3-rut correlation values (_r_ = −0.32 and _r_ = −0.31, respectively)
+  were significant (_p_ &lt; 0.01).
+- However, this relationship was weak, suggesting that the effects of BR extracts
+  on HT-29 colon cancer cell proliferation arise from the activity of multiple compounds
+  in concert.
+- Moreover, bins associated with protons of nonanthocyanin constituents appeared to
+  gain in importance in the anthocyanin-rich extract/high-dose assay PLS model over
+  their position in the model constructed with low-dose assay data developed with
+  extracts containing lower levels of anthocyanins.
+- Together, these findings suggest that anthocyanins may reach a maximum effect on
+  cells and that further increases in their total content or alterations in anthocyanin
+  profiles may not increase the activity of the specific extract.
+- Supporting this contention, Seguin and co-workers(29) recently reported four temperate
+  berries (BR, blueberry, red raspberry, strawberry) and a cyanidin-containing tropical
+  fruit acai (_Euterpe oleraceae_), presumably with differing anthocyanin profiles,
+  to be similar in their antiproliferative activities.
+- In a study by Wang and co-workers,(7) dietary treatments with freeze-dried BR powder,
+  an aqueous ethanol extract, and an anthocyanin-enriched subfraction of the extract
+  were found to affect rat esophageal papilloma formation and mass, proteins associated
+  with proliferation, and markers of apoptosis similarly.
+- Wang and co-workers(7) also noted similar antiproliferative properties associated
+  with a diet formulated with the insoluble residue of the extraction with anthocyanin
+  concentrations reduced by approximately 200-fold.
+- These authors noted that among the potential nonanthocyanin constituents of the
+  extract insoluble residue, ellagitannins (polymers of ellagic acid) were likely
+  responsible for the chemoprotective effects of the residue diet.
+- Due to their low solubility in methanol, ellagitannins were likely to be present
+  at minimal concentrations in our extracts.
+- However, our model clearly identified MEAAP as one of the important antiproliferative
+  components of BR extracts.
+- The metabolism and chemoprotective properties of ellagic acid and its polymers,
+  derivatives, and colonic microflora-generated metabolites (urolithins, a series
+  of bioactive dibenzopyran-6-one biomarkers of ellagic acid consumption) were recently
+  reviewed by Landete.
+- (30) Similar to other polyphenols, these compounds act chemoprotectively by reducing
+  the activity of signaling cascades, limiting inflammatory responses, controlling
+  cell cycling and proliferation, reducing angiogenesis, and stimulating apoptosis.
+- '(8, 30)
+
+
+  Our model also identified epicatechin, Q 3-glc, Q 3-rut, SAGE, SAD, BAGE, and _p_-coumaric
+  acids as important BR extract components in the control of HT-29 cell proliferation.'
+- Flavan-3-ols (e.g., epicatechin), flavonol glycosides (e.g., Q 3-glc, Q 3-rut),
+  and salicylates (e.g., SAGE, SAD) are powerful phenolic antioxidants that have been
+  shown to have chemopreventive properties against colon cancer(31-34) and other types
+  of cancers.
+- (3, 6, 31, 32, 34, 35) In vitro cell assays and animal studies have shown these
+  compounds inhibit proliferation or tumor growth by controlling cell cycle genes
+  and enzymes and by promoting genes and enzymes associated with apoptosis.
+- In a study of bioactive constituents isolated from freeze-dried strawberry, Zhang
+  and co-workers(34) demonstrated that a _p_-coumaric acid glucose ester strongly
+  inhibited proliferation in two colon cancer cell line assays.
+- There is also evidence that hydroxycinnamic acids may play an active role in cancer
+  cell regulation when acylated to anthocyanins.
+- (36) The chemopreventive activity of hydroxybenzoic acids and their derivatives
+  (e.g., protocatechuic acid) has also been extensively studied.
+- (37) However, to our knowledge, this is the first report of a benzoic acid glucose
+  ester (BAGE) showing antiproliferative potential against cancer cells.
+- Altered metabolism favoring cytoplasm-centered “aerobic glycolysis” is an “emerging
+  hallmark” of cancer,(38) leading to the production of metabolites necessary for
+  continued proliferation and sufficient energy for tumor growth.
+- (39, 40) However, aerobic glycolysis and its effects can be curtailed by high levels
+  of cytosolic citrate.
+- (39-41) Elevated citrate levels in cancer cells may lead to cell cycle arrest, metabolic
+  changes favoring pro-apoptotic over anti-apoptotic proteins, and increased cytosolic-
+  or mitochondrial-induced caspase activity leading to cell death(39-42) in a threshold-dependent
+  manner.
+- The increased importance of citric acid derivatives in the high-dose model (Table
+  3 and Table S4 in the Supporting Information) perhaps reflects this concentration
+  threshold dependency.
+- The 1H NMR-based model that was developed here has made a significant contribution
+  to our understanding of the impact of the crude BR extracts in controlling HT-29
+  cell proliferation and provides insights as to the chemopreventive nature of BR
+  fruits.
+- The nonanthocyanin components of the fruit that affect cell proliferation represent
+  a very small percentage of the total phenolic and organic acid derivatives found
+  in the BR extracts, but both the low- and high-dose models indicated their importance
+  in curtailing cancer cell growth.
+- Among the model-identified nonanthocyanin components, Q 3-glc, Q 3-rut, _p_-coumaric
+  acid, and various ellagic acid derivatives have been previously considered as bioactive
+  constituents of BR.
+- (4-8, 30, 43, 44) However, the bioactivity of MEAAP specifically, BR-derived salicylates,
+  flavan-3-ols (e.g., epicatechin), citric acid derivatives, and/or esters of benzoic
+  acid in controlling colon cancer cell proliferation have not been cited to our knowledge
+  in previous work.
+- Recognition, by the model, of the contributions of these low-concentration constituents
+  on the impact of the extracts on cell growth clearly provides paths for new lines
+  of research into the mechanisms of BR constituents.
+- The data will lead to studies on the interactive effects of the extracts on the
+  chemoprotective nature of berry fruits in general and have demonstrated the utility
+  of using this type of approach to the study of the bioactivity of natural products.
+- Further advanced NMR analysis with unassigned bins (Tables S3 and S4 in the Supporting
+  Information) may lead to the identification of additional important compounds.
+- As this study was focused on model development and viewed as a proof of concept,
+  recognition by the model of all of the important BR bioactive compounds was limited
+  by the use of acidic methanol extracts and the in vitro HT-29 cell proliferation
+  assay.
+- However, our overall approach is readily adaptable to modeling the effects of a
+  series of extracts including those containing compounds that differ substantially
+  in solubility from that of phenols (e.g., carotenoids, steroids)(5) and can be adapted
+  to accommodate other continuous _Y_-variables such as control of tumor development,
+  enzymatic activity, or biomarker levels, which would lead to a richer understanding
+  of the complex mechanisms by which BR compounds may affect carcinogenesis.
+- Likewise, our approach can also be applied to assess the activity of other natural
+  products with complex NMR spectra, not only against cancer but also for any complex
+  interaction that can be evaluated using a biological assay.
+- Table S1, variability in HT-29 colon cancer cell % inhibition following exposure
+  to 73 BR extracts at two concentrations; Table S2, 1H NMR-determined concentrations
+  of cyanidin glycosides in BR extracts; Tables S3 and S4, regression vector values,
+  bin rankings, compounds, associated protons (number and type), δ1H range (ppm),
+  and bin numbers for low- and high-dose PLS models; Figures S1–S11, structure data
+  resulting from compound analysis using additional 1D selective TOCSY and 2D NMR
+  techniques; Figure S12, selection criteria for the 100 bin model of the high-dose
+  bioassay.
+- This material is available free of charge via the Internet at http://pubs.acs.org.
+- Salaries and research support were provided in part by state and federal funds appropriated
+  by The Ohio State University, Ohio Agricultural Research and Development Center,
+  U.S. Department of Agriculture Special Research Grants for Dietary Intervention
+  2005-38903-02313, 2006-38903-03560, 2007-38903-03560, 2008-38903-19245, 2009-38903-19901,
+  and 2010-38903-20977.
+- Salaries and supports were also provided in part by the South Dakota Agricultural
+  Experiment Station.
+- The NMR equipment used is this work was purchased with funds from the Kresge Foundation
+  and the donors to the Kresge Challenge program at The University of Akron.
+...

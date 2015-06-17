@@ -1,0 +1,23 @@
+---
+- Associations between caffeine and coffee consumption and breast cancer risk are
+  uncertain, with studies suggesting inverse and null associations.
+- Variation in cytochrome P450 1A2 (CYP1A2), a gene responsible for caffeine metabolism,
+  may modify these associations.
+- Cases (_n_ = 3,062) were recruited through the Ontario Cancer Registry and controls
+  (_n_ = 3,427) through random digit dialing.
+- Logistic regression was used to evaluate associations between breast cancer risk
+  and intakes of 7 caffeine-containing items and total caffeine, and examine whether
+  a genetic variant in CYP1A2 (rs762551) modified these associations.
+- Analyses were stratified by estrogen receptor (ER), menopausal, and smoking status.
+- 'Generally, coffee and caffeine were not associated with breast cancer risk; however,
+  a significant reduction in risk was observed with the highest category of coffee
+  consumption [≥5 cups per day vs. never, multivariate-adjusted odds ratio (MVOR)
+  = 0.71, 95% confidence interval (CI): 0.51, 0.98].'
+- Variant rs762551 did not modify associations.
+- 'In stratified analyses, high coffee intake was associated with reduced risk of
+  ER- (MVOR = 0.41, 95% CI: 0.19, 0.92) and postmenopausal breast cancer (MVOR = 0.63,
+  95% CI: 0.43, 0.94).'
+- High coffee consumption, but not total caffeine, may be associated with reduced
+  risk of ER- and postmenopausal breast cancers, independent of CYP1A2 genotype.
+- Further studies are needed to replicate these findings.
+...

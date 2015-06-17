@@ -1,0 +1,286 @@
+---
+- Epidemiological studies regarding the association between red and processed meat
+  intake and the risk of breast cancer have yielded inconsistent results.
+- Therefore, we conducted an updated and comprehensive meta-analysis which included
+  14 prospective studies to evaluate the association of red and processed meat intake
+  with breast cancer risk.
+- Relevant prospective cohort studies were identified by searching PubMed through
+  October 31, 2014, and by reviewing the reference lists of retrieved articles.
+- Study-specific relative risk (RR) estimates were pooled using a random-effects model.
+- Fourteen prospective studies on red meat (involving 31,552 cases) and 12 prospective
+  studies on processed meat were included in the meta-analysis.
+- The summary RRs (95 % CI) of breast cancer for the highest versus the lowest categories
+  were 1.10 (1.02, 1.19) for red meat, and 1.08 (1.01, 1.15) for processed meat.
+- The estimated summary RRs (95 % CI) were 1.11 (1.05, 1.16) for an increase of 120
+  g/day of red meat, and 1.09 (1.03, 1.16) for an increase of 50 g/day of processed
+  meat.
+- Our findings indicate that increased intake of red and processed meat is associated
+  with an increased risk of breast cancer.
+- Further research with well-designed cohort or interventional studies is needed to
+  confirm the association.
+- Breast cancer is the most common cancer in women worldwide.
+- It is also the major cause of death from cancer among women globally [1].
+- It is reported that one in eight U.S. women (about 12.5 %) will be diagnosed with
+  breast cancer in her lifetime [2].
+- In 2014, about 232,340 new cases of invasive breast cancer will be diagnosed in
+  women, and 39,620 women will die from breast cancer in the United States [2].
+- Thus, to facilitate disease prevention, it is of great importance to identify potential
+  risk factors for breast cancer, especially the modifiable life-style factors including
+  diet [3].
+- Recently, an increasing number of studies have been carried out to explore the associations
+  between red and/or processed meat intake and the risk of breast cancer, but the
+  results have been inconsistent [4–9].
+- An early quantitative review done in 2010 demonstrated that red meat and processed
+  meat intake does not appear to be independently associated with increased risk of
+  breast cancer [9].
+- Since then, five more epidemiologic studies evaluating the association of red and
+  processed meat intake with breast cancer risk have yielded inconsistent results
+  [4–8].
+- Of these five studies, two prospective cohort studies in 2014 by Farvid et al.
+- (including 88,803 and 44,231 women, respectively) found a positive association between
+  red meat intake and breast cancer risk [4, 5].
+- Another study using data from the SU.VI.MAX study observed that processed meat intake
+  was prospectively associated with increased breast cancer risk [6].
+- However, the other two studies reported null associations [7, 8].
+- Therefore, we conducted an updated and comprehensive meta-analysis of prospective
+  studies to better characterize this issue.
+- A computerized literature search was conducted in PubMed (http://​www.​ncbi.​nlm.​nih.​gov/​pubmed)
+  from its inception through October 2014, by two independent researchers.
+- 'We searched the relevant studies with the following medical subject-heading terms
+  and/or text words: (1) breast cancer OR breast neoplasm; (2) meat OR red meat OR
+  processed meat OR preserved meat OR pork OR beef OR veal OR mutton OR lamb OR ham
+  OR sausage OR bacon; (3) cohort OR prospective OR nested case–control, following
+  the meta-analysis of observation studies in epidemiology guidelines [10].'
+- Furthermore, we carried out a broader search on diet or foods and breast cancer
+  and reviewed lists of the relevant articles to identify additional studies.
+- No language restriction was imposed.
+- 'Studies were included in the meta-analysis if the studies met the following criteria:
+  (1) peer-reviewed publications of prospective cohort studies or nested case–control
+  studies; (2) the exposure studied was red meat or processed meat, and the outcome
+  of interest was incidence of or mortality from breast cancer; and (3) relative risk
+  (RR) with corresponding 95 % CI was presented.'
+- If the articles were duplicated or from the same study population, the more recent
+  or complete study was included.
+- Case–control studies, ecological assessments, correlation studies, experimental
+  animal studies, and mechanistic studies were excluded.
+- We finally identified 14 prospective studies that reported results for red meat
+  or processed meat consumption in relation to risk of breast cancer according to
+  the criteria listed above.
+- 'Two independent researchers extracted the following data from each study: the first
+  author’s last name, year of publication, country where the study was conducted,
+  number of cases, cohort size, years of follow-up, type of meat, RR with corresponding
+  95 % CIs for the highest versus the lowest level, and adjusted variables.'
+- Attempts were also made to contact investigators if the data of interested were
+  not directly presented in the publications.
+- When several risk estimates were present, the estimates adjusted for the greatest
+  number of potential confounders were extracted.
+- The Newcastle–Ottawa scale was used to assess the study quality [22].
+- A random-effects model was used to calculate the summary relative risks and 95 %
+  CIs for the highest _versus_ the lowest level of red and processed meat intake.
+- This model was developed by DerSimonian and Laird, which accounts for heterogeneity
+  among studies [23].
+- For the dose-response meta-analysis, we used generalized least squares trend estimation
+  analysis based on the methods proposed by Greenland and Longnecker [24] and Orsini
+  [25].
+- This method requires the number of cases and non-cases (or person-time) and the
+  RR with its variance estimate for at least three quantitative exposure categories.
+- When studies did not provide this information, we estimated the slopes using variance-weighted
+  least squares regression.
+- When the included studies used different units (such as servings and times), we
+  converted them into grams per day using 120 or 50 g as the average portion size
+  for red meat or processed meat, respectively [26].
+- Statistical heterogeneity among studies was evaluated using the Cochran’s Q and
+  _I_ 2 statistics [27].
+- Heterogeneity was considered present for _P_ &lt; 0.05 or _I_ 2 ≥ 50 %.
+- Sources of heterogeneity were explored in stratified analysis by study location,
+  menopausal status, and adjusted confounders.
+- We also conducted sensitivity analysis to estimate the influence of each individual
+  study on the summary results by repeating the random-effects meta-analysis after
+  omitting one study at a time.
+- Publication bias was assessed using funnel plots, and the further evaluated by Egger’s
+  linear regression and Begg’s rank correlation test [28, 29].
+- A two-tailed _P_ value &lt; 0.05 was considered representative of significant statistical
+  publication bias.
+- All statistical analyses were performed using STATA, version 11.0 (STATA, College
+  Station, TX).
+- The flowchart of the identification of relevant studies is shown in Fig.
+- 1
+- A total of 172 articles were identified by searching of the database, and 16 of
+  these articles were retrieved for full-text review.
+- After excluding 2 publications that represented the same population, 14 cohort/nest
+  case–control studies were selected for use in our meta-analysis.
+- Characteristics of the included studies are shown in Table 1.
+- The 14 cohort studies [4, 6, 7, 11–21] comprised a total of 1588,890 participants
+  and 31,552 breast cancer cases, and 3 studies were secondary analyses of randomized
+  controlled trial data [6, 14, 20].
+- Among the 14 studies evaluated, 6 were conducted in the United States, 6 in Europe,
+  1 in North America and Western Europe, and 1 in Asia.
+- "Characteristics of prospective studies of red meat and processed meat consumption
+  and breast cancer risk  \n\n\n_RR_ relative risk, _CI_ confidence interval, _BMI_
+  body mass index, _OCP_ oral contraceptive pill, _HRT_ hormone replacement therapy,
+  _HTM_ hormonal treatment for menopause, _NHANES_ National Health and Nutrition Examination
+  Survey\n\n\n\nFourteen cohort studies that examined the association between red
+  meat intake and the risk of breast cancer were included in the meta-analysis."
+- The summary RR of breast cancer was 1.10 (95 % CI, 1.02–1.19) for subjects in the
+  highest category of red meat intake compared with those in the lowest category.
+- Statistically significant heterogeneity was detected (_P_ = 0.001, _I_ 2 = 62.2
+  %).
+- No publication bias was observed by Begg’s test (_P_ = 0.44) or by Egger’s test
+  (_P_ = 0.08).
+- Eleven studies [4, 7, 13–21] were eligible to have required data for dose-response
+  analysis, and the estimated summary RR of breast cancer of an increase in red meat
+  intake of 120 g/day was 1.11 (95 % CI, 1.05, 1.16); no significant heterogeneity
+  was observed (_P_ heterogeneity &gt; 0.1).
+- In stratified analysis by menopausal status, the summary RR of breast cancer for
+  subjects in the highest category of red meat intake compared with those in the lowest
+  category was 1.08 (95 % CI, 0.95–1.22; _n_ = 5, _P_ heterogeneity = 0.22, _I_ 2
+  = 30.9 %) for premenopausal women, and 1.20 (95 % CI, 1.00–1.44; _n_ = 6, _P_ heterogeneity
+  = 0.04, _I_ 2 = 56.6 %) for postmenopausal women.
+- Furthermore, in stratified analysis by geographic region, the summary RR was similar
+  for studies conducted in the United States [RR, 1.10 (95 % CI, 0.97–1.25), _n_ =
+  6, _P_ heterogeneity = 0.024, _I_ 2 = 61.3 %] and Europe [RR, 1.16 (95 % CI, 1.01–1.32),
+  _P_ heterogeneity = 0.038, _I_ 2 = 57.5 %] (Fig.
+- 2).
+- Relative risks of breast cancer comparing the highest with the lowest category of
+  red meat consumption.
+- '_Squares_ indicate study-specific relative risks (size of the square reflects the
+  statistical weight that each study contribute to the summary estimate); _horizontal
+  lines_ indicate 95 % CI; _diamond_ indicates summary relative risk estimate with
+  corresponding 95 % CI
+
+
+  When the overall homogeneity and effect size were calculated by removing one study
+  at a time, we confirmed the stability of the positive association between red meat
+  intake and breast cancer risk (data not shown).'
+- Twelve cohort studies [6, 7, 12–21] that examined the association between processed
+  meat intake and the risk of breast cancer were included in the meta-analysis.
+- The summary RR of breast cancer was 1.08 (95 % CI, 1.01–1.15) for subjects in the
+  highest category of processed meat intake compared with those in the lowest category.
+- Statistically significant heterogeneity was detected (_P_ = 0.006, _I_ 2 = 58.3
+  %), and publication bias was not evidenced by Begg’s test (_P_ = 0.
+- 30), but was observed by Egger’s test (_P_ &lt; 0.01).
+- Seven studies [7, 13, 16–20] were eligible to have required data for dose-response
+  analysis, and the estimated summary RR of breast cancer of an increase in processed
+  meat intake of 50 g/day was 1.09 (95 % CI, 1.03, 1.16); no significant heterogeneity
+  was observed (_P_ heterogeneity &gt; 0.1) (Fig.
+- 3).
+- Relative risks of breast cancer comparing the highest with the lowest category of
+  processed meat consumption.
+- '_Squares_ indicate study-specific relative risks (size of the square reflects the
+  statistical weight that each study contribute to the summary estimate); _horizontal
+  lines_ indicate 95 % CI; _diamond_ indicates summary relative risk estimate with
+  corresponding 95 % CI
+
+
+  In stratified analysis by menopausal status, the summary RR of breast cancer for
+  subjects in the highest category of processed meat intake compared with those in
+  the lowest category was 1.03 (95 % CI, 0.89–1.18; _n_ = 3, _P_ heterogeneity = 0.29,
+  _I_ 2 = 20.4 %) for premenopausal women, and 1.23 (95 % CI, 0.98–1.55; n = 4, _P_
+  heterogeneity = 0.06, _I_ 2 = 60.4 %) for postmenopausal women.'
+- Furthermore, in stratified analysis by geographic region, the summary RR was 1.04
+  (95 % CI, 0.97–1.12) (_n_ = 4, _P_ heterogeneity = 0.8, _I_ 2 = 0.0 %) for studies
+  conducted in the United States, and 1.16 (95 % CI, 1.05–1.28) (_n_ = 6, _P_ heterogeneity
+  = 0.21, _I_ 2 = 30.4 %) for studies conducted in the Europe (Fig.
+- 4).
+- Funnel plot for prospective studies of red meat and breast cancer.
+- (_SE_ standard error, _rr_/_RR_ relative risk.)
+- In this comprehensive updated meta-analysis, higher red and processed meat intake
+  was found to be associated with an increased risk of breast cancer.
+- The summary risk of breast cancer for the highest _versus_ the lowest categories
+  increased by 10 % for red meat, and 8 % for processed meat.
+- The results were consistent when using dose-response analysis.
+- A previous meta-analysis of red and processed meat consumption and breast cancer
+  was conducted by Alexander et al.
+- in 2009 [9].
+- That study found weak positive summary associations across all meta-analysis models,
+  with the majority being non-statistically significant.
+- Moreover, only 11 studies were included in the previous meta-analysis.
+- However, since then, a number of large-scale prospective epidemiologic studies have
+  evaluated the association between red and processed meat intake and breast cancer
+  risk.
+- For example, one study with 20 years of follow-up among 88,803 premenopausal women
+  from the Nurses’ Health Study II found that greater intake of total red meat was
+  associated with an increased risk of breast cancer (highest vs. lowest quintiles,
+  RR, 1.22; 95 % CI, 1.06–1.40; _P_ trend = 0.01) [4].
+- Another study with 13-year follow-up by Farvid MS et al.
+- (including 44,231 women) also observed that higher consumption of total red meat
+  in adolescence was significantly associated with increased premenopausal breast
+  cancer risk (highest vs. lowest quintiles, RR, 1.43; 95 % CI, 1.05–1.94; _P_ trend
+  = 0.007) [5].
+- Using the data from the SU.VI.MAX study, Pouchieu C et al.
+- demonstrated that processed meat intake was prospectively associated with increased
+  breast cancer risk (highest vs. lowest quartiles, RR, 1.45; 95 % CI, 0.92–2.27,
+  _P_ trend = 0.03) [6].
+- In the current updated meta-analysis, after excluding the studies from the same
+  study population, we finally included 14 prospective studies and found statistically
+  significant relationship between red and processed meat consumption and breast cancer
+  risk (highest vs. lowest categories, summary RR, 1.10; 95 % CI, 1.02–1.19 for red
+  meat, and summary RR, 1.08; 95 % CI, 1.01–1.15 for processed meat).
+- Several suggested biological mechanisms might explain the positive association between
+  red meat or processed meat intake and breast cancer risk.
+- The first mechanism concerns the heme iron and non-heme iron.
+- Iron, which has a pro-oxidant activity, has been suggested as a risk factor for
+  many types of cancers [30].
+- However, epidemiological studies have yielded mixed and contentious results regarding
+  the relationship between iron and breast cancer [20].
+- Moreover, a cohort study included in our meta-analysis revealed that adjusting for
+  heme iron did not appreciably change the association between red meat intake and
+  breast cancer risk [4], indicating that heme iron might not be a major causal fact
+  for the association between red meat intake and breast cancer risk.
+- Another important mechanism that may explain the positive association relates to
+  the presence of some carcinogenic compounds like the heterocyclic amines (HCAs)
+  and polycyclic aromatic hydrocarbons (PAHs), by-products that are produced in the
+  process of high-temperature cooking of red meat [31, 32].
+- Several human studies have demonstrated a positive association between HCA and PAH
+  intake and overall breast cancer risks [31, 33–38].
+- In addition, hormone residues of the exogenous hormones used to treat beef cattle
+  also are recognized as possible sources of the positive association between red
+  meat intake and breast cancer risk [39, 40].
+- Recently, a new study published on PNAS has revealed that the animal sugar molecule
+  _N_-glycolylneuraminic acid (Neu5Gc), which is highly enriched in red meat, would
+  be absorbed and accumulated in human tissues, and eventually lead to chronic inflammation
+  and tumor formation [41].
+- Our meta-analysis has several strengths.
+- Firstly, the assessment was based on prospective studies, which tend to be less
+  likely to have recall and selection bias than retrospective case–control studies.
+- Moreover, our studies included a large sample size (1588,890 participants and 31,552
+  breast cancer cases) which would have a much greater possibility of reaching detecting
+  smaller associations and performing subgroup analysis.
+- However, there were also some limitations in this meta-analysis.
+- First, the inherent problems of residual confounders in the included studies are
+  of concern in the meta-analysis of observational studies.
+- Most of the studies included in our meta-analysis controlled for a wide range of
+  confounders (such as age, BMI, and total energy intake), and some of these studies
+  even had controlled for postmenopausal hormone treatment and Hormone replacement
+  therapy (of note, adjustment for all possible confounders might result in over-adjustment.).
+- However, we still cannot exclude the possibility that other inadequately measured
+  factors such as environmental pollution [42, 43] and sleep quality [44], which might
+  confound the association, should be included in the future studies.
+- Second, our findings are likely to be affected by the misclassification of meat.
+- In the studies included in our meta-analysis, the term “red meat” referred to total
+  red meat, corresponding to processed red meat in some studies and to unprocessed
+  red meat in other studies.
+- However, misclassification is generally non-differential in cohort studies, which
+  would most likely attenuate the association.
+- Third, the intake quantity and consumption levels in the highest and lowest categories
+  varied across studies, which might contribute the heterogeneity among studies in
+  the analysis of the highest _versus_ the lowest intake categories.
+- To account for these differences, we also estimated the relative risks of breast
+  cancer for an increase intake of red meat of 120 g/day and of processed meat of
+  50 g/day, and similar results were observed.
+- Finally, as with any meta-analysis, publication bias could be of concern, because
+  studies with null results or small sample sizes tend not to be published.
+- Thus, the summary results may overestimate the relative risk of breast cancer with
+  red and/or processed meat intake.
+- In conclusion, the overall results of the present study suggest that high intake
+  of red and/or processed meat is associated with an increased risk of breast cancer.
+- However, additional well-designed cohort or interventional studies will be needed
+  to confirm the association.
+- The study was supported by grants from the Ministry of Science and Technology of
+  China (2011CB510104 and 2012CB945004), the National Natural Science Foundation of
+  China (31090362), the National Natural Science Foundation of China (81071684), the
+  Hundred Talents Program (2010OHTP11), Shanghai PuJiang Talent program (11PJ1411200),
+  and the Ministry of Science and Technology of China (2012BAK01B00).
+- The authors of this study have no conflict of interest or any financial disclosures
+  to make.
+...
