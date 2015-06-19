@@ -167,8 +167,10 @@ gulp.task 'tokenizeCorpus', () ->
 	return stream
 
 # This task will put all sentences from our articles into a yaml of sentence lists. Each entry will also have the hash of the document it came from
-gulp.task 'aggregateCorpus', (cb) ->
+gulp.task 'aggregateAndStemCorpus', (cb) ->
 	outputList = []
+	# Init libraries
+	natural.PorterStemmer.attach()
 	
 	stream = gulp.src(['./sources/tokenized_deduped/*.yaml'])
 
@@ -176,23 +178,22 @@ gulp.task 'aggregateCorpus', (cb) ->
 	.pipe(
 		tap (file) ->
 			sentenceList = YAML.parse(file.contents.toString())[0]
-			# console.log util.inspect(sentenceList)
+			
+			# Tokenize and stem the sentences using porter1 stemmer
+			tokenizedStemmedSentenceList = ( String(sentence).tokenizeAndStem() for sentence in sentenceList )
 
 			# Now, for each sentence, add the sentence and the hash it came from to the output list
 			filePath = convertFilepath(file.path)
 			pathHash = crypto.createHash('md5').update(filePath).digest("hex").toString()
 			# console.log fileHash
 			
-			outputList.push {sentence, pathHash} for sentence in sentenceList 
+			outputList.push {sentence, pathHash} for sentence in tokenizedStemmedSentenceList
 
-			# console.log outputList
 	)
 	.on 'end', () ->
 
 		# Now, let's output our final tokenized corpus
-		# yamlData = yaml.safeDump(outputList)
-		# console.log util.inspect(outputList)
-		YAML.writeFileSync('./sources/tokenizedCorpus.yaml', outputList)
+		YAML.writeFileSync('./sources/tokenizedStemmedCorpus.yaml', outputList)
 		cb()
 
 	.on	'error', (err) ->
@@ -201,10 +202,11 @@ gulp.task 'aggregateCorpus', (cb) ->
 	return 
 
 
+
 # This will use tf-idf to match all the summary sentences with sentence and document that best match from our corpus  
 gulp.task 'generateSentencebasedTrainingClassifications', (cb) ->
 
-	tokenizedCorpus = YAML.readFileSync('./sources/tokenizedCorpus.yaml')
+	tokenizedCorpus = YAML.readFileSync('./sources/tokenizedStemmedCorpus.yaml')[0]
 
 	TfIdf = natural.TfIdf
 	tfidf = new TfIdf()
@@ -217,7 +219,7 @@ gulp.task 'generateSentencebasedTrainingClassifications', (cb) ->
 	.pipe(
 		tap (file) ->
 			# read YAML file
-			sentences = yaml.safeLoad( file.contents.toString() )
+			sentences = YAML.parse( file.contents.toString() )[0]
 
 			# Iterate through every sentence in the yaml
 			rankings = []
