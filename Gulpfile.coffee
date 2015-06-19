@@ -19,6 +19,9 @@ clusterfck = require("clusterfck")
 buffer = require 'vinyl-buffer'
 util = require('util')
 
+# Init libraries
+natural.PorterStemmer.attach()
+
 convertFilepath = (filepath) ->
 	return filepath.replace(/tokenized_deduped/, "deduped")
 
@@ -84,6 +87,25 @@ gulp.task 'tokenizeSummary', ['cleanSummary'], () ->
 	
 	# Save the output
 	.pipe(gulp.dest('./sources/tokenizedSummaries')) # Save this to a temp directory so that we can check the output of the tokenizer
+
+	return stream
+
+gulp.task 'stemAllSummaries', () ->
+	stream = gulp.src(['./sources/tokenizedSummaries/*.yaml'])
+	.pipe(
+		tap (file) ->
+
+			sentenceList = YAML.parse(file.contents.toString())[0]
+			
+			# Tokenize and stem the sentences using porter1 stemmer
+			tokenizedStemmedSentenceList = ( String(sentence).tokenizeAndStem() for sentence in sentenceList )
+
+			# Save the output
+			file.contents = new Buffer YAML.stringify(tokenizedStemmedSentenceList)
+			return file.contents
+
+	)
+	.pipe(gulp.dest('./sources/tokenizedStemmedSummaries'))
 
 	return stream
 
@@ -169,8 +191,6 @@ gulp.task 'tokenizeCorpus', () ->
 # This task will put all sentences from our articles into a yaml of sentence lists. Each entry will also have the hash of the document it came from
 gulp.task 'aggregateAndStemCorpus', (cb) ->
 	outputList = []
-	# Init libraries
-	natural.PorterStemmer.attach()
 	
 	stream = gulp.src(['./sources/tokenized_deduped/*.yaml'])
 
