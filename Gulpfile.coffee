@@ -18,12 +18,19 @@ path = require 'path'
 clusterfck = require("clusterfck")
 buffer = require 'vinyl-buffer'
 util = require('util')
+{wait, repeat, doAndRepeat, waitUntil} = require 'wait'
+prat = require('prat')
+si = require('search-index')({logLevel:'error'})
+promise = require 'bluebird'
 
 # Init libraries
 natural.PorterStemmer.attach()
 
+
 convertFilepath = (filepath) ->
-	return filepath.replace(/tokenized_deduped/, "deduped")
+	filepath = filepath.replace(/tokenized_deduped/, "deduped")
+	filepath = filepath.replace(/.yaml/, ".md")
+	return filepath
 
 
 gulp.task 'dedupeSources', () ->
@@ -109,62 +116,6 @@ gulp.task 'stemAllSummaries', () ->
 
 	return stream
 
-# This will use tf-idf to match all the summary sentences with the best match in our corpus  
-gulp.task 'generateTrainingClassifications', ['tokenizeSummary'], (cb) ->
-
-	TfIdf = natural.TfIdf
-	tfidf = new TfIdf()
-
-	# First, let's make our corpus.
-	stream = gulp.src([ 'sources/deduped/*.md' ])
-
-	.pipe( 
-		tap (file) ->
-			# console.log file.path.toString()
-			tfidf.addDocument(file.contents.toString(), file.path.toString())
-
-	)
-
-	# Our corpus has been filled. Let's start doing lookups
-	.on 'end', () ->
-
-		stream = gulp.src([ './sources/tokenizedSummaries/*yaml' ])
-
-		.pipe(
-			tap (file) ->
-				# read YAML file
-				sentences = yaml.safeLoad( file.contents.toString() )
-
-				# file.contents = '' 
-
-				# Iterate through every sentence in the yaml
-				rankings = []
-				output = 
-					'sentences': sentences
-					'documentRankings': {}
-
-				for i in [0...tfidf.documents.length]
-					documentRanking = ( tfidf.tfidf(sentence, i) for sentence in sentences )
-
-					# Check that this document vector is not all zeros
-					# continue if Math.max.apply(Math, documentRanking) is 0
-
-					documentPath = tfidf.documents[i].__key
-					output['documentRankings'][i] = documentRanking
-
-
-				# Append the sentence to the yaml file in ./build/classifications
-				file.contents = new Buffer yaml.safeDump(output)
-				return file.contents
-		)
-		.pipe( gulp.dest('./sources/trainingClassifications') )
-		.on 'end', cb
-
-	.on	'error', (err) ->
-		console.error err
-
-	return 
-
 gulp.task 'tokenizeCorpus', () ->
 
 	stream = gulp.src(['./sources/deduped/*.md'])
@@ -200,10 +151,12 @@ gulp.task 'aggregateAndStemCorpus', (cb) ->
 			sentenceList = YAML.parse(file.contents.toString())[0]
 			
 			# Tokenize and stem the sentences using porter1 stemmer
-			tokenizedStemmedSentenceList = ( String(sentence).tokenizeAndStem() for sentence in sentenceList )
+			# tokenizedStemmedSentenceList = ( String(sentence).tokenizeAndStem() for sentence in sentenceList )
+			tokenizedStemmedSentenceList = ( String(sentence) for sentence in sentenceList )
 
 			# Now, for each sentence, add the sentence and the hash it came from to the output list
 			filePath = convertFilepath(file.path)
+			# console.log filePath
 			pathHash = crypto.createHash('md5').update(filePath).digest("hex").toString()
 			# console.log fileHash
 			
@@ -213,7 +166,7 @@ gulp.task 'aggregateAndStemCorpus', (cb) ->
 	.on 'end', () ->
 
 		# Now, let's output our final tokenized corpus
-		YAML.writeFileSync('./sources/tokenizedStemmedCorpus.yaml', outputList)
+		YAML.writeFileSync('./sources/stemmedCorpus.yaml', outputList)
 		cb()
 
 	.on	'error', (err) ->
@@ -226,40 +179,64 @@ gulp.task 'aggregateAndStemCorpus', (cb) ->
 # This will use tf-idf to match all the summary sentences with sentence and document that best match from our corpus  
 gulp.task 'generateSentencebasedTrainingClassifications', (cb) ->
 
+
+	# Make the index
 	tokenizedCorpus = YAML.readFileSync('./sources/tokenizedStemmedCorpus.yaml')[0]
 
-	TfIdf = natural.TfIdf
-	tfidf = new TfIdf()
 
-	# First, let's make our corpus of sentences
-	tfidf.addDocument(sentence, pathHash) for {sentence, pathHash} in tokenizedCorpus
+	# TfIdf = natural.TfIdf
+	# tfidf = new TfIdf()
 
-	stream = gulp.src([ './sources/tokenizedSummaries/*yaml' ])
+	addDocument = promise.promisify(si.add, si)
 
-	.pipe(
-		tap (file) ->
-			# read YAML file
-			sentences = YAML.parse( file.contents.toString() )[0]
+	# First, let's make our corpus of sentences. This returns an array of promises
+	documentsToAdd = ( {body:sentence, docHash: pathHash} for {sentence, pathHash} in tokenizedCorpus )
+	tokenizedCorpus = undefined
 
-			# Iterate through every sentence in the yaml
-			rankings = []
-			output = [] # a 2d vector that holds summary sentences and their relation to corpus sentences
+	# Tell me how many docs we need to add
+	console.log "We need to add #{documentsToAdd.length} docs to the index. Should be ~60k"
+	
+	waitForIndex = addDocument({},documentsToAdd)
+	documentsToAdd = undefined
 
-			for i in [0...tfidf.documents.length]
-				sentenceRanking = ( tfidf.tfidf(sentence, i) for sentence in sentences )
+	waitForIndex.then () ->
 
-				output.push(sentenceRanking)
+		console.log "Index has been initialized"
 
-			# record the relation vector to the file
-			file.contents = new Buffer YAML.stringify(output)
-			return file.contents
+		si.tellMeAboutMySearchIndex (msg) ->
+			console.log msg
+			cb()
 
-			console.log "Done with #{file.path}"
-	)
-	.pipe( gulp.dest('./sources/trainingClassifications') )
 
-	return stream
+	# stream = gulp.src([ './sources/tokenizedStemmedSummaries/*yaml' ])
 
+	# .pipe(
+	# 	tap (file) ->
+	# 		# read YAML file
+	# 		sentences = YAML.parse( file.contents.toString() )[0]
+
+	# 		# Iterate through every sentence in the yaml
+	# 		output = [] # a 2d vector that holds summary sentences and their relation to corpus sentences
+
+	# 		for doc, i in tfidf.documents
+	# 			sentenceRanking = ( tfidf.tfidf(sentence, i) for sentence in sentences )
+
+	# 			output.push(sentenceRanking)
+
+	# 		# record the relation vector to the file
+	# 		file.contents = new Buffer YAML.stringify(output)
+	# 		return file.contents
+
+	# 		# Clean up
+	# 		sentences = undefined
+	# 		output = undefined
+
+	# 		console.log "Done with #{file.path}"
+	# )
+	# .pipe( gulp.dest('./sources/trainingClassifications') )
+
+	# return whenIndexInitialized
+	return 
 
 # Let's make a table of what the content of a file is and what bins the file belongs to.
 gulp.task 'createHashTable', () ->
