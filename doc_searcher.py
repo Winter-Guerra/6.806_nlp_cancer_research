@@ -32,7 +32,7 @@ def getTfidf():
 
 	print("Finding bigrams")
 	# Convert sentence to bigram
-	bigram_vectorizer = CountVectorizer(ngram_range=(1, 2), token_pattern=r'\b\w+\b', min_df=5, stop_words="english")
+	bigram_vectorizer = CountVectorizer(ngram_range=(1, 1), token_pattern=r'\b\w+\b', min_df=10, stop_words="english")
 
 	print("Finding count vector")
 	# Get our count vector of bigram occurances
@@ -84,6 +84,8 @@ def analyzeSummaries(tfidf, idftransformer, bigram_vectorizer, pathHashes):
 	totalDocsWithSummaries = {}
 
 	numSummaries = len(files)
+
+	outputRelationMatrix = None
 
 	for f in files:
 		# Find tag
@@ -137,8 +139,6 @@ def analyzeSummaries(tfidf, idftransformer, bigram_vectorizer, pathHashes):
 		classify = numpy.vectorize(lambda x: indexBelongsToTag(x, pathHashes, tag) )
 		binaryClassification = classify(resultVector).reshape(s,1)
 
-		# Now, 
-
 		# Now, figure out what the error is
 		accuracy = numpy.sum(binaryClassification, axis=0)/s
 
@@ -161,17 +161,81 @@ def analyzeSummaries(tfidf, idftransformer, bigram_vectorizer, pathHashes):
 
 		print("Acc", accuracy, "Linked sentences", totalLinkedSentences, "totalSentences",totalSentences, "docs with summaries", len(totalDocsWithSummaries))
 
-		# Plot the probability distribution
-		# plt.plot(numpy.linspace(0,n, n), relationMatrix[1,:])
+		# Update the overall relation matrix
+		if outputRelationMatrix is not None:
+			outputRelationMatrix = scipy.sparse.vstack([outputRelationMatrix, relationMatrix])
+		else:
+			outputRelationMatrix = relationMatrix
 
 	# Calculate the total accuracy
 	print("Total accuracy", totalLinkedSentences/totalSentences)
 
+	os.chdir('../')
+	return outputRelationMatrix
+
+
+# This will take a (s,n) document and output a (1,w) document where w=number of documents in our corpus.
+def splitRelationMatrixByDocument(relationMatrix, debug=False):
+	'''
+	>>> x = [1,1,1,3,4,5,5]
+	>>> splitRelationMatrixByDocument(x, True)
+	Making list of relation matrices for each document
+	[3, 4, 5, 7]
+	'''
+
+	print("Making list of relation matrices for each document")
+
+	# First, we must find the indexes of transition
+	pathHashes = [ str(element['pathHash']) for element in corpus]
+	
+	if debug:
+		pathHashes = relationMatrix
+
+	transitions = [i for i in range(1, len(pathHashes)) if pathHashes[i-1] != pathHashes[i]] + [len(pathHashes)]
+
+	if debug:
+		return transitions
+
+	# Now, we must squash the matrix into (1,n)
+	relationMatrix = relationMatrix.sum(axis=0) # This will be in dense format
+
+	outputMatrixList = []
+
+	leftBound = 0
+	for lastIndexOfDocument in transitions:
+		
+		slicedMatrix = relationMatrix[0,leftBound:lastIndexOfDocument]
+		# Normalize the new matrix
+		subMatrix = numpy.array(slicedMatrix/slicedMatrix.sum())
+
+		outputMatrixList.append(subMatrix)
+
+
+		leftBound = lastIndexOfDocument
+
+	# Now, output the new list of matrices
+	return outputMatrixList
+
 
 
 if __name__ == '__main__':
+	import doctest
+	doctest.testmod()
+
 	(tfidf, transformer, bigram_vectorizer, pathHashes) = getTfidf()
-	analyzeSummaries(tfidf, transformer, bigram_vectorizer, pathHashes)
+	relationMatrix = analyzeSummaries(tfidf, transformer, bigram_vectorizer, pathHashes)
+
+	# Now, let's try to process the resulting sentence distribution for each document
+	outputMatrixList = splitRelationMatrixByDocument(relationMatrix)
+
+	# Now, let us output this classification distribution
+	print("Saving training data to file")
+	curpath = os.path.abspath(os.curdir)
+	print(curpath)
+
+	numpy.savez('./sources/training.npz', *outputMatrixList)
+
+	# print(outputMatrixList)
 
 
 
