@@ -9,8 +9,13 @@
 * Bigrams only: Total accuracy [ 0.09465249]
 
 ### Stemmed Corpus
-* Unigrams only: Total accuracy [ 0.34643258]
-* 1+2 grams: Total accuracy [ 0.24682269]
+* Unigrams only:
+  Acc [ 0.33333333] Linked sentences [260] totalSentences 726 docs with summaries 203
+    Total accuracy [ 0.35812672]
+* 1+2 grams:
+    Acc [ 0.33333333] Linked sentences [206] totalSentences 726 docs with summaries 170
+    Total accuracy [ 0.28374656]
+    
 * Bigrams only: Total accuracy [ 0.17435046]
 
 Take out stopwords

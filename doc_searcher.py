@@ -2,9 +2,11 @@ import yaml
 import sklearn
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import CountVectorizer
+import scipy
 import numpy
 import os
 import glob
+import matplotlib.pyplot as plt
 
 # Init files
 print("Loading corpus file")
@@ -30,7 +32,7 @@ def getTfidf():
 
 	print("Finding bigrams")
 	# Convert sentence to bigram
-	bigram_vectorizer = CountVectorizer(ngram_range=(1, 1), token_pattern=r'\b\w+\b', min_df=5, stop_words="english")
+	bigram_vectorizer = CountVectorizer(ngram_range=(1, 2), token_pattern=r'\b\w+\b', min_df=5, stop_words="english")
 
 	print("Finding count vector")
 	# Get our count vector of bigram occurances
@@ -119,13 +121,16 @@ def analyzeSummaries(tfidf, idftransformer, bigram_vectorizer, pathHashes):
 
 		# print("Multiplication: ", summaryTfidf.shape, tfidf.transpose().shape)
 		# This is the cosine similarity step
-		relationMatix = summaryTfidf.dot( tfidf.transpose())
+		relationMatrix = summaryTfidf.dot( tfidf.transpose())
 
-		# print(relationMatix.shape)
+		# Normalize the relation matrix such that it becomes a probability distribution
+		relationMatrix = scipy.sparse.csr_matrix( relationMatrix/relationMatrix.sum(axis=1) )
+
+		# print(relationMatrix.shape)
 
 		# Now, reduce the matrix such that the index of the highest column for each row is output into a (sx1) matrix.
 
-		resultVector = numpy.argmax(relationMatix.toarray(), axis=1) # sx1
+		resultVector = numpy.argmax(relationMatrix.toarray(), axis=1) # sx1
 		# print(resultVector)
 
 		# Now, figure out if each element is correct in classification or not.
@@ -155,6 +160,9 @@ def analyzeSummaries(tfidf, idftransformer, bigram_vectorizer, pathHashes):
 		logDocuments(resultVector)
 
 		print("Acc", accuracy, "Linked sentences", totalLinkedSentences, "totalSentences",totalSentences, "docs with summaries", len(totalDocsWithSummaries))
+
+		# Plot the probability distribution
+		# plt.plot(numpy.linspace(0,n, n), relationMatrix[1,:])
 
 	# Calculate the total accuracy
 	print("Total accuracy", totalLinkedSentences/totalSentences)
