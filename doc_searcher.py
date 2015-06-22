@@ -77,6 +77,9 @@ def analyzeSummaries(tfidf, idftransformer, bigram_vectorizer, pathHashes):
 	# print(files)
 
 	totalAccuracy = 0
+	totalLinkedSentences = 0
+	totalSentences = 0
+	totalDocsWithSummaries = {}
 
 	numSummaries = len(files)
 
@@ -137,10 +140,24 @@ def analyzeSummaries(tfidf, idftransformer, bigram_vectorizer, pathHashes):
 		# Now, update the total accuracy
 		totalAccuracy += accuracy
 
-		print(accuracy)
+		# We should check how many linked sentences we have from the summaries.
+		totalLinkedSentences += numpy.sum(binaryClassification, axis=0)
+		totalSentences += s
+
+		# We should keep track of how many documents have at least 1 sentence strongly associated with them.
+		def addDocument(x):
+			# print(x)
+			if indexBelongsToTag(x, pathHashes, tag): 
+				totalDocsWithSummaries[x] = 1 
+
+
+		logDocuments = numpy.vectorize(addDocument)
+		logDocuments(resultVector)
+
+		print("Acc", accuracy, "Linked sentences", totalLinkedSentences, "totalSentences",totalSentences, "docs with summaries", len(totalDocsWithSummaries))
 
 	# Calculate the total accuracy
-	print("Total accuracy", totalAccuracy/numSummaries)
+	print("Total accuracy", totalLinkedSentences/totalSentences)
 
 
 
