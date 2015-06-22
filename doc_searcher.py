@@ -123,37 +123,16 @@ def analyzeSummaries(tfidf, idftransformer, bigram_vectorizer, pathHashes):
 		# Let's do a soft classification
 		correctClassification = scipy.sparse.csr_matrix( [[1 if indexBelongsToTag(i, pathHashes, tag) else 0] for i in range(n)])
 
-		# normalize the vector
-		# correctClassification = scipy.sparse.csr_matrix( correctClassification/correctClassification.sum() )
-
 		# Now, let's calculate the new soft classification accuracy
 		print(relationMatix.shape, correctClassification.shape)
 		
 		# Make the soft classifications
 		# correctColumns = correctClassification.nonzero()[0]
 		softClassification = relationMatix.dot(correctClassification)
-		print(softClassification)
-		# for column in correctColumns:
-
-		# softClassifications = numpy.multiply(relationMatix, correctClassification)
+		# print(softClassification)
 
 		# Now, add all rows, then add all columns and divide by s to get the accuracy.
 		accuracy = softClassification.sum()/s
-
-		# # Now, reduce the matrix such that the index of the highest column for each row is output into a (sx1) matrix.
-		# resultVector = numpy.argmax(relationMatix.toarray(), axis=1) # sx1
-		# # print(resultVector)
-
-		# # Now, figure out the soft classifications for each sentence.
-		# classify = numpy.vectorize(lambda x: indexBelongsToTag(x, pathHashes, tag) )
-		# binaryClassification = classify(resultVector).reshape(s,1)
-
-		# softClassification = 
-
-		# Now, 
-
-		# Now, figure out what the error is
-		# accuracy = numpy.sum(binaryClassification, axis=0)/s
 
 		# Now, update the total accuracy
 		totalAccuracy += accuracy
