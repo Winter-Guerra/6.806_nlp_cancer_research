@@ -152,7 +152,7 @@ gulp.task 'aggregateAndStemCorpus', (cb) ->
 			
 			# Tokenize and stem the sentences using porter1 stemmer
 			# tokenizedStemmedSentenceList = ( String(sentence).tokenizeAndStem() for sentence in sentenceList )
-			tokenizedStemmedSentenceList = ( String(sentence) for sentence in sentenceList )
+			tokenizedStemmedSentenceList = ( String(sentence).tokenizeAndStem().join(' ') for sentence in sentenceList )
 
 			# Now, for each sentence, add the sentence and the hash it came from to the output list
 			filePath = convertFilepath(file.path)

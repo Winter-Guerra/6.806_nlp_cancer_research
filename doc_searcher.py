@@ -30,7 +30,7 @@ def getTfidf():
 
 	print("Finding bigrams")
 	# Convert sentence to bigram
-	bigram_vectorizer = CountVectorizer(ngram_range=(1, 2), token_pattern=r'\b\w+\b', min_df=1)
+	bigram_vectorizer = CountVectorizer(ngram_range=(1, 1), token_pattern=r'\b\w+\b', min_df=5, stop_words="english")
 
 	print("Finding count vector")
 	# Get our count vector of bigram occurances
@@ -40,14 +40,14 @@ def getTfidf():
 
 	# Now, let us make tf-idf vectors from this.
 
-	transformer = TfidfTransformer()
+	idftransformer = TfidfTransformer()
 
 	print("Finding tf-idf")
-	tfidf = transformer.fit_transform(X)
+	tfidf = idftransformer.fit_transform(X)
 
 	# print(tfidf.shape)
 
-	return (tfidf, transformer, bigram_vectorizer, pathHashes)
+	return (tfidf, idftransformer, bigram_vectorizer, pathHashes)
 
 # This should use a pathhash to look up what tag a hash belongs to:
 def belongsToTag(hsh, tag):
@@ -65,7 +65,7 @@ def indexBelongsToTag(index, pathHashes, tag):
 
 
 # This function should load all summaries by tag
-def analyzeSummaries(tfidf, transformer, bigram_vectorizer, pathHashes):
+def analyzeSummaries(tfidf, idftransformer, bigram_vectorizer, pathHashes):
 
 	print("Reading summaries")
 
@@ -75,6 +75,10 @@ def analyzeSummaries(tfidf, transformer, bigram_vectorizer, pathHashes):
 	# Find the filenames of the summaries
 	files = glob.glob("tokenizedStemmedSummaries/*.yaml")
 	# print(files)
+
+	totalAccuracy = 0
+
+	numSummaries = len(files)
 
 	for f in files:
 		# Find tag
@@ -89,23 +93,29 @@ def analyzeSummaries(tfidf, transformer, bigram_vectorizer, pathHashes):
 		with open(f) as _f: 
 			_sentenceList = yaml.load(_f, Loader=yaml.CLoader)
 
+
 		# Force all of array to be string elements
 		_sentenceList = [map(str, sentence) for sentence in _sentenceList]
 
 		# Turn the tokenized sentence we loaded into a string
 		sentenceList = [" ".join(sentence) for sentence in _sentenceList]
 
+		# Find the dimensions of the arrays we will be using
+		s = len(sentenceList)
+		(n,d) = tfidf.shape
+
 		# print(sentenceList) #works!
 
 		# Now, turn each sentence into tfidf vector
 		countMatrix = bigram_vectorizer.transform(sentenceList)
-		summaryTfidf = transformer.transform(countMatrix)
+		summaryTfidf = idftransformer.transform(countMatrix)
 
 		# print(summaryTfidf.shape)
 
 		# Now, dot product the feature vectors to get a matrix that is (sxn). I.E. connecting every summary sentence with every other sentence.
 
 		# print("Multiplication: ", summaryTfidf.shape, tfidf.transpose().shape)
+		# This is the cosine similarity step
 		relationMatix = summaryTfidf.dot( tfidf.transpose())
 
 		# print(relationMatix.shape)
@@ -116,12 +126,21 @@ def analyzeSummaries(tfidf, transformer, bigram_vectorizer, pathHashes):
 		# print(resultVector)
 
 		# Now, figure out if each element is correct in classification or not.
-		classify = numpy.vectorize(lambda x: indexBelongsToTag(x, pathHashes, tag))
-		binaryClassification = classify(resultVector)
+		classify = numpy.vectorize(lambda x: indexBelongsToTag(x, pathHashes, tag) )
+		binaryClassification = classify(resultVector).reshape(s,1)
+
+		# Now, 
 
 		# Now, figure out what the error is
-		accuracy = numpy.sum(binaryClassification, axis=1)/binaryClassification.shape[0]
+		accuracy = numpy.sum(binaryClassification, axis=0)/s
+
+		# Now, update the total accuracy
+		totalAccuracy += accuracy
+
 		print(accuracy)
+
+	# Calculate the total accuracy
+	print("Total accuracy", totalAccuracy/numSummaries)
 
 
 
