@@ -2,9 +2,13 @@ import yaml
 import sklearn
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.preprocessing import normalize
+import scipy
 import numpy
+from numpy import linalg as LA
 import os
 import glob
+import math
 
 # Init files
 print("Loading corpus file")
@@ -40,7 +44,7 @@ def getTfidf():
 
 	# Now, let us make tf-idf vectors from this.
 
-	idftransformer = TfidfTransformer()
+	idftransformer = TfidfTransformer(norm='l2')
 
 	print("Finding tf-idf")
 	tfidf = idftransformer.fit_transform(X)
@@ -110,34 +114,51 @@ def analyzeSummaries(tfidf, idftransformer, bigram_vectorizer, pathHashes):
 		countMatrix = bigram_vectorizer.transform(sentenceList)
 		summaryTfidf = idftransformer.transform(countMatrix)
 
-		# print(summaryTfidf.shape)
-
-		# Now, dot product the feature vectors to get a matrix that is (sxn). I.E. connecting every summary sentence with every other sentence.
-
-		# print("Multiplication: ", summaryTfidf.shape, tfidf.transpose().shape)
 		# This is the cosine similarity step
-		relationMatix = summaryTfidf.dot( tfidf.transpose())
+		relationMatix = summaryTfidf.dot( tfidf.T)
 
-		# print(relationMatix.shape)
+		# Normalize the matrix
+		relationMatix = scipy.sparse.csr_matrix( relationMatix/relationMatix.sum(axis=1) )
 
-		# Now, reduce the matrix such that the index of the highest column for each row is output into a (sx1) matrix.
+		# Let's do a soft classification
+		correctClassification = scipy.sparse.csr_matrix( [[1 if indexBelongsToTag(i, pathHashes, tag) else 0] for i in range(n)])
 
-		resultVector = numpy.argmax(relationMatix.toarray(), axis=1) # sx1
-		# print(resultVector)
+		# normalize the vector
+		# correctClassification = scipy.sparse.csr_matrix( correctClassification/correctClassification.sum() )
 
-		# Now, figure out if each element is correct in classification or not.
-		classify = numpy.vectorize(lambda x: indexBelongsToTag(x, pathHashes, tag) )
-		binaryClassification = classify(resultVector).reshape(s,1)
+		# Now, let's calculate the new soft classification accuracy
+		print(relationMatix.shape, correctClassification.shape)
+		
+		# Make the soft classifications
+		# correctColumns = correctClassification.nonzero()[0]
+		softClassification = relationMatix.dot(correctClassification)
+		print(softClassification)
+		# for column in correctColumns:
+
+		# softClassifications = numpy.multiply(relationMatix, correctClassification)
+
+		# Now, add all rows, then add all columns and divide by s to get the accuracy.
+		accuracy = softClassification.sum()/s
+
+		# # Now, reduce the matrix such that the index of the highest column for each row is output into a (sx1) matrix.
+		# resultVector = numpy.argmax(relationMatix.toarray(), axis=1) # sx1
+		# # print(resultVector)
+
+		# # Now, figure out the soft classifications for each sentence.
+		# classify = numpy.vectorize(lambda x: indexBelongsToTag(x, pathHashes, tag) )
+		# binaryClassification = classify(resultVector).reshape(s,1)
+
+		# softClassification = 
 
 		# Now, 
 
 		# Now, figure out what the error is
-		accuracy = numpy.sum(binaryClassification, axis=0)/s
+		# accuracy = numpy.sum(binaryClassification, axis=0)/s
 
 		# Now, update the total accuracy
 		totalAccuracy += accuracy
 
-		print(accuracy)
+		# print(accuracy)
 
 	# Calculate the total accuracy
 	print("Total accuracy", totalAccuracy/numSummaries)
