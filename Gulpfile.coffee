@@ -20,7 +20,7 @@ buffer = require 'vinyl-buffer'
 util = require('util')
 {wait, repeat, doAndRepeat, waitUntil} = require 'wait'
 prat = require('prat')
-si = require('search-index')({logLevel:'error'})
+# si = require('search-index')({logLevel:'error'})
 promise = require 'bluebird'
 
 # Init libraries
@@ -139,6 +139,10 @@ gulp.task 'tokenizeCorpus', () ->
 
 	return stream
 
+# gulp.task 'cleanCorpus', () ->
+
+
+
 # This task will put all sentences from our articles into a yaml of sentence lists. Each entry will also have the hash of the document it came from
 gulp.task 'aggregateAndStemCorpus', (cb) ->
 	outputList = []
@@ -149,10 +153,13 @@ gulp.task 'aggregateAndStemCorpus', (cb) ->
 	.pipe(
 		tap (file) ->
 			sentenceList = YAML.parse(file.contents.toString())[0]
+
+			# Remove underscores from the sentenceList
+			sentenceList = ( String(sentence).replace(/_/g,'') for sentence in sentenceList )
 			
 			# Tokenize and stem the sentences using porter1 stemmer
 			# tokenizedStemmedSentenceList = ( String(sentence).tokenizeAndStem() for sentence in sentenceList )
-			tokenizedStemmedSentenceList = ( String(sentence).tokenizeAndStem().join(' ') for sentence in sentenceList )
+			tokenizedStemmedSentenceList = ( [String(sentence).tokenizeAndStem().join(' '), String(sentence)] for sentence in sentenceList )
 
 			# Now, for each sentence, add the sentence and the hash it came from to the output list
 			filePath = convertFilepath(file.path)
@@ -160,7 +167,7 @@ gulp.task 'aggregateAndStemCorpus', (cb) ->
 			pathHash = crypto.createHash('md5').update(filePath).digest("hex").toString()
 			# console.log fileHash
 			
-			outputList.push {sentence, pathHash} for sentence in tokenizedStemmedSentenceList
+			outputList.push {sentence, pathHash, originalSentence} for [sentence, originalSentence] in tokenizedStemmedSentenceList
 
 	)
 	.on 'end', () ->
@@ -177,35 +184,35 @@ gulp.task 'aggregateAndStemCorpus', (cb) ->
 
 
 # This will use tf-idf to match all the summary sentences with sentence and document that best match from our corpus  
-gulp.task 'generateSentencebasedTrainingClassifications', (cb) ->
+# gulp.task 'generateSentencebasedTrainingClassifications', (cb) ->
 
 
-	# Make the index
-	tokenizedCorpus = YAML.readFileSync('./sources/tokenizedStemmedCorpus.yaml')[0]
+# 	# Make the index
+# 	tokenizedCorpus = YAML.readFileSync('./sources/tokenizedStemmedCorpus.yaml')[0]
 
 
-	# TfIdf = natural.TfIdf
-	# tfidf = new TfIdf()
+# 	# TfIdf = natural.TfIdf
+# 	# tfidf = new TfIdf()
 
-	addDocument = promise.promisify(si.add, si)
+# 	# addDocument = promise.promisify(si.add, si)
 
-	# First, let's make our corpus of sentences. This returns an array of promises
-	documentsToAdd = ( {body:sentence, docHash: pathHash} for {sentence, pathHash} in tokenizedCorpus )
-	tokenizedCorpus = undefined
+# 	# First, let's make our corpus of sentences. This returns an array of promises
+# 	documentsToAdd = ( {body:sentence, docHash: pathHash} for {sentence, pathHash} in tokenizedCorpus )
+# 	tokenizedCorpus = undefined
 
-	# Tell me how many docs we need to add
-	console.log "We need to add #{documentsToAdd.length} docs to the index. Should be ~60k"
+# 	# Tell me how many docs we need to add
+# 	console.log "We need to add #{documentsToAdd.length} docs to the index. Should be ~60k"
 	
-	waitForIndex = addDocument({},documentsToAdd)
-	documentsToAdd = undefined
+# 	waitForIndex = addDocument({},documentsToAdd)
+# 	documentsToAdd = undefined
 
-	waitForIndex.then () ->
+# 	waitForIndex.then () ->
 
-		console.log "Index has been initialized"
+# 		console.log "Index has been initialized"
 
-		si.tellMeAboutMySearchIndex (msg) ->
-			console.log msg
-			cb()
+# 		si.tellMeAboutMySearchIndex (msg) ->
+# 			console.log msg
+# 			cb()
 
 
 	# stream = gulp.src([ './sources/tokenizedStemmedSummaries/*yaml' ])
@@ -326,6 +333,7 @@ gulp.task 'createDedupedPathIndexedHashTable', () ->
 			tagData =
 				hash: fileHash
 				tags: hashTable[fileHash]
+				filePath: file.path
 
 			indexedHashTable[filePathHash] = tagData
 			return 

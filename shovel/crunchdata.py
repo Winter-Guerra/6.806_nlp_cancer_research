@@ -1,4 +1,13 @@
+# Winter@csail.mit.edu, June 2015.
+from shovel import task
+
+# Import C yaml bindings
 import yaml
+try:
+    from yaml import CLoader as Loader, CDumper as Dumper
+except ImportError:
+    from yaml import Loader, Dumper
+
 import sklearn
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import CountVectorizer
@@ -8,24 +17,35 @@ import os
 import glob
 import matplotlib.pyplot as plt
 
-# Init files
-print("Loading corpus file")
+class Document():
+	def __init__(self, relationMatrix, indexOffset):
+		# This will create a document.
+		self.relationMatrix = relationMatrix.flatten()
+		self.indexOffset = indexOffset
 
-corpus = []
-with open("./sources/stemmedCorpus.yaml") as f: 
-	corpus = yaml.load(f, Loader=yaml.CLoader)
+	def getOriginalSentence(self, i):
+		return corpus[i+self.indexOffset]['originalSentence']
 
-print("Loading hash dictionary")
-pathIndexedHashTable = {}
-with open("./sources/dedupedPathIndexedHashTable.yaml") as f: 
-	pathIndexedHashTable = yaml.load(f, Loader=yaml.CLoader)
+	def getWeighting(self, i):
+		return repr(self.relationMatrix[i])
+
+	def getKImportantSentences(self, k):
+		# Minimize k based on size of matrix
+		matrix = self.relationMatrix
+		k = min(len(matrix), k)
+
+		ind = numpy.argpartition(matrix, -k)[-k:] # This will make an array of k indices. Unsorted, but will be the largest K.
+
+		# Now, sort the list and return the indices
+		indexofindex = numpy.argsort(matrix[ind])
+		# print( indexofindex)
+		result = ind[indexofindex]
+		# print(result)
+		return result
+
 
 def getTfidf():
 
-	
-	print("Extracting sentences")
-	sentences = [ str(element['sentence']) for element in corpus]
-	pathHashes = [ str(element['pathHash']) for element in corpus]
 	# print(len(pathHashes))
 
 	# print(sentences)
@@ -98,7 +118,7 @@ def analyzeSummaries(tfidf, idftransformer, bigram_vectorizer, pathHashes):
 		# Load the summary file to get the set of sentences that we need to check against our corpus
 		_sentenceList = []
 		with open(f) as _f: 
-			_sentenceList = yaml.load(_f, Loader=yaml.CLoader)
+			_sentenceList = yaml.load(_f, Loader=Loader)
 
 
 		# Force all of array to be string elements
@@ -159,7 +179,7 @@ def analyzeSummaries(tfidf, idftransformer, bigram_vectorizer, pathHashes):
 		logDocuments = numpy.vectorize(addDocument)
 		logDocuments(resultVector)
 
-		print("Acc", accuracy, "Linked sentences", totalLinkedSentences, "totalSentences",totalSentences, "docs with summaries", len(totalDocsWithSummaries))
+		# print("Acc", accuracy, "Linked sentences", totalLinkedSentences, "totalSentences",totalSentences, "docs with summaries", len(totalDocsWithSummaries))
 
 		# Update the overall relation matrix
 		if outputRelationMatrix is not None:
@@ -175,23 +195,27 @@ def analyzeSummaries(tfidf, idftransformer, bigram_vectorizer, pathHashes):
 
 
 # This will take a (s,n) document and output a (1,w) document where w=number of documents in our corpus.
-def splitRelationMatrixByDocument(relationMatrix, debug=False):
+def splitRelationMatrixByDocument(relationMatrix, pathHashes, debug=False):
 	'''
 	>>> x = [1,1,1,3,4,5,5]
-	>>> splitRelationMatrixByDocument(x, True)
+	>>> splitRelationMatrixByDocument(x,x, True)
 	Making list of relation matrices for each document
-	[3, 4, 5, 7]
+	[(3, 1), (4, 3), (5, 4), (7, 5)]
 	'''
 
 	print("Making list of relation matrices for each document")
-
-	# First, we must find the indexes of transition
-	pathHashes = [ str(element['pathHash']) for element in corpus]
 	
 	if debug:
 		pathHashes = relationMatrix
 
-	transitions = [i for i in range(1, len(pathHashes)) if pathHashes[i-1] != pathHashes[i]] + [len(pathHashes)]
+	# print(pathHashes)
+
+	transitions = []
+	for i in range(1, len(pathHashes)):
+		if pathHashes[i-1] != pathHashes[i]:
+			transitions.append( (i, pathHashes[i-1]) )
+
+	transitions.append( (len(pathHashes), pathHashes[-1]) )
 
 	if debug:
 		return transitions
@@ -199,43 +223,93 @@ def splitRelationMatrixByDocument(relationMatrix, debug=False):
 	# Now, we must squash the matrix into (1,n)
 	relationMatrix = relationMatrix.sum(axis=0) # This will be in dense format
 
-	outputMatrixList = []
+	outputMatrixDict = {}
 
 	leftBound = 0
-	for lastIndexOfDocument in transitions:
+	for lastIndexOfDocument, hsh in transitions:
 		
 		slicedMatrix = relationMatrix[0,leftBound:lastIndexOfDocument]
 		# Normalize the new matrix
 		subMatrix = numpy.array(slicedMatrix/slicedMatrix.sum())
 
-		outputMatrixList.append(subMatrix)
+		# Make the document
+		doc = Document(subMatrix, leftBound)
+
+		outputMatrixDict[hsh] = doc
 
 
 		leftBound = lastIndexOfDocument
 
 	# Now, output the new list of matrices
-	return outputMatrixList
+	return outputMatrixDict
 
 
+def prettyPrintRelationMatrixList(documentDict):
+	k = 5
 
-if __name__ == '__main__':
+	print("Printing summary of results")
+
+	# Let us go through each document and output its top results.
+	for hsh, doc in pathIndexedHashTable.items():
+		print("--------------------------------------------")
+		print("Path Hash:", hsh)
+		print("File:", doc['filePath'])
+		print("Bucket:", doc['tags'])
+
+
+		# Get the relation matrix
+		# index = indexLookupTable[hsh]
+		document = documentDict[hsh]
+		# print( relationMatrix.shape)
+
+		# Now, get the top 5 index results of sentences for the matrix (1,n[x])
+
+		indices = document.getKImportantSentences(k)
+
+		# Package the sentence data that correspond to these indices
+		# print(relationMatrix[0])
+		sentenceList = [ {'sentence': document.getOriginalSentence(i), 'weighting': document.getWeighting(i)} for i in reversed(indices)]
+
+		# Print the results to stdio
+		outputData = yaml.dump(sentenceList, Dumper=Dumper)
+		print(outputData)
+
+@task
+def runDoctest():
 	import doctest
 	doctest.testmod()
+
+
+@task
+def crunchData():
+
+	# Init files
+	print("Loading corpus file")
+
+	corpus = []
+	with open("./sources/stemmedCorpus.yaml") as f: 
+		corpus = yaml.load(f, Loader=Loader)
+
+	print("Loading hash dictionary")
+	pathIndexedHashTable = {}
+	with open("./sources/dedupedPathIndexedHashTable.yaml") as f: 
+		pathIndexedHashTable = yaml.load(f, Loader=Loader)
+
+	print("Extracting sentences")
+	sentences = [ str(element['sentence']) for element in corpus]
+	pathHashes = [ str(element['pathHash']) for element in corpus]
+
+	# REAL PROG STARTS HERE
 
 	(tfidf, transformer, bigram_vectorizer, pathHashes) = getTfidf()
 	relationMatrix = analyzeSummaries(tfidf, transformer, bigram_vectorizer, pathHashes)
 
 	# Now, let's try to process the resulting sentence distribution for each document
-	outputMatrixList = splitRelationMatrixByDocument(relationMatrix)
+	outputMatrixList = splitRelationMatrixByDocument(relationMatrix, pathHashes=pathHashes)
 
-	# Now, let us output this classification distribution
-	print("Saving training data to file")
-	curpath = os.path.abspath(os.curdir)
-	print(curpath)
+	# Let's prettyprint the file data
+	prettyPrintRelationMatrixList(outputMatrixList)
 
-	numpy.savez('./sources/training.npz', *outputMatrixList)
-
-	# print(outputMatrixList)
 
 
 

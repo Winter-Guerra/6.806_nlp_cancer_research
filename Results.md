@@ -18,4 +18,3 @@
     
 * Bigrams only: Total accuracy [ 0.17435046]
 
-Take out stopwords
