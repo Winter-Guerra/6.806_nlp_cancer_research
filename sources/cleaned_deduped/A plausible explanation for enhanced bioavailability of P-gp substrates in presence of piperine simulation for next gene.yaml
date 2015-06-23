@@ -1,0 +1,334 @@
+---
+pathHash: cac2012d7cb4f518785d68f1c868c71c
+text: "\n\n\n\nP-glycoprotein has a major role to play in drug pharmacokinetics and
+  pharmacodynamics, since it effluxes many cytotoxic hydrophobic anticancer drugs
+  from gastrointestinal tract, brain, liver and kidney. Piperine is known to enhance
+  the bioavailability of curcumin, as a substrate of P-gp by at least 2000 %. Besides
+  these at least 50 other substrates and inhibitors of P-gp have been reported so
+  far. All P-gp inhibitors have diverse structures. Although little is known about
+  binding of some flavonoids and steroids at the NBD of P-gp in the vicinity of ATP
+  binding site inhibiting its hydrolysis, a valid explanation of how P-gp accommodates
+  such a diverse set of inhibitors is still awaited. In the present study, piperine
+  up to 100 μM has not shown observable cytotoxic effect on MDCK cell line, and it
+  has been shown to accumulate rhodamine by fluorescence microscopy and fluorescent
+  activated cell sorter in MDCK cells. Computational simulation for piperine and some
+  first and second generation P-gp inhibitors has shown that these dock at the NBD
+  site of P-gp. A comparative simulation study has been carried out regarding their
+  docking and binding energies. Binding conformation of P-gp co-crystallized complexes
+  with ADP, AMP-PNP, and ATP were compared with piperine. The receptor based E-pharmacophore
+  of docked piperine has been simulated to find common features amongst P-gp inhibitors.
+  Finally it has been concluded that piperine could be utilized as base molecule for
+  design and development of safe non-toxic inhibitor of P-gp in order to enhance the
+  bioavailability of most of its substrates.\n\n\nPiperine binds between the consensus
+  sequence of Walker A/P loop and Walker C loop at the nucleotide binding domain which
+  is crucial for ATP coupled efflux through P-gp. ATP binding competes with piperine.
+  This explains why piperine enhances the bioavailability of its substrate like curcumin
+  by 2000 %\n\n\n\nThe online version of this article contains supplementary material,
+  which is available to authorized users.\n\n\n\nDocking E-pharmacophores Homology
+  modeling Immunofluorscence P-glycoprotein P-gp inhibitors Piperine\n\n\n\nLarge
+  number of hydrophobic drugs have poor bioavailability due to efflux through MDR
+  proteins. Major reasons contributing to the low plasma and tissue levels of P-gp
+  substrates appear to be due to rapid systemic elimination. However, in the presence
+  of the P-gp inhibitors numerous substrates have shown enhanced bioavailability.
+  Piperine is an alkaloid present in black pepper. Piperine enhances bioavailability
+  of curcumin , phenytoin, propanol, theophylline  and rifampicin . Influence of Trikatu
+  on rifampicin bioavailability was studied by Dhanukar et al. .\n\nP-gp is organized
+  in two homologous halves, each half begins with a TMD containing six TM segments
+  followed by a hydrophilic nucleotide-binding domain . ATP cassettes/domain of P-gp
+  is composed of ATP binding site, ABC transporter and Walker A/P loop. Linker peptide
+  is thought to be involved in ATP hydrolysis as a γ- phosphate center and/or as a
+  signal to membrane spanning domains. Walker A/P loop having consensus sequence GxxGxGKST
+  forms a loop which binds to alpha and β-phosphates or di and trinucleotides. The
+  two ATP molecules bind at the interface between the Walker A sites and Walker C
+  motif or linker peptide sequences of NBDs .\n\n\n\nThe cavity of NBDs shares binding
+  sites for both ATP as well as inhibitors; as steroids and flavonoids do  whereas
+  substrates have different binding sites. Numerous P-gp substrates are effluxed through
+  P-gp as summarized by Vishal et al. .\n\nIn the present work a plausible explanation
+  has been given for the enhanced bioavailability of P-gp substrates in presence of
+  piperine. Attempt has been made to utilize the available data to correlate development
+  of 1st, 2nd and 3rd generation of inhibitors with their docking scores at NBD domain.
+  3D structure of P-gp complexed with ADP , AMP-PNP  and ATP  has been used for comparative
+  study of binding with docked complex of P- gp- piperine.\n\n\n\n\n\nMDCK cells were
+  obtained from NCCS and grown in MEM media, supplemented with 10 % FCS, 2 % sodium
+  pyruvate, 1 % pencillin, and 1 % streptomycin. Cells were grown in T-25 flasks to
+  80 % confluency at 370 C humidified atmosphere of 5 % CO2 and humidified air. Cells
+  were routinely trypsinized and subcultured.\n\n\n\nStock solution of piperine was
+  prepared in DMSO and stored at −200 C. Stock was diluted in the range of 10 μm to
+  100 μM concentrations. Exponentially growing cells were seeded at the densities
+  that allowed untreated cells to reach 75–80 % confluent state. Cells were treated
+  with piperine in fresh media after 24 h of plating.\n\n\n\nCytotoxic effect of piperine
+  on MDCK cell line was determined by the trypan blue staining, counting the viable
+  cells on hemocytometer. MDCK cells were seeded in 12 well plates. After 24 h of
+  plating the cells were exposed to increasing concentrations of piperine ranging
+  from 10 μM to 100 μM in serum free media, both attached and non attached cells were
+  collected and resuspended in phosphate buffered saline. The IC50 concentrations
+  were determined from concentration response curve.\n\n\n\nThe cells were seeded
+  on coverslips in six well plates for 24 h following treatment with piperine and
+  1 μg/ml of rhodamine, after 1 h of incubation at 37 0 C, cells were washed twice
+  with PBS, mounted and inspected by fluorescence microscopy \n\n\n\nRhodamine, a
+  fluorescent dye was used to monitor the piperine induced accumulation of rhodamine
+  in cells described previously . MDCK cells were seeded at density 4 × 104cell/well
+  in six well plates for 24 h. After approaching 90 % confluency, cells were co-treated
+  with rhodamine and piperine for 30 min at 370 C. The supenatant was removed, and
+  the cells were harvested and suspended in PBS. Measurement of accumulated rhodamine
+  due to piperine in each sample was analyzed by FACS and 10,000 cells were counted.\n\n\n\nHuman
+  P-gp amino acids reference sequence  was taken from NCBI protein ref sequence database.
+  Homology modeling module Prime was used for modeling as follows:Query sequence was
+  imported into the structure prediction window. HAMMER/Pfam program was used to search
+  for sequence patterns in-build in prime. It generates hidden Markov model from a
+  multiple sequence alignment and is used to identify the query family and provides
+  information about which residues are conserved in the consensus sequence. Finding
+  sequence homologs: To find sequence homologue PDB BLAST was performed and as template
+  2HYD was selected along with ADP. Structure of human P-gp is available but none
+  of the structure is complexed with ATP/ADP at NBD, therefore 2HYD was selected for
+  study. PDB BLAST has shown total score e-value, maximum identity 501, 2e-76 and
+  34 % respectively. However the maximum identity, e value, and positives at NBD domain,
+  i.e., from 392 to 629 was 120/234, 1e-62, 142/234 is quite well to produce a reliable
+  model. Build structure steps: It closes gaps, and predicts side-chain conformations
+  of non-conserved residues to produce a model of local energy minima conformation
+  with no clashes. The structure produced in the previous step is representing only
+  local energy minima not the global minima. Therefore, regions with gaps in the alignment
+  were refined in the next step. Refinement step: In the first refinement phase, default
+  sampling method was used for loop size of less than five residues and for refinement
+  of more than five residues, extended sampling method was used. Obtained model was
+  validated.\n\n\n\nCanvas module of Schrodinger was used to simulate fingerprints
+  or molecular properties using hierarchical clustering algorithm. All inhibitors,
+  tacrolimus, tamoxifen, terfenadine, tetrabenazine, valinomycin, verapamil, vinblastine
+  and 3rd generation inhibitors Biricodar, LY335979, GF120918, OC144-093, R101933,
+  Valspodar, XR9051) published in pharmacotherapy journal  were clustered using linear
+  finger print and Tanimoto similarity to cluster in seven classes based on the similarities.\n\n\n\nThe
+  2D structures of P-gp inhibitors were generated by drawing on ChemSketch and 3-D
+  structures from CORINA server and further optimized. Ligprep module of Schrödinger
+  was used to generate energy minimized 3D structures using OPLS-2005. To correct
+  Lewis structure and tautomeric and ionization states default settings were used.\n\n\n\n3D
+  structure of modeled P-gp was prepared using protein preparation wizard. Bond order
+  and formal charges were assigned and hydrogen was added. His tautomers and ionization
+  states were predicted, hydroxyl and thiol hydrogens were sampled. For structures
+  with missing side chain atoms the refinement module prime, was used to predict their
+  conformation. Further to refine the structure OPLS-2005 force field parameter was
+  used to alleviate steric clashes and the minimization was terminated when RMSD reached
+  maximum cutoff value of 0.30 Å. Binding site was defined by centroid of ADP, midpoint
+  of grid box and dimensions were set to 15 Å. Hydroxyl rotatable groups enclosed
+  in the grid were sampled. For grid preparation and docking at TMD domain centroid
+  of complexed ligand was taken.\n\n\n\nDocking was performed at the nucleotide binding
+  site of NB domain where inhibitor binding shared with ATP binding site using Glide
+  module of Schrödinger and also docked at the TMD of human P-gp complexed with a
+  inhibitor. All inhibitors were set for docking with stranded docking precision,
+  further it was used to refine the docked poses with option to output Glide XP descriptor
+  information.\n\n\n\nE-pharmacophore was generated using default chemical features:
+  hydrogen bond acceptor, hydrogen bond donor, hydrophobe, negative ionizable, positive
+  ionizable, and aromatic ring. Hydrogen bond acceptor and donor sites were represented
+  as vectors. Each pharmacophore feature site is first assigned an energetic value
+  equal to the sum of the Glide XP contributions of the atoms comprising the site
+  to be quantified and ranked on the basis of these energetic terms used in Glide
+  XP descriptors.\n\n\n\nDocking was also performed with AutoDock which efficiently
+  docks macro-cyclic ligand with a large number of flexible bonds while Glide docking
+  module is more efficient for molecules with fewer number of rotatable bonds. These
+  inhibitors were docked at the nucleotide binding domain using AutoDock 3.0 . Grid
+  size was set to include significant portions of the surrounding surface of nucleotide
+  binding domain in each simulation. The dimensions of the grids for nucleotide binding
+  site were set to 72 Å in each dimension, with a spacing of 0.375 Å between the grid
+  points and the center of grid was taken form crystal structure. The default AutoDock
+  run parameters were as follows: the maximum number of energy evaluations, the maximum
+  number of generation in the genetic algorithm and the number of GA per run were
+  2,500,000, 2,700,000 and 50 respectively. All other run parameters were maintained
+  at their default settings. As far as the search methods are concerned, genetic algorithm
+  was used .\n\n\n\nLigplot  and HBPLUS  were used to generate 2D plot of the docked
+  conformations to find out hydrogen bond and hydrophobic interactions.\n\n\n\nPiperine
+  has been tested for its cytoxicity/cell viability in MDCK cell line which overexpresses
+  P-gp. Piperine treated MDCK cells survive for a longer time than piperine untreated
+  cells, i.e., this molecule has survival advantage when cells are deprived of nutrition.\n\n\nSurvival
+  benefit of piperine over MDCK cell line. Untreated cells have shown decrease in
+  percent cell viability after 90 h while piperine exposed cells have not only shown
+  non-cyotoxic effect but also manage to survive for longer time\n\nTo quantify the
+  enhancement of bioavailability by piperine, cells were treated with rhodamine and
+  monitored by FACS. At higher concentration of piperine, rhodamine accumulation increased
+  by two fold, confirming that piperine is an inhibitor of P-gp. In order to assess
+  drug accumulation on treatment with piperine, the cells were analyzed by fluorescence
+  microscopy. Rhodamine accumulation in mitochondria and cytosol was found to be higher
+  comparable to control at higher concentrations of piperine.\n\n\nAccumulation of
+  rhodamine dye on treatment of piperine measured by FACS. Bar diagram showing increased
+  accumulation of rhodamine on treatment with 20–140 μg of piperine. Overlay picture
+  of FACS at 120–140 μg of piperine treatment\n\n\nRhodamine accumulations on treatment
+  of piperine cells were treated only with rhodamine and rhodamine and piperine. Rhodamine
+  accumulation is clearly observed in the surrounding of nuclear membrane as well
+  as in cytosol. All pictures were taken at 40X on inverted microscope\n\n\n\nPDB
+  Blast of the human P-gp reference sequence with bacterial ABC transporter from Staphylococcus
+  aureus sequence having 3 Å resolution has given BLAST score, expect 7e-77, identities
+  171/497, positives 263/497, gaps 10/497. S. aureus was used as template for human
+  P-gp protein modeling. Obtained model has shown overall quality factor of 92.032.
+  Ramachandran plots of model has shown that core regions, additionally allowed regions,
+  generously allowed regions and disallowed regions were 91.6 %, 7.5 %, 0.9 %, 0.0
+  % respectively.\n\n\n\nCavity of P-gp nucleotide binding site was simulated by molegro
+  software . The two nucleotide binding sites have shown cavity size of 427.008 Å3
+  and 338.944 Å3. NBD domain where ADP is complexed was selected for docking.\n\n\nModeled
+  human P-gp along with ADP and amino acids close ADP. Cavity of NBD domain of P-gp
+  was simulated by molegro shown in green mesh\n\n\n\nIn order to find out whether
+  piperine also binds at NBD domain of P-gp, it was docked and amino acid residues
+  lying 3Ǻ close to NBD were compared with ADP, ATP, AMP-PNP from their X-ray crystallographic
+  complexes and with docked P-glycoprotein-piperine complex. Docking simulation has
+  shown that all conformers of piperine bind in single mode at the nucleotide binding
+  site. 2D plot of X-ray crystallographic structure of co-crystallized ATP, ADP &amp;
+  AMP-PNP with P-gp have shown that they share common residues Y349B, I356B, G377B,
+  G379B, K380B, S381B, K477A as piperine does. It indicates that binding of piperine
+  is similar to ATP, ADP and AMP-PNP bindings.\n\n\n2D plot of AMP-PNP, ATP and ADP
+  complexed with NBD of multidrug transporter and docked complex of piperine at NBD
+  of PDB ID-2HYD. Amino acids which are in close contact to ligand are shown 2D plot
+  of ABC transporter sav1866 from S. aureus complexed with AMP-PNP at the NBD binding
+  site. 2D plot human multidrug resistance protein 1 complexed with ATP, Mg and HOH
+  at the NBD binding site. 2D plot of multidrug ABC transporter sav1866, PDB ID 2HYD
+  complexed with ADP at the NBD binding site Docked compelx of piperine at the NBD
+  of 2HYD showing binding mode of the molecule and amino acid stablizing the complexs\n\n\n\n\n\n\nP-gp
+  inhibitors were docked at the NBD of P-gp which have hydrophobic cavity where small
+  steroid like molecules bind whereas flavonoids binding is shared with ATP binding
+  site as well as steroid binding site . Docking energies of piperine and its conformation
+  indicate how it docked at the NBD site. Docking conformation of all inhibitors is
+  shown with E-pharmacophore features in Fig. 2S.\n\nIn our docking study with Glide,
+  docking energy of ATP is nearly −12.18 kcal mol−1. Most of the new generation inhibitors
+  have docking energies closer to −11 kcal mol−1 except R101933. LY335979, GF120918,
+  Biricodar having docking energies −11.42, −11.37, −11.26 kcal mol−1 respectively.
+  Third generation inhibitor biricodar is a clinically important molecule which has
+  docking score −11.26 equal to AMP-PNP and higher to AMP.\n\n\nGlide dock score of
+  1st and 2nd/3rd generation inhibitors at NBD site  \n\n\nAll scores are given in
+  kcal mol−1; 3rd generation inhibitors are marked with star\n\nDocking was also performed
+  at the TMD domain of P-gp where it is complexed with ligand OJZ:-4,11,18-tris(1-methylethyl)-6,13,20-triselena-3,10,17,22,23,24-hexaazatetracyclo
+  tetracosa-1(21),7,14-triene-2,9,16-trione. Similar SP/XP-Glide docking protocol
+  was followed except, center for grid generation was set to the centroid of complex
+  ligand OJZ, i.e., X, Y and Z: coordinates were 19.091, 52.349 and −0.277 respectively.
+  The glide docking results are summarized in Table 3.\n\n\nDocking score of 1st and
+  2nd/3rd generation inhibitors at TMD of pg-P  \n\n\nHowever docking score obtained
+  with AutoDock favors clinical developmental progress made in the direction of 2nd
+  and 3rd generation of inhibitors. Descending orders of their docking energies are
+  Biricodar-vx-710, R101933, XR9576, OC144-093, GF120918 and LY335979. To summarize,
+  inhibitors of P-gp were docked and docked conformations of highest priority were
+  plotted by ligplot software. Presence of these residues at binding site could be
+  used as reference for docking and virtual screening for next generation of P-gp
+  inhibitors.\n\n\n\n\n\nSince P-gp inhibitors are diverse set of active molecules
+  therefore we prepared hierarchical cluster into seven classes. These clusters are
+  cluster1: ADP, ATP and AMP-PNP cluster2: itraconazole, ketaconazole and chloropromazine
+  cluster3: ritonavir, nicardpine, terfenadine, tetrabenzene, tamoxifen and bepridil
+  cluster4: LY335979, quanidine, vinblastine and quinine cluster5: cortisol, progestreron,
+  clarithromycin, sirolimus, tacrolimus and erthromycin cluster6: XR9576, GF120918,
+  R101933, biricodar, reserpine, aestimizole and amiodarone cluster7: OC144-093 and
+  piperine. Disulfiram and dipridamole have unique structure these do not belong to
+  any cluster. All these clusters were docked with SP glide and refined with XP glide
+  scoring function using energy based descriptors. Energy based pharmacophore shown
+  in Fig. 3S(a–f) and Table 4. The most favorable interaction shown by inhibitors
+  of clusters 2,3,4,6 and 7 are their aromatic regions R35, R42, R58, R87, R18 of
+  the NBD where purine ring of ATP/ADP binds. These aromatic regions shown by orange
+  ring have spatial distance in range of 11–13 Å with negative ionizable center.\n\n\nE-pharmacophore
+  features of P-gp inhibitors and scores  \n\n\n\nE-pharmacophore feature of the inhibitors
+  of highest docking score, i.e., LY335979, GF120918 and Biricodar-Vx-710 suggest
+  that R41 and R49/R45 is a must match site with spatial distance of 11 Å. E-pharmacophores
+  of all active inhibitors have been given in Fig. 5S.\n\n\n\nDocked conformaton of
+  piperine and ADP and docked conformation of ADP AMP-PNP and ATP showing that either
+  of the two conformations could be achived by aromatic ring of purine separated by
+  distance of 11.026 Å. This explains piperine might be competiting with the ADP/ATP
+  during efflux process.\n\n\n(a) E-pharmacophore and binding mode of piperine aligned
+  with ADP; E-pharmacophore and binding mode of ATP, ADP and AMP-PNP, showing conformation
+  of purine moiety which could take either of two conformations\n\n\n\nP-gp plays
+  a significant role in the bioavailability of several drugs mainly cytotoxic hydrophobic
+  and anticancerous drugs. Cell viability/cell cytotoxicity assay in the presence
+  of piperine in MDCK cell line has shown that piperine treated cells are more viable
+  than untreated cells. It indicates that piperine is not toxic even at higher doses
+  and has survival benefits in loss of growth media. Effect of piperine was also studied
+  in MCF-7, U87/U373, where it has not shown any undesirable effect upto 100 μM. Piperine
+  treatment causes accumulation of fluorescent dye rhodamine as shown by fluorescence
+  microscopy and fluorescent activated cell sorter. These finding indicate that piperine
+  might be competing with ATP or binding in close vicinity of ATP binding site like
+  steroids and flavonoids .\n\nPDB BLAST for human P-gp reference sequence  was performed.
+  PDB ID 3G60 and 3G5U has shown query coverage of 99 % and zero e-value but these
+  structures do not get complexed with nucleotide. Thereby available human X-ray crystallographic
+  P-gp structures are unable to provide actual conformation of NBD domain, its cavity
+  and binding mode of ATP/ADP. Hence to obtain a 3D structure of human P-gp complexed
+  with nucleotide it was modeled, using 2HYD as template. It was modeled with an overall
+  quality factor of 92.032. However identity of human and bacterial efflux protein
+  is 34 %, but have very high positive 53 % score. This is why the obtained modeled
+  structure has very high accuracy.\n\nModeling of nucleotide binding site has shown
+  a huge cavity of  which can accommodate inhibitors of high molecular weight along
+  with ATP. Steroids and flavonoids like molecule have affinity to the vicinal site
+  of ATP binding sites reported by Di Pietro et al. and Conseil et al. . Docking with
+  glide and AutoDock has shown that most of the 3rd generation inhibitors and P-gp
+  inhibitor of clinical use, i.e., biricodar dock well with higher scores than most
+  of the 1st and 2nd generation inhibitors at NBD domain. It indicates that these
+  inhibitors do bind at ATP binding site of NBD of P-gp and inhibit efflux. In order
+  to find out whether piperine also binds at NBD domain of P-gp, it was docked and
+  it was found that amino acid residues lying 3-4Ǻ close to NBD are comparable with
+  ADP, ATP, ADP-PNP complexed with P-gp protein. Significant amino acids residues
+  in docked conformations at the nucleotide binding site indicate that molecules have
+  effective interaction with NBD. Higher docking score suggests that the molecule
+  could be considered as lead molecule and this active entity could be used for development
+  of the inhibitors of next generations.\n\nDocking simulation with glide-SP/XP module
+  has shown that ligands do not dock at NBD site. AutoDock also does not show docking
+  at NBD for these ligands except clarithromycin tacrolimus with very poor docking
+  and binding energies. These molecules, having macrocylic rings with high molecular
+  weight, might be possibly binding to the channel of cytosolic transmembrane domain
+  of P-gp; thereby plugging the efflux passage of P-gp substrates. Docking study of
+  P-gp inhibitors close to the ATP binding site has shown that these share common
+  residue at the binding site as indicated by the residues in the X-ray crystallographic
+  structure. Some 1st generation inhibitors have shown single mode of binding, i.e.,
+  all the conformers bind in a single mode.\n\nHowever, there are several reports
+  and co-crystallized structure PDB ID indicates that inhibition of efflux through
+  P-gp is due to binding of the P-gp inhibitor at TMD domain of protein. Hence these
+  inhibitors were docked at the TMD domain of P-gp at the centeroid of ligand complexed
+  in TMD domain via Glide module(SP and XP) of Schrodinger. The docking scores are
+  not in favor of 3rd generation inhibitors. Docking study indicates that NBD is a
+  site of inhibitor binding while TMD domains, which make passage/channel for the
+  efflux of P-gp substrates. Clarithromycin, Tacrolimus, Valinomycin, and Erthromycin
+  do not dock at NBD or have very poor docking scores of these ligands which indicates
+  that these molecules do not bind at NBD domain and higher docking score at TMD domain
+  indicates that these molecules might be occluded somewhere in the TMD passage thereby
+  inhibiting efflux of P-gp substrates.\n\nDocked conformation of piperine has shown
+  that it binds with the consensus sequence, i.e., residues of walker A/P loops which
+  also participate in the binding of α and β-phosphates or di and tri-nucleotides
+  of ADP/ATP. Loop contains invariant Gln stabilizes P-gp ATP complex, which is thought
+  to be attacking at ATP nucleotide. Histidine-1232 residue participating in binding
+  of piperine might be interfering with the polarization of water molecule. Piperine
+  docked at the NBD2 site binds with consensus sequence and its opposite linker region.
+  Docked conformation of piperine has shown that it binds with Walker A and Walker
+  C consensus sequences. Binding of piperine might be competing with ATP which is
+  required for energy coupled efflux of its substrate.\n\nE-pharmacophore feature
+  of the cluster-1 suggests that one negative and an aromatic feature with the spatial
+  distance of 11–13 Å is needed to be a class of absolute Pg-p inhibitors that could
+  be analogs of ADP/ATP. Negative feature is a center where γ and β phosphate groups
+  of ATP bind to the receptor and get hydrolyzed to ADP for efflux of P-gp substrate.
+  The aromatic features are a must match site occupied by all cluster groups) and.
+  E-pharmacophore of verpamil and ADP has shown negative center N37 = −1.45 and N38
+  = −5.48; Donor: D20 = −1.60 and D19 = −1.59, Aromatic: R49 = −0.89, R46 = −0.79
+  two each and one acceptor site A18 = −0.51. Among these sites two aromatic features
+  are common for all inhibitors. Based on the docking score at NBD as well as TMD
+  and E-pharmacophore it could be concluded that verapamil binds to the NBD domain.
+  E-pharmacophore feature of the inhibitors of highest docking score, i.e., LY335979,
+  GF120918 and Biricodar-Vx-710 suggest that R41 and R49/R45 are a must match site
+  with spatial distance of 11 Å\n\nE-pharmacophores of all inhibitors have been shown
+  in Fig. 5S. The scores of features R177, R155, R164, R118, R162, are −2.40, −145,
+  −1.25, −1.77, −0.79, and −0.73 respectively and represent all the clusters. If a
+  molecule satisfies the R177 and either of the R155 or R164 feature it could be a
+  potential inhibitor. The R177 and R164 are also pharmacophoric features of Bircodar,
+  a 3rd generation inhibitor preferred by clinicians to enhance the bioavailability
+  of several substrates. R177 and R164 are a most preferred site for purine ring of
+  ATP/ADP which could bind at either R177 or R164 site of NBD domain. This is also
+  the case of other 3rd generation of inhibitors GF120918 and LY335979 and several
+  other first generations of inhibitors nicardpine, amidarone, reserpine, verapamil,
+  OC- OC144-093 and ketaconazole.\n\nE-pharmacophores have shown that ATP/ADP and
+  piperine have a similar mode of binding. Binding of piperine to the NBD site share
+  common residues like other P-gp inhibitors and the entire docked conformers bind
+  in a single mode given by both docking methods used in this study. These findings
+  explain the observation of Shoba et al., i.e., why piperine enhances bioavailability
+  of curcumin by 2000 %.\n\n\n\nPiperine has shown survival benefits over untreated
+  MDCK cell line and also induces accumulation of P-gp’s substrate rhodamine. Higher
+  docking and binding scores of 2nd/3rd generation inhibitors in comparison to 1st
+  generation inhibitors suggest that nucleotide binding domain is the only site for
+  P-gp inhibitors except macrocyclic inhibitors. Higher scores of 3rd generation inhibitors
+  justify why these are so called 3rd generation inhibitors. Therefore it was concluded
+  that P-gp inhibitors could be classified as first; inhibitors that bind at NBD domain
+  second; inhibitors which probably bind in the transmembrane domain blocking the
+  passage of efflux channel. Crystallized complex of P-gp with ADP, ATP, and AMP-PNP
+  and docked-complex of piperine share common amino acids at the binding site confirming
+  that piperine also binds in close proximity to nucleotide binding domain. All these
+  findings suggest that P-gp inhibitors bind in the vicinity of ATP binding site.
+  Considering the E-pharmacophore and structural features of piperine and active entity
+  of other inhibitors, which have shown better or equivalent docking scores, could
+  be taken for the development for next generation of P-gp inhibitors. As a conclusion
+  most potent P-gp inhibitors can be developed based on piperine as a base molecule.\n\n\n\n\n\n\n\n\n"
+...

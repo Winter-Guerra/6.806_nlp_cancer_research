@@ -1,0 +1,486 @@
+['Plant protease inhibitors are a structurally highly diverse and ubiquitous class
+    of small proteins, which play various roles in plant development and defense against
+    pests and pathogens.', 'Particular isoforms inhibit in vitro proteases and other
+    enzymes that are not their natural substrates, for example proteases that have
+    roles in human diseases.', Mature potato tubers are a rich source of several protease
+    inhibitor families., Different cultivars have different inhibitor profiles., 'With
+    the objective to explore the functional diversity of the natural diversity of
+    potato protease inhibitors, we randomly selected and sequenced 9,600 cDNA clones
+    originated from mature tubers of ten potato cultivars.', 'Among these, 120 unique
+    inhibitor cDNA clones were identified by homology searches.', Eighty-eight inhibitors
+    represented novel sequence variants of known plant protease inhibitor families.,
+  'Most frequent were Kunitz-type inhibitors, potato protease inhibitors I and II,
+    pectin methylesterase inhibitors, metallocarboxypeptidase inhibitors and defensins.',
+  Twenty-three inhibitors were functionally characterized after heterologous expression
+    in the yeast Pichia pastoris., 'The purified recombinant proteins were tested
+    for inhibitory activity on trypsin, eleven pharmacological relevant proteases
+    and the non-proteolytic enzyme 5-lipoxygenase.', "Members of the KTI and PIN families
+    inhibited pig pancreas elastase, \u03B2-Secretase, Cathepsin K, HIV-1 protease
+    and potato 5-lipoxygenase.", 'Our results demonstrate in vitro inhibitory diversity
+    of small potato tuber proteins commonly known as protease inhibitors, which might
+    have biotechnological or medical applications.', 'The online version of this article
+    contains supplementary material, which is available to authorized users.', 'Potato
+    Tuber Enzyme inhibitor Protease inhibitor Heterologous expression Pichia pastoris
+
+
+
+
+    Protease inhibitors are ubiquitous, small proteins which are particularly abundant
+    in plant reproductive and storage organs such as seeds and tubers.', "They account
+    for 1\u201310 % of the total protein in storage tissues.", 'In higher plants,
+    several PI families have been characterized for their molecular structure and
+    biochemical function.', The structural basis of the interaction between proteases
+    and their inhibitors is under continuous investigation., PIs are involved in many
+    physiological processes via control of protease activity., The best characterized
+    example is their role in wound-induced defense responses of plants against herbivores
+    and pathogens., They are also considered as storage proteins., 'Potato tuber protein
+    consists mainly of patatin, the major storage protein, and numerous low molecular
+    weight PIs which can be classified in at least ten different families.', "Most
+    abundant are inhibitors of serine proteases from families known as Kunitz-type
+    inhibitors, potato protease inhibitors I and II and Bowman\u2013Birk inhibitors.",
+  KTIs are one of the best characterized inhibitors., These vacuolar proteins are
+    abundant in potato tubers and represent a highly diverse group of proteins., 'Most
+    KTIs are encoded at a complex locus on potato chromosome III, which is linked
+    to a quantitative trait locus for resistance to the oomycete Phytophthora infestans.',
+  Most KTIs consist of a single polypeptide chain of approximately 24 kDa with two
+    disulfide bridges and a single reactive site., 'Depending on the cultivar studied,
+    potato KTIs were classified in three to six structural subgroups.', The tremendous
+    structural variability among KTIs suggested functional diversity., Previous studies
+    revealed that KTIs have distinct target specificities in vitro and some have dual
+    or broad specificity., 'Inhibitors of subgroup KTI-A reduced the activity of serine
+    or aspartic proteases such as trypsin or cathepsin D. Members of subgroup KTI-B
+    inhibited trypsin, chymotrypsin or elastase and members of subgroup KTI-C inhibited
+    not only subtilisin and cysteine proteases, but also other enzymes like invertase.',
+  'Similar to KTIs, the PIN I and PIN II families display high structural and functional
+    diversity, particularly in the Solanaceae, and are organized as gene clusters
+    mainly on potato chromosome IX and III, respectively.', Plant PINs have been characterized
+    at the biochemical and molecular level., PIN I protein was first isolated from
+    potato tubers., 'More recent studies demonstrated PIN I expression in leaves,
+    stems, flowers and tuber sprouts, which is regulated by both environmental and
+    developmental signals.', "Proteins homologous to PIN I are found in several plant
+    species such as barley or maize, while PIN II\u2019s seem to be restricted to
+    the Solanaceae.", PIN proteins are suggested to function in plant interactions
+    with herbivores and microbes., 'Digestive enzymes in the guts of herbivores were
+    inhibited by plant PINs, restricting the absorption of essential amino acids and
+    consequently interfering with herbivore growth and development.', 'In vitro assays
+    confirmed inhibitory effects of plant PINs on the digestive serine proteases trypsin,
+    chymotrypsin or subtilisin.', The detrimental effect observed on herbivores and
+    pests led to the development of inhibitor-transgenic plants., 'However, due to
+    the adaptation of herbivores by maintaining diverse digestive enzymes and over-expressing
+    inhibitor insensitive enzymes, and last but not least due to the rejection of
+    transgenic crops by the public, transgenic approaches have not been widely adopted
+    in commercial food crops.', 'Beyond plant biotechnology, plant PIs became attractive
+    targets in pharmacology and drug development.', 'Inhibitors of KTI and BBI families,
+    purified from different leguminous seeds, were shown to block the activity of
+    several proteases and enzymes involved in human diseases).', 'Plant KTIs inhibited
+    proteins acting in the blood clotting cascade or in fibrinolysis such as factor
+    XIIa, factor Xa, thrombin, plasmin, plasma kallikrein or tissue plasminogen activator.',
+  Elastase and cathepsin G involved in inflammatory processes in humans were shown
+    to be inhibited by KTIs isolated from Bauhinia seeds., Several studies revealed
+    anti-tumor activity of BBI and KTI inhibitors., Trypsin inhibitors from Peltophorum
+    dubium and soybean induced cell death of human leukemic Jurkat cell lines by activation
+    of caspases 3 and 8., Inhibitors from seeds of the Chinese black soybean Glycine
+    max suppressed cell proliferation of MCF-7 breast cancer cells and HepG2 hepatoma
+    cells., Peptides derived from Bauhinia rufa trypsin Inhibitor inhibited the adhesion
+    of tumor cells to extracellular matrix glycoproteins., 'In summary, KTI effects
+    were investigated in inflammation, thrombosis, AIDS, parasitic diseases and antifungal
+    activity.', 'In this paper, we tap at the tremendous structural diversity of proteinaceous
+    inhibitors found in tubers of different potato genotypes and their potential inhibitory
+    functions.', 'Novel variants of KTI, PIN I, PIN II and other types of proteinaceous
+    inhibitors were isolated as full length cDNAs from tubers of ten different potato
+    varieties.', 'A subset was expressed as recombinant fusion proteins in the yeast
+    Pichia pastoris and examined for inhibitory properties on serine, cysteine and
+    aspartic proteases involved in human diseases including Alzheimer disease, AIDS
+    and osteoporosis, as well as on the potato enzyme lipoxygenase.', Field grown
+    tubers from nine potato varieties and one breeding clone were provided by EUROPLANT
+    Pflanzenzucht GmbH., 'Tubers were peeled, washed and snap frozen in liquid nitrogen.',
+  "Tuber tissue was homogenized by Mixer Mill MM 200 and stored at \u221280 \xB0C
+    until use.", "Total RNA was isolated from 5 g powdered, frozen tuber tissue using
+    the PureLink\xAE Plant-RNA reagent according to the manufacturer\u2019s guidelines.",
+  "Poly A+ RNA was prepared from total RNA using the Poly(A)Purist\u2122 MAG purification
+    kit following the suppliers instructions.", Ten cDNA libraries were constructed
+    from Poly A+ RNA of the ten genotypes., "cDNA synthesis and transformation of
+    Electromax\u2122 DH10B\u2122 T1 Phage resistant E. coli cells were performed using
+    to the CloneMiner\u2122 II cDNA Library construction kit and the supplier\u2019s
+    protocol.", 960 cDNA clones per library were randomly selected and stored in 96-well
+    microtiter plates., "Plasmid insertions were sequenced from the 5\u2032 end using
+    a primer matching to the M13-forward priming site of the pDONR\u2122222 vector
+    which was used for cDNA library construction.", Custom DNA Sanger-sequencing was
+    performed at the Max-Planck Genome Center ., Inhibitor sequences were identified
+    by BLAST comparisons to the NCBI nucleotide collection., "cDNA clones coding for
+    various inhibitors of proteases and other enzymes were selected and sequenced
+    from the 3\u2032 end using a primer specific for the M13-reverse priming site
+    to identify full length cDNA clones.", "Recombinant E. coli clones harboring inhibitor
+    sequences were propagated in LB-media containing 50 \xB5g/ml kanamycin.", "Plasmid
+    DNA was isolated using the Plasmid Mini Kit according to the manufacturer\u2019s
+    guidelines and stored at \u221220 \xB0C.", "cDNAs encoding mature protease inhibitors
+    were cloned into the multiple cloning sites of the expression vector pPICZ\u03B1A
+    without their putative signal sequences.", Putative signal sequences were identified
+    using SignalP 4.0 software., "Translation termination sequences were omitted in
+    fusing inhibitor sequences with the c-myc epitope and His-tag of the pPICZ\u03B1A
+    vector.", Expression of fusion proteins was controlled by the methanol-inducible
+    AOX1 promoter., "The native \u03B1-factor secretion signal sequence from Saccharomyces
+    cerevisiae allowed secretion of the fusion protein into the medium.", 'For expression
+    cloning, inhibitor sequences were amplified by PCR using 1 ng plasmid DNA as template
+    and the primers specified in Table 1.', "PCR conditions were: 95 \xB0C for 5 min,
+    followed by 20 cycles of 95 \xB0C for 1 min, 60 \xB0C for 1 min and 72 \xB0C for
+    1.5 min with a final extension step at 72 \xB0C for 5 min.", "Cloning of PCR products
+    into the pPICZ\u03B1A vector and transformation of Pichia pastoris cells was accomplished
+    with the EasySelect\u2122 Pichia Expression Kit according to the suppliers protocol.",
+  Nucleotide sequences were verified by direct sequencing., "Primer sequences for
+    expression cloning of 23 potato protease inhibitors in pPICZ\u03B1A  \n\n\naUnderlined
+    sequences are the restriction enzyme recognition sites used for cloning in pPICZ\u03B1A.",
+  "GAATTC is recognized by EcoRI, CACGTG by PmlI and GCGGCCGC by NotI\n\n\n\nRecombinant
+    P. pastoris\u2014strains expressing a specific inhibitor were pre-cultured by
+    inoculating 100 ml BMGY medium with a single colony.", "Cultures were incubated
+    with continuous shaking at 28 \xB0C for 24 h. Cells were harvested by centrifugation
+    at 2,000\xD7g for 10 min and re-suspended to an OD600 = 1 in 500 ml BMMY medium
+    to induce expression.", "P. pastoris cells were incubated for 72 h at 28 \xB0C
+    with continuous shaking.", Every 24 h 100 % Methanol was added to a final concentration
+    of 0.5 % to maintain induction., "Cells were harvested by centrifugation for 10
+    min and 3,000\xD7g.", The supernatants were transferred to a new tube and subsequently
+    used for protein purification., Solid ammonium sulfate was added to the supernatant
+    of the Pichia pastoris cell culture to a final concentration of 40 % and stirred
+    for 30 min at room temperature., "After centrifugation at 10,000\xD7g for 15 min
+    at 4\xB0, the pellet was dissolved in 5 ml binding buffer.", "The protein solution
+    was filtered through a syringe-attached 0.45 \xB5m filter and loaded onto a 5
+    ml Protino\xAE Ni\u2013NTA column attached to an \xC4kta Prime Plus chromatographic
+    system.", The column was washed with 150 ml binding buffer to remove unbound proteins.,
+  'The His-tagged fusion protein was eluted with 10 ml 0.02 M NaH2PO4, 1 M NaCl, 0.25
+    M imidazole, 5 % glycerol, pH 7.5.', "Fractions containing the fusion protein
+    were combined and the elution buffer was replaced with 0.01 M Tris/HCl pH 7.5,
+    5 % glycerol using PD-10 desalting columns according to the manufacturer\u2019s
+    guidelines.", "Eluted fusion protein was concentrated tenfold by ultrafiltration
+    using Amicon\xAE Ultra centrifugal filters.", "Protein concentration was estimated
+    using Qubit\xAE Protein Assay and BSA as standard.", "Proteins were snap frozen
+    in liquid nitrogen and stored at \u221280 \xB0C.", "Purification of fusion proteins
+    was checked on SDS-PAGE using Anykd\u2122 mini-protean\xAE TGX\u2122 precast polyacrylamide
+    gels according to the manufactures guidelines.", Western blot analysis was performed
+    using 10 ng of purified protein and anti-c-myc antibody following the protocol
+    supplied with the antibody., All inhibition assays were performed with purified
+    recombinant inhibitor protein on commercially available enzymes using colorimetric
+    assays., Enzymes were pre-incubated without inhibitor protein and with single
+    and double amounts of inhibitor protein as specified below., 'After pre-incubation,
+    the enzymatic reactions were started by adding the substrate.', Absorbance was
+    recorded in a microplate reader and used to calculate the residual enzyme activity.,
+  Enzyme inhibition was expressed as percentage of the enzyme activity in the controls.,
+  'In a first round of experiments, three to five inhibitors were pooled in different
+    molar ratios of inhibitor and enzyme and tested for enzyme inhibition.', 'In case
+    inhibitory activity of a pool on the tested enzyme was detected, the inhibitors
+    composing the pool were re-tested individually and values for the half maximal
+    inhibitory concentration were calculated.', "IC50 values of active inhibitors
+    were determined in triplicate by plotting percent initial activity against inhibitor
+    concentrations from 0 to 8 \xB5M in independent experiments.", 'Trypsin: Trypsin
+    was purchased from Sigma Aldrich.', The trypsin inhibition assay was performed
+    according to with minor modifications using azocasein as substrate., Trypsin stock
+    solution was prepared in a buffer containing 50 mM Tris/HCl pH 7.5 and 20 mM CaCl2.,
+  "5 \xB5g trypsin was pre-incubated for 10 min at RT either without, or with 0.5
+    and 1 \xB5M purified inhibitor in 40 \xB5l 100 mM Tris/HCl pH 7.5, 40 mM CaCl2.",
+  "After adding 40 \xB5l 2 % azocasein, the reactions were mixed by pipetting and
+    incubated for 1 h at RT.", "Reactions were stopped by adding 80 \xB5l 12 % TCA
+    and incubation for 30 min at RT.", "Precipitate was removed by centrifugation
+    and 100 \xB5l supernatant was transferred to a 96-well plate.", "50 \xB5l 4 N
+    NaOH were added and the absorbance at 440 nm was measured.", "Elastase: Porcine
+    pancreas elastase was supplied as part of the EnzChek\xAE Elastase Assay Kit.",
+  Human leukocyte elastase was purchased from Sigma Aldrich., "HLE was reconstituted
+    with dH2O to 1U/\xB5l.", "PPE and HLE were diluted to 0.2 U/ml in 100 \xB5l assay
+    buffer included in the EnzChek\xAE Elastase Assay Kit, and incubated for 10 min
+    at RT with either none, 200 or 400 nM inhibitor protein.", "Elastase activity
+    was determined according to the assay kit manufacturers\u2019 guidelines including
+    elastase inhibitor control reactions.", Fluorescence intensity of inhibitor samples
+    was corrected for background fluorescence determined from samples without enzyme.,
+  "Dipeptidylpeptidase 4: Screening for DPP4 inhibitors was performed using the DPP4
+    Drug Discovery Kit according to the manufacturer\u2018s guidelines.", DPP4 activity
+    was detected using the chromogenic substrate supplied with the kit., "DPP4 was
+    pre-incubated for 10 min at 37 \xB0C with either none, 100 or 200 nM inhibitor
+    protein.", The assay was started by adding the substrate and the absorption at
+    405 nm was continuously read., A 405 nm values were plotted versus time until
+    15 min after addition of the substrate and a regression line was obtained., The
+    slope was used to calculate DPP4 activity., "Factor IXa: Factor IXa was purchased
+    from Abcam\xAE and was diluted to 90 ng/\xB5l in assay buffer.", "20 \xB5l of
+    diluted enzyme solution was pre-incubated for 15 min at 37 \xB0C with 200 \xB5l
+    assay buffer containing none, 50 or 100 nM protease inhibitor in a 96-well plate.",
+  "The enzymatic reaction was initiated by adding 25 \xB5l of 10 mM substrate solution
+    and increase in absorbance at 405 nm was recorded for 15 min at 37 \xB0C.", A
+    linear regression was fitted to the linear proportion of the absorbance curve
+    and the slope was calculated., The background slope determined from samples without
+    enzymes was subtracted from enzyme and inhibitor samples., "Factor Xa: Factor
+    Xa was purchased from Merck KGaA and was diluted to 5 ng/\xB5l in assay buffer.",
+  "10 \xB5l of diluted enzyme solution was incubated for 10 min at 37 \xB0C in 80
+    \xB5l assay buffer including either none, 10 or 20 nM inhibitor in a 96-well plate.",
+  "10 \xB5l of 4 mM substrate solution was then added and the increase in absorbance
+    at 405 nm for 5 min at 37 \xB0C was recorded.", A linear regression was fitted
+    to the linear proportion of the absorbance curve and the slope was calculated.,
+  The background slope determined from samples without enzyme was subtracted from
+    control and inhibitor samples., "Thrombin: Thrombin from human plasma was purchased
+    from Sigma Aldrich.Thrombin enzyme solution was diluted in assay buffer to 7.5
+    ng/\xB5l.", "10 \xB5l diluted enzyme solution was incubated for 10 min at 37 \xB0C
+    either without or with 20 and 40 nM purified inhibitor in 80 \xB5l assay buffer
+    in a 96-well plate.", "After adding 20 \xB5l substrate solution release of \u03C1-nitroanilide
+    was monitored by the increase in absorbance at 405 nm for 5 min at 37 \xB0C.",
+  Background absorption was determined from reaction mixtures without enzyme., A linear
+    regression was fitted to the increase in absorbance and the enzyme activity was
+    calculated from the slope., The slope of the background was subtracted from the
+    slope of control measurements and the inhibitor samples., "\u03B2-Secretase: Screening
+    for BACE inhibitors was performed using the BACE Inhibitor Screening assay kit
+    according to the manufacturer\u2019s instructions.", "BACE was pre-incubated for
+    15 min at 4 \xB0C with either none, 100 or 200 nM inhibitor protein.", "HIV1-Protease:
+    Screening for HIV-1 protease inhibitors was performed using the Sensolyte\xAE
+    490 HIV1 Protease Assay Kit according to the manufacturer\u2019s guidelines.",
+  "HIV-1 protease was purchased from Ana Spec and was diluted to 10 ng/\xB5l with
+    assay buffer complemented with Dithiothreitol supplied with the kit.", 'HIV-1
+    protease was pre-incubated for 15 min at room temperature with either none, 100
+    or 200 nM inhibitor protein.', "Human Calpain-1: Screening for human calpain-1
+    inhibitors was performed using the Sensolyte\xAE AMC Calpain Activity Assay according
+    to the manufacturer\u2019s protocol.", "Human calpain-1 was pre-incubated for
+    5 min at 37 \xB0C with none, 100 or 200 nM inhibitor protein.", "Caspase-1: Screening
+    for human Caspase-1 inhibitors was performed using the Caspase-1 Drug Discovery
+    Kit according to the manufacturer\u2019s guidelines.", Caspase-1 activity was
+    detected using the chromogenic substrate supplied with the kit., "Caspase-1 was
+    pre-incubated for 10 min at 30 \xB0C with either none, 100 or 200 nM inhibitor
+    protein.", The assay was started by adding the substrate and the absorption at
+    405 nm was continuously read for 30 min., A 405 nm values were plotted versus
+    time until 15 min after addition of the substrate and a regression line was obtained.,
+  The slope was used to calculate Caspase-1 activity., "Cathepsin K: Screening for
+    Cathepsin K inhibitors was performed using the Cathepsin K Drug Discovery Kit
+    according to the manufacturer\u2019s guidelines.", "Cathepsin K was pre-incubated
+    for 30 min at 37 \xB0C with either none, 100 or 200 nM inhibitor protein.", "Matrix-Metalloproteinase-P9:
+    Screening for MMP-9 inhibitors was performed using the MMP-9 colorimetric drug
+    discovery kit according to the manufacturer\u2019s guidelines.", "MMP-9 was pre-incubated
+    for 30 min, at 37 \xB0C with either none, 200 or 400 nM inhibitor protein.", '5-Lipoxygenase:
+    Lipoxygenase activity was assayed using the Lipoxygenase Inhibitor Screening Assay
+    Kit according to the manufactures guidelines.', 5-Lipoxygenase from Solanum tuberosum
+    was purchased from Cayman Chemical Company., Linolenic acid was used as substrate.,
+  "Residual 5-Lox activity was determined after pre-incubation for 15 min at 4 \xB0C
+    with either none, 200 or 400 nM protease inhibitor.", Data analysis was performed
+    according to the instructions supplied with the assay kit., 'In total 9,600 cDNA
+    clones were randomly selected from small libraries prepared from mature tuber
+    mRNA of ten potato genotypes and sequenced.', One-hundred and seventy-five mostly
+    full length cDNA clones encoding various inhibitor types were identified based
+    on sequence similarity to known inhibitors in the GenBank core collection., 'After
+    the removal of duplicate sequences, 120 unique inhibitor sequences remained, which
+    matched to 31 loci in the potato genome.', The deduced polypeptide sequence of
+    88 inhibitors differed between 1 % and 18 % from inhibitor sequences present in
+    the GenBank core collection., The nucleotide sequences fell into 19 structural
+    groups with the largest group corresponding to Kunitz-type inhibitors A and B.,
+  The Kunitz-type protease inhibitor family accounted for 52 % of the inhibitor collection.,
+  'The KTI family is divided into six structural groups, four of which were represented
+    in the inhibitor collection.', 'Fourteen KTIs assigned to group A, 33 in group
+    B,12 in group C and 4 in group D matched to two, one, three and two loci, respectively,
+    in the potato genome(supplemental Table 1, Fig.', 1).The second largest group
+    corresponded to the potato protease inhibitor family., PINs are divided in two
+    structural groups., 'Accordingly, 9 and 8 cDNAs were classified as members of
+    the subfamilies PIN I and PIN II, respectively.', The 17 PINs matched to three
+    loci., Nine sequences were assigned to pectin methylesterase inhibitors derived
+    from three loci., Seven cDNAs each were identified as metallocarboxypeptidase
+    inhibitors and defensins or Gamma-thionins., 'The remaining 17 cDNAs were classified
+    in other inhibitor families like BAX, RNase E and putative phosphatase 2A inhibitors.',
+  Physical map of genes encoding potato proteinaceous enzyme inhibitors., "Genomic
+    positions are according to the potato pseudomolecules at http://\u200Bpotato.\u200Bplantbiology.\u200Bmsu.\u200Bedu/\u200Bcgi-bin/\u200Bgbrowse/\u200Bpotato/\u200B.",
+  Locus identifiers are shown to the right and names of encoded inhibitors are shown
+    to the left of the chromosomes., Further details are shown in supplemental Table
+    1., 'NA: the locus is not annotated in the potato genome
+
+
+
+
+    Twenty-nine inhibitors were selected for functional characterization of fusion
+    proteins expressed in Pichia pastoris.', The majority of the inhibitors were chosen
+    based on previously described pharmacological properties of representatives of
+    the KTI and PIN families., 'The major KTI structural groups A, B and C were represented
+    by seven, twelve and three inhibitor variants, respectively.', The PIN family
+    was represented by two inhibitors each of the PIN I and PIN II sub-family., "In
+    addition to the KTI and PIN representatives, one PMEI, one RNase E and the unique
+    \u2018Cyclin dependent kinase inhibitor 2\u2032 were selected.", The sequences
+    corresponding to the mature inhibitor polypeptides of 23 inhibitors were successfully
+    expressed in Pichia pastoris., Expression of seven inhibitors could not be detected
+    in the P. pastoris system., Fusion proteins were purified from the culture medium
+    by affinity chromatography., 'As an example, purification of the KTI-C inhibitor
+    PI1410 is shown in Fig.', '2.', Following SDS-PAGE a faint band of 23 kDa was
+    visible in the P.pastoris growth-media corresponding to the expected size of the
+    fusion protein., Further purification by ammonium sulfate precipitation and affinity
+    chromatography resulted in an enrichment of the 23 kDa protein band., The purified
+    fusion protein was identified by Western blot analysis using a myc-tag antibody
+    as probe., All 23 inhibitors were expressed in P. pastoris cells as described
+    for PI1410 and expression was verified by Western blot analysis., Inhibition assays
+    were carried out using the purified inhibitor fusion protein., Purification of
+    the PI1410 fusion protein from P. pastoris culture media by affinity chromatography.,
+  a Coomassie stained SDS-PAGE., 'Lane 1, P. pastoris culture media supernatant after
+    72 h induction of PI1410 expression by methanol.', 'Lane 2, proteins precipitated
+    with 40 % Ammonium sulfate from P. pastoris culture media.', 'Lane 3, purified
+    and concentrated PI1410 inhibitor protein.', b Western blot analysis., 'Lane 1,
+    purified and concentrated PI1410 inhibitor protein following incubation with anti-myc-tag
+    antibody.', 'M molecular weight standards
+
+
+
+
+    Purified inhibitor proteins were tested for in vitro inhibition of the serine
+    proteases trypsin, elastase, dipeptidylpeptidase IV, factor IXa, factor Xa and
+    thrombin.', Four inhibitors did not show any inhibitory activity on any of the
+    enzymes tested., 'The serine proteases HLE, DPP IV, FIXa, FXa and thrombin, the
+    cysteine proteases Calpain-1, Caspase-1 and the matrix-metallopeptidase-9 were
+    not affected by any of the tested inhibitors.', 'Many inhibitors from the KTI,
+    PIN and PMEI families are known to inhibit trypsin.', 'Trypsin inhibition among
+    and within the inhibitor families was highly diverse, ranging from 0 to 87 % inhibition.',
+  'Among the KTIs, trypsin was inhibited primarily by members of subgroup B and percent
+    inhibition varied from 16 % to 83 %.', KTI-A and KTI-C inhibitors had no or minor
+    inhibitory effects on trypsin., Three PINs showed inhibitory properties comparable
+    to KTI-B proteins., The representative of the PMEI family showed only mild trypsin
+    inhibition., "Both PIN II inhibitors PI4434 and PI6669 inhibited the pig pancreas
+    elastase with IC50 values of 0.67 \xB5M and 0.97 \xB5M, respectively.", "Furthermore,
+    the fusion proteins were tested for inhibition of the aspartyl proteases \u03B2-secretase
+    and HIV-1 protease.", Inhibitors related to KTI-B and KTI-C subfamilies were responsible
+    for BACE inhibition when tested individually., "The KTI-B inhibitors PI8234, PI2112,
+    PI5887 and PI4587 and the KTI-C inhibitor PI5446 strongly inhibited BACE with
+    IC50 values between 0.36 \xB5M and 0.81 \xB5M.", "HIV-1 protease was inhibited
+    by the PIN I inhibitor PI6013 with an IC50 value of 0.67 \xB5M.", 'The cysteine
+    protease Cathepsin K was effectively inhibited by all three KTI-Cs tested and
+    by the PIN I inhibitor PI6013, which in addition inhibited the HIV-1 protease.',
+  "The KTI-C inhibitors with IC50 values between 0.02 and 0.09 \xB5M were more effective
+    than the PIN I inhibitor with an IC50 value of 0.77 \xB5M.", 5-Lipoxygenase was
+    the only non-proteolytic enzyme tested., "5-Lipoxygenase was exclusively inhibited
+    by all three KTI-C inhibitors PI1410, PI5446 and PI420 with IC50 values of 1.59
+    \xB5M, 1.01 \xB5M and 1.28 \xB5M, respectively.", "In vitro inhibition of proteases
+    and lipoxygenase by heterologous expressed potato tuber protease inhibitors  \n\n\n\n\n\nSequencing
+    9,600 randomly selected cDNA clones from mature potato tuber tissue of ten cultivars
+    yielded 175 cDNA clones coding for various enzyme inhibitors according to sequence
+    similarity.", 'The overall transcript frequency of inhibitors was 1.8 %, which
+    is in the same order of magnitude as previously observed in 1,600 cDNA clones
+    from tubers of cultivars Provita and Saturna.', 'The number of inhibitors isolated
+    from individual cultivars varied widely, from three in cv Elfe to thirty-one in
+    cv Solara, indicating large variation of inhibitor transcript levels, which could
+    result from genotypic differences or different physiological states of the tubers
+    used for library construction.', Consistent with previous observations the majority
+    of all inhibitors slightly differed from sequences described in GenBank., The
+    120 unique nucleotide sequences matched to 31 loci on 10 of the 12 potato chromosomes.,
+  'The number of coding loci could be smaller, as some inhibitors matched with similar
+    high scores to more than one locus.', This indicates that many sequence variants
+    were allelic., "In particular, the 59 KTI\u2019s in groups A, B and C originated
+    from only six loci, confirming the large allelic diversity of these genes.", 'To
+    test whether structural variation is accompanied by functional diversification,
+    we selected 29 representatives of various inhibitor classes for heterologous expression
+    in the yeast P. pastoris.', "Twenty-three inhibitors could be expressed in soluble
+    form and purified in sufficient quantity, mostly KTI\u2019s and PIN\u2019s.",
+  The recombinant proteins were evaluated for in vitro enzyme inhibitory functions.,
+  'Four purified, soluble inhibitor proteins did not show any biological activity,
+    neither against trypsin, the most commonly used enzyme for protease inhibition
+    assays, nor any of the other enzymes tested.', These proteins might have folded
+    incorrectly or lacked components required for activity or their activity spectrum
+    is completely different from the one covered in our study., "The remaining nineteen
+    proteins inhibited with different efficiency trypsin, the pharmacological important
+    proteases pig pancreatic elastase, human \u03B2-secretase, human cathepsin K,
+    and human HIV-1 protease, and potato 5-lipoxygenase.", Trypsin and elastase are
+    digestive proteases of insects that were previously shown to be targeted by plant
+    PIs in the context of plant defense against herbivores., "Among the tested KTI\u2019s
+    trypsin was effectively inhibited only by group B inhibitors, whereas group A
+    and C KTI\u2019s showed weak or no trypsin inhibition.", This contrasts a previous
+    study where both A and B KTIs inhibited trypsin when the fusion proteins were
+    expressed in the fission yeast S. pombe., The discrepancies may be the consequence
+    of the different heterologous expression systems and tags used., The KTI-A inhibitor
+    constructs expressed in P. pastoris might have been non-functional due to incorrect
+    protein folding or lack of disulfide bridge formation., 'In addition to trypsin,
+    four of ten biologically active KTI-B proteins inhibited BACE-1, demonstrating
+    functional diversity within this group of allelic sequences.', "In agreement with
+    previous functional studies trypsin inhibition by KTI\u2019s in group C was low
+    or even absent, which is likely due to a different substrate specificity.", "The
+    three KTI\u2019s in group C were biologically active since they all inhibited
+    cathepsin K and potato 5-lipoxygenase.", 'In addition, the KTI-C inhibitor PI5446
+    showed inhibitory properties on BACE-1.', This functional difference presumably
+    reflects the sequence diversity within the KTI-C family., 'The KTI group C proteins
+    inhibited most effectively the cysteine protease cathepsin K, suggesting cysteine
+    proteases as their main targets, although they show no homology to known cysteine
+    protease inhibitor superfamilies.', Further functions beyond protease inhibition
+    are possible., 'Besides the newly identified inhibition of potato 5-lipoxygenase,
+    KTI group C proteins have been found to inhibit in vitro soluble potato tuber
+    invertase.', KTI-C inhibitor PI4202 is identical to these putative invertase inhibitors
+    characterized previously., 'Besides the serine protease trypsin, the potato proteinase
+    inhibitor I PI6013 inhibited the cysteine protease cathepsin K and the aspartyl
+    protease HIV-1.', This PIN I protein seems to have multiple specificities., Previous
+    studies had revealed high inter- and intra-specific structural and functional
+    diversity among the PIN I family., Native PIN I proteins have been suggested to
+    occur as hexameric protein complexes in which every monomer represents a functional
+    unit., PIN I monomers interact with the reactive center of a protease by a constrained
+    loop protruding from the surface of the molecule., Substrate specificity is supposed
+    to be determined by the amino acid composition of the reactive loop., A lysine
+    residue may interact with trypsin-like proteases while leucine or methionine at
+    the same position in the reactive loop will bind to and inhibit proteases specific
+    for hydrophobic side chains such as chymotrypsin., 'PI6013 possesses an alanine
+    residue at the corresponding position in the reactive loop, which might explain
+    the different substrate specificities of this inhibitor.', Two representatives
+    from the potato proteinase inhibitor family II inhibited trypsin and in addition
+    elastase from pig pancreas., The activity of human leukocyte elastase was not
+    affected., Members of the PIN II family are mainly found in the Solanaceae., 'Initially
+    characterized in potato tubers they have been detected in leaves, flowers, fruits
+    and phloem tissue of different Solanaceous species.', 'Interestingly, PPE has
+    been used as model system in several pharmacological screening assays for finding
+    human leucocyte elastase inhibitors.', PIN II proteins function in planta presumably
+    in defense reactions in response to the attack of herbivores and other pests.,
+  The PIN II proteins PI4434 and PI6669 may act on insect gut proteases as part of
+    constitutive defense mechanisms against herbivores in potato tubers and other
+    tissues., Diversity and abundance of plant protease inhibitors make them excellent
+    sources for discovering novel enzyme inhibitors with specific pharmacological
+    effects., 'Previous studies revealed several plant proteinase inhibitors acting
+    on proteases involved in blood coagulation, fibrinolysis, inflammation or tumor
+    cell proliferation .', "The therapeutic effect of a soybean derived Bowman\u2013Birk
+    inhibitor in inflammatory diseases and cancer has been shown in several completed
+    or ongoing human trials.", 'To the best of our knowledge, this is the first report
+    of plant-derived Kunitz-type inhibitors with inhibitory activity on BACE-1 and
+    cathepsin K, and a PIN I protein restricting HIV-1 protease activity.', "Human
+    BACE-1 catalyzes the initial step in amyloidogenic metabolism of the large transmembrane
+    amyloid precursor protein leading to the release of the amyloid \u03B2-peptide.",
+  "A\u03B2 was identified as the main constituent of extracellular plaques in human
+    brain which are characteristic for Alzheimer\u2019s disease.", Inhibition of BACE-1
+    could potentially reduce the extent of amyloid plaques and slow down or reverse
+    the progression of the disease., 'Hence, the design of selective inhibitors of
+    BACE-1 has been the target of intensive pharmaceutical development.', "Clinical
+    effective BACE-1 inhibitors require high specificity and the ability to penetrate
+    the blood\u2013brain barrier and neuronal membranes.", 'The KTI-B inhibitors of
+    BACE-1 in our set exhibited higher substrate specificity compared to the KTI-C
+    inhibitor, which qualifies them as lead structures for further research on drug
+    development.', The tested KTI-C inhibitors were the most effective inhibitors
+    of cathepsin K in our experiments., Cathepsin K is a lysosomal cysteine protease
+    involved in osteoclast-mediated bone resorption., 'Inhibition of cathepsin K represents
+    a potentially effective therapeutic approach for treating diseases characterized
+    by excessive bone resorption, such as osteoporosis.', 'KTI-C inhibitors showed
+    a broader range of biological activity than KTI-B inhibitors, since members of
+    this group inhibited 5-lipoxygenase in addition to BACE-1 and Cathepsin K. Nevertheless,
+    the KTI-C inhibitors present potent starting points for protein engineering with
+    the aim to increase substrate specificity.', 'The same is true for the PINI inhibitor
+    PI6013, which showed similar inhibitory properties on cathepsin K as well as HIV-protease,
+    which is involved in virus proliferation.', The biological activity of potato
+    KTIs is not limited to protease inhibition., 'Besides inhibition of invertase
+    by specific members of the KTI-C family, we demonstrated in this study that three
+    KTI-C recombinant proteins inhibit potato 5-lipoxygenase.', 'Plant lipoxygenases
+    are key enzymes in the biosynthesis of oxylipins, which play important roles in
+    plant defense and development.', The substrates of LOX are polyunsaturated fatty
+    acids., 'The 5-LOX activity converts arachidonic acid in 5-Hydroperoxyeicosatetraenoic
+    acid, an intermediate in the biosynthesis of leukotrienes and other eicosanoids.',
+  The 5-LOX pathway is not only relevant for plant defense but also for inflammatory
+    processes in humans leading to pathologies such as asthma and allergic reactions.,
+  '5-LOX inhibitors have, therefore, been the targets of drug development.', The inhibition
+    of LOX also opens up new possibilities for the in planta function of KTIs beyond
+    protease inhibition., 'The new inhibitory functions discovered in this study might
+    be just the tip of an iceberg, as our functional screens covered only a small
+    fraction of enzymatic reactions.', Screening recombinant potato inhibitors on
+    additional classes of enzymes might reveal further biological activities., 'In
+    conclusion, we provide novel insights into the structural and functional diversity
+    of proteinaceous inhibitors of potato tubers, which have potential for biotechnological
+    applications.', 'We identified inhibitors for proteases involved in severe human
+    diseases, which may be used in drug development.', Further studies of the mechanism
+    of action and binding of natural inhibitors can provide leads for developing therapeutic
+    agents against human diseases., The discovery of LOX inhibition by certain Kunitz-type
+    inhibitors opens new possibilities for the in vivo functional role of this abundant
+    class of tuber proteins., This research was carried out in the department Plant
+    Breeding and Genetics headed by Maarten Koornneef., 'Funding was provided by the
+    Max-Planck Society within the BIOSOL project, in cooperation with the Fraunhofer
+    Society.', 'Open AccessThis article is distributed under the terms of the Creative
+    Commons Attribution License which permits any use, distribution, and reproduction
+    in any medium, provided the original author(s) and the source are credited.',
+  Supplementary material 1 Table 1., 'One-hundred and twenty potato tuber proteinaceous
+    inhibitors: classification, annotation, GenBank accession, similarity to known
+    inhibitors, position in the potato genome
+
+
+    Supplementary material 2 Fig.', '1.', DNA sequences and primer sequences of 29
+    protease inhibitors selected for heterologous expression in P. pastoris]

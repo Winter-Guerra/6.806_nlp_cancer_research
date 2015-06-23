@@ -1,0 +1,704 @@
+['Raritan Bay, located between the states of New York and New Jersey, has a long history
+    of cultural eutrophication and associated harmful algal blooms.', 'Despite striking
+    chemical and biological alterations occurring in Raritan Bay, publications in
+    the early 1960s were the last to report consecutive measurements of both water
+    quality parameters and plankton species composition in this system.', 'The objectives
+    of this study were to characterize water quality trends and plankton composition
+    in a eutrophic estuary, compare current environmental conditions to those documented
+    in Raritan Bay 50 years ago, and to further clarify the relationship among nutrients,
+    secondary consumers, and algal bloom generation in this system using ordination
+    techniques.', 'This study indicates that Raritan Bay continues to exhibit numerous
+    symptoms of eutrophication, including high algal biomass, high turbidity, violations
+    of the dissolved oxygen standard to protect fish health, and blooms of potentially
+    harmful phytoplankton species.', 'Altered spatial and temporal patterns for nitrate
+    and soluble reactive phosphorus over the past 50 years may suggest new, changing,
+    or expanding sources of nutrients.', 'A total of 14 HAB species have been identified,
+    including Heterosigma akashiwo, which formed a bloom in the upper Raritan Bay
+    during summer 2012 in association with hypoxic conditions.', 'Multivariate analyses
+    indicate that abundance of this species is positively associated with high temperature,
+    salinity, nitrate, and SRP and negatively associated with spring river discharge
+    rates and total zooplankton abundance in Raritan Bay.', Environmental monitoring
+    and assessments of nearshore coastal ecosystems have become critical as human
+    populations expand and intensify the strain on these ecologically and economically
+    important systems., 'Concentrated human activities have accelerated fluxes of
+    nutrients to coastal waters and led to cultural eutrophication and associated
+    increases in productivity, simplification of aquatic communities, and ecosystem
+    instability.', 'Of particular concern in eutrophic coastal ecosystems is the stimulation
+    of harmful algal blooms, which cause environmental damage by depleting available
+    oxygen, reducing light availability, disrupting recreational uses, and/or producing
+    toxins harmful to other organisms including humans.', 'In recent decades, there
+    has been a global increase in the reported number of HABs.', 'Few coastal environments
+    have been left unaltered by the effects of anthropogenic eutrophication, and it
+    is clearly one of the major environmental problems facing coastal resource managers.',
+  "The Hudson\u2013Raritan estuary of New York and New Jersey is one of the most urbanized
+    estuaries, and busiest ports, in the world.", 'Not surprisingly, this system has
+    a long history of environmental degradation.', 'Public policy debates regarding
+    waste disposal and water pollution began as early as the sevententh century, and
+    by the turn of the twentieth century, shoreline development, discharges of industrial
+    waste, and inadequate waste disposal methods led to collapse of the oyster industry,
+    reduced fish abundance and diversity, beach closures, nutrient enrichment, and
+    severe oxygen depletion 2007).', 'The present study aims to build upon current
+    understanding of the coastal eutrophication process by evaluating linkages among
+    nutrient concentrations and phytoplankton and zooplankton assemblage composition
+    in the Raritan Bay ecosystem, located at the southern portion of Lower New York
+    Bay between the states of New York and New Jersey.', 'Although historical water
+    quality data for this system exist, current information on water quality characteristics
+    in relation to plankton dynamics is lacking.', 'In addition, more recent studies
+    in this system focus primarily on sediment contamination, heavy metals, and bioaccumulation
+    of persistent organic pollutants.', 'To our knowledge, publications by Jeffries
+    in the early 1960s were the last to report on the results of both nutrient and
+    plankton dynamics in Raritan Bay for a period of longer than 1 year.', 'Even then,
+    Jeffries reported that rich nutrient supplies and a sluggish circulation were
+    contributing to extremely dense plankton populations and low summer dissolved
+    oxygen concentrations.', 'Interestingly, when Jeffries conducted his study in
+    Raritan Bay, cultural eutrophication was not yet perceived as a widespread problem
+    in the coastal marine environment.', 'However, it was around this time that scientists
+    first made the connection between nutrient loading from the land and intensive
+    coastal algal blooms and began expressing serious concern about eutrophication
+    after conducting research in this region of the Long Island Sound and the New
+    York Bight, which includes Raritan Bay.', 'Therefore, our intent was not only
+    to complete a multiyear study of water quality and plankton dynamics in a eutrophic
+    estuary but also to collect environmental data from the same six sampling sites
+    in Raritan Bay monitored in this system by Jeffries, so that current environmental
+    conditions could be compared to those documented in this system more than 50 years
+    ago.', Another indicator of the long-term water quality degradation of the Raritan
+    Bay is the large phytoplankton blooms that have occurred annually in this system
+    for decades., 'Eutrophication problems, such as HABs, cannot be diagnosed by studies
+    and monitoring programs that focus on algal chlorophyll biomass alone.', "Yet,
+    previous studies in Raritan Bay do not include plankton identifications to the
+    genus or species level or analysis of changes in phytoplankton species composition
+    in relation to both \u201Cbottom up\u201D and \u201Ctop down\u201D effects.",
+  'As a result, this study also aims to further clarify the relationships among habitat
+    characteristics, nutrient concentrations, plankton species composition, and algal
+    bloom generation.', This satisfies an urgent need in this system and in general
+    to better understand the environmental conditions contributing to the success
+    of individual species and leading to the generation of phytoplankton blooms in
+    estuaries., 'Here, we address variation in phytoplankton species composition using
+    ordination, which has been described as a group of methods for data reduction
+    leading to hypothesis generation.', "Ordination techniques are especially useful
+    for analyzing community data because they reveal the strongest patterns in species
+    composition by representing complex ecological relations in low-dimensional space
+    and provide interpretations of species\u2013environment relationships.", 'This
+    represents one of the few available studies, and the first for the Raritan Bay
+    ecosystem, to include accurate and consistent data over a 3-year period on phytoplankton
+    assemblage composition in relation to both nutrients and zooplankton composition
+    and to use ordination techniques to evaluate linkages among these parameters.',
+  'This approach, which can be adapted to examining the eutrophication process in
+    other coastal systems, will aid in predicting biological changes under certain
+    circumstances and identifying where corrective measures are most necessary.',
+  'The Raritan River flows ~26 km through the central New Jersey Highlands and Piedmont
+    before slowing in tidewater at New Brunswick, and its estuary extends another
+    ~23 km before entering Raritan Bay at South Amboy.', 'The Raritan River Basin,
+    the largest river basin in NJ, comprises approximately 2,850 km2 and contains
+    approximately 1.2 million people.', 'Land use is primarily woodlands, suburban
+    and agricultural in the upper RRB, and the lower RRB is dominated by urban/suburban
+    land use with industrial and commercial centers throughout.', Water quality studies
+    within the basin have indicated that total phosphorus and fecal coliform bacteria
+    are two of the water quality parameters that most commonly fail to meet New Jersey
+    reference levels., 'Permitted point source dischargers in the RRB, which include
+    &gt;575 wastewater treatment facilities concentrated in Middlesex County surrounding
+    the mouth of the Raritan River), account for more than one third of the TP and
+    one third of the nitrate load at low- and median-flow conditions.', Most municipal
+    WWTPs were upgraded to full secondary treatment during the 1970s and 1980s., 'In
+    the earlier part of the century, however, both New York and New Jersey communities
+    were discharging raw sewage into the HRE.', Incremental constructions and upgrades
+    of sewage treatment plants over the past few decades have yielded long-term improvements
+    in water quality., 'However, one of the remaining water pollution problems in
+    this system results from combined sewer overflows following storms that discharge
+    raw sewage and street debris.', 'For example, damage caused by hurricane Sandy
+    on 29 October 2012 took several WWTPs offline in New Jersey, and raw sewage carrying
+    high levels of fecal coliform bacteria, nutrients, and pollutants emptied into
+    New Jerseys rivers and estuaries.', 'Nevertheless, nonpoint sources continue to
+    be the largest source of nutrient loads in the RRB, and studies have shown that
+    these nonpermitted yields of nutrients are most highly correlated with septic
+    system density and other factors related to urban areas.', 'Water quality data
+    in Raritan Bay indicate that, despite significant progress following abatement
+    measures, the system is still polluted.', 'The water and sediments are contaminated
+    with a variety of pollutants such as heavy metals, PCBs, polynuclear aromatic
+    hydrocarbons, and pesticides.', 'Excessive nutrient loads also continue to degrade
+    water quality by contributing to algal blooms, hypoxia, and fish kills.', 'Chronic
+    phytoplankton blooms of various species, including the dinoflagellates Ceratium
+    tripos Nitzsch, Prorocentrum micans Ehrenberg, and Heterocapsa rotundata Hansen,
+    and the raphidophyte Heterosigma akashiwo Hada ex Hada et Chihara have occurred
+    in the HRE and New Jersey coastal waters for over three decades.', 'These blooms
+    have been associated with moderate bather discomfort and/or illness, diminished
+    esthetic value of beaches, hypoxia, and fish mortality.', Six sites in Raritan
+    Bay were sampled on a monthly basis from April through November., The estuarine
+    water quality study extended from April 2010 through October 2012., 'It was not
+    possible to sample in November 2012 and complete three full years of sampling
+    due to damage caused by hurricane Sandy to the Atlantic Highlands marina on October
+    29, 2012.', 'Water temperature, salinity, pH, and dissolved oxygen were determined
+    using a YSI 6820 V2 multiparameter meter, which was calibrated prior to each sample
+    period.', Water transparency was assessed using Secchi depth data., 'A vertical
+    polycarbonate Van Dorn water sampler was thoroughly rinsed with site water and
+    used to collect water samples near the surface, at mid-depth, and low depth between
+    1000 and 1200 hours local time for biological and chemical analyses.', 'Samples
+    for nutrient analyses were poured into acid-cleaned bottles, maintained in darkness
+    on ice for transport to the laboratory, and refrigerated or frozen as appropriate
+    until analysis.', Phytoplankton samples were poured into amber bottles and preserved
+    with acidic Lugols solution on site., "Zooplankton samples were collected at a
+    depth of 1.5 m using a 12-l Schindler\u2013Patalas trap and preserved with 4 %
+    buffered formalin.", "All plankton samples were held at 4 \xB0C until analysis.",
+  "A Nalgene hand vacuum pump and gridded 0.45-\u03BCm membrane was used on site to
+    filter 200 mL of sample water for analysis of chlorophyll a, and filters were
+    placed in opaque canisters and maintained on ice until analysis.", 'The Raritan
+    River Basin and Bay, showing the six sampling stations for temperature, salinity,
+    pH, dissolved oxygen, Secchi depth, nutrient concentrations, phytoplankton biomass
+    as chlorophyll a, phytoplankton and zooplankton assemblages.', "Samples were collected
+    from 2010\u20132012 on a monthly basis.", 'These are six of the same sampling
+    sites monitored for nutrients and zooplankton assemblages by Jeffries
+
+
+
+
+    Nutrient analyses were performed using standard methods.', 'Concentrations of
+    all nutrients, except for total iron, were determined colorimetrically with a
+    HACH DR/2500 spectrophotometer.', 'Accuracy checks, including the use of reagent
+    blanks and standard solution adjusts, followed HACH procedures.', 'Nitrate was
+    determined within 12 h of collection using the method of cadmium reduction, and
+    the Nessler method was used within 24 h for determination of ammonium.', "Samples
+    for the analysis of soluble reactive phosphorus were first filtered in the field
+    with a Whatman Puradisc 0.45-\u03BCm syringe filter and analyzed within 48 h using
+    the ascorbic acid-molybdate blue method.", 'Silicon and ferrous iron were also
+    determined colorimetrically using the silicomolybdate and 1,1,10 phenanthroline
+    methods, respectively.', Samples for the analysis of ferrous iron were analyzed
+    as soon as possible after collection to prevent oxidation of ferrous to ferric
+    iron., "Samples for analysis of total iron were preserved with concentrated nitric
+    acid to adjust the pH to ~2 and sent to Penn State Agricultural Analytical Services
+    laboratory for analysis via inductively-coupled plasma\u2013atomic emission spectrometry
+    as per EPA method 200.7.", 'All chlorophyll extractions were performed using 90
+    % basic acetone, and spectrophometric analyses were conducted within 48 h of sample
+    collection.', 'Phytoplankton counts were conducted using a Palmer Maloney cell
+    under a Leica DM 1000 phase contrast microscope, and cells were identified and
+    counted until at least 100 specimens of the most common species were counted.',
+  'Taxa abundances, including colonial and filamentous forms, were quantified by enumerating
+    single cells, and identifications were taken to the lowest taxonomic level.',
+  'Many identifications were taken to genus or species level, but for some flagellates,
+    individual genera were difficult to consistently differentiate from one another
+    in preserved samples and were mostly identified to the class level.', "Pfiesteria
+    piscicida Steidinger and Burkholder, Pfiesteria shumwayae Glasgow and Burkholder,
+    cryptoperidiniopsoids, and other physically similar taxa were classified as \u201CPfiesteria-like\u201D
+    under light microscopy.", 'In the case of obvious phytoplankton blooms and water
+    discoloration, fresh samples were brought back to the laboratory for easier identification
+    of bloom-forming species.', 'For the purpose of this study, a bloom is defined
+    as two standard deviations above the 3-year mean phytoplankton biomass.', 'For
+    enumeration of zooplankton, a subsample of ~10 % of the total sample was examined.',
+  'Counts were conducted using a Sedgewick Rafter counting cell, also under a Leica
+    DM 1000 phase contrast microscope.', Identifications were taken to genus or species
+    level according to Todd et al., and Johnson and Allen., Juvenile or nauplii stages
+    of zooplankton were counted separately from their adult stage because of differential
+    feeding patterns and difficulty in identifying them to genus level under light
+    microscopy., "Mnemiopsis leidyi Agazzi were roughly quantified at each sampling
+    site by counting the number of individuals in Schindler\u2013Patalas samples prior
+    to preservation.", 'Paired, two-sample t tests were used for between-site and
+    between-year comparisons of water quality and plankton abundance.', All analyses
+    were performed at an alpha level of 0.05., 'Phytoplankton and zooplankton data
+    were compiled into separate matrices of cell number by site and sample date, resulting
+    in a final matrix of 78 columns of phytoplankton cell counts and 40 columns of
+    zooplankton counts by 138 sample rows.', "To reduce the \u201Cnoise\u201D in the
+    plankton datasets and enhance detection of assemblage patterns in relation to
+    environmental parameters, rare taxa were removed prior to analysis, and abundances
+    of the remaining 41 phytoplankton species and 32 zooplankton species were log
+    transformed after 1 was added as a constant.", Every plankton sample used in the
+    analysis had a corresponding suite of physical and chemical measurements that
+    could be related to ordinations by species composition., 'Dissolved N/P and Si/N
+    ratios, precipitation data and Raritan River discharge rates were also included
+    in the analyses because previous studies have indicated that they are important
+    factors governing phytoplankton species composition and bloom development.', 'Precipitation
+    data were acquired from the New Jersey Weather and Climate Network, and precipitation
+    was determined for each sample by summing the total amount of rainfall at the
+    New Brunswick station for the week prior to the sampling date.', 'Raritan River
+    discharge rates were acquired from US Geological Survey at Bound Brook, which
+    is approximately 20 km upstream from the upper edge of the study area at site
+    1.', 'Season, site, and year were all included in the nonmetric multidimensional
+    scaling analyses as categorical variables.', 'Ordination techniques, which order
+    samples along axes expressing the main trends or gradients in the data, were used
+    to investigate potential environmental predictors of phytoplankton and zooplankton
+    assemblage patterns.', 'NMDS, considered the most effective ordination method
+    for ecological data, was used to establish seasonal and site-to-site differences
+    in plankton assemblage structure and to interpret those differences in terms of
+    environmental conditions.', All NMDS ordinations were carried out using PC-ORD
+    version 5.0 software., 'Descriptions of the five datasets used for NMDS ordinations,
+    and the questions targeted by each of those ordinations.', 'The various data groupings
+    were chosen to better extract and compare phytoplankton species variation between
+    seasons and years and develop hypotheses about long-term relationships among phytoplankton
+    assemblage structure, individual nuisance or harmful species, environmental factors,
+    and zooplankton composition.', 'The 16 quantitative environmental variables were
+    Raritan River discharge rates, precipitation, water temperature, salinity, pH,
+    DO, Secchi depth, nitrate, ammonium, SRP, silica, ferrous iron, total iron, chlorophyll
+    a, N/P ratio, and Si/P ratio, and the three categorical values were year, season,
+    and site.', "Rare species were removed and phytoplankton cell numbers were log
+    transformed prior to the analysis  \n\n\n\n\n\n\nDuring this study, the RRB was
+    affected by two tropical cyclones and record-breaking late winter and early spring
+    precipitation totals in 2010 and 2011, all associated with high flooding in the
+    region National Hurricane Center 2013, Office of the New Jersey State Climatologist
+    2010; 2011).", 'The study began in April 2010, the warmest April on record since
+    1895 in New Jersey, following the wettest March on record.', The result of large
+    amounts of rain falling on soils still wet from recently melting snows was high
+    river discharge and near-record flooding in the RRB in spring 2010., 'In marked
+    contrast, drought conditions developed in the coastal counties of the RRB during
+    summer 2010.', 'Temperature, precipitation, and river discharge were again well
+    above the state average in April 2011 following major precipitation events and
+    flooding in March.', 'In August 2011, tropical storm Irene caused catastrophic
+    flooding in the New Jersey and New York regions with 1.0 to 1.5 m storm surges.',
+  'At Sandy Hook, NJ, wind speeds were recorded at 40 kt with storm surges of 1.4
+    m. Overall, 2011 was an extremely high-precipitation year, setting a 100-year
+    record for the state of New Jersey.', 'In contrast to the first 2 years of the
+    study, spring precipitation was below average and summer precipitation was near
+    average in 2012.', 'However, hurricane Sandy, which made landfall along the coast
+    of New Jersey, caused major damage to both the New Jersey and New York coastlines.',
+  'Although precipitation totals associated with the storm were less than predicted,
+    hurricane Sandy arrived close to spring high tide and created a record storm surge
+    in Raritan Bay at Sandy Hook of &gt;3.0 m.
+
+
+
+    Monthly mean Raritan River discharge rates measured by US Geological Survey at
+    Bound Brook, and monthly precipitation totals for New Brunswick acquired from
+    the New Jersey Weather &amp; Climate Network from April 2010 through October 2012
+
+
+
+
+    Seasonal, interannual, and site-specific variability in temperature and salinity
+    occurred in this ecosystem, and both continue to reflect the circulation patterns
+    in Raritan Bay described by Jeffries.', 'Flood tides carry high-salinity water
+    northward past Sandy Hook and sites 6 and 4 toward an area of extensive eddies
+    where it mixes with freshwater from the river, and freshwater enters the bay from
+    the Raritan River and flows southward past site 3.', 'As a result, site 6 still
+    has significantly lower temperature than site 5.', 'Site 6 also has a significantly
+    higher salinity than site 5, particularly during spring months.', 'Surface salinities,
+    which ranged from 15 to 34, were dependent on seasonal precipitation patterns
+    and river discharge rates.', 'In 2010 and 2012, salinity throughout the bay was
+    lowest in June following the high river flow months of spring and gradually increased
+    through summer and fall as precipitation and discharge declined.', 'In contrast,
+    during the record-wet year of 2011 with high-precipitation events continuing through
+    summer, salinity remained low through summer.', Salinity stratification was generally
+    greatest at site 1 and least pronounced at site 6 where water stratification is
+    reduced by tidal mixing., "Overall, salinity levels and patterns are similar to
+    those reported for this system 50 years ago except during spring months when salinity
+    was \u22451.5 times higher than reported by Jeffries.", "Seasonal mean \xB1 1SE
+    and median levels for each water quality variable measured in Raritan Bay for
+    2010, 2011, and 2012.", "Seasonal categories are spring, April\u2013May; summer,
+    June\u2013September; and fall, October\u2013November.", "Water temperature is
+    reported in degrees Celsius; dissolved oxygen is reported in milligrams per liter;
+    chlorophyll a, NO3 \u2212, NH4 +, soluble reactive phosphorus, silica, ferrous
+    iron, and total iron are reported in micrograms per liter.", "Analysis of ferrous
+    and total iron began in July 2010  \n\n\nDO dissolved oxygen, Chl a chlorophyll
+    a, SRP soluble reactive phosphorus, Si silica, Fe f ferrous iron, Fe t total iron\n\n\nComparison
+    of seasonal mean \xB1 1SE water temperature, salinity, dissolved oxygen, NO3 \u2212,
+    and soluble reactive phosphorus between 1958 and 2010\u20132012.", 'Jeffries did
+    not provide seasonal mean values for these parameters at sites 2, 3, and 4.',
+  "Seasonal categories are spring, April\u2013May; summer, June\u2013September; and
+    fall, October\u2013November.", "Water temperature is reported in degrees Celsius;
+    DO is reported in milligrams per liter; NO3 \u2212 and SRP are reported in micrograms
+    per liter  \n\n\n\nDissolved oxygen ranged from 4 to 20 mg L\u22121 with concentrations
+    generally increasing with distance away from the mouth of the river.", "Oxygen
+    concentrations were lowest during late summer in all 3 years and violated state
+    standards for fish health following dry periods in the lower two thirds of the
+    water column at sites 1\u20133 in June and August 2010 and in bottom water at
+    site 1 in August 2012.", "During the unusually wet year of 2011, DO never fell
+    below 5 mg L\u22121.", Hypoxic conditions in summer 2010 and 2012 occurred in
+    association with mixed flagellate blooms., "Spatial distribution of summer hypoxia
+    from 2010\u20132012 is similar to that reported by previous studies with concentrations
+    increasing along the southern shore as river water becomes diluted with bay water.",
+  "However, DO concentrations were \u22451.8 times higher at site 1 and \u22451.4
+    times higher at site 6 than reported by Jeffries.", "Secchi depth ranged from
+    0.5\u20134.0 m and generally peaked during the fall season.", 'However, when precipitation
+    and river discharge were unusually high in fall 2011, the seasonal increase in
+    light penetration in Raritan Bay was less pronounced.', Low Secchi depths reflected
+    both sediments in runoff and algal blooms., "For example, the low Secchi depths
+    recorded at all sites on 17 April 2010 followed the wettest March on record in
+    New Jersey and another significant rain event occurring from April 16\u201317.",
+  'In late spring and early summer 2011, low Secchi depths coincided with both high
+    river discharge and blooms of diatoms and/or flagellates.', 'Nitrate and soluble
+    phosphorus concentrations continue to indicate eutrophic conditions, as expected.',
+  "Overall, nitrate concentrations are \u224520 times higher at site 1 and \u224550
+    times higher at site 6 than reported by Jeffries, and SRP concentrations are \u224520
+    times higher at site 1 and \u224510 times higher at site 6.", Spatial and temporal
+    patterns for N and P concentrations in Raritan Bay are also different from that
+    reported by Jeffries., 'In 1958, nitrate concentrations were highest in spring
+    and decreased with distance away from the mouth of the Raritan River, and when
+    river flow and nitrate loading decreased during summer, nitrate concentration
+    decreased throughout the bay and station differences in nitrate concentrations
+    were less pronounced.', These patterns indicated that the Raritan River was the
+    major source of nitrate entering the Bay., 'In this study, nitrate concentrations
+    still generally decreased with distance away from the mouth of the Raritan River
+    during spring and summer.', 'However, the trend reverses itself during fall when
+    average nitrate concentrations are higher in the Lower Bay.', 'In addition, nitrate
+    concentrations are now highest during late summer and early fall months rather
+    than during spring as reported by Jeffries.', Spatial patterns for SRP concentrations
+    in Raritan Bay are also different from patterns described by Jeffries., "In 1957\u201358,
+    SRP values were maximal at station 6, suggesting that Lower Bay water flooding
+    into Raritan Bay was an important source of P to the system.", 'During this study,
+    however, SRP values were significantly higher at site 2 and site 3 than at all
+    the other stations.', 'Although not studied by Jeffries in 1958, ammonium and
+    total iron have also been identified as important nutrients in determining overall
+    algal biomass and associated adverse effects of eutrophication.', "Ammonium concentrations
+    in Raritan Bay ranged from ;20 to 500 \u03BCg L\u22121.", Ammonium concentrations
+    peaked during summer months with highest values in the lower third of the water
+    column., "Total iron concentrations in Raritan Bay ranged from 40 to 630 \u03BCg
+    L\u22121 and ferrous iron concentrations ranged from &lt;20 to 290 \u03BCg L\u22121.",
+  "Dissolved silicon, which is particularly important for the growth and reproduction
+    of diatoms, ranged from 10 to 19,500 \u03BCg L\u22121.", "Phytoplankton biomass
+    as chlorophyll a ranged from 0.1 to 43 \u03BCg L\u22121 over the 3-year study.",
+  Phytoplankton biomass generally peaked in late spring each year., A total of 78
+    phytoplankton taxa were identified in samples from Raritan Bay., 'These include
+    7 cyanobacteria, 34 diatoms, 24 dinoflagellates, 1 raphidophyte, 3 euglenoids,
+    6 green algae, 1 prasinophyte, and various chrysophytes.', Cryptophytes and prymnesiophytes
+    were included as well but were difficult to consistently distinguish beyond class
+    level in preserved samples., 'Of the 78 phytoplankton taxa identified in Raritan
+    Bay, 14 have been identified as capable of causing harmful algal blooms.', "Total
+    cell density ranged from 4 \xD7 102 to 7 \xD7 104 cells ml\u22121, and species
+    richness ranged from 3 to 24.", 'Overall, flagellates were the most dominant functional
+    group in this system, accounting for &gt;50 % of phytoplankton cells, except for
+    spring 2010 and fall 2012 when diatoms were dominant.', 'Although dinoflagellates
+    comprised &gt;30 % of the taxa identified in this study, they never accounted
+    for more than 8 % of phytoplankton cells.', 'Dinoflagellates were most abundant
+    and diverse during spring months, and cyanobacteria were most abundant during
+    summer and early fall, particularly along the southern shore.', 'Relative abundance
+    of dinoflagellates, diatoms, cyanobacteria, and other flagellates in Raritan Bay
+    from spring 2010 through fall 2012
+
+
+    A total of 40 zooplankton taxa were identified in plankton tows from the Raritan
+    Bay.', "Total density of zooplankton ranged from 1 to 2 \xD7 103 organisms L\u22121,
+    and species richness ranged from 2 to 12 species.", Both zooplankton abundance
+    and species richness was greatest in late spring and early summer., 'Relative
+    zooplankton abundances varied seasonally and from year-to-year; however, rotifers,
+    copepods, and copepod nauplii generally comprised the greatest proportion of the
+    zooplankton taxa identified.', 'Mnemiopsis leidyi was most abundant in July at
+    sites 3, 4, and 5.', The population of M. leidyi was in decline by September and
+    virtually absent from samples in October and November., NMDS of phytoplankton
+    species abundance also indicates that species composition varied seasonally.,
+  'As evidenced by the clear separation of spring samples from summer and fall samples
+    in the ordination diagram, spring phytoplankton assemblages in Raritan Bay have
+    a distinct species composition.', 'A variety of diatoms and dinoflagellates, particularly
+    H. rotundata and Heterocapsa triquetra Stein, were abundant during spring months
+    when precipitation, river discharge, and Si/N ratios were high.', 'The copepods,
+    Acartia tonsa Dana, Oithona spp., and Eurytemora affinis Poppe, were also more
+    abundant during spring in Raritan Bay.', 'Lower river discharge rates and higher
+    temperature, salinity, nitrate, and SRP concentrations were associated with increased
+    abundance of flagellates, including green flagellates, cryptomonads, some dinoflagellates
+    Schiller, Pfiesteria-like dinoflagellates), and raphidophytes.', Secchi depth
+    was greatest in fall when river discharge and phytoplankton cell number and biomass
+    were lower., 'Ordination of all samples by phytoplankton species composition showing
+    seasonal differences in environmental conditions, phytoplankton species composition,
+    and zooplankton species composition.', 'In this set of diagrams, data from the
+    3 years of sampling was averaged so that each point in the diagram represents
+    monthly mean abundance of all phytoplankton species from a given site and month.',
+  a Vectors indicate strength and direction of environmental gradients., b Vectors
+    indicate strength and direction of phytoplankton species gradients., c Vectors
+    indicate strength and direction of zooplankton species gradients., 'Abbreviated
+    taxa are Ditylum brightwellii, Heterocapsa rotundata, Asterionellopsis glacialis,
+    Heterocapsa triquetra, Leptocylindrus danicus, Thalassiosira pseudonana, Prorocentrum
+    minimum, Leptocylindrus minimus, Cylindrotheca closterium, Heterosigma akashiwo,
+    Eurytemora affinis, and Acartia tonsa
+
+
+    NMDS of phytoplankton species abundance also indicated that species composition
+    varied from year-to-year, and these year-to-year differences were even more pronounced
+    when separate ordinations were run with samples from a single season.', 'As mentioned,
+    flagellates, particularly chlamydomonad-like species and cryptomonads, were always
+    abundant in Raritan Bay, but year-to-year variations in river flow were often
+    highly correlated with shifts in phytoplankton composition.', 'When winter and
+    spring river discharge rates, oxygen concentrations, and N/P ratios were higher
+    in 2010 and 2011, diatoms and Heterocapsa spp.', reached greater densities in
+    Raritan Bay during April and May., 'During 2010 and 2011, higher spring river
+    discharge rates lead to lower salinity and water temperature and higher N/P ratio
+    during summer and fall and a summer/fall phytoplankton assemblage composed of
+    cyanobacteria and certain dinoflagellates and diatoms.', Rotifers and barnacle
+    nauplii were also more abundant in Raritan Bay during the first 2 years when spring
+    freshwater discharge was high and salinity was lower., Ordination of all samples
+    by phytoplankton species composition showing year-to-year differences in environmental
+    conditions and phytoplankton species composition., Each point represents a single
+    sample from one of the six sites in a particular season and year., The relative
+    distance between samples reflects relative similarity in phytoplankton species
+    composition., a Vectors indicate strength and direction of environmental gradients.,
+  'b Vectors indicate strength and direction of phytoplankton species gradients
+
+
+
+    Ordination of spring samples by phytoplankton species composition showing yearly
+    differences in environmental conditions, phytoplankton species composition, and
+    zooplankton species composition.', Each point represents a single spring sample
+    from one of the six sites in a particular year., The relative distance between
+    samples reflects relative similarity in phytoplankton species composition., a
+    Vectors indicate strength and direction of environmental gradients., b Vectors
+    indicate strength and direction of phytoplankton species gradients., c Vectors
+    indicate strength and direction of zooplankton species gradients., 'Additional
+    abbreviated taxa are Thalassiosira gravida, Chaetoceros decipiens, polychaete
+    late trochophore larvae, polychaete early segmented larvae, Brachionus calyciflorus,
+    and polychaete presettlement larvae
+
+
+
+    Ordination of summer samples by phytoplankton species composition showing yearly
+    differences in environmental conditions, phytoplankton species composition, and
+    zooplankton species composition.', Each point represents a single summer sample
+    from one of the six sites in a particular year., The relative distance between
+    samples reflects relative similarity in phytoplankton species composition., a
+    Vectors indicate strength and direction of environmental gradients., b Vectors
+    indicate strength and direction of phytoplankton species gradients., c Vectors
+    indicate strength and direction of zooplankton species gradients., 'Additional
+    abbreviated taxa are Chaetoceros minimus
+
+
+
+    Ordination of fall samples by phytoplankton species composition showing yearly
+    differences in environmental conditions, phytoplankton species composition, and
+    zooplankton species composition.', Each point represents a single fall sample
+    from one of the six sites in a particular year., The relative distance between
+    samples reflects relative similarity in phytoplankton species composition., a
+    Vectors indicate strength and direction of environmental gradients., b Vectors
+    indicate strength and direction of phytoplankton species gradients., c Vectors
+    indicate strength and direction of zooplankton species gradients., 'Additional
+    abbreviated taxa are Temora longicornis
+
+
+    In contrast, lower winter and spring river discharge rates lead to higher salinity
+    and SRP concentration and lower N/P ratio in Raritan Bay.', These spring conditions
+    were associated with relatively high biomass and diversity of zooplankton as well
+    as a greater number of polychaete larvae., 'In addition, 2012 was characterized
+    by increased abundance of flagellates, especially the raphidophyte H. akashiwo,
+    which reached its maximum density in July 2012.', 'During summer 2012, total zooplankton
+    abundance was significantly lower than total abundance during summer of 2010 and
+    summer of 2011.', 'When large amounts of precipitation fell in fall 2012, high
+    river discharge rates and higher Si/N ratios in the bay were associated with declining
+    H. akashiwo cell numbers and increasing numbers of the diatoms, Chaetoceros decipiens
+    P.T.', 'Cleve, Coscinodiscus spp., Cylindrotheca closterium Reiman, and Rhizosolenia
+    spp..', 'In fact, diatoms comprised more than 50 % of the phytoplankton cells
+    in October 2012.', The zooplankton assemblage in fall 2012 was composed almost
+    entirely of copepod nauplii and adults., 'The Raritan Bay is both ecologically
+    and economically significant, supporting numerous recreational and commercial
+    fisheries and providing habitat for waterfowl, shellfish, and marine, estuarine,
+    and anadromous fish.', 'However, the water quality and ecological integrity of
+    this system has long been threatened by a dense human population and urban and
+    industrial overdevelopment, and full utilization of these waters for commercial
+    fishing and recreational activities is restricted by poor water quality.', 'Our
+    multiyear study of Raritan Bay indicates that this system continues to exhibit
+    numerous symptoms of eutrophication, including high algal biomass, high turbidity,
+    seasonal hypoxia and violations of the dissolved oxygen standard to protect the
+    health of bottom-dwelling fishes, and blooms of potentially harmful phytoplankton
+    species.', The continued nutrient enrichment of this system likely reflects the
+    numerous municipal discharges to the bay and the sensitivity of water quality
+    variables to alterations in land use., 'A number of studies in the Raritan Bay
+    and Hudson River estuary have demonstrated some improvements to water quality
+    in this system such as increases in DO and decreases in fecal coliforms, biological
+    oxygen demand, and total suspended solids following passage of the Clean Water
+    Act in 1972 and improvements to sewage treatment.', 'However, efforts to decrease
+    nutrient loading by constructing and upgrading sewage treatment plants throughout
+    the RRB are likely being offset by human population growth and a history of high-nutrient
+    loading.', 'In addition, urban land cover and municipal discharges are concentrated
+    in the lower Raritan River Basin in Middlesex County around the mouth of the Raritan
+    River, and sewer overflows and the discharge of raw sewage and street debris following
+    storms continues to be a major pollution problem in this system.', Human activity
+    has profoundly changed the landscape in the RRB over the past few decades., 'The
+    construction of shore management structures, highways, and landfills and the discharge
+    of industrial waste and oil have all contributed to the growing pollution in the
+    bay.', 'The RRB is now 36 % urban, and most of the housing development and conversion
+    to urban land use occurred between 1986 and 1995.', The construction of housing
+    and roads along with runoff from the suburban landscape and storm drains are thought
+    to be major sources of nonpoint nutrients and pollutants to Raritan Bay., 'Much
+    like other coastal river basins, N and P loads to the Raritan River are contributed
+    primarily by nonpermitted sources, such as urban land cover and septic tanks,
+    particularly during median and high-flow periods.', 'Yet, relatively little attention
+    has been given to controlling nonpoint sources of pollutants.', Water quality
+    monitoring studies in other systems have also demonstrated that targeted goals
+    to reduce nutrient loading are not realized because the importance of controlling
+    nonpoint loading has been overlooked., 'Considering the magnitude of the nutrient
+    loads to this system, the increase in nutrient concentrations in Raritan Bay over
+    the last 50 years is not all that surprising.', 'However, ambient nutrient concentrations
+    and ratios are key variables supporting phytoplankton assemblage shifts and the
+    formation of HABs.', 'Analysis of the detailed, 3-year dataset from this study
+    indicates that climatic conditions and nutrient concentrations and ratios interacted
+    to influence the origin and succession and composition of phytoplankton blooms
+    in Raritan Bay.', The abundance of flagellates in Raritan Bay follows the general
+    trend observed in other eutrophic systems where increased nutrient enrichment
+    promotes overall shifts in dominance from diatoms to flagellates., Seasonal changes
+    in the composition of both phytoplankton and zooplankton were mostly consistent
+    with descriptions from previous studies of Raritan Bay and other coastal systems
+    of New Jersey., 'As in other systems, hydrologic forcing is an important factor
+    influencing water quality and seasonal shifts in plankton composition in Raritan
+    Bay.', 'Increases in river discharge and Si/N ratios in spring were associated
+    with increases in faster-growing diatom taxa, which take up dissolved silica and
+    use it to construct their cell walls.', 'As phytoplankton assemblages became dominated
+    by diatoms during spring months, the relative abundance of copepods also increased,
+    particularly during the first 2 years of the study.', Many nearshore calanoid
+    copepods produce resting eggs that sink to the bottom and remain viable until
+    increasing temperatures induce hatching and initiate the next generation., The
+    increase in copepods that generally occurs several weeks after the spring diatom
+    bloom is considered a classic characteristic of coastal food webs., The late spring
+    and early summer maxima in total zooplankton density recorded in this study was
+    also reported for Raritan Bay by Jeffries and by Sage and Herman., 'Spring plankton
+    assemblages generally give way to summer/fall assemblages with a greater relative
+    abundance of small flagellates, cyanobacteria, and microzooplankton such as copepod
+    nauplii, rotifers, and ciliates.', 'Because they can regulate their vertical position
+    in the water column and have a lower demand for silica, flagellates and cyanobacteria
+    gain the competitive advantage over diatoms during summer when decreasing freshwater
+    discharge rates result in water column stratification and N and P concentrations
+    increase relative to Si.', 'Certain dinoflagellates such as Pfiesteria-like species
+    were also more abundant during summer in association with higher salinity, nitrate,
+    and SRP concentrations.', Studies in other systems have also documented increases
+    in Pfiesteria-like dinoflagellates in association with high salinities and P concentrations
+    during summer., These field observations about potentially toxic Pfiesteria spp.,
+  are supported by laboratory experiments that have shown that increased cell production
+    of P. piscicida and/or P. shumwayae has occurred under phosphate or N enrichment.,
+  'The greater relative abundance of microzooplankton, particularly copepod nauplii,
+    during summer also corresponds with previous studies of zooplankton annual cycles
+    in the New York Bight.', This study also documented a number of phytoplankton
+    blooms and the presence of several potentially harmful species., Recurring algal
+    blooms associated with hypoxia and other negative ecological impacts have been
+    documented in New Jersey coastal waters for the past three decades., 'Past phytoplankton
+    surveys have indicated that the most common bloom formers in this area are the
+    dinoflagellates, Ceratium tripos, Prorocentrum spp., and Heterocapsa spp.', and
+    the raphidophycean species H. akashiwo., This study indicated that these species
+    are still present and seasonally abundant in Raritan Bay., 'NMDS of phytoplankton
+    species abundance indicated that the majority of these bloom-forming species are
+    most abundant during summer months, except for Heterocapsa spp., which were most
+    abundant during early spring over the last 3 years.', The growth rate of Heterocapsa
+    seems to be constrained by low water temperatures to a lesser degree than other
+    phytoplankton species., The 14 potentially harmful species identified in Raritan
+    Bay as part of this study were mostly present at low densities., 'For example,
+    subbloom concentrations of the potentially toxic diatom Pseudo-nitzschia spp.',
+  were found at site 6 near Sandy Hook in October 2012., 'The NJDEPs Bureau of Marine
+    Monitoring screens for Pseudo-nitzschia spp., along with several other potentially
+    toxic species, to ensure that shellfish harvested in NJ waters are not toxic for
+    consumption.', 'Prior to 2000, the NJDEP reported that Pseudo-nitzschia spp.',
+  'was abundant in NJ coastal waters during fall and winter months, but over the past
+    15 years, Pseudo-nitzschia spp.', has only been reported by the NJDEP near Sandy
+    Hook one other time and at a concentration insufficient to pose a threat to human
+    health., Although Pseudo-nitzschia spp., 'were present in samples too rarely during
+    this study to identify patterns in their abundance to environmental gradients,
+    continued monitoring for Pseudo-nitzschia spp.', 'throughout the year and the
+    use of additional identification techniques to distinguish between toxic and nontoxic
+    representatives of this genus are recommended, especially considering that there
+    has been an increase in their abundance in other coastal systems in association
+    with increased nutrient loading.', The largest monospecific blooms that occurred
+    during this study were caused by H. akashiwo., "This species reached high densities
+    throughout Raritan Bay beginning in June 2012 with densities exceeding 3 \xD7
+    104 cells ml\u22121 at site 1 and becoming less dense with distance away from
+    the mouth of the Raritan River.", 'H. akashiwo persisted at high densities in
+    Raritan Bay, particularly at site 1, for the remainder of the 2012 sampling year
+    and was among the most dominant species in spring, summer, and fall 2012.', 'This
+    species, formerly called O. luteus, has been considered a dominant species, often
+    forming late spring/early summer blooms in association with anthropogenic nutrient
+    enrichment, in New Jersey coastal waters since the 1960s.', 'Summer blooms of
+    H. akashiwo and the dinoflagellates, Prorocentrum spp.', "and Heterocapsa rotundata,
+    have long been associated with hypoxia and fish kills in the Hudson\u2013Raritan
+    estuary.", 'As mentioned, oxygen concentrations in bottom water at site 1 violated
+    New Jersey standards for fish health in August 2012 as the H. akashiwo bloom was
+    beginning to decompose.', 'NMDS analyses indicated that H. akashiwo abundance
+    was associated with warmer temperatures, decreased river discharge, higher salinity,
+    higher nitrate and SRP concentrations, and reduced total zooplankton abundance.',
+  Year-to-year variations in H. akashiwo abundance in Raritan Bay suggest that both
+    winter/spring river discharge rates and water temperature are interacting to determine
+    the density of this species., 'Previous studies have shown that cysts, both vegetative
+    cells suspended in the water column and benthic cysts, play an important role
+    in the survival and abundance of H. akashiwo during summer seasons.', "Germination
+    of H. akashiwo cysts is optimal at 15 \xB0C, and population growth is greatest
+    when surface water temperatures reach 18 \xB0C.", "During 2010 and 2011, average
+    water temperatures in the bay did not reach 15 \xB0C until May.", 'By this time,
+    high winter/spring precipitation and river discharge rates created conditions
+    more favorable to diatoms and lowered the competitive ability of H. akashiwo.',
+  High river discharge may also play a role in flushing vegetative cysts out of the
+    system in spring., 'In 2012, however, the combination of lowered winter/spring
+    river discharge and earlier onset of optimal germination temperature increased
+    the rate of H. akashiwo excystment and population growth.', 'After this initial
+    growth period, the allelopathic activity of H. akashiwo against competing phytoplankton
+    and ability to migrate within the water column to obtain nutrients likely played
+    a role in maintaining the bloom.', The inverse relationship between H. akashiwo
+    and total zooplankton abundance indicated by NMDS may suggest that the H. akashiwo
+    bloom that formed in late spring 2012 throughout Raritan Bay produced adverse
+    effects for some zooplankters., A number of laboratory studies aimed at quantifying
+    deleterious effects of H. akashiwo on zooplankton grazers have been conducted.,
+  'These studies have generally shown that H. akashiwo is either avoided as a food
+    item when part of a mixed prey assemblage, or if ingested, decreases growth rate
+    and increases the mortality rate of a number of protist grazers.', "Interestingly,
+    Verity and Stoecker reported that H. akashiwo was lethal to tintinnids at concentrations
+    above 5 \xD7 103 cells ml\u22121 in multi-algal treatments.", "In this study,
+    H. akashiwo densities approached 5 \xD7 104 cells ml\u22121 in July 2012 at the
+    same time that tintinnids were the most abundant group of zooplankton in the bay.",
+  'However, by August, no tintinnids were found in samples, and copepod nauplii dominated.',
+  It is possible that the seemingly delayed effect of H. akashiwo on tintinnids was
+    due to tintinnid selective feeding on nontoxic prey., Graham and Strom suggested
+    that preferential feeding on alternate prey can reduce toxic effects of H. akashiwo
+    on microzooplankton., Selective zooplankton grazing in favor of potential phytoplankton
+    competitor species may have contributed to the persistence of the H. akashiwo
+    bloom and is worth further investigation., 'At the end of this 3-year study, fall
+    storms lead to increased river discharge rates and the decline of the H. akashiwo
+    bloom throughout the bay.', 'Diatoms regained dominance, and relative abundance
+    of adult copepods increased once again.', 'Similar to Jeffries assessment of Raritan
+    Bay water quality more than 50 year ago, the detailed 3-year dataset from this
+    study indicates that this system is still rich in plant nutrients arising from
+    natural and domestic sources and capable of supporting extremely dense plankton
+    populations.', 'However, this study suggests that there have been some changes
+    in water quality since 1958.', 'As mentioned, water column DO concentrations throughout
+    Raritan Bay appear to be higher now than they were 50 years ago.', Salinity also
+    appears to be higher throughout the bay during spring months., Increased salinization
+    in spring when precipitation and river discharge are high could be related to
+    increases in impervious surface coverage in the RRB and the use of deicer salt
+    on roadways., 'In addition, N and P concentrations have increased in Raritan Bay,
+    and spatial and temporal patterns for these nutrients are different from that
+    reported by Jeffries.', 'For example, current trends indicate that, although the
+    Raritan River is still an important source of N during spring and episodic increases
+    in river discharge in association with storms and hurricanes, recycled sources
+    of N become important during late summer and fall when river discharge is lower.',
+  Other studies have indicated that N regeneration from the sediments during seasonal
+    periods of oxygen depletion in the lower water column can play an important role
+    in nutrient loading in eutrophic systems., 'Nitrate concentrations also appear
+    to have increased to a greater extent in the Lower Bay near site 6, particularly
+    during low-flow periods.', 'The Lower Bay receives riverine flow from the Hudson
+    River, which has one of the highest N inputs per area of estuary in the USA.',
+  'In contrast to nitrate, SRP concentrations appear to have increased to a greater
+    extent at the head of Raritan Bay when compared with Jeffries findings.', 'A suspected
+    major source of soluble P to the Bay, especially during periods of low flow, is
+    the Middlesex County wastewater treatment plant, which is the second-largest WWTP
+    in the state of New Jersey and has its outfall located at site 2.', 'During this
+    study, SRP values were significantly higher at sites 2 and 3 than at all the other
+    stations.', 'In order to understand the full magnitude of human influence on the
+    functioning and stability of coastal ecosystems, it is important to intensify
+    study of the coastal eutrophication problem and to generate ecological data in
+    multiple systems.', 'The 3-year dataset from this study contributes new information
+    about how climatic factors and nutrients may be affecting the abundance and distribution
+    of phytoplankton taxa, including some potentially toxic and bloom-forming species
+    as well as how phytoplankton are related to associated food webs.', The ordination
+    results of this investigation have also identified several important questions
+    for future research directions., 'First, blooms of H. akashiwo were associated
+    with increases in both nitrate and SRP in Raritan Bay but not with iron concentrations
+    as indicated in other systems.', 'However, it is still unclear how altered nutrient
+    supply ratios are affecting phytoplankton composition in Raritan Bay.', 'As a
+    result, it will be important to supplement field observations with controlled
+    experiments to investigate the relationship between specific forms and supplies
+    of nutrients and bloom formation.', Another question regards the importance of
+    selective zooplankton grazing in contributing to the persistence of algal blooms
+    in Raritan Bay., 'How might manipulations of zooplankton abundance affect phytoplankton
+    biomass and species composition?', One final question concerns the impact of high
+    cell densities of potentially toxic phytoplankton species such as H. akashiwo
+    on the health of reintroduced eastern oysters., 'Although C. virginica is ecologically
+    extinct in Raritan Bay, the New York/New Jersey Baykeeper has been conducting
+    studies to determine whether existing conditions in Raritan Bay can support long-term
+    oyster survival.', Research in other systems has indicated that even short-term
+    exposures of oysters to H. akashiwo blooms could have long-term physiological
+    effects., 'Since this study has indicated that H. akashiwo can form large monospecific
+    blooms in this system, more research on the lethal and sublethal effects of HABs
+    on C. virginica is needed in order to develop a productive long-term strategy
+    for reestablishing this species into Raritan Bay.', Long-term monitoring of coastal
+    ecosystem processes and community characteristics are vital for improving our
+    understanding of the mechanisms involved in the development of eutrophication.,
+  'As a result, we intend to continue collection of data on water quality and plankton
+    assemblages.', 'With further long-term observations, greater confidence in the
+    processes that lead to altered phytoplankton composition and food web structure
+    will be realized.', 'This information will strengthen the ability of scientists,
+    public health officials, and resource managers to predict the likelihood of phytoplankton
+    blooms and bring us closer to the design of appropriate management strategies
+    to mitigate the impact of cultural eutrophication on coastal ecosystems.', 'We
+    thank Captain Mick Trzaska, captain and owner of the CRT II, for transporting
+    us to our sampling sites and for technical support in the field.', 'We thank Andrew
+    Chun for Geographic Information Systems support, Phil Auerbach for technical support
+    in the laboratory and with field equipment, Penn State Analytical laboratories
+    for total iron analysis, and Jeffrey Hollander, Raphael Cuomo, Danielle Sobol,
+    Carly Feiro, Shane Foye, Alexander Pong, Ryan Hughes, Sam Rosen, and Elizabeth
+    Cole for assistance with water sampling and nutrient analyses.', We thank two
+    anonymous reviewers for counsel on the manuscript., Funding support for this research
+    was provided by the Lafayette College Department of Biology.]

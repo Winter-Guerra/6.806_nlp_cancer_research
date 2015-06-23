@@ -1,0 +1,334 @@
+---
+pathHash: 8d0c9aeb3162f84368523c5f49d8886d
+text: '
+
+
+
+
+  Cucurbitacin B, a natural compound extracted from cucurbitaceous plants, demonstrated
+  potent anticancer activities, while the underlying mechanisms remain unclear. We
+  investigated the anticancer effect of Cuc B on MCF-7 breast cancer cells. Cuc B
+  drastically decreased cell viability in a concentration-dependent manner. Cuc B
+  treatment caused DNA damage, as shown by long tails in the comet assay and increased
+  γH2AX protein expression. Immunofluorescence staining showed that Cuc B treatment
+  induced nuclear γH2AX foci. Cuc B activated DNA damage pathways by phosphorylation
+  of ATM/ATR . Furthermore, it also induced autophagy, as evidenced by monodansylcadaverine
+  staining and autophagic protein expression. In addition, Cuc B treatment led to
+  increased reactive oxygen species formation, which was inhibited by N-acetyl-l-cysteine
+  pretreatment. NAC pretreatment inhibited Cuc-B-induced DNA damage and autophagy.
+  Taken together, these results suggest that ROS-mediated Cuc-B-induced DNA damage
+  and autophagy in MCF-7 cells, which provides new insights into the anticancer molecular
+  mechanism of Cuc B.
+
+
+
+
+
+
+
+  Cucurbitacin B is a natural tetracyclic triterpene compound widely distributed in
+  the plant kingdom originally as an antiinflammatory drug . Accumulated data demonstrates
+  that Cuc B possesses a variety of bioactivities, such as anti-inflammatory, hepatoprotective,
+  and anticancer activities. In particular, the anticancer properties of Cuc B have
+  drawn attention of many researchers in recent years . Cuc B inhibits proliferation
+  of a series of cancer cell lines, such as laryngeal squamous cell carcinoma , pancreatic
+  cancer , hepatocellular carcinoma , melanoma , lung cancer , among others. Furthermore,
+  it enhances the anticancer effects of clinical chemotherapeutic drugs: cisplatin,
+  gemcitabine, methotrexate, docetaxel, and gemcitabine . Documented results also
+  demonstrate that Cuc B potently inhibits the proliferation of breast cancer cell
+  lines both in vitro and in vivo . Cuc B suppressed breast cancer cell growth by
+  HER2/integrin signaling, which further led to inhibiting integrin-mediated cell
+  survival through ILK1 and paxillin , by disruption of microtubule polymerization
+  and disturbance of nucleophosmin/B23 translocation , and by inhibiting Wnt signaling
+  . However, clarifying the exact mechanisms needs further investigation.
+
+
+
+  Antiproliferative activity of cucurbitacin B on breast cancer MCF-7 cells. a Chemical
+  structure of Cuc B. b Effect of Cuc B on colony formation. c Cells were treated
+  with Cuc B for 24 h in the absence or presence of N-Acetyl-l-cysteine; cell viability
+  was measured by MTT assay. d MCF-7 cells were treated with 200 nM Cuc B for 0–24
+  h; cell morphological changes were observed with an inverted-phase contrast microscope.
+  p ; 0.05, p &lt; 0.01, # p &lt; 0.05. Cont control group
+
+
+  Intracellular ROS, generated mainly from mitochondrial oxidative metabolism NADPH
+  oxidase activation in response to xenobiotics, cytokines, and bacterial invasion,
+  have been implicated in a wide range of biological and pathological activities .
+  Cuc B induced autophagy and cell death mediated by enhanced production of ROS in
+  HeLa cells . Cuc B increased intracellular ROS levels in SW480 cells, which led
+  to G2 cycle arrest and apoptosis . High ROS levels could cause irreversible DNA
+  damage, autophagy, and apoptosis . We previously reported that Cuc B increased ROS
+  formation, which induced DNA damage, G2/M-cell -phase arrest, and apoptosis in human
+  lung adenocarcinoma epithelial A549 cells and K562 leukemia cells . In this study,
+  we determined the role of ROS in Cuc-B-induced antiproliferative effects in MCF-7
+  cells from DNA damage and autophagy.
+
+
+
+
+
+
+  Cuc B was purchased from ShunBo Biological Engineering Technology Co., Ltd. 2′,7′-Dichlorodihydrofluorescein
+  diacetate and monodansylcadaverine were obtained from Sigma Aldrich. Specific antibodies
+  against GAPDH, LC3, mTOR, phospho-mTOR, Akt, phospho-Akt, phospho-Akt, ATM, phospho-ATM,
+  ATR, phospho-ATR, ULK1, phospho-ULK1, Beclin-1, p62, and γH2AX were purchased from
+  Cell Signaling Technology. N-Acetyl-l-cysteine was purchased from Beyotime.
+
+
+
+
+  Human breast cancer cell line MCF-7 was purchased from American Type Culture Collection.
+  MCF-7 cells were maintained in DMEM containing 10 % fetal bovine serum in a 5 %
+  CO2 atmosphere at 37 °C.
+
+
+
+
+  Cells were grown in 96-well plates and were added to MTT mixtures after Cuc B treatment
+  for 24 h. After cultured for another 4 h, the formazan was solubilized by DMSO for
+  detection using the multilabel counter. Cells were pretreated with NAC for 1 h before
+  treatment with Cuc B to examine the role of ROS in Cuc-B-induced antiproliferative
+  effect.
+
+
+
+
+  Microscope slides were precoated with 0.75 % normal-melting-point agarose. MCF-7
+  cells were harvested after treatment with Cuc B for 4 h and mixed with 0.75 % low-melting-point
+  agarose. After cool down in 4 °C, they were layered onto the microscope slides.
+  The slides were submerged in prechilled lysis stock solution for 1 h at 4 °C. After
+  soaking in cold electrophoresis buffer for 20 min, the slides were subjected to
+  electrophoresis for 20 min at 1.5 V/cm, removed from the electrophoresis chamber,
+  and stained with PI for 10 min. Individual cells were viewed using an Olympus IX73
+  fluorescence microscope. Cells were pretreated with NAC for 1 h before treatment
+  with Cuc B.
+
+
+
+
+  Cells grown on glass slides in 12-well plates were fixed with 4 % PFA at room temperature
+  for 30 min after Cuc B treatment for 6 h. Then, the slides were permeabilized with
+  PBS containing 0.2 % Triton at room temperature for 30 min and blocked for 30 min
+  at 4 °C with blocking buffer containing 2.5 % bovine serum albumin and 0.2 % Triton
+  in PBS. Cells were incubated with γH2AX antibody overnight and then washed with
+  PBS twice and incubated with anti-rat IgG at room temperature for another 1 h. After
+  staining with Hoechst 33342 in the dark for 30 min, cells were observed under a
+  fluorescence inverted microscope using filter set for fluorescein isothiocyanate
+  and 4′-6′-diamidino-2-phenylindole.
+
+
+
+
+  Cells were incubated at a density of 500 cells per well in six-well plates and treated
+  with different concentrations of Cuc B for 2 weeks with or without NAC pretreatment
+  for 1 h. After fixed with 4 % paraformaldehyde and stained with crystal violet staining
+  solution, visible colony images were captured by an Ipad camera.
+
+
+
+
+  Cytoplasmic vacuoles were stained with MDC according to the method described previously
+  . After treatment with Cuc B, cells were incubated with MDC in PBS for 15 min and
+  then washed three times with PBS and analyzed by fluorescence microscopy immediately.
+
+
+
+
+  Cuc-B-treated cells with or without NAC pretreatment were harvested and total proteins
+  were extracted. Protein contents were determined by BCA™ Protein Assay Kit. Proteins
+  were separated on a sodium dodecyl sulfate–polyacrylamide gel electrophoresis and
+  transferred onto polyvinylidene difluoride membranes. The membranes were blocked
+  with 5 % nonfat milk in Tris-buffered saline with 1 % Tween 20 at room temperature
+  for 1 h, incubated with various primary antibodies overnight, and washed with Tris-buffered
+  saline with 1 % Tween 20. Secondary antibodies labeled with horseradish peroxidase
+  were incubated with the membrane for 2 h at room temperature. The proteins on membrane
+  were detected by ECL advanced Western blot detection kit.
+
+
+
+
+  Production of intracellular ROS was measured by fluorescent probe DCFH2-DA. Cells
+  were treated with Cuc B for 2 h with or without NAC pretreatment for 1 h and stained
+  with DCFH2-DA at a final concentration of 10 μM in PBS for 30 min in the dark. Cells
+  were collected and the fluorescence analyzed using flow cytometry.
+
+
+
+
+  Data are expressed as mean ± standard deviation from at least three separate experiments.
+  The differences between groups were analyzed using Prism 5.0 with one-way analysis
+  of variance followed by Student–Newman–Keuls test; p &lt; 0.05 is considered statistically
+  significant.
+
+
+
+
+
+
+  The colony-formation experiment demonstrated that the colony-forming ability of
+  MCF-7 cells was dramatically inhibited by Cuc B in a concentration-dependent manner.
+  Meanwhile, Cuc B significantly suppressed the proliferation of MCF-7 cells in a
+  concentration-dependent manner. NAC pretreatment was able to reverse the antiproliferative
+  effects of Cuc B. Cuc B treatment for 6 h created no obvious morphological changes.
+
+
+
+
+  Comet assay showed that the comet tails were significantly prolonged in the Cuc-B-treated
+  group compared with the control group. The formation of γH2AX histone variants is
+  to be expected at the early stage of the occurrence of a DNA double-strand breaks
+  . Western blotting showed that Cuc-B-induced γH2AX expression in concentration-
+  and time-dependent manners, which is clear after 3 h treatment. Furthermore, formation
+  of γH2AX foci were observed in a greater proportion in Cuc-B-treated cells compared
+  with control cells in immunofluorescence assay. ATM and ATR, two large phosphatidylinositol-3-kinase-like
+  kinase family members and upstream regulators of DNA damage, are activated in response
+  to DNA double strand breaks . Compared with the control group, phosphorylation of
+  both ATM and ATR were markedly increased after Cuc B treatment.
+
+
+
+  Cucurbitacin B-induced DNA damage in MCF-7 cells. a Cells were treated with Cuc
+  B for 3 h, and DNA damage was detected by comet assay. b Cells were treated with
+  50,100, and 200 nM Cuc B for 3 h and 200 nM for 1.5, 3, and 6 h, and the expression
+  of γH2AX was detected by Western blot analysis. c Cells were treated with 200 nM
+  Cuc B for 4 h, and translocation of γH2AX was detected using immunofluorescence
+  assay. d Western blot analysis of ATM, ATR, and their phosphorylated forms in Cuc-B-treated
+  MCF-7 cells
+
+
+
+
+  Monodansylcadaverine staining showed that Cuc B treatment induced accumulation of
+  autophagic vacuoles, as evidenced by the increased green fluorescence. Western blotting
+  showed that Cuc B treatment led to upregulation of LC3 II expression in concentration-
+  and time-dependent manners. Furthermore, Cuc B treatment inhibited protein expressions
+  of p-mTOR, p-Akt, and p62, and enhanced expressions of Beclin-1 and p-ULK1.
+
+
+
+  Cucurbitacin B-induced autophagy in MCF-7 cells. a Cells were treated with Cuc B
+  for 24 h and then stained with MDC and analyzed by a fluorescence microscopy. b
+  Cells were treated with 200 nM Cuc B for 6, 12, and 24 h, and the expression level
+  of LC3 was detected by Western blot analysis. c MCF-7 cells were treated with Cuc
+  B for 24 h, and autophagic-related proteins were analyzed by Western blot analysis
+
+
+
+
+  As shown in Fig. 4a, Cuc B treatment for 2 h induced right shift of flow cytometry
+  peaks, suggesting the production of intracellular ROS. Compared with the control
+  group, 200 nM Cuc B treatment induced an increase of ROS by ~ 1.7 fold. Statistical
+  analysis revealed a concentration-dependent manner. Cuc-B-induced ROS formation
+  was completely reversed by NAC pretreatment.
+
+
+
+  Cucurbitacin B induced reactive oxygen species generation in MCF-7 cells. a Cells
+  were treated with Cuc B for 2 h in the absence or presence of NAC; intracellular
+  ROS levels were detected by flow cytometry. The horizontal axis indicates 2′,7′-dichlorofluorescein
+  fluorescence intensity. b Statistical analysis of Cuc-B-induced intracellular ROS
+  generation. Cont the control group. p &lt; 0.05, p&lt;0.01, # p &lt; 0.01
+
+
+
+
+  Pretreatment with NAC almost completely prevented the prolonged comet tails induced
+  by Cuc B in comet assay. Furthermore, protein expression of γH2AX and phosphorylation
+  of ATM and ATR was dramatically suppressed.
+
+
+
+  Reactive oxygen species generation mediated DNA damage induced by Cucurbitacin B.
+  a Cells were treated with Cuc B for 4 h in the absence or presence of NAC, and the
+  comet assay was performed. b γH2AX expression. c ATM, ATR, and their phosphorylated
+  forms were detected by Western blot analysis. Cont control group
+
+
+
+
+  In MDC staining, Cuc-B-induced green fluorescence was decreased by NAC pretreatment.
+  Furthermore, protein expression of LC3 II was reversed by NAC. In addition, Cuc-B-induced
+  changes of other autophgaic-related protein expressions of p-AKT, p-mTOR, p-ULK1,
+  Beclin1, and p62 were significantly reversed by NAC.
+
+
+
+  Reactive oxygen species generation mediated autophagy induced by Cucurbitacin B.
+  Cells were treated with Cuc B for 24 h in the absence or presence of NAC. a MDC
+  staining, b LC3 expression, and c other autophagic proteins were detected by Western
+  blot analysis. Cont control group
+
+
+
+
+  It has been demonstrated that Cuc B suppressed proliferation of various human breast
+  cancer cell lines such as MDA-MB-231, ZR-75-1, MCF-7, T47D, BT474, MDA-MB-453 ,
+  but its underlying mechanism was unclear. In our study, the antiproliferative effect
+  of Cuc B on MCF-7 was confirmed by MTT assay and colony-forming assay. Both results
+  showed that Cuc B was a potent cytotoxic compound to MCF-7 cells.
+
+
+  Our previous report found that Cuc B can induce the DNA damage that causes G2/M
+  cell-cycle arrest in human lung adenocarcinoma epithelial A549 cells and leukemia
+  K562 cells . Here, using comet assay, we found that Cuc B also induced DNA damage
+  in MCF-7 cells. This was further confirmed by increased expression and nuclear translocation
+  of γH2AX, a valid biomarker for DNA damage . ATM and ATR, two large phosphatidylinositol-3-kinase-like
+  kinase family members, are the central regulators of the DNA damage network . Both
+  are activated by DNA damage and DNA replication stress but with distinct specificities
+  and functions, though there are cross-talks in their signaling pathways. It was
+  found that ATM-Chk2 and ATR-Chk1 pathways were activated by DSBs and DNA single-strand
+  breaks, respectively . Cuc B treatment induced phosphorylation of both ATM and ATR
+  at Ser1981 and Ser428, respectively, suggesting that both pathways were activated.
+  This finding was consist with findings of our previous study in K562  and A549 cells
+  . Thus, induction of DNA damage might be a common mechanism of Cuc B cytotoxicity.
+
+
+  Autophagy, a highly regulated process, is an important type of nonapoptotic cell
+  death and is implicated in cancer treatment . Recent reports showed that several
+  cucurbitacins induced autophagy in HeLa , RAW264.7 , Jurkat . and glioblastoma  cells.
+  When autophagy is induced, the cytosolic form of LC3 is processed to the lipidated
+  and autophagosome-associated form LC3II . MDC, an autofluorescent probe, is used
+  to the identify the autophagic vesicles and assess autophagy induction through measuring
+  the accumulation of MDC-labeled vacuoles . Here, we found that Cuc B induced accumulation
+  of LC3 II and MDC fluorescence, suggesting that it induced autophagy. AKT/mTOR,
+  ULK1, Beclin1, and p62 are among the key regulators of the autophagic process. Autophagy
+  induction by mTOR inhibition, resulting from starvation or rapamycin treatment,
+  is conserved from yeast to mammals and acts upstream of the ULK1 complex . Beclin1
+  interacts with several cofactors to regulate the lipid kin mase Vps34 protein and
+  promote formation of Beclin 1-Vps34-Vps15 core complexes, thus inducing autophagy
+  . P62/SQSTM1, as a scaffold protein, associates with proteasomes and that autophagy
+  degrades p62/SQSTM1 . AKT/mTOR and p62 inhibition and ULK1 and Beclin1 activation
+  by Cuc B suggested that Cuc B induced autophagy by modulating these molecules. In
+  glioblastoma, Cuc I up-regulated Beclin 1 and activated the AMP-activated protein
+  kinase/mTOR/p70S6K pathway, but not the PI3K/AKT pathway . In Jurkat cells, Cuc-B-induced
+  autophagy was associated with G-actin reduction and persistent activation of cofilin
+  . Thus, detailing the pathways of Cuc B in autophagy need further study.
+
+
+  ROS has been implicated in both the induction of DNA damage and autophagy in several
+  types of cancer cells . Previous data suggest that Cuc B increased intracellular
+  ROS levels in SW480, HeLa, A549, and K562 cells . In the study we report here, this
+  effect was confirmed in MCF-7 cells. The role of ROS in Cuc-B-induced DNA damage
+  and autophagy was examined by NAC pretreatment. NAC not only reversed Cuc-B-induced
+  ROS formation but also reversed DNA damage and autophagy. Furthermore, it inhibited
+  activation of ATM/ATR and reversed protein expressions of AKT/mTOR, Beclin1, p62,
+  and ULK1. Taken together, these data indicate that Cuc-B-induced DNA damage and
+  autophagy in MCF-7 cells is mediated by ROS generation.
+
+
+  In conclusion, this study showes that Cuc B induced ROS-mediated DNA damage and
+  autophagy in breast cancer MCF-7 cells, thus providing new insight into the anticancer
+  effect of Cuc B.
+
+
+
+
+  This study was supported by the Science and Technology Development Fund, Macao S.A.R.
+  and the Research Fund of the University of Macau-ICMS13-CXP).
+
+
+
+
+'
+...

@@ -116,26 +116,48 @@ gulp.task 'stemAllSummaries', () ->
 
 	return stream
 
-gulp.task 'tokenizeCorpus', () ->
+gulp.task 'cleanCorpus', () ->
 
 	stream = gulp.src(['./sources/deduped/*.md'])
 
 	# Let's remove headings from the sources (these cannot count as sentences)
 	.pipe(replace(/^#.*/mg, ''))
+
+	# Let's remove underlines 
+	.pipe(replace(/_/g, ''))
+	# Let's remove asterisks  
+	.pipe(replace(/\*/g, ''))
+	# Let's remove all apostrophies
+	.pipe(replace(/\'/g, ''))
+	# Let's remove all square parenthesis
+	.pipe(replace(/\[.*?\]/g, ''))
+	# Let's lazily remove all stuff inside of parenthesis.
+	.pipe(replace(/\ \(.*?\)/g, ''))
+
+	# Let's keep all ascii and killall unicode
+	# .pipe(replace(/[^[:ascii:]]/,''))
+
+	# Remove some more crap
+	.pipe(replace(/\&lt/,''))
+
 	 
-	# Now, let's tokenize the document
-	.pipe(run('python3 sentence_tokenizer.py', {verbosity:0}))
-	.pipe(buffer())
 	.pipe(
 		tap (file) ->
-			objData = YAML.parse(file.contents.toString())[0]
+
+			filePathHash = crypto.createHash('md5').update(file.path).digest("hex").toString()
+
+			objData = {
+				pathHash: filePathHash
+				text: file.contents.toString()
+			}
+
 			file.contents = new Buffer YAML.stringify(objData)
 		)
 	.pipe(rename( (path) ->
 		path.extname = '.yaml'
 		return path
 	))
-	.pipe(gulp.dest('./sources/tokenized_deduped'))
+	.pipe(gulp.dest('./sources/cleaned_deduped'))
 
 	return stream
 

@@ -1,0 +1,529 @@
+["Epigenetic therapy by DNA demethylating agent 5-aza-2\u2032-deoxycytidine is clinically
+    effective in acute myeloid leukemia; however, it has shown limited results in
+    treatment of breast cancer and has significant toxicity to normal cells.", Green
+    tea polyphenol-epigallocatechin-3-gallate has anti-cancer and DNA demethylating
+    properties with no significant toxicity toward normal cells., "Therefore, the
+    objective of this study was to evaluate the therapeutic efficacy of a combination
+    of non-toxic, low dose of 5-aza 2\u2032 dC with EGCG, on growth inhibition of
+    breast cancer cells.", "Human breast cancer cell lines and non-tumorigenic MCF-10A
+    breast epithelial cells were treated with either 5-aza 2\u2032 dC, EGCG, or their
+    combination for 7 days.", 'Cell growth inhibition was determined by cell count,
+    cell viability, cell cycle, and soft agar assay, whereas genes expression changes
+    were determined by quantitative real-time PCR and/or Western blot analysis.',
+  'Histone modifications and global DNA methylation changes were determined by Western
+    blot and RAPD-PCR, respectively.', "The results revealed significantly greater
+    inhibition of growth of breast cancer cells by co-treatment with 5-aza 2\u2032
+    dC and EGCG compared to individual treatments, whereas it has no significant toxicity
+    to MCF-10A cells.", This was further confirmed by gene expression analysis., Changes
+    in DNA methylation and histone modifications were also greater in cells with combination
+    treatment., "Findings of this study suggest that potentiation of growth inhibition
+    of breast cancer cells by 5-aza 2\u2032 dC and EGCG combination treatment, at
+    least in part, is mediated by epigenetic mechanism.", Breast cancer is the second
+    most commonly diagnosed cancer among women in the United States ., 'Although tremendous
+    progress has been made in breast cancer treatment, it is often hindered by de
+    novo or acquired drug resistance .', 'Current chemotherapeutic drugs used in breast
+    cancer mainly encompass anthracyclines, taxanes, and platinum-based drugs.', 'However,
+    in addition to cancerous cells, these drugs can also kill normal cells and have
+    adverse side effects like cardio-toxicity, neutropenia, neurotoxicity, muscle
+    fatigue, and abnormal blood clotting .', The inadequate clinical response and
+    toxicity of anti-cancer drugs to normal cells  suggest a need for alternate targets
+    and treatment strategies for breast cancer., 'Accumulating evidence suggests that
+    in addition to the genetic alterations, the epigenetic changes play an important
+    role in breast cancer development.', 'Global DNA methylation, concurrent with
+    loci-specific hypermethylation is a common hallmark of breast cancer .', 'Global
+    hypomethylation is linked to chromosomal instability and activation of oncogenes,
+    whereas loci-specific hypermethylation leads to transcriptional silencing of tumor
+    suppressor genes.', 'For example, genes involved in pathways including cell cycle
+    regulation, DNA repair, growth inhibitory signaling, cell adhesion, angiogenesis,
+    carcinogen detoxification, hormone regulation, and apoptosis are silenced by promoter
+    hypermethylation in breast cancer .', 'In contrast to genetic changes like mutations
+    that are non-reversible, epigenetic changes can be reversed and therefore epigenetically
+    silenced genes in cancer can be reactivated.', "It is because of this reversible
+    nature of epigenetic alterations in target molecules, a new strategy known as
+    \u201Cepigenetic therapy\u201D has recently emerged for cancer therapy .", Epigenetic
+    alterations can also serve as biomarkers of cancer risk., A recent study has associated
+    methylation of ATM gene in white blood cells with breast cancer risk ., "Decitabine
+    or 5-aza-2\u2032-deoxycytidine is a nucleoside analog and well-established DNA
+    demethylating agent.", "Evidence suggests that 5-aza 2\u2032dC demethylates DNA
+    by various mechanisms, such as inhibiting the activity of DNA methyltransferase
+    enzyme  and degradation of DNA methyltransferase 1 by ubiquitination-dependent
+    proteasomal pathway .", "Pharmacological action of 5-aza 2\u2032 dC is mediated
+    by its incorporation into DNA, leading to formation of irresolvable DNA-5-aza
+    2\u2032 dC complex.", "Interestingly, 5-aza 2\u2032 dC acts as demethylating agent
+    only at low doses, and higher doses of this drug cause cell death due to cytotoxicity
+    .", "Doses of 5-aza 2\u2032 dC that are currently used in the clinic have shown
+    limited results in solid tumors when given as a single agent, and higher doses
+    cause cytotoxicity to normal cells .", "To overcome this limitation of 5aza-2\u2032dC
+    for its clinical use as a chemotherapeutic agent, it has been suggested that combination
+    of epigenetic modifiers may be more successful in DNA demethylation-mediated re-expression
+    of silenced genes in breast cancer .", "(\u2212)-epigallocatechin-3-gallate is
+    the major catechin among the polyphenols in green tea .", Evidence suggests that
+    EGCG can inhibit the growth of breast cancer cells in vitro and breast tumor in
+    vivo ., It has been reported that EGCG can induce cancer cell-specific apoptosis
+    and cell cycle arrest and has no or minimal toxicity toward normal cells ., "Mechanistically,
+    EGCG inhibits breast cancer growth by interfering with multiple signaling pathways
+    including NF-\u03BAB, MAPK, and EGFR .", "Additionally, EGCG is an epigenetic
+    modifier, which can re-express epigenetically silenced tumor suppressor genes
+    such as RAR\xDF, hMLH1, GSTP1, and p16 INK4a by downregulation of DNA methyltransferase
+    and histone deacetylase activity in cancer cells .", 'Treatment of human prostate
+    cancer LNCaP cells with green tea polyphenols causes time-dependent inhibition
+    of HDACs 1, 2, and 3 expressions and upregulation of histone acetylation .', 'As
+    EGCG selectively kills cancer cells and has shown great promise in growth inhibition
+    of cancer cells, it presents a high potential for development as an effective
+    and minimally cytotoxic cancer therapeutic.', 'However, the concentrations of
+    EGCG used in vitro studies for growth inhibition are unachievable through daily
+    intake of tea in patients , thus limiting its potential as a monotherapeutic agent
+    in cancer.', "While chemotherapeutic or epigenetic drugs have been used in combination
+    with EGCG or 5-aza 2\u2032 dC so as to synergize tumor suppression or sensitize
+    cancer cells, the potential of combination treatment of 5-aza 2\u2032 dC and EGCG
+    on growth inhibition of breast cancer cells is not known.", 'Both compounds are
+    established DNA methyltransferase inhibitors, therefore their combination may
+    have greater effect on re-expression of genes that are silenced by promoter hypermethylation
+    in breast cancer.', 'In addition to the tumor growth suppression by restoration
+    of epigenetically silenced tumor suppressor genes, EGCG-mediated cell cycle arrest
+    and apoptosis through targeting cell signaling pathways can further add to inhibition
+    of breast cancer growth.', "This suggests that extended co-treatment with non-toxic,
+    low doses of 5-aza 2\u2032 dC and EGCG may potentiate growth inhibition of breast
+    cancer through synergistically reactivating tumor suppressors as well as drug-specific
+    mechanisms, while minimizing cytotoxicity to normal cells.", "Therefore, the objective
+    of this study was to evaluate the efficacy of 5-aza 2\u2032 dC and EGCG co-treatment,
+    at low concentrations as compared to their individual treatment on growth inhibition
+    of breast cancer cells in vitro.", "5-Aza-2\u2032-deoxycytidine,-epigallocatechin-3-gallate,
+    and dimethyl sulfoxide were purchased from Sigma-Aldrich.", 'TRizol for RNA isolation
+    was purchased from Invitrogen, Inc..
+
+
+
+
+    Human breast cancer cell lines MCF-7  and MDA-MB 231  as well as the human normal
+    breast epithelial cell line MCF 10A were obtained from American Type Culture Collection.',
+  MCF 10A is a non-tumorigenic human breast epithelial cell line and has been a widely
+    accepted model for normal breast epithelium ., MCF 10A cells were maintained in
+    MEBM mammary epithelial cell growth media., "MCF-7 and MDA-MB 231 cells were propagated
+    in Dulbecco\u2019s modified eagle minimal medium supplemented with 5 % fetal bovine
+    serum and 1 % antibiotic\u2013antimycotic solution.", "Cell culture of all the
+    three cell lines were maintained at 37 \xB0C in a 5 % CO2-containing humidified
+    incubator.", "Cells were treated with either 5-aza 2\u2032 dC, EGCG, combination
+    of EGCG and 5-aza 2\u2032 dC or DMSO as vehicle control for 7 days.", Stock solutions
+    for treatment were made in DMSO and diluted prior to use., Treatments were given
+    in cell culture media specific for each cell line., 'Media were changed, and fresh
+    treatment was given after every 48 h. All the three cell lines were used to evaluate
+    the effect of treatments on cell growth.', 'Since the observed effects of treatment
+    on growth were greater in MCF-7 cells than MDA-MB231, only MCF-7 cells were used
+    for subsequent molecular and mechanistic analysis.', "Cell count analysis was
+    performed to assess the effects of 5-aza 2\u2032 dC, EGCG, and their combination
+    on the growth inhibition of MCF10A, MCF-7, and MDA-MB 231 cells.", 'Briefly, 100,000
+    cells were seeded in 6-well plates.', "After 24 h of seeding, cells were treated
+    with either 5-aza 2\u2032 dC, EGCG, combination of EGCG and 5-aza 2\u2032 dC or
+    DMSO for 7 days.", Treatments were given in cell culture media specific for each
+    cell lines., 'Media were changed, and fresh treatment was given after every 48
+    h. At day 7, cells were detached by trypsinization and suspended in cell culture
+    media, and viable cells were counted with a Nexcelom Cellometer cell counter.',
+  Each treatment was run in triplicates and the experiment was repeated twice., "Methyl
+    thiazolyl tetrazolium assay was performed to determine the effects of EGCG and
+    5-aza2\u2032dC treatments on cell viability.", 'Cells were seeded in triplicates
+    in 96-well plates at a density of 2,500 cells per well.', "After 24 h of seeding,
+    cells were treated with 5-aza2\u2032dC, EGCG, and their combination as mentioned
+    above.", 'Media were changed, and fresh treatment was given after every 48 h.
+    MTT assay was performed at day 7 of the treatment.', "Briefly, media were removed,
+    cells were washed with 1X PBS, fresh culture media with MTT were added to each
+    well, and the plate was incubated at 37 \xB0C for 4 h. Media were removed, and
+    formazan was solubilized by adding 200 \u03BCL of DMSO in each well.", The optical
+    density was measured at 570 and 650 nm., Each treatment was run in triplicates
+    and the experiment was repeated twice., Cell viability was converted into percentage
+    with respect to control as 100 %., Cells were seeded in 25-cm2 flasks and treated
+    as mentioned earlier., The optimum cell seeding density was chosen so as to maintain
+    sub-confluency at the time of cell fixation., "After 7 days of treatment, cells
+    were fixed in 70 % cold ethanol and stored at 4 \xB0C for 24 h. Fixed cells were
+    stained with Guava\xAE Cell Cycle Reagent, and cell cycle analysis was performed
+    using Guava EasyCyteTM flow cytometer as per manufacturer\u2019s instructions.",
+  'A total of 5,000 gated events were counted and data were acquired for each sample
+    by Guava Incyte software.', Each treatment was run in triplicates and the experiment
+    was repeated twice., Anchorage-independent growth of MCF-7 cells was determined
+    by soft agar assay., 'Briefly, a base layer of agar in cell culture media was
+    plated in six-well plates.', 'MCF-7 cells were treated as mentioned earlier for
+    72 h, mixed in top layer agar solution and then plated at a density of 5,000 cells
+    per well.', Each treatment group was plated in triplicates., "Plates were incubated
+    at 37 \xB0C in a 5 % CO2-containing humidified incubator.", 'After plating, cells
+    were treated with different drug regimes as mentioned previously after every 48
+    h. After 7 days of colony growth, cells were stained with 0.001 % crystal violet
+    dye, and colonies were visualized and counted under a microscope.', "Total RNA
+    was isolated from control and treated MCF-7 cells by TRIzol method and one-step
+    real-time PCR kit with SYBR green dye was used for amplification of total RNA
+    as per manufacturer\u2019s instructions.", "Quantitative real-time PCR amplifications
+    were performed in 96-well reaction plates using MyiQ2 real-time PCR detection
+    system with the following PCR amplification conditions: Reverse transcription
+    at 50 \xB0C for 10 min, RT enzyme inactivation at 95 \xB0C for 5 min, followed
+    by 40 cycles each of 10 s denaturation at 95 \xB0C and 30 s annealing and extension
+    at 60 \xB0C.", Specificity of the PCR products was verified by melt curve analysis.,
+  Threshold cycle number was determined using iCycler IQ2 optical system software.,
+  "The Ct value of each gene of interest was normalized to Ct value of GAPDH, and
+    fold change in the gene expression was calculated using the delta\u2013delta Ct
+    method .", 'Amplification reaction for each treatment was performed in triplicates,
+    and the experiment was repeated twice.', A non-template control was included in
+    each experiment., Primer sequences used for qRT-PCR are given in Table 1., "Sequences
+    of forward and reverse primers used in analysis of gene expression by real-time
+    PCR  \n\n\n\n\nMethylation-sensitive random amplification of polymorphic DNA was
+    carried out to study the effect of treatment on DNA methylation patterns .", 'MS-RAPD
+    is based on digestion of DNA by isoschizomeric restriction enzymes, methylation
+    sensitive and methylation insensitive.', 'Both the enzymes recognize CCGG; however,
+    Hpa II is unable to cut when internal cytosine residue is methylated, whereas
+    MspI can cleave with internal cytosine methylated, and therefore can discriminate
+    between methylated and unmethylated cytosine.', "Total DNA was extracted from
+    treated and control MCF-7 cells by SDS/proteinase K digestion and phenol\u2013chloroform
+    extraction method as described before .", 'DNA was quantified spectrophotometrically,
+    and quality was verified by agarose gel electrophoresis.', "2.5 \xB5g of DNA was
+    used for single digestion with HpaII and MspI at 37 \xB0C overnight.", RAPD-PCR
+    was performed using digested and undigested DNA with random 10-mer primers., "Reaction
+    was carried out in a 25-\xB5L reaction mixture containing 100 \xB5M dNTPs, 100
+    nM primer, 0.5 U AmpliTaq DNA polymerase, 2.5 \xB5L enzyme assay buffer, 2.5 mM
+    MgCl2, and 75 ng DNA.", "The PCR amplifications were performed in a DNA thermal
+    cycler programmed for 45 cycles as follows: one cycle of 3.5 min at 92 \xB0C,
+    1 min at 34 \xB0C, and 2 min at 72 \xB0C followed by 44 cycles of 1 min at 92
+    \xB0C, 1 min at 34 \xB0C and 2 min at 72 \xB0C, followed by a final extension
+    cycle of 15 min at 72 \xB0C.", PCR products were resolved on 1.5 % agarose gel
+    and visualized by ethidium bromide staining., Protein lysates were prepared from
+    7-day treated and control MCF-7 cells and resolved by SDS-PAGE gel electrophoresis.,
+  'After electrophoretic separation, the protein bands were transferred to a nitrocellulose
+    membrane.', "The membrane was blocked with 5 % non-fat milk solution for an hour
+    at room temperature and then incubated with primary antibody overnight at 4 \xB0C.",
+  'Dilutions of antibodies used are as follows: GAPDH 1:200, DNMT1 1:100, H3K27me3
+    1:200, MBD4 1:100, HDAC1 1:100, p-Ac-H3 1:200.', 'After incubation, membranes
+    were given three washes, each of 10 min with 1X TBST washing buffer and then incubated
+    with appropriate horseradish peroxidase conjugated secondary antibodies at 1:1,000,
+    1:500 dilutions for an hour at room temperature.', 'Membranes were washed three
+    times, each for 10 min with 1X TBST buffer.', Protein bands were visualized with
+    chemiluminescence detection system., Band intensity was quantified with ImageJ
+    software., Intensity value for protein of interest was normalized to GAPDH and
+    plotted as histogram., "Student\u2019s t test was performed to determine the significant
+    difference between treatments.", Values with p ; 0.05 were considered to be statistically
+    significant., "To determine the effect of 5-aza 2\u2032 dC, EGCG, and their co-treatment
+    on breast cancer cell growth in vitro, cell count analysis and MTT assay were
+    performed after treating cells for 7 days.", The results of cell count analysis
+    and MTT assay are given in Fig., '1.', "Treatment with 5-aza 2\u2032 dC alone
+    resulted in statistically significant growth inhibition of both MCF-7 and MDA-MB231
+    cells by 22.7 and 23.4 percent, respectively, as compared to vehicle-treated control
+    cells.", 'Treatment with EGCG alone significantly inhibited the growth of MCF-7
+    cells by 23.5 percent, whereas growth inhibition of MDA-MB 231 cells by 18.5 %
+    was statistically not significant.', "The combination of 5-aza 2\u2032 dC and
+    EGCG, however, significantly inhibited the growth of both MCF-7 and MDA-MB 231
+    cells by 46.5 and 39.5 percent, respectively, thereby suggesting a synergistic
+    effect of co-treatment on growth inhibition of these breast cancer cells.", "There
+    was no significant growth inhibition of MCF-10A cells after treatment with 5-aza
+    2\u2032 dC and EGCG both alone and in combination.", "Bar graph representation
+    of the effect of 5-aza 2\u2032 dC, EGCG, and their combination treatments on growth
+    inhibition of MCF-10A, MCF-7, and MDA-MB 231 cells as measured by cell count analysis
+    and cell viability by MTT assay.", "Cells were treated with 5-aza 2\u2032 dC,
+    EGCG, 5-aza 2\u2032 dC, and EGCG combination or vehicle control for 7 days, and
+    cell count analysis and MTT assay were performed as described in Materials and
+    Methods.", Average value of cell counts and MTT assay from each treatment group
+    was converted into percentage with vehicle control as 100 % and bar graph was
+    plotted., An asterisk indicates statistically significant difference as compared
+    to vehicle control., "Symbol hash indicates significant difference as compared
+    to corresponding concentration of 5-aza 2\u2032 dC.", 'Symbol infinity indicates
+    significant difference as compared to corresponding concentration of EGCG
+
+
+    To further validate the result of cell count, MTT assay for cell viability was
+    also performed.', "The result of MTT assay revealed that treatment of MCF-7 cells
+    with 5-aza 2\u2032 dC and EGCG alone for 7 days caused significant decrease in
+    their viability by 23.57 and 27.08 %, respectively, as compared to the vehicle-treated
+    control cells.", "The combination of 5-aza 2\u2032 dC and EGCG, however, resulted
+    in greater decrease in MCF-7 cell viability by 45.12 % as compared to cells treated
+    with either 5-aza 2\u2032 dC or EGCG alone.", "Similarly, treatment with 5-aza
+    2\u2032 dC and EGCG both alone resulted in 42.01 and 37.26 % decrease in viability
+    of MDA-MB 231 cells, whereas their combination resulted in even greater decrease
+    by 51.4 % in this cell line.", "Decreases in viability of MCF-7 and MDA-MB231
+    cells treated with 5-aza 2\u2032 dC and EGCG combination were statistically significant
+    as compared to both vehicle-treated control cells and cells treated individually
+    with either of these two compounds.", "There was no significant change in the
+    viability of MCF-10A cells treated with either 5-aza 2\u2032 dC or EGCG alone
+    as well as their combination.", "Therefore, the MTT data further confirmed the
+    potentiation of growth inhibition in these two breast cancer cell lines by combination
+    of 5-aza 2\u2032 dC and EGCG as compared to cells treated alone with either of
+    these two compounds.", "Cell cycle analysis was performed to determine whether
+    EGCG and 5-aza 2\u2032 dC decrease the growth of MCF-7 and MDA-MB 231 cells by
+    induction of apoptosis and/or delayed cell cycle progression.", The flow cytometry
+    histograms are given in Fig., '2a, and the percentage of cells in pre-G1 is given
+    as bar graph in Fig.', 2b., 'As compared to vehicle control, an increase in pre-G1
+    sub-population was observed in all the treated groups of both MCF-7 and MDA-MB
+    231 cells.', "Interestingly, the percentage of pre-G1 cell population was significantly
+    higher in cells treated with the combination of EGCG and 5-aza 2\u2032 dC than
+    cells treated individually with either EGCG or 5-aza 2\u2032 dC.", "For example,
+    treatment of MCF-7 cells with 5-aza 2\u2032 dC and EGCG alone resulted in 15.8
+    and 21.2 percent cells, respectively, in pre-G1, whereas cells co-treated with
+    5-aza 2\u2032 dC and EGCG had 30.5 percent cells in pre-G1.", "Similarly, MDA-MB
+    231 cells treated with 5-aza 2\u2032 dC and EGCG alone had 7.3 and 16.9 percent
+    cells, respectively, in pre-G1, whereas their combination resulted in 24.2 percent
+    cells in pre-G1.", "As compared to MCF-7 and MDA-MB 231 cells, the percentage
+    of pre-G1 cells in MCF-10A was extremely low in both 5-aza 2\u2032 dC and EGCG
+    alone and their combination treatment groups.", "Treatment of MCF-10A cells with
+    5-aza 2\u2032 dC and EGCG alone resulted in 0.1 and 0.6 percent cells, respectively,
+    in pre-G1, whereas cells co-treated with 5-aza 2\u2032 dC and EGCG had 1.5 percent
+    cells in pre-G1.", "Therefore, the cell cycle data suggest that apoptosis may
+    be one of the mechanisms through which co-treatment of 5-aza 2\u2032 dC and EGCG
+    potentiates the growth inhibition of breast cancer cells but had no adverse effect
+    on the growth of normal breast epithelial cells.", "a Representative flow cytometry
+    histogram of percentage of cells in pre-G1 phase of cell cycle from MCF-10A, MCF-7,
+    and MDA-MB 231 cells treated with 5-aza 2\u2032 dC, EGCG, EGCG and 5-aza 2\u2032
+    dC combination, or vehicle control for 7 days.", 'Cells were treated, fixed, stained,
+    and analyzed by flow cytometry as described in Materials and Methods.', "b Bar
+    graph of percentage of cells in pre-G1 phase of cell cycle from MCF-10A, MCF-7,
+    and MDA-MB 231 cells treated with 5-aza 2\u2032 dC, EGCG, EGCG and 5-aza 2\u2032
+    dC combination, or vehicle control for 7 days.", An asterisk indicates statistically
+    significant difference as compared to vehicle control., "Symbol hash indicates
+    significant difference as compared to corresponding concentration of 5-aza 2\u2032
+    dC.", "Symbol infinity indicates significant difference as compared to corresponding
+    concentration of EGCG\n\n\n\nSoft agar colony formation assay was performed in
+    order to determine the effect of 5-aza 2\u2032 dC and EGCG on the colony formation
+    of MCF-7 cells.", "The result of soft agar assay showed that both, 5-aza 2\u2032
+    dC and EGCG, as well as their combination significantly reduced the anchorage-independent
+    growth of MCF-7 cells.", "As compared to control, there was a significant reduction
+    in the number of soft agar grown colonies by 47.5, 58.4, and 90.5 % in 5-aza 2\u2032
+    dC, EGCG, and combination treatment, respectively.", 'In addition to the decreased
+    number of colonies, decrease in the size of colonies was also observed in all
+    the treatment groups as compared to vehicle control.', The combination treatment
+    resulted in the maximum reduction in number as well as in size of colonies., 'Thus,
+    the data of soft agar assay suggest that co-treatment resulted not only in greater
+    reduction of breast cancer cell growth but also anchorage-independent growth,
+    an indicator of cell tumorigenic potential, of MCF-7 cells as compared to control
+    and individual treatments.', "Representative photographs of soft agar grown colonies
+    of MCF-7 cells treated with DMSO as vehicle control, 5-aza 2\u2032 dC, EGCG, and
+    combination of EGCG and 5-aza 2\u2032 dC.", Cells were treated with these chemicals
+    for 72 h and then grown in soft agar for 7 days., Details of cell treatments and
+    seeding on soft agar are discussed in materials and methods section., "The representative
+    images for the number and size of cell colonies formed in each treatment as observed
+    under \xD740 and \xD7100 magnifications are given.", The histogram represents
+    the average number of colonies in each treatment group., "Data are represented
+    as mean \xB1 SEM.", An asterisk indicates statistically significant difference
+    as compared to vehicle control., "Symbol hash indicates significant difference
+    as compared to corresponding concentration of 5-aza 2\u2032 dC.", "Symbol infinity
+    indicates significant difference as compared to corresponding concentration of
+    EGCG\n\n\n\nTo further understand the growth inhibitory effect of 5-aza 2\u2032
+    dC, EGCG, and their co-treatment at molecular level, the expression of genes involved
+    in cell cycle, apoptosis, tumor suppression, and proliferation of breast cancer
+    cells was analyzed at transcript level by quantitative real-time PCR.", 'The changes
+    in the expression of each category of genes are as follows:
+
+
+
+
+    The representative genes for cell cycle, cell survival, and growth signaling were
+    analyzed.', 'Among the cell cycle-related genes, the expression of CCNE2 and CCNA1
+    was significantly downregulated in all the treatment groups as compared to control.',
+  "Although there was no significant change in the G1 cyclin CCND1 in 5-aza 2\u2032
+    dC-treated cells, its expression was significantly downregulated in EGCG-treated
+    cells.", "Co-treatment of 5-aza 2\u2032 dC and EGCG leads to significantly greater
+    downregulation in CCND1 expression as compared to individual treatments.", "Similarly,
+    co-treatment leads to significantly greater downregulation of another G1 cyclin,
+    CCNE2 as compared to the treatment with 5-aza 2\u2032 dC and EGCG alone.", 'Decreased
+    expression of CCNA1 was also observed in all the treated groups, however, co-treatment
+    did not lead to greater decrease as compared to individual treatments.', "The
+    expression of CCNG1 was significantly downregulated in 5-aza 2\u2032 dC-treated
+    cells as well as cells co-treated with 5-aza 2\u2032 dC and EGCG, but not in those
+    treated with EGCG alone.", 'The expression of another negative cell cycle regulatory
+    gene, cyclin CCNG2 was significantly upregulated in EGCG-treated and co-treated
+    cells.', "However, no significant difference was observed in the expression of
+    CCNG2 in 5-aza 2\u2032 dC-treated cells as compared to control.", "The expression
+    of pro-apoptotic gene, Bax was significantly increased in all the treated cells
+    as compared to control, however, the expression of Bax in co-treated cells was
+    significantly increased as compared to 5-aza 2\u2032 dC but not EGCG.", "The expression
+    of anti-apoptotic gene, Bcl2 was significantly downregulated in 5-aza 2\u2032
+    dC and EGCG-treated cells.", "Co-treated cells had significantly more downregulation
+    in Bcl2 as compared to cells treated with either 5-aza 2\u2032 dC or EGCG.", "Maximum
+    alteration of Bax: Bcl2 ratio, in favor of apoptosis was observed in co-treated
+    cells as compared to that in cells treated with either 5-aza 2\u2032 dC(Bax:Bcl2
+    = 4.34) and EGCG.", 'Similar trend of downregulation of pro-survival genes, Survivin
+    and Wnt1, was also observed.', "Significantly greater downregulation of Wnt1 was
+    observed in co-treated cells as compared to cells treated with either 5-aza 2\u2032
+    dC or EGCG.", 'Expression of RASSF1A gene, known to have tumor suppressor properties
+    was significantly upregulated in all treatments as compared to control.', 'As
+    compared to individually treated cells, significantly greater upregulation of
+    RASSF1A, was observed in co-treated cells.', "Quantitative real-time PCR analysis
+    of gene expression in MCF-7 cells treated with 5-aza 2\u2032 dC, EGCG, EGCG and
+    5-aza 2\u2032 dC combination and DMSO as vehicle control for 7 days.", One-step
+    RT-PCR with total cellular RNA was performed as described in Materials and Methods.,
+  "Fold change in gene expression was determined by delta\u2013delta Ct method and
+    plotted as mean \xB1 SEM.", An asterisk indicates statistically significant difference
+    as compared to vehicle control., "Symbol hash indicates significant difference
+    as compared to corresponding concentration of 5-aza 2\u2032 dC.", "Symbol infinity
+    indicates significant difference as compared to corresponding concentration of
+    EGCG\n\n\n\nTo evaluate the role of epigenetic mechanism on the growth inhibitory
+    effect of 5-aza 2\u2032 dC and EGCG, the expression of genes involved in DNA methylation,
+    histone deacetylation, and methylated DNA recognition was analyzed by real-time
+    PCR.", The expression of the three DNMTs analyzed in this study was decreased
+    in all treatments., "Cells co-treated with EGCG and 5-aza 2\u2032 dC had significantly
+    greater downregulation in DNMT1 and DNMT3b transcripts expression as compared
+    to that in cells treated with either 5-aza 2\u2032 dC or EGCG.", A similar trend
+    of maximum decrease in co-treated cells was not observed for DNMT3a., 'Expression
+    of methyl-binding domain protein MBD4 was significantly downregulated by both
+    EGCG and co-treatment, though no significant difference was seen between the two.',
+  "No significant change in MBD4 was observed in 5-aza 2\u2032 dC-treated cells.",
+  'Although there was a decrease in expression of HDAC1 in co-treated and EGCG-treated
+    cells, it was statistically not significant.', "Quantitative real-time PCR analysis
+    of gene expression in MCF-7 cells treated with 5-aza 2\u2032 dC, EGCG, EGCG, and
+    5-aza 2\u2032 dC combination and DMSO for 7 days.", One-step RT-PCR with total
+    cellular RNA was performed as described in Materials and Methods., "Fold change
+    in gene expression was determined by Ct method and plotted as mean \xB1 SEM.",
+  An asterisk indicates statistically significant difference as compared to vehicle
+    control., "Symbol hash indicates significant difference as compared to corresponding
+    concentration of 5-aza 2\u2032 dC.", 'A symbol infinity indicates significant
+    difference as compared to corresponding concentration of EGCG
+
+
+
+
+    Western blot analysis was performed to further confirm the changes in the expression
+    of some of the epigenetic regulatory genes at protein level.', The level of histone
+    H3 modifications) was also measured at protein level., "The result revealed that
+    the expression of HDAC1, DNMT1, and MBD4 was significantly downregulated in cells
+    treated with either 5-aza 2\u2032 dC, EGCG, or their co-treatment.", "As compared
+    to cells treated with either 5-aza 2\u2032 dC or EGCG, co-treated cells had significantly
+    greater downregulation of HDAC1 and MBD4.", "Interestingly, the expression of
+    DNMT1 was undetectable in 5-aza 2\u2032 dC-treated cells, and co-treatment of
+    5-aza 2\u2032 dC and EGCG leads to significantly greater downregulation of DNMT1
+    as compared to EGCG alone.", "Co-treated cells had significantly greater decrease
+    in methylated H3 when compared to 5-aza 2\u2032 dC and vehicle control-treated
+    cells, but not in EGCG-treated cells.", "The level of histone H3 acetylation)
+    was significantly decreased in co-treated cells as compared to vehicle control
+    and cells treated with either 5-aza 2\u2032 dC or EGCG.", Representative Western
+    blot images and histograms representing their relative band intensity., Western
+    blot analysis with total cellular protein lysates was performed as described in
+    Materials and Methods., Relative amount of respective epigenetic regulatory proteins
+    or histone modifications was determined by densitometry analysis., "Band intensity
+    of each protein was normalized by GAPDH intensity from the same sample and then
+    plotted as mean \xB1 SEM.", An asterisk indicates statistically significant difference
+    as compared to vehicle control., "Symbol hash indicates significant difference
+    as compared to corresponding concentration of 5-aza 2\u2032 dC.", "A symbol infinity
+    indicates significant difference as compared to corresponding concentration of
+    EGCG\n\n\n\nThe effect of 5-aza 2\u2032 dC and EGCG treatments on genome-wide
+    methylation pattern was evaluated by methylation-sensitive RAPD-PCR.", 'As compared
+    to control, there was no change in the RAPD fingerprint generated from undigested
+    DNA.', "This indicates the absence of mutational changes due to 5-aza 2\u2032
+    dC and EGCG treatment.", 'As compared to undigested DNA, the methylation-sensitive
+    RAPD-PCR from restriction-digested DNA revealed several changes in RAPD fingerprint.',
+  "Comparison of DNA fingerprint generated from MspI-digested DNA revealed the presence
+    of 500 and 300 bp bands in treated cells, whereas the intensity of these two bands
+    was faint/hardly detectable in vehicle control, thereby suggesting that hypomethylation
+    was induced at these loci by 5-aza 2\u2032 dC and EGCG.", This was further confirmed
+    by the presence of these bands in control and their loss in intensity in the treated
+    group of cells from Hpa II-digested RAPD fingerprint., "Similar pattern of 5-aza
+    2\u2032 dC- and EGCG-induced hypomethylation was observed in RAPD fingerprint
+    generated from additional set of primers.", "Representative MS-RAPD fingerprint
+    generated using the total DNA from cells treated with 5-aza 2\u2032 dC, EGCG,
+    EGCG, and 5-aza 2\u2032 dC combination and DMSO as vehicle control for 7 days.",
+  'Total DNA was digested with MspI and Hpa II restriction enzymes, and MS-RAPD-PCR
+    was performed as described in Materials and Methods.', "Random primer sequence
+    used to generate the RAPD fingerprint is 5\u2032-AAAGCTGCGG- 3\u2032.", "Treatments
+    are represented as follows: M Marker; 1 DMSO; 2 5-aza 2\u2032 dC; 3 EGCG; 4 EGCG
+    and 5-aza 2\u2032 dC.", "Changes in methylation pattern are indicated by arrows\n\n\n\nThe
+    major finding of this study is that co-treatment with non-toxic, low concentrations
+    of 5-aza 2\u2032 dC and EGCG is more efficient in inhibiting growth of breast
+    cancer cells as compared to individual treatments.", 'Additionally, for the first
+    time our data revealed that this potentiation of growth inhibition by co-treatment
+    is, at least in part, mediated by their synergistic action on epigenetic modulators
+    in breast cancer cells.', "Both 5-aza 2\u2032 dC and EGCG inhibit growth of cancer
+    cells by several mechanisms including apoptosis and cell cycle arrest.", "5-aza
+    2\u2032 dC induces G2/M cell cycle arrest and apoptosis by altering expression
+    of cyclins and aberrantly methylated apoptotic genes .", 'Similarly, EGCG can
+    regulate the expression of cell cycle regulatory and apoptotic genes to decrease
+    cancer cell growth and proliferation by inducing cell cycle arrest and apoptosis
+    .', 'EGCG has been shown to inhibit the growth of cancer cells by regulating the
+    cell surface growth factor receptors, such as epidermal growth factor receptor,
+    vascular endothelial growth factor receptor, insulin-like growth factor receptor
+    involved in receptor tyrosine kinase-dependent signaling pathways for cell proliferation,
+    survival, and angiogenesis .', "Another mechanism for EGCG\u2014mediated growth
+    inhibition of cancer cells involve inhibition of various transcription factors
+    that are frequently upregulated in cancer cells, such as STAT1, STAT3, AP-1, NF-kB,
+    Sp1, and FOXO1 .", "These reports suggest that both EGCG and 5-aza\u2032dC have
+    potential to inhibit growth of cancer cells by these two agent-specific mechanisms
+    as described above.", "However, the efficacy of 5-aza\u2032dC and EGCG is limited
+    in solid tumors when given as single agent .", It has been suggested that these
+    compounds can be combined with other chemotherapeutic drugs or HDAC inhibitors
+    to augment their effects ., "Therefore, in this study, we further investigated
+    the mechanisms through which co-treatment of 5-aza 2\u2032 dC and EGCG resulted
+    in greater growth inhibition of breast cancer cells.", "Significantly, greater
+    downregulation of cyclin D1, cyclin E2, and Bcl2 mRNA in MCF-7 cells co-treated
+    with EGCG and 5-aza 2\u2032 dC as compared to those treated with either compound
+    alone suggests that these genes are the common target for these two compounds.",
+  "Additionally, we also observed drug-specific changes in the expression of certain
+    genes, such as cyclin G1, cyclin G2, and cyclin A1, thereby suggesting that these
+    genes are uniquely targeted by either 5-aza\u2032dC or EGCG.", 'Therefore, the
+    observed potentiation in growth inhibition by co-treatment may be due to alteration
+    of common as well as drug-specific targets, which otherwise may not be possible
+    to achieve by single-agent treatment.', "In addition to these above-mentioned
+    genetic targets, studies have shown that both 5-aza 2\u2032 dC and EGCG are epigenetic
+    modifiers and inhibit DNMTs .", 'Additionally, EGCG has HDAC inhibitory activity
+    .', Elevated levels of class 1 HDAC enzymes in breast cancer tissue suggest their
+    role in breast cancer development ., EGCG reduces the expression of HDAC 3 not
+    only at transcript level but also by targeting this protein for degradation in
+    HCT 116 cancer cells ., "These reports suggest that both EGCG and 5-aza 2\u2032
+    dC can synergistically act through epigenetic mechanism.", 'Consistent with this
+    theory, many genes including RASSF1A, Wnt1, CCND1, CCNA1, Bax, and survivin, that
+    were synergistically either up or downregulated by co-treatment in our study,
+    are known to be regulated by epigenetic mechanisms .', "Therefore, the epigenetic
+    effect of EGCG and 5-aza 2\u2032 dC was also examined in this study.", "Our data
+    indicate that co-treatment of EGCG and 5-aza 2\u2032 dC can synergistically target
+    several epigenetic regulatory genes.", 'For example, significantly greater downregulation
+    of DNMT1, DNMT 3b transcripts, and HDAC1 and MBD4 proteins was observed in co-treated
+    cells as compared to individually treated cells.', 'Besides the change in expression
+    of epigenetic regulatory genes, co-treatment also resulted in greater effects
+    on DNA methylation and histone modifications as compared to the individual treatments.',
+  'For example, methylation-sensitive RAPD results revealed increase in DNA hypomethylation
+    in co-treated MCF-7 cells.', 'Similarly, co-treatment resulted in decrease in
+    histone H3K27 trimethylation and histone H3 acetylation).', The antibody used
+    in this study for histone acetylation detects both phosphorylation of serine 11
+    and acetylation at lysine 15., Phosphorylation of serine 11 facilitates acetylation
+    of H3 and is associated with mitogen-activated c-fos oncogene expression in a
+    MAP kinase-dependent manner ., "The observed decrease in p-Ac-H3 by co-treatment
+    of EGCG and 5-aza 2\u2032 dC suggests that these two compounds mediate growth
+    inhibition by p-Ac-H3-dependent inactivation of oncogenes in MCF-7 breast cancer
+    cells.", 'Given the role of these epigenetic regulatory proteins and histone modifications
+    in repression of critical genes such as tumor suppressors and DNA repair genes
+    in cancer , the data of this study suggest that the observed potentiation of growth
+    inhibition by co-treatment is, at least in part, mediated by epigenetic mechanisms,
+    such as epigenetic reactivation of tumor suppressors and apoptotic pathways in
+    breast cancer cells.', "An important aspect of this study was the dose of 5-aza
+    2\u2032 dC and EGCG selected for treatment.", "5-aza 2\u2032 dC has a dual dose-dependent
+    mechanism of action.", "High dose of 5-aza 2\u2032 dC leads to formation of cytotoxic
+    DNA adducts, whereas low dose induces gene expression changes that favor reduced
+    proliferation and apoptosis .", EGCG has been reported to induce apoptosis in
+    several cancer cell lines without affecting the normal cells ., "The result of
+    this study from cell count, MTT assay for cell viability, and cell cycle analysis
+    further confirmed that low dose 5-aza 2\u2032 dC and EGCG alone or their combination
+    has no cytotoxic effect on MCF-10A normal breast epithelial cells, whereas these
+    two compounds induce significant cytotoxicity to MCF-7 and MDA-MB 231 breast cancer
+    cells.", 'While the exact mechanism for this differential action is not known,
+    pro-oxidative effect of EGCG has been attributed for its cancer cell-specific
+    apoptosis.', 'Studies have shown that, in general, normal cells have a better
+    anti-oxidant system as compared to cancer cells, where the anti-oxidant system
+    integrity is compromised , therefore normal cells are better suited to scavenge
+    H2O2 produced by EGCG than cancer cells .', This may be a potential reason for
+    the cancer cell specificity of EGCG for inducing apoptosis., It is interesting
+    to note that EGCG can induce apoptosis or necrosis based on its dose., "Lower
+    concentrations \xB5M of EGCG have been reported to favor apoptosis, whereas higher
+    concentrations are associated with necrosis in MCF-7 cells.", 'This dose-dependent
+    effect has been attributed to apoptosis favoring changes in intracellular ROS,
+    mitochondrial membrane potential, and ATP levels, which are induced by lower dose
+    of EGCG .', These previous reports and the result of this study suggests that
+    cancer cell-specific cytotoxicity can be achieved by a combination of these two
+    compounds at concentrations low enough to be safe for normal cells., Recent evidence
+    suggests that combination of chemotherapeutic or naturally occurring compounds
+    has advantages over single-agent treatments., 'For example, combination of EGCG
+    with chemotherapeutic drugs such as tamoxifen or dietary phytochemicals like resveratrol
+    can synergistically inhibit proliferation of breast cancer cells .', "Similarly,
+    5-aza 2\u2032 dC can be combined with HDAC inhibitors to synergistically decrease
+    cancer cell proliferation and growth .", "Due to the reversible nature of epigenetic
+    targets and the minimal toxicity of bioactive dietary compounds toward normal
+    cells unlike conventional chemotherapeutic drugs, combination of EGCG and 5-aza
+    2\u2032 dC has great promise for clinical applications in breast cancer treatment.",
+  'Therefore, these previous reports and the findings of this study further highlight
+    the importance of combination treatment for efficient inhibition of cancer growth.',
+  "In summary, our data suggest that combination of 5-aza\u2032dC and EGCG is more
+    effective in terms of breast cancer cell growth inhibition as compared to individual
+    treatments.", "Our study indicates that the combination of 5-aza 2\u2032 dC with
+    green tea polyphenol EGCG can target cancer growth and proliferation by multiple
+    mechanisms including modification of epigenetic machinery.", 'The authors hereby
+    disclose that there are no financial and personal relationships with other people
+    or organizations that could inappropriately influence their work, and therefore
+    there is no conflict of interest.']

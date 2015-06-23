@@ -1,0 +1,290 @@
+---
+pathHash: 1393b18ebb5967bd6d0c934609287fcb
+text: "\n\n\n\nLipids and cholesterol in particular, have long been associated with
+  breast cancer onset and progression. However, the causative effects of elevated
+  lipid levels and breast cancer remain largely undisclosed and were the subject of
+  the present study. \n\nWe took advantage of well-established in vitro and in vivo
+  models of cholesterol enrichment to exploit the mechanism involved in LDL-cholesterol
+  favouring BC growth and invasiveness. We analyzed its effects in models that mimic
+  different BC subtypes and stages. \n\nOur data show that LDL-cholesterol promotes
+  BC cells proliferation, migration and loss of adhesion, hallmarks of the epithelial
+  to mesenchymal transition. In vivo studies modeling cholesterol levels showed that
+  breast tumors are consistently larger and more proliferative in hypercholesterolemic
+  mice, which also have more frequently lung metastases. Microarray analysis revealed
+  an over expression of intermediates of Akt and ERK pathways suggesting a survival
+  response induced by LDL, confirmed by WB analyses. Gene expression analysis also
+  evidenced an activation of ErbB2 signaling pathway and decreased expression of adhesion
+  molecules in the cells exposed to LDL. \n\nTogether, the present work shows novel
+  mechanistic evidence that high LDL-cholesterol levels promote BC progression. These
+  data provide rationale for the clinical control of cholesterol levels in BC patients.
+  \n\n\n\n\n\n\n\nProliferating cells, such as cancer cells, are believed to have
+  increased requirements for cholesterol. To overcome its needs, tumor cells can increase
+  lipid biosynthesis , but can also uptake cholesterol from the bloodstream . Abnormal
+  cholesterol accumulation is a characteristic of some malignancies  and the inhibition
+  of cholesterol storage machinery, in breast cancer cell lines was associated with
+  reduced proliferation . \n\nThe capacity of cancer cell to use exogenous lipids
+  has been pointed up to explain the link between dyslipidemia and high fat diets
+  with cancer . \n\nEpidemiological studies tried to demonstrate a causal relationship
+  between dyslipidemia and cancer but they have failed , or found just weak associations
+  . However, it should be noted that several of those studies did not account for
+  the lipoprotein fractions, lipid lowering drugs use or the different tumor types,
+  which could all influence the results and their interpretation. Moreover, most studies
+  to date have sought to find a causal link between cancer incidence and lipid levels;
+  significantly less studies tried to explore a possible link in cancer aggressiveness
+  or progression. Thus, for now, the importance of plasma cholesterol in cancer progression
+  remains poorly understood and was the subject of the present study. \n\nWe asked
+  whether exposure to a host LDL-cholesterol enriched systemic environment promotes
+  breast cancer progression by activating key signaling pathways and modulating cell
+  behavior. To test this hypothesis we used controlled experimental environments,
+  employing well established in vitro and in vivo models. \n\n\n\n\n\n\n\nThe human
+  breast cancer cell line HTB20 and the mouse breast cancer cell line 4 T1 were purchased
+  from the American Type Culture Collection. The human breast cancer cell lines HTB126,
+  MDA MB 231 were kindly provided by Instituto Português de Oncologia Porto. \n\nThe
+  cell lines were cultured in DMEM supplemented with 10% heat-inactivated fetal bovine
+  serum and 1% penicillin-streptomycin. Fetal bovine serum lipoprotein free was purchased
+  from Sigma-Aldrich and human plasma low density and high density lipoproteins were
+  obtained from Calbiochem. Mitomycin C was from Sigma-Aldrich and Trypsin from. \n\n\n\nMDA
+  MB 231, HTB 126, HTB 20 cells were seeded into 24-well plate in 250 μl DMEM, 10%FBS.
+  After overnight incubation, the medium was replaced by DMEM, 1%FBSLF, for 24 h.
+  Then, the medium was aspirated and cells were incubated with medium containing HDL
+  or LDL, at 37°C in 5%CO2, for 24 h or 48 h. The number of living cells was determined
+  by hemocytometer counts, after Trypan Blue test exclusion. The number of cells is
+  expressed as fold change over the control. \n\n\n\nMDA MB 231 cells were seeded
+  on 24-well plate and grown to confluence in DMEM, 10%FBS. Upon reaching confluence,
+  the medium was replaced by DMEM, 1%FBSLF, for 24 h. Two-hundred-microliter tips
+  were used to make a denuded area in the center of the well. Each well was washed
+  with PBS and treated with HDL or LDL for 24 h. Mitomycin C was added to the medium
+  to block cell proliferation. Serial photographs were taken at 0 h, 12 h and 24 h,
+  and cell migration distance was determined by subtracting the values obtained at
+  0 h from 24 h. The migration distances are expressed as percentage of the wound
+  closure. \n\n\n\nMDA MB 231 cells were seeded into 24-well plate in 250 μl DMEM,
+  10%FBS, overnight, and then replaced by DMEM, 1%FBSLF, for 24 h. After 24 h, cells
+  were left untreated or exposed to LDL,overnight. Than wells were washed with PBS,
+  and cells removed with trypsin and reseeded into 24-well plates in 250 μl DMEM,
+  10% FBS, as defined earlier. After 4 h, cells were washed with PBS and adherent
+  counted. The cells in the supernatant were also counted. The results are shown as
+  the number of adherent or supernatant cells/mL. \n\n\n\nTotal RNA was extracted
+  by Trizol method from untreated or LDL treated breast cancer cells and used to study
+  changes in gene expression. The samples were hybridized on an Affymetrix GeneChips
+  at Instituto Gulbenkian de Ciência core facility. The gene expression results were
+  analyzed using Chipster 2.2.0 software. A cutoff of 1.5 fold above or below the
+  house keeping gene expression levels was considered significant. IPA Ingenuity Systems
+  was used to exploratory analysis of interactive networks and relevant biological
+  interactions. \n\n\n\nCells were lysed in 50 mM tris, 5 mM EDTA, 2% SDS, pH6.8 buffer
+  containing protease inhibitor cocktail. Lysates were diluted 1:1 in loading buffer
+  and 300 μg proteins were loaded on 10% tris–glycine gels. Proteins were transferred
+  to 0.2 lM nitrocellulose membranes and subjected to standard immunoblotting with
+  the antibodies: ERK, pERK, akt, pakt, pJNK, β-actin. Bands were detected with anti-species
+  HRP conjugate. ImageJ software was used to quantify the density of the bands . \n\n\n\nAll
+  results, unless otherwise indicated, are expressed as the mean ± standard error
+  of, at least, triplicates. Data were analyzed using unpaired two-tailed Students
+  t test. P values of ;0.05 were considered statistically significant. \n\n\n\nAll
+  animal experiments were performed after approval from Ethics Committee of the Instituto
+  Gulbenkian de Ciência. Animals were housed and maintained in a barrier facility
+  at Instituto Gulbenkian de Ciência. In each experiment, 4–6 week old female mice
+  were injected with breast cancer cells in the right axillary mammary fat pad. Than
+  the test group was subjected to a high cholesterol diet and the control group fed
+  the standard mouse diet, with no differences in energy up take values. Food and
+  water were given ad libitum. Elevated cholesterol levels were confirmed by standard
+  dosing methods at Clinical Pathology Laboratory of the Instituto Português de Oncologia
+  de Lisboa and parallel groups were used to control the diet effect on lipid profile.
+  In order to test different tumor types and different host backgrounds the following
+  trials were performed: \n\n\n\n\n\nThe animals were sacrificed at different times
+  following tumor inoculation, as referred above; mammary tumors, lungs and liver
+  were excised. Tumors were split into two parts, one frozen in liquid nitrogen and
+  stored at -80°C and the other, and other organs, were fixed in 10% neutral buffered
+  formalin. Photos of the tumor were taken and the large diameter measured. Blood
+  was collected, by cardiac puncture, and serum used to determine lipid profile, LDL,
+  HDL and triglycerides). Tumor sizes are presented as fold change over the control
+  group. Systemic metastases were searched macroscopically during organs collection
+  and microscopically in the lungs and liver. \n\nImmunohistochemical staining for
+  Ki 67 was performed in a Dako Autostainer® using standard protocols, followed by
+  counting positive cells in an automated cellular imaging system, at, Department
+  of Pathology at Instituto Português Oncologia de Lisboa. \n\nAn additional trial
+  was done, using statins, in order to test the effect of the reduction of the systemic
+  cholesterol on the tumor. Using as mice model NOD SCID /4 T1, the test group was
+  subjected to a high cholesterol diet and treated with simvastatin. Control groups
+  were fed with standard mouse diet and high cholesterol diet and treated with placebo.
+  The mice were injected with tumor cells 4 weeks after starting treatment and treated
+  during 4 weeks more. Animals were sacrificed as described before. \n\n\n\nValues
+  are given as the mean ± standard error. Comparisons between control and test mouse
+  samples were performed using the unpaired two-tailed Student´s t test. The number
+  of mice used for each experiment is indicated in the Figure. P values of &lt;0.05
+  were considered statistically significant. \n\n\n\n\n\nWe examined the effect of
+  LDL on breast cancer cells proliferation and found that the number of viable cells
+  increased after LDL-cholesterol stimulation in all cell lines, reaching statistical
+  significance in MDA MB 231 and HTB 20 at 48 h. Further dissection of LDL induced
+  phenotype was performed on MDA MB 231 cells. In detail, we also determined whether
+  LDL could induce the migration of breast cancer cells in “wound/starch assays”,
+  in the presence of mitomycin C to inhibit cell proliferation, and we found that
+  LDL induced migration of MDA MB 231 cells, promoting in vitro wound closure. Importantly,
+  HDL was used as control and did not promote cell migration. \n\nFigure 1. Proliferation,
+  migration and loss of adhesion induced by LDL in in breast cancer cell lines. A,
+  Number of cells after 24 h and 48 h of LDL exposure is consistently higher than
+  control condition. B and C, Cells were wounded and then cultured for 24 h, with
+  LDL, HDL or control conditions. Cell migration into the wound was examined by phase-contrast
+  microscopy and migration distance is indicated as the percentage of the wound closure
+  at 24 h. Representative photos are shown. D and E, Number of cells adherent and
+  no adherent cells, at 4 h after being removed and reseeded on its primary conditions
+  shows that LDL treated cells lose matrix adhesion compared to control. Representative
+  photos are shown. P value and the number of the experiments are represented in the
+  figure. Columns mean; bars ± SEM. \n\nThereafter we tested if cells incubated with
+  LDL changed their adhesive behavior. As shown in Figure 1D and E, LDL pre-treated
+  MDA MB 231 cells, lost their adhesion to the matrix compared to control conditions.
+  \n\nTogether, these data suggest that LDL exposure of breast cancer cells affects
+  their adhesive properties, favoring cell migration and proliferation. \n\n\n\nHaving
+  shown LDL induced phenotypic changes on breast cancer cells, next we sought to demonstrate
+  a causal mechanistic link between these changes and the activation of signaling
+  intermediates and pathways that could explain the altered properties. For this purpose
+  we performed Affymetrix microarray analysis of untreated versus LDL treated breast
+  cancer cells. We found an over expression of 147mapped genes and down regulation
+  of 95 mapped genes, at 48 h. The great majority of these genes were related to cell
+  survival and proliferation pathways. Among altered expression genes are also, the
+  down regulation of the adhesion molecules cadherin-related family member3, CD226,
+  Claudin7, Ocludin and integrinβ8. Exploratory analysis of the significant gene interactions,
+  found an activation of akt, ERK and JNK networks, all in the dependency of the ErbB2
+  pathway. \n\nAdditional file 1: Table S1. Gene expression of LDL treated vs Control
+  MDA MB 231. Table S2 . Lipid Profile in mice trails.\n\n\nFigure 2. Activated cellular
+  networks, at 48 h, in LDL treated breast cancer cell line. Gene expression analysis
+  of breast cancer cells MDA MB231 exposed to LDL, for 48 h shows up regulation of
+  molecules involved in activation of ERK, akt and ErbB2 pathways. Grey nodes are
+  genes overexpressed, white nodes are predicted genes. Smooth lines represent direct
+  interactions. Dashed lines represent indirect interactions. \n\nBy western blotting
+  analysis we confirmed the raised phosphorylation of akt and ERK, but not of JNK.
+  \n\nFigure 3. LDL induces ERK and akt protein phosphorylation. A. Cells exposed
+  to LDL show higher expression of phosphorylated ERK and akt, without significant
+  increase in respective total protein. Phosphorilation of JNK is also higher, without
+  reaching statistical significance. Epidermal growth factor stimulation was used
+  as positive control and induced, as expected, increase ERK, akt and JNK phosphorylation.
+  B. Representative photos of western blot membranes are shown. P value and the number
+  of the experiments are represented in the figure. Columns mean; bars ± SEM. \n\nThese
+  data evidence the LDL effect on the breast cancer cell promoting survival, proliferation
+  and migration. \n\n\n\nHD fed mice showed high levels of TC, LDL and HDL. However,
+  there were no statistically significant differences in triglycerides levels or animal
+  weight. The values of the mouse lipid profile in each experiment are shown in Additional
+  file 1: Table S2. These data validate this high fat diet model as a good model to
+  specifically address the effects of elevated cholesterol levels. \n\nFigure 4. Hypercholesterolemic
+  diet induces a breast cancer phenotype characterized by large and more proliferative
+  tumors. A and B. HD fed mice have raised levels of total cholesterol, low density
+  lipoprotein and high density lipoprotein. There are no statistical significant differences
+  in triglycerides level or animal weight, as exemplified to MDA MB 231/BALB SCID
+  trial. Animal in the same diet but without tumor cells inoculation were used as
+  control to lipid profile parameters. C and D. HD fed mice show large tumors when
+  compared to ND fed mice. The mammary tumor large diameter was measured and the differences
+  are shown as the fold change over the ND fed mice. E. HD fed mice are more likely
+  to have lung metastasis than ND fed mice. F and G. HD fed mice have more proliferative
+  tumors as confirmed by Ki67 immuno staining. P value and the number of the experiments
+  are represented in the figure. Columns mean; bars ± SEM. Scale bar 100 μm. \n\nHD
+  promoted breast tumor growth in all models tested, with statistically significant
+  differences in BALB SCID inoculated with MDA MB 231 and BALB C inoculated with 4
+  T1 cells. Tumors of HD fed mice showed a proliferative ratio that was 20% higher
+  than tumors from ND fed mice, assessed by immunohystochemistry. \n\nLung metastases
+  were observed macroscopically and microscopically in the NOD SCID and BALB C/4 T1
+  models. No significant differences were registered the first model, but BALB C/4
+  T1 hypercholesterolemic mice showed a higher frequency of lung metastasis, at the
+  end of the trial, compared to ND fed mice. No liver metastases were registered.
+  Two mice of the longest BALB SCID/HTB 20 trial died, one of each group. No other
+  mice deaths occurred. \n\n\n\nThe treatment with statins did not reduce cholesterol
+  levels of HD fed mice. Tumor size of HD fed mice treated with statins show no significant
+  difference from HD fed control mice, in this trial. \n\nAdditional file 2: Figure
+  S1. Tumor size of hypercholesterolemic diet fed mice treated with statins show no
+  significant differences from hypercholesterolemic diet fed control mice. A HD fed
+  mice have raised levels of total cholesterol and low density lipoprotein and no
+  significant differences in high density lipoprotein and triglycerides levels compared
+  ND. Treatment with statins 5 mg/dL, 8 weeks, does not change lipid profile in the
+  HD fed mice. B and C NOD SICD/ 4 T1 mice model fed with HD show no significant differences
+  in tumor size compared to HD fed mice treated with statins 5 mg/mL. P value and
+  the number of the experiments are represented in the figure. Columns mean; bars
+  ± SEM.\n\n\n\n\nObesity and dyslipidemia, have long been linked with a possible
+  increase in the likelihood of developing cancer. This possible causal relationship
+  has gained momentum in the light of the observed obesity “epidemic” and the recognized
+  increased incidence of cancer in western countries . Moreover, the same trend in
+  obesity, dyslipidemia and cancer incidence has been seen in Asian with the growing
+  incorporation of western lifestyles . \n\nHowever, few studies have tried to find
+  causal and mechanistic associations between increased lipid levels and- not cancer
+  incidence- but cancer behavior. This was tested in the present study, using well
+  established in vitro and in vivo models of hypercholesterolemia and breast cancer.
+  \n\nIn breast cancer cell lines, representative of different tumor subtypes and
+  stages, we found that LDL exposure induces cell proliferation, migration and loss
+  of adhesion, hallmarks of the process of epithelial to mesenchymal transition .
+  \n\nOthers have demonstrated that in some breast cancer cell lines, HDL induces
+  proliferation . We saw a discrete effect of HDL in ER negative cells proliferation,
+  but no influence in migration or adhesion properties. \n\nPrevious studies, also
+  showed that LDL induces proliferation  and migration  of ER negative, but not ER
+  positive breast cancer cell lines. We used an ER positive breast cancer cell line
+  HTB 20 and LDL induced similar phenotype changes. HTB 20 breast cancer cells usually
+  express ErbB2 receptor . \n\nOur own unpublished data shows that there is an association
+  between high plasma LDL level and ErbB2 positive breast cancer . Also the exploratory
+  analysis of gene expression microarrays suggested an upstream activation of an epidermal
+  growth factor receptor. \n\nHuman epidermal growth factor receptor -2 is a membrane
+  tyrosine kinase and oncogene that is overexpressed and gene amplified in about 20%
+  of breast cancers . \n\nIndependent investigations have demonstrate that cell cholesterol
+  depletion using Methyl-N-Cyclodextrin, reduces fluidity of the membrane and enhances
+  phosphorilation and consequent activation of EGFR downstream cascade . Orr et al
+  \ specifically demonstrated this effect in ErbB2 receptor. Since EGFR could be activated
+  in a ligand-independent manner , we suggest that cholesterol mobilization across
+  the cell membrane may be the responsible for changes in membrane equilibrium/ disorganization
+  leading to ErbB2 activation, rather than the absolute cholesterol content itself.
+  But, as mentioned earlier, this hypothesis remains to be fully exploited in future
+  studies. \n\nGene and protein expression analysis of breast cancer cells stimulated
+  with LDL revealed that the proliferative effect induced by LDL may be dependent
+  on Akt and ERK pathways activation. Gene expression analysis also suggested decreased
+  expression of adhesion molecules such as cadherin-related family member 3, CD226,
+  Claudin 7 and Ocludin, upon breast cancer cells exposure to LDL. These findings
+  could explain the loss of adhesion and increased migration in the functional tests,
+  when cells were exposed to LDL and represent hallmarks of the epithelial to mesenchymal
+  transition, characteristic of tumor progression. \n\nTo systemically test the in
+  vitro results, hypercholesterolemia, controlling obesity, was induced in mice of
+  different background with different cells lines and data consistently showed greater
+  tumor growth in the high LDL groups. This is in accordance with the results reported
+  by Llaverias et al, in breast and prostate genetic mice models . Our xenograft models
+  have the advantage of being more representative of breast cancer heterogeneity.
+  \n\nTumors grown in hypercholesterolemic mice were characterized by higher proliferative
+  ratios, measured by Ki67 immunostaining, which is considered a worse prognostic
+  marker . Higher frequency of lung metastasis was also observed in HD fed mice inoculated
+  with the 4 T1 xenogeneic breast cancer cell line. In models using human breast cancer
+  cell lines we were not able to detect systemic metastasis, either macro or microscopically,
+  may be because those cells do not induce metastasis in mice or because the length
+  of our experiments was not sufficient. \n\nWe tried to reverse the hypercholesterolemic-induced
+  phenotype by treating mice with lipid lowering drugs. However we did not achieve
+  systemic LDL levels reduction with statins, in our model. This is a limitation of
+  our work but such difficulty was also found by others . Rats and mice that are commonly
+  used in experimental cancer studies are generally unresponsive to the hypocholesterolemic
+  effects of statins . \n\nIn humans, the effect of statins in cancer prevention and
+  treatment remains controversial. Two large meta-analyses from 2006 described a neutral
+  effect of satins in cancer incidence . A very recent cohort study crossing statins
+  prescription/pharmacy dispense and cancer related-mortality in Denmark National
+  databases , proved that statins use before diagnosis of cancer reduces cancer-related
+  mortality. Although some limitations are found and pointed by the authors and others
+  , such as lack of follow up and co-morbilities information, the association seem
+  to be plausible, in the study population, suggesting a role for primary prevention.
+  \n\nWhile assuming that a putative effect of statins is due to plasma cholesterol
+  levels reduction, the action of statins in cancer cells is not well known. Statins
+  decrease intracellular cholesterol synthesis by targeting hidroxi-3-methyl-glutaril-CoA
+  redutase 3\\. This may lower the products of mevalonate pathway involved in cell
+  proliferation and by this mechanism prevent tumor progression. Some of these effects
+  have been demonstrated in in vitro experiments . However, there is poor evidence
+  of direct effect of statins in cancer cells when taken orally . Therefore, much
+  remains to be learned and developed with regards to lipid control in breast cancer
+  setting. \n\nTaken together, our findings show that breast cancer exposed to an
+  LDL-rich host macro environment may be in survival advantage, which will ultimately
+  result in a more aggressive breast cancer phenotype. Our results are supported by
+  functional studies in cell lines and animal models of breast cancer and are in strong
+  accordance with clinical data. \n\nFigure 5. Phenotype of breast tumors exposed
+  to high levels of cholesterol-Proposed Model. Breast tumors exposed to high levels
+  of LDL-cholesterol are larger and show increased proliferation and migration while
+  losing epithelial adhesion properties. \n\nThe study exposes the importance of controlling
+  systemic cholesterol levels in breast cancer prevention and treatment and reveals
+  LDL as a biomarker of aggressiveness. \n\n\n\n\n\n\nCRS designed the study, performed
+  the functional studies, developed the breast cancer mice models, collected and analyzed
+  data and wrote the manuscript. GD Breast cancer mice models, performed the protein
+  extraction and Western Blot analysis, collected and analyzed data. IM cultured and
+  expanded breast cancer cells lines, performed the RNA extraction and microarray
+  analysis. JM performed the immunohistochemical studies. IF analyzed and validated
+  the pathological data, revised the manuscript. JMA analyzed and validated data,
+  revised the manuscript. SD designed and coordinated the study, analyzed data and
+  wrote the manuscript. All authors read and approved the final manuscript. \n\n\n\nWe
+  thank to the staff of the Pathology and Clinical Laboratories of IPOLFG for assistance
+  in data collection. \n\n\n\nSupported by the Programme to Advanced Medical Education.
+  \n"
+...

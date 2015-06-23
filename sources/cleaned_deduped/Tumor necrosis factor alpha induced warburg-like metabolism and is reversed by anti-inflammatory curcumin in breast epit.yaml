@@ -1,0 +1,323 @@
+---
+pathHash: d199ff3a690e135064f3b3a7ce0cfa93
+text: '
+
+
+
+
+  The reprogramming of cellular metabolism in cancer cells is a well-documented effect.
+  It has previously been shown that common oncogene expression can induce aerobic
+  glycolysis in cancer cells. However, the direct effect of an inflammatory microenvironment
+  on cancer cell metabolism is not known. Here, we illustrate that treatment of nonmalignant
+  and malignant breast epithelial cells with low-level tumor necrosis factor alpha
+  significantly increased glycolytic reliance, lactate export and expression of the
+  glucose transporter 1. TNF-α decreased total mitochondrial content; however, oxygen
+  consumption rate was not significantly altered, suggesting that overall mitochondrial
+  function was increased. Upon glucose starvation, MCF7 cells treated with TNF-α demonstrated
+  significantly lower viability than nontreated cells. Interestingly, these properties
+  can be partially reversed by coincubation with the anti-inflammatory agent curcumin
+  in a dose-dependent manner. This work demonstrates that aerobic glycolysis can be
+  directly induced by an inflammatory microenvironment independent of additional genetic
+  mutations and signals from adjacent cells. Furthermore, we have identified that
+  a natural dietary compound can reverse this effect.
+
+
+  An emerging hallmark of cancer is the reprogramming of cellular energetic pathways.
+  Virtually all cancers have been shown to upregulate glycolysis and lactate production,
+  even in the presence of oxygen, a phenomenon referred to as aerobic glycolysis or
+  the Warburg effect. It has been shown that expression of the oncogenes c-Myc and
+  Akt can induce aerobic glycolysis. In addition, aerobic glycolysis can be induced
+  by inflammatory gene expression in adjacent cancer-associated fibroblasts, which
+  affect cancer cell metabolism by shuttling lactate, ketones and glutamine to the
+  cancer cells. However, the direct effect of an inflammatory microenvironment on
+  reprogramming of energetic pathways is less understood.
+
+
+  Although several mechanisms for inflammation-induced tumorigenesis have been studied,
+  there are relatively few reports on the role of chronic inflammation in the reprogramming
+  of cancer cell metabolism. Indirect evidence supports that this may be an important
+  mechanism of inflammation-induced tumorigenesis. It has recently been shown that
+  nuclear factor kappa B, a central regulator of the inflammatory response, is also
+  a key regulator of energy homeostasis and aerobic glycolysis in mouse embryonic
+  fibroblasts. Chronic inflammation has also been associated with alterations in mitochondrial
+  metabolism. Together, these data suggest that chronic inflammation may cause tumorigenesis
+  in part, through alteration of the balance between aerobic glycolysis and oxidative
+  mitochondrial metabolism.
+
+
+  Many natural compounds have been investigated as anticancer agents because of their
+  anti-inflammatory properties. Curcumin, the bioactive component of the spice, tumeric,
+  is a nontoxic compound that has been shown to inhibit the growth of human breast
+  cancer cells in vitro, mammary carcinogenesis in vivo and breast metastases to the
+  lung in immunodeficient mice. Curcumin is thought to inhibit phosphorylation of
+  the inhibitor of kappa B, thereby preventing nuclear translocation of inflammation-related
+  transcription factor, NFκB.
+
+
+  Together, these studies suggest that aerobic glycolysis in cancer cells could be
+  partly controlled by the balance of inflammatory and anti-inflammatory agents. In
+  this study, we investigated the effect of low levels of the inflammatory cytokine,
+  TNF-α, along with the anti-inflammatory agent curcumin on aerobic glycolysis and
+  mitochondrial metabolism, in the breast epithelial cell lines, MCF-10A and MCF 7.
+
+
+
+
+
+
+  Nonmalignant and malignant breast epithelial cells from ATCC were maintained under
+  standard cell-culture technique. Cells were treated with either DMSO or 10 ng/ml
+  TNF-α with or without curcumin at 5 or 10 μM and incubated at 37°C in 5% CO2 for
+  96 hr.
+
+
+
+
+  Total RNA was extracted using RNeasy Kit. cDNA was synthesized using the Retroscript™
+  RT kit. Glucose transporter 1 was normalized to TATA-binding protein using primers
+  from Integrated DNA Technologies. qRT-PCR was performed in triplicate using SYBR
+  Green measured by the LightCycler 480 real-time PCR system. Relative expression
+  levels were determined by the ΔΔCp method.
+
+
+
+
+  Cells were incubated with either an anti-PGC-1α, cytochrome C or GLUT1 antibody
+  at 1:200 dilution overnight. Secondary AlexaFluor633 or AlexaFluor488 antibodies
+  were applied in 1:200 dilution. Confocal microscopy was performed using ZEN. To
+  verify increased mitochondrial content, cells were treated and stained with Mitotracker
+  200 nM and imaged as described earlier. Fluorescence was quantified using seven
+  cells per treatment using ImageJ software.
+
+
+
+
+  Cells were seeded overnight in 24-well culture plate at density 5 × 105 cells/well.
+  Following treatment, culture media were removed and replaced with XF Assay Media
+  from SeaHorse Bioscience containing 4500 mg/l glucose and incubated at 37°C. Per
+  manufactures protocol, SeaHorse injection ports were loaded with oligomycin, an
+  inhibitor of oxidative metabolism that maximizes glycolytic metabolism, carbonyl
+  cyanide p--phenyl-hydrazone, an uncoupler of electron transport that maximizes oxygen
+  consumption and rotenone in 1.0 μM final concentration. Extracellular acidification
+  rate and oxygen consumption rate were measured using the SeaHorse XF24 Extracellular
+  Analyzer from SeaHorse Bioscience. ECAR and OCAR were measured over a 96-min time
+  period.
+
+
+  Figure 1\. Glycolytic metabolism. Extracellular acidification rate of MCF-10a cells
+  is treated for 96 hr with DMSO TNF-α 10 ng/ml with or without curcumin at 5 or 10
+  μM. ECAR of MCF-7 cells is treated as described in. Lactate export of cells as treated
+  as described earlier. Glycolytic and oxidative ATP production of both cell models
+  following treatment as described earlier. Notes: p ; 0.05, p &lt; 0.01 and p &lt;
+  0.001.
+
+
+
+
+
+  Following treatment described earlier, either oligomycin or 2-deoxyglucose was added
+  to the cells to measure either glycolytic ATP production or oxidative ATP content.
+  The cells were lysed, and the ATP-containing supernatant was recovered. ATP was
+  measured using the ATP bioluminescence reagent from Sigma per manufacturers protocol.
+  Cell density was determined by staining cells with trypan blue from Sigma with cell
+  density estimated using a Countess™ cell quantification system from Invitrogen.
+
+
+
+
+  Following treatment as described earlier, culture media was removed and replaced
+  with buffer-free DMEM from SeaHorse Bioscience and allowed to incubate for 2 hr.
+  Media were collected, and lactate was measured in triplicate using the Lactate Assay
+  Kit II from Sigma using Wallac Victor3V 1420 Multilabel Counter from PerkinElmer.
+
+
+
+
+  Cells were transfected with an NFκB GFP-linked reporter system from Qiagen before
+  treatment as described earlier. NFκB activity was measured by quantifying the fluorescence
+  via microscopy using five replicates per treatment.
+
+
+
+
+  Media and treatment were replaced with media containing 10% WST1 and incubated for
+  1 hr. Fluorescence was measured using Wallac Victor3V 1420 Multilabel Counter. To
+  assess sensitivity to glucose deprivation, media were replaced with glucose-free
+  DMEM. Viability was assessed every 24 hr for 7 days total.
+
+
+
+
+  Cell metabolism, RNA expression, microscopy and cell viability were analyzed using
+  ANOVA and Tukeys multiple comparisons test using Prism Software from GraphPad. Values
+  of p &lt; 0.05 indicated statistical significance in all tests used.
+
+
+
+
+
+
+  To test if low-level inflammation induces aerobic glycolysis, we treated MCF-10a
+  or MCF-7 cells with either TNF-α at 10 ng/ml with or without curcumin at 5 or 10
+  μM. We measured glycolysis by monitoring the ECAR of cells in culture over 96 min.
+  Baseline glycolysis measurements were taken for the initial 24 min followed by the
+  addition of oligomycin, FCCP and rotenone at various time points. Oligomycin is
+  a mitochondrial ATPase inhibitor; therefore, this drug forces cells to maximize
+  glycolytic capacity to sustain ATP production. FCCP is a disruptor of mitochondrial
+  membrane potential that forces cells into a state of maximum respiration. Rotenone
+  inhibits NADH:ubiquinone oxidoreductase, which completely stops mitochondrial respiration.
+  The ECAR and OCR were measured during these treatments. Treatment of MCF-10a and
+  MCF-7 cells with 10 ng/ml TNF-α significantly increased both baseline glycolysis
+  and peak glycolytic capacity. Treatment of MCF-10a with TNF-α plus 5 or 10 μM curcumin
+  restored both basal and peak glycolysis to normal levels. Treatment of MCF-7 cells
+  with TNF-α plus 5 μM curcumin partially restored glycolysis to normal basal levels;
+  however, 10 μM curcumin did not. TNF-α treatment significantly increased ECAR following
+  treatment with FCCP, which was partially rescued by curcumin. OCR did not vary between
+  any treatment in either cell model. To further validate the induction of Warburg-like
+  metabolism by TNF-α, we measured lactate export following treatment. Cells treated
+  with TNF-α exhibited significantly greater lactate export compared to control, which
+  was completely rescued in both cell models by curcumin. Interestingly, both glycolytic
+  and oxidative ATP production were elevated in MCF-7 cells treated with TNF-α, but
+  ATP production was unaltered in MCF-10a cells.
+
+
+
+
+  TNF-α-induced aerobic glycolysis led us to measure changes in GLUT1 RNA and protein
+  expression. Treatment with TNF-α significantly increased the expression levels of
+  GLUT1 RNA and protein in both MCF-10a and MCF-7, with TNF-α leading to appreciable
+  membrane localization in MCF-10a cells. MCF-10a cells treated with TNF-α plus 5
+  μM curcumin and 10 μM curcumin significantly reduced GLUT1 RNA levels compared to
+  TNF-α-treated cells. Treatment of MCF-7 cells with TNF-α plus 5 μM curcumin significantly
+  reduced GLUT1 RNA levels compared to TNF-α treatment. Concurrent treatment of MCF-7
+  cells with TNF-α and curcumin at 5 or 10 μM completely rescued TNF-α-induced GLUT1
+  protein expression to control levels.
+
+
+  Figure 2\. GLUT1 expression and DAPI. Relative RNA and protein expression from MCF-10a
+  cells is treated for 96 hr with DMSO, TNF-α 10 ng/ml with or without curcumin at
+  5 or 10 μM. Relative RNA and protein expression of MCF-7 cells following treatment
+  as described. Confocal microscopy of GLUT1 protein expression from MCF-10a cells
+  and MCF-7 cells is treated as described earlier. Notes: p &lt; 0.05, p &lt; 0.01
+  and p &lt; 0.001.
+
+
+
+
+
+  Peroxisome proliferator-activated receptor gamma coactivator 1 is a major controller
+  of mitochondrial biosynthesis, warranting our investigation of its expression in
+  TNF-α-treated cells. Treatment of MCF-10a cells with TNF-α significantly decreased
+  PGC1 levels, which were partially rescued by concurrent treatment with curcumin.
+  These observations were also seen in MCF-7 cells, which showed complete rescuing
+  with curcumin 5 μM. To measure the effects of TNF-α on mitochondrial content, we
+  stained cells with either cytochrome C or Mitotracker Green, which revealed a significant
+  decrease in mitochondrial content in both cell models following TNF-α treatment
+  compared to control. The addition of curcumin at 5 or 10 μM with concurrent TNF-α
+  treatment partially rescued the diminished mitochondrial content in MCF-10a cells
+  in a significant and dose-dependent manner. Treatment of MCF-7 cells with 5 or 10
+  μM curcumin exhibited either total or partial rescuing of TNFα suppression of mitochondrial
+  content.
+
+
+  Figure 3\. PGC-1α expression, cytochrome C expression and mitochondrial content
+  with DAPI. PGC-1α protein expression and confocal microscopy from MCF-10a cells
+  and MCF-7 cells following treatment DMSO, TNF-α10 ng/ml with or without curcumin
+  at 5 or 10 μM. Cytochrome C protein expression and confocal microscopy from MCF-10a
+  cells and MCF-7 cells following treatment as described earlier. Confocal microscopy
+  of mitochondrial content from MCF-10a cells and MCF-7 cells following treatment
+  as described earlier. Notes: p &lt; 0.05, p &lt; 0.01 and p &lt; 0.001.
+
+
+
+
+
+  To evaluate the effects of TNF-α on viability, we measured proliferative viability
+  via WST-1 assay. WST-1 end-point assay showed no statistical difference in cell
+  viability following treatment with 10 ng/ml TNFα with or without curcumin at 5 or
+  10 μM in standard media for 24, 48, 72 or 96 hr. To assess effects of TNF-α on glucose
+  deprivation, cells were treated as described earlier for 96 hr, followed by respective
+  treatment of cells in either glucose supplemented or in glucose-free media. Cell
+  viability was measured using the Trypan blue dye exclusion assay. MCF-7 cells treated
+  with TNF-α had a significant reduction in viability at 120, 144 and 168 hr in glucose-free
+  media. Both 5 and 10 μM curcumin partially rescued the drop in viability after 48
+  hr. Neither treatment significantly altered viability when cells were grown in glucose-supplemented
+  media at 120, 144 and 168 hr.
+
+
+
+
+  To verify the effects of TNFα on NFκB activation, we used an NFκB-GFP reporter system
+  measured by microscopy and quantified using ImageJ. MCF-10a cells exhibited a low
+  sensitivity to TNF-α, while TNF-α-treated MCF-7 cells showed significant NFκB activation,
+  which was partially rescued by curcumin at 24-hr posttreatment.
+
+
+
+
+  Aerobic glycolysis is a phenomenon that has been demonstrated in nearly all cancer
+  types. Previous studies have shown that expression of common oncogenes can induce
+  aerobic glycolysis. Inflammatory gene expression signature in CAFs has also been
+  shown to have an effect on cancer cell metabolism; however, the direct effect of
+  an inflammatory microenvironment on the metabolism of cancer cells is not known.
+  Our study identified a microenvironmental factor as a direct inducer of aerobic
+  glycolysis and inhibitor of mitochondrial biosynthesis in malignant and nonmalignant
+  breast epithelial cell lines. It is striking that a tumor-like metabolism can be
+  activated in nonmalignant cells by an extracellular signal in the absence of oncogene
+  expression. This suggests that this emerging Hallmark of Cancer may be activated
+  early in tumorigenesis, possibly before the occurrence of mutations. Further investigations
+  are needed to determine if this metabolic switch occurs early in tumorigenesis in
+  vivo, because this may have implications for the detection of premalignant tissue
+  through increased uptake of F18FDG. The results generated in premalignant breast
+  cells might also have implications for breast cancer prevention. We demonstrated
+  that curcumin can return elevated glycolytic levels induced by TNF-α to those in
+  control MCF-10a cells. We also demonstrated that curcumin can prevent the TNF-α-induced
+  drop in mitochondrial content, while combination omega 3 fatty acids do not have
+  the ability of such rescue. Certainly, the use of curcumin as a therapeutic agent
+  is confounded by its vast biological activity, much of which remains unelucidated.
+  Further studies are needed to determine if curcumin affects inflammation-induced
+  aerobic glycolysis in vivo.
+
+
+  The effects of TNF-α on the metabolism of malignant cells also have significant
+  implications. Our study demonstrates that microenvironmental factors such as inflammation
+  can exacerbate aerobic glycolysis in malignant cells. Furthermore, this effect can
+  be reversed with the natural dietary compound, curcumin. These observations are
+  noteworthy, because they demonstrate that the phenomenon of aerobic glycolysis may
+  be more plastic than previously recognized.
+
+
+  The Warburg effect in cancer metabolism primarily focuses on the increase in aerobic
+  glycolysis. Because of this focus, it is a common misconception that cancer cells
+  upregulate aerobic glycolysis at the expense of mitochondrial oxidative phosphorylation.
+  The current study demonstrates that TNF-α increases glucose uptake and aerobic glycolysis,
+  yet oxygen consumption remains the same. Interestingly, mitochondrial content is
+  significantly decreased, indicating that the remaining mitochondria are functioning
+  at a higher capacity to compensate for the loss of mitochondrial content. This observation
+  is interesting in light of other reports that demonstrate that c-Myc can induce
+  aerobic glycolysis and increase mitochondrial function, independent of mitochondrial
+  mass. These observations suggest that induction of aerobic glycolysis, whether it
+  occurs by oncogene expression or microenvironmental factors, may increase overall
+  mitochondrial function.
+
+
+
+
+  This work uniquely identifies a microenvironmental factor, low-level inflammation,
+  as a modulator of energy homeostasis in malignant and nonmalignant breast cells.
+  Interestingly, many of the alterations of energy homeostasis can be reversed by
+  the addition of curcumin but not other anti-inflammatory agents such as omega 3
+  fatty acids. Although treatment with curcumin at 5 or 10 μM reversed much of the
+  TNF-α-induced effects, 5 μM curcumin was the most consistent rescuing treatment.
+  This demonstration that energy metabolism can be modified through a balance of inflammatory
+  and anti-inflammatory agents provides evidence of a more adaptable model of energy
+  homeostasis in cancer.
+
+
+
+
+  We thank the University of New Mexico Department of Biochemistry and Molecular Biology
+  for their assistance in this work.
+
+'
+...

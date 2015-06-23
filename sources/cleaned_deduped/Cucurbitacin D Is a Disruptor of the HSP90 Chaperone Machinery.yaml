@@ -1,0 +1,332 @@
+---
+pathHash: 0e0ae17f950d11129807674c25b8f97a
+text: "\n\n\n\nHeat shock protein 90 facilitates the maturation of many newly synthesized
+  and unfolded proteins via the Hsp90 chaperone cycle, in which Hsp90 forms a heteroprotein
+  complex and relies upon cochaperones, immunophilins, etc., for assistance in client
+  folding. Hsp90 inhibition has emerged as a strategy for anticancer therapies due
+  to the involvement of clients in many oncogenic pathways. Inhibition of chaperone
+  function results in client ubiquitinylation and degradation via the proteasome,
+  ultimately leading to tumor digression. Small molecule inhibitors perturb ATPase
+  activity at the N-terminus and include derivatives of the natural product geldanamycin.
+  However, N-terminal inhibition also leads to induction of the pro-survival heat
+  shock response, in which displacement of the Hsp90-bound transcription factor, heat
+  shock factor-1, translocates to the nucleus and induces transcription of heat shock
+  proteins, including Hsp90. An alternative strategy for Hsp90 inhibition is disruption
+  of the Hsp90 heteroprotein complex. Disruption of the Hsp90 heteroprotein complex
+  is an effective strategy to prevent client maturation without induction of the HSR.
+  Cucurbitacin D, isolated from Cucurbita texana, and 3-epi-isocucurbitacin D prevented
+  client maturation without induction of the HSR. Cucurbitacin D also disrupted interactions
+  between Hsp90 and two cochaperones, Cdc37 and p23.\n\nHsp90 is a molecular chaperone
+  responsible for the correct conformation of many newly synthesized polypeptides
+  and the rematuration of denatured proteins termed “clients” via the Hsp90 chaperone
+  cycle. Hsp90 functions as a homodimer and requires the formation of the heteroprotein
+  complex composed of several immunophilins, cochaperones, and partner proteins for
+  assistance in chaperone activity. Several conformational transitions of the Hsp90
+  heteroprotein–client complex, coupled to Hsp90 ATPase activit,y results in correct
+  folding and release of client protein.(1, 2) Inhibition of the chaperone cycle leads
+  to client protein ubiquiltinylation and subsequent degradation via the proteasome.(3-5)
+  Hsp90 inhibition has emerged as a strategy for anticancer chemotherapeutics due
+  to the involvement of Hsp90-dependent clients in a variety of oncogenic signaling
+  pathways.(6-11) Many clients are contributors to the six hallmarks of cancer. Oncogenic
+  client degradation via Hsp90 inhibition ultimately halts cancer progression and
+  has been observed during clinical trials of Hsp90 inhibitors.\n\nClassic small molecule
+  Hsp90 inhibitors are designed to perturb N-terminal ATPase activity and include
+  derivatives of geldanamycin, radicicol, and several purine analogs.(12) Although
+  Hsp90 N-terminal inhibitors are effective at inhibiting Hsp90 function and lead
+  to tumor digression through client degradation, N-terminal inhibition also leads
+  to displacement of the Hsp90-bound transcription factor, heat shock factor-1, and
+  induction of the pro-survival heat shock response.(13-16) Upon displacement, HSF-1
+  trimerizes, translocates to the nucleus, and induces transcription of the heat shock
+  element. This leads to increases in the cellular concentration of heat shock proteins,
+  including Hsp90, and resulted in dosing and scheduling problems during clinical
+  trials of N-terminal inhibitors. Therefore, anticancer Hsp90 inhibitors that avoid
+  induction of the HSR are needed.\n\n\nAlternative strategies to inhibit the chaperone
+  cycle include targeting the Hsp90 C-terminus and disruption of the heteroprotein
+  complex. C-Terminal inhibitors include derivatives of the coumarin-containing natural
+  product novobiocin.(17-20) These inhibitors prevent cancer cell proliferation at
+  concentrations similar to N-terminal inhibitors and destabilize Hsp90–client protein
+  interactions without induction of the HSR. Maturation of all clients requires additional
+  proteins that interact with Hsp90 and modulate ATPase activity and/or assist in
+  correct client folding.(21, 22) For example, the cochaperone Hsp90–Hsp70 organizing
+  protein associates with the Hsp90 dimer during the initial stages of the chaperone
+  cycle and facilitates the delivery of certain clients from Hsp70 to Hsp90. Peptidyl–prolyl
+  isomerase cochaperones assist in the correct folding and 3-diminsional structure
+  of clients, and the cochaperone p23 promotes the optimal Hsp90 conformation for
+  ATP binding and hydrolysis, ultimately resulting in client protein release.(23)
+  In addition, classes of clients require the assistance of specific cochaperones
+  for maturation for maturation). Disruption of interactions between Hsp90 and client-specific
+  cochaperones may allow for select degradation of clients and avoid systemic client
+  protein degradation, a consequence of Hsp90 inhibitors under current clinical investigation,
+  and may be the cause of certain side effects.\n\nThe cucurbitacin class of natural
+  products is a group of triterpenoids that are present in the Cucurbitaceae and other
+  closely related families. More than 50 cucurbitacins have been identified and exhibit
+  a wide variety of biological activities that include, but are not limited to, cytotoxicity,
+  antiproliferation, anti-inflammation, antioxidant, antihepatotoxicity, antibacterial,
+  and antiviral properties, as well as antimetastatic properties and improved anticancer
+  activity when combined with current chemotherapies.(24-26) Despite the presence
+  of an α-, β-unsaturated ketone located within many of the cucurbitacin compounds,
+  several cucurbitacins interact with specific cellular targets involved in gene regulation,
+  transcription, and overall cellular fate. Cucurbitacin D reduced the proliferation
+  of T-cell leukemia cells and ultimately led to cancer cell apoptosis.(27) This cucurbitacin
+  was shown to affect the NF-κB pathway and led to the accumulation of NF-κB and IκB-α
+  within the cytosol. Interestingly, a decrease in the cellular levels of Bcl-xL and
+  Bcl-2 was also observed. Bcl-xL and Bcl-2 levels are regulated by Hsp90 clients
+  that depend on the chaperone cycle for correct folding and function. It has been
+  reported that incubation with N-terminal inhibitors led to cellular decreases in
+  Bcl-xL and Bcl-2 levels.(28, 29) Furthermore, 4, as well as other cucurbitacins,
+  share structural similarities to the natural products celastrol and gedunin, which
+  are known inhibitors of client maturation via disruption of the Hsp90 heteroprotein
+  complex. However, these natural products inhibit chaperone function by different
+  mechanisms. 2 covalently binds the Hsp90 N-terminus and disrupts the interaction
+  between Hsp90 and Cdc37, ultimately resulting in kinase client degradation.(30)
+  3 binds the cochapreone p23 and disrupts Hsp90-cochaperone interactions, leading
+  to client degradation across many different cancer cell lines.(31) Given certain
+  structural similarities between the cucurbitacins, 2 and 3, as well as decreased
+  levels of proteins that depend on functional clients after exposure to cucurbitacins,
+  it was hypothesized that 4, and other cucurbitains, may inhibit the Hsp90 chaperone
+  cycle in a manner similar to 2 and/or 3.\n\nHerein, we report that 4 prevented the
+  maturation of Hsp90-dependent clients by disruption of the Hsp90 heteroprotein complex.
+  With the exception of 23,24-dihydrocucurbitacin D and 23,24-dihydrocucurbitacin
+  B, all cucurbitacins exhibited antiproliferative IC50 values at nanomolar concentrations
+  against the MCF7 breast cancer cell line. Western blot analysis for client levels
+  in the presence of high and low concentrations of each cucurbitacin revealed that
+  incubation with 4 and 3-epi-isocucurbitacin D led to client degradation. 4 also
+  disrupted the interaction between Hsp90 and the cochaperones Cdc37 and p23; however,
+  6 did not disrupt these Hsp90-co-chaperone interactions components and caused client
+  degradation through alternative mechanism(s). Furthermore, 4 did not induce the
+  HSR, as no increases in the levels of heat shock proteins Hsp90, Hsp70, or Hsp27
+  was observed. Client protein degradation, disruption of Hsp90-Cdc37 and Hsp90-p23
+  interactions as well as a lack of heat shock protein induction, notably Hsp27, has
+  previously been observed after incubation with 3 and suggested 4 inhibited cancer
+  cell growth through Hsp90 client degradation via disruption of Hsp90-co-chaperone
+  interactions by a mechanism comparable to 3.\n\n\n\nCucurbitacin D and cucurbitacin
+  B, along with isomeric 3-epi-isocucurbitacin D, were isolated from the fruits of
+  Cucurbita texana following previously described protocols.(32-34) Two additional
+  oxidized derivatives, cucurbitacin I and E, were obtained as well. These latter
+  compounds along with 6 were obtained in reduced quantities compared to that of 4
+  and 5. Fortunately, semisynthetic approaches to these particular compounds have
+  been investigated in the literature and can be seen as a solution to the lack of
+  material for these natural products. In addition, 9, 10, and other reduced C23–24
+  derivatives have routinely been acquired via hydrogenation conditions. Structures
+  of the isolated and semisynthesized cucurbitacins of interest are shown in Figure
+  2.\n\nFigure 2. Chemical structures of cucurbitacins isolated from Cucurbita texana
+  \ and the structures of the semisynthesized natural products .\n\nThe isomerization
+  of the α-hydroxyketone at C2 and C3 of some cucurbitacins has been determined to
+  take place under both acidic and basic conditions, with the most thorough investigation
+  having been performed by Galindo and co-workers.(35, 36) However, an alternative
+  to Galindo’s procedure was chosen instead, one similar to that reported by Sneden
+  et al. that takes advantage of the slightly acidic nature of silica gel.(37) Heating
+  a CH2Cl2 solution of 4 and silica gel to 40 °C provided useful quantities of 6 for
+  biological evaluation and the ability to recover unreacted 4.\n\nScheme 1. Semisynthesis
+  of Cucurbitacins: 3-epi-Isocucurbitacin D, Cucurbitacin I, 23,24-Dihydrocucurbitacin
+  D, and 23,24-Dihydrocucurbitacin Ba\n\naReagents and conditions: silica gel, CH2Cl2,
+  40 °C, 25%; Pd(OAc)2, PhBr, NaOAc, DMA, 80 °C, 38%; H2, Pd/C 5%, EtOH, 88%.\n\nWhile
+  attempting to form cucurbitacin derivatives via a Heck reaction,(38) in an effort
+  to improve their biological activity, an undesired product was isolated and later
+  determined by spectroscopic analysis to be 7. Even though this is not the first
+  report of the oxidation of the α-hydroxyketone to a diosphenol moiety for cucurbitacins,(39-41)
+  this is the first example of the transformation via a Saegusa oxidation.(42-45)
+  This result can be rationalized via the ability of cucurbitacins to isomerize to
+  form the intermediate enediol, which can be trapped and oxidized to the final diosphenol
+  product. This is the same enediol intermediate that is necessary for the formation
+  of isocucurbitacins. While 7 was not the initially desired product, the resulting
+  extra quantity was now available for biological testing.\n\nTo date, Cucurbita texana
+  has not produced any 9 or 10 via natural product isolation. However, hydrogenation
+  of the C23–24 olefin of 4 and 5 has allowed for the ability to obtain useful quantities
+  of the semisynthesized 9 and 10 from a plant species that does not routinely provide
+  them through natural product isolation.(35, 40, 46-52)\n\nSelect Cucurbitacins Exhibit
+  Potent Antiproliferative Activity and Decreased Hsp90-Dependent Client Protein Levels
+  without Induction of the HSR\n\nConsistent with previous data against several cancer
+  cell lines, many of these cucurbitacins exhibited nanomolar IC50 values against
+  the MCF7 breast cancer cell line. The decrease in potency observed for 9 and 10
+  may be explained by reduction of the α-, β-unsaturated ketone. This would reduce
+  the potential for nonspecific, attack by cellular nucleophiles. The IC50 values
+  for each cucurbitacin can be found in Table 1 along with values for 1, an Hsp90
+  N-terminal inhibitor, 2, and 3.\n\nTable 1. Calculated IC50 Values for the Controls
+  Geldanamycin, Celastrol, Gedunin, and Select Cucurbitacins against the MCF7 Breast
+  Cancer Cell Line  \n\n\nHsp90 inhibitors and disruptors of the heteroprotein complex
+  prevent cancer cell proliferation at concentrations near the IC50 value by depleting
+  levels of clients necessary for cancer cell growth. To correlate client degradation
+  via inhibition of the chaperone cycle to the IC50 value for each cucurbitacin, client
+  levels from MCF7 cell lysates dosed with high and low concentrations of each cucurbitacin
+  were dectected by Western blot analysis. The levels of heat shock proteins were
+  also detected to account for induction of the HSR as well as the levels of p23 and
+  Cdc37. Incubation with high concentrations of the control compounds 1, 2, and 3
+  led to client protein degradation and little change in the levels of Cdc37 and p23.
+  Consistent with previous reports, incubation with GDA led to increased levels of
+  Hsp90, Hsp70, and Hsp27, indicating induction of the HSR. Minimal induction of the
+  HSR was observed at the concentrations of 2 and 3 tested; incubation with 3 caused
+  only a slight increase in Hsp70 levels, and the levels of Hsp90 and Hsp27 were comparable
+  to vehicle control upon incubation with 2 and 3.\n\nFigure 3. Western blot for the
+  levels of Hsp90 clients, heat shock proteins, cochaperones, and actin from MCF7
+  cell lysates treated for 24 h with vehicle or high concentrations of the controls
+  geldanamycin, celastrol, gedunin. Levels of Hsp90 clients, heat shock proteins and
+  cochaperones from cell lysates treated with vehicle or increasing concentrations
+  of cucurbitacin D or 3-epi-isocucurbitacin D.\n\nLevels of clients and heat shock
+  proteins after incubation with high and low concentrations of each cucurbitacin
+  can be found in Figure 3B and within the Supporting Information. Incubation with
+  high concentrations of 4 and 6 led to a decrease in client levels, indicating disruption
+  of client maturation. These cucurbitacins also decreased client levels in a dose-dependent
+  manner at and around their IC50 values. No changes in Hsp90 or Hsp70 levels were
+  observed; however, Hsp27 levels were increased at high concentrations of 6. The
+  levels of Cdc37 and p23 remained constant at all concentrations. Client and heat
+  shock protein levels were unchanged after incubation with high and low concentrations
+  of the remaining cucurbitacins. No client degradation at high concentrations of
+  compound and constant heat shock protein levels at high and low concentrations indicates
+  the mechanism(s) by which these compounds inhibited MCF7 cancer cell growth is unrelated
+  to Hsp90 inhibition.\n\nCucurbitacin D, But Not 3-epi-Isocucurbitacin D, Caused
+  Client Protein Degradation through Disruption of Hsp90-cochaperone Interactions\n\nConcentration-dependent
+  client degradation void of induction of the HSR indicates an alternative mechanism
+  to traditional N-terminal inhibitors for preventing client maturation. Compounds
+  such as 2 and 3 disrupt the Hsp90 heteroprotein complex, thereby preventing cochaperone
+  assistance during the chaperone cycle. In addition, concentrations of these compounds
+  that destabilize the heteroprotein–client complex do not induce the HSR. There are
+  several reports of 2 and 3 as Hsp90 modulators present in literature. These natural
+  products disrupt the interactions between Hsp90 and cochaperones involved in both
+  early and late stages of the chaperone cycle. Celastrol was shown to covalently
+  bind the Hsp90 N-terminus, thereby disrupting Hsp90 from interacting with Cdc37,
+  a cochaperone involved during the early stages of the chaperone cycle.(53) Gedunin
+  binds the cochaperone p23 and prevents p23 from facilitating progression of the
+  Hsp90 chaperone cycle.(31) This ultimately results in improper trafficking and localization
+  of clients, such as the steroid receptor, glucocorticoid receptor.\n\nConsistent
+  with previous studies, Figure 4A confirmed that high concentrations of 2 and 3 disrupted
+  components of the heteroprotein complex, while the N-terminal inhibitor 1 did not
+  disrupt these Hsp90-co-chaperone interactions. Co-immunoprecipitation of Cdc37 and
+  p23 was disrupted in the presence of high concentrations of 2 and 3 when using an
+  antibody targeting Hsp90. A high concentration of 4 also disrupted these heteroprotein
+  complex components from Hsp90. Incubation with a high concentration of 4 completely
+  disrupted Hsp90–Cdc37 and Hsp90–p23 interactions from MCF7 cell lysates. Interestingly,
+  a high concentration of 6 had no effect on the interactions between Hsp90 and these
+  cochaperones; Hsp90–Cdc37 and Hsp90–p23 interactions remained intact at high and
+  low concentrations of 6.\n\nFigure 4. Co-immunoprecipitation of Cdc37 and p23 using
+  an anti-Hsp90 antibody from MCF7 cell lysates treated for 24 h with vehicle or high
+  concentrations of the controls geldanamycin, celastrol, gedunin. Co-immunoprecipitation
+  of Cdc37 and p23 using an anti-Hsp90 antibody from cell lysates treated with high
+  and low concentrations of cucurbitacin D or 3-epi-isocucurbitacin D.\n\nThese data
+  suggested that, although 4 and 6 both resulted in client protein degradation, the
+  mechanisms by which these compounds disrupted client maturation are different. 4
+  disrupted Hsp90–Cdc37 and Hsp90–p23 complexes, which ultimately led to a cellular
+  decrease of client levels. 6 also reduced client levels but did not affect these
+  Hsp90-cochaperone interactions. This cucurbitacin may directly inhibit Hsp90 and
+  bind an alternative site to the N-terminal ATP-binding pocket, bind and inhibit
+  the function of proteins important for client maturation, or disrupt interactions
+  of other protein with the Hsp90 heteroprotein complex.(54-56)\n\n\nPatwardhan et
+  al. reported that 3 does not induce the HSR in several different cancer cell lines,
+  including the cervical cancer cell line HeLa and the breast cancer cell lines Hs578T
+  and MCF7.(31) More specifically, no increases in the levels of Hsp90, Hsp70, or
+  Hsp27 were observed after incubation with concentrations up to 160 μM of 3. To corroborate
+  Western blot and co-immunoprecipitation data reported here and further verify 4
+  disrupted client protein maturation in a manner comparable to 3, Hsp27 levels were
+  detected after incubation with high concentrations of 3, 4, and 6. MCF7 cells incubated
+  with 5 and 10 times the IC50 value of each compound, and levels of Hsp27 were detected
+  via Western blot analysis. The levels of Hsp27 were unchanged after incubation with
+  high concentrations of 3 and 4 and comparable to vehicle control; however, increased
+  Hsp27 levels were observed at high concentrations of 6 and are consistent with Figure
+  3B.\n\nFigure 5. Western blot for Hsp27 and actin levels from MCF7 cell lysates
+  treated for 24 h with vehicle, 5 times ,or 10 times the IC50 value of the gedunin,
+  cucurbitacin D and 3-epi-isocucurbitacin D.\n\nCollectively, these data suggest
+  that 4 destabilized client maturation through similar mechanisms to 3 by disruption
+  of Cdc37 and p23 from the Hsp90 heteroprotein complex; however, 4 exhibited a dramatic
+  18-fold increase in potency when compared to 3. 6 also led to client degradation
+  at nanomolar concentrations, but did not disrupt Hsp90–Cdc37 or Hsp90–p23 interactions
+  and is presumed to cause degradation by alternative mechanisms. Like 3, no increase
+  in Hsp27 levels was observed at high concentrations of 4, yet increased levels of
+  Hsp27 were detected at high concentrations of 6, further supporting alternative
+  mechanisms of client degradation for these cucurbitacins. In conclusion, the curcurbitacins
+  have been shown to affect multiple cellular pathways and exhibit potent inhibitory
+  activity against many cancer cell lines. Here we report the antiproliferative activity
+  of cucurbitacin D and 3-epi-isocucurbitacin D is partly attributed to disruption
+  of Hsp90 client protein maturation and cucurbitacin D destabilizes components of
+  the Hsp90 heteroprotein complex, ultimately resulting in client degradation.\n\n\n\n\nExperimental
+  data for each isolated compound was compared to previously reported literature data.
+  NMR spectra were acquired on a Bruker AVANCE-400 MHz NMR spectrometer and compared
+  to previously published data. High-resolution mass spectrometry data was obtained
+  using either electron ionization on a ThermoFinnigan MAT 95 XL mass spectrometer
+  or electrospray ionization on a ThermoFinnigan LCQ Advantage ion trap liquid chromatography–mass
+  spectrometer. Melting points were determined on a Vernier Melt Station melting point
+  apparatus. TLC analysis was performed using precoated silica gel PE sheets. Compounds
+  were purified via column chromatography using silica gel 40–63 μm, preparative normal
+  phase-TLC, and reverse phase HPLC using a Dynamax liquid chromatograph with a PDA-2
+  photodiode array UV detector. Gradients of MeOH/H2O or ACN/H2O were utilized with
+  a 9 or 13 mL/min flow rate. Analytical separations were optimized on an Alltima
+  C18 HPLC column using a flow rate of 1 mL/min then transferred to preparative scale.
+  All reagents and solvents were obtained from commercial suppliers and used as received.\n\n\nFruits
+  from Cucurbita texana were cut into pieces and homogenized with MeOH and filtered,
+  and the solvent was removed under reduced pressure. The residue was subjected to
+  flash column chromatography with gradient elution. The fractions containing the
+  same compounds as determined by TLC, were combined, and subjected to further purification
+  by one of three methods: normal phase column chromatography, preparative normal
+  phase TLC, or preparative reverse phase HPLC.(32-35) The spectroscopic data for
+  the pure isolated compounds were compared to published literature data: cucurbitacin
+  D;(57-59) cucurbitacin B;(52, 60) 3-epi-isocucurbitacin D;(57, 61, 62) cucurbitacin
+  I;(60, 63) cucurbitacin E;(60, 63) 23,24-dihydrocucurbitacin D;(64) 23,24-dihydrocucurbitacin
+  B;(52, 65) data for multiple cucurbitacins.(66-69)\n\n\nCucurbitacin D was added
+  to a suspension of silica gel in CH2Cl2. The reaction was heated to 40 °C for 72
+  h. The solution was allowed to cool, followed by dilution with EtOAc and filtration
+  through plug of silica gel. The crude mixture was purified via preparative normal
+  phase TLC to provide 3-epi-isocucurbitacin D as a white solid in 25% yield.\n\n\nPalladium
+  acetate was added to a vial containing cucurbitacin D, NaOAc, and bromobenzene dissolved
+  in dimethylacetamide. The vial was sealed with a Teflon lined cap, and the reaction
+  was stirred at 80 °C for 24 h. The reaction was allowed to cool and diluted with
+  EtOAc and H2O, followed by extracting the aqueous layer three times with EtOAc.
+  The combined organic layers were washed with brine and dried over anhydrous Na2SO4.
+  The crude product was initially purified via column chromatography using hexane/EtOAc
+  to remove residual DMA. Minor impurities were further removed via preparative reverse
+  phase HPLC using MeOH/H2O, resulting in the isolation of cucurbitacin I as a white
+  solid in 38% yield.\n\nPreparation of 23,24-Dihydrocucurbitacin D and 23,24-Dihydrocucurbitacin
+  B\n\nFirst, 5% palladium on carbon was added to a 25 mL round-bottom flask containing
+  the desired cucurbitacin starting material dissolved in EtOH. Then a septum was
+  added to the flask, the headspace was flushed with H2, and the reaction was stirred
+  for 4 h at 1 atm H2. Upon completion, the reaction was filtered through a plug of
+  silica gel using EtOAC. The crude product was purified using column chromatography
+  to provide the desired dihydro compounds as white solids in 76–88% yield.\n\n\nAntibodies
+  targeting Her2, Cdk6, phospho-Akt, and Hsp27 were purchased from Cell Signaling
+  Technology. Antibodies targeting Raf and actin were purchased from Santa Cruz Biotechnology.
+  The remaining antibodies are listed and were purchased from the indicated vendors:
+  Hsp90, Hsp70, and Cdc37 and p23. Gedunin was isolated in house. Celastrol was purchased
+  from Cayman Chemical, and geldanamycin was purchased from Sigma-Aldrich.\n\n\nMCF7
+  cells were maintained in Advanced DMEM/F12 supplemented with streptomycin, penicillin,
+  l-glutamine, and 10% FBS. Cells were grown in a humidified atmosphere and passaged
+  when confluent.\n\n\nCells were grown to confluence, seeded in clear, flat-bottom
+  96-well plates and allowed to attach overnight. Varying concentrations of compound
+  in DMSO was added. Cells were returned to the incubator for an additional 72 h.
+  After 72 h, cell growth was determined using an MTS/PMS cell proliferation kit per
+  the manufacturer’s instructions. Cells that incubated in 1% DMSO were used as 100%
+  proliferation, and the relative growth for each compound concentration was compared
+  to 1% DMSO. IC50 values were calculated from two separate experiments performed
+  in triplicate using GraphPad Prism 6.0.\n\n\nMCF7 cells were grown to confluence
+  and seeded at 0.4 × 106 cells/well/2 mL. Cells were incubated for 24 h and treated
+  with varying concentrations of compound in DMSO or vehicle for 24 h. Cells were
+  harvested in cold DPBS and lysed using MPER supplemented with protease and phosphatase
+  inhibitors according to the manufacturer’s directions. Lysates were clarified at
+  14000g for 10 min at 4 °C. Protein concentrations were determined using the Pierce
+  BCA protein assay kit per the manufacturer’s instructions. Equal amounts of protein
+  were suspended in Laemmli sample buffer and boiled at 70 °C for 15 min. Samples
+  were then electrophoresed under reducing conditions, transferred to PVDF, and immunoblotted
+  with the corresponding antibody. Membranes were incubated with an appropriate horseradish
+  peroxidase-labeled secondary antibody, developed with a chemiluminescent substrate,
+  and visualized.\n\n\nMCF7 cells were grown to confluence and seeded at 2 × 106 cells/5
+  mL in 10 cm dishes. Cells were incubated for 24 h and then treated with compound
+  in DMSO or vehicle for 24 h. Media and cells were collected with DPBS and centrifuged
+  at 200g for 5 min at 4 °C. Supernatant was aspirated, and pellets were washed one
+  time with cold DPBS and centrifuged. Supernatant was aspirated, and cell pellets
+  were subsequently suspended in nondenaturing lysis buffer supplemented with protease
+  and phosphatase inhibitors and incubated on ice for 2 h. Lysates were clarified
+  at 14000g for 10 min at 4 °C. Protein concentrations were determined using the Pierce
+  BCA protein assay kit per the manufacturer’s instructions. Equal protein was incubated
+  with 1 μg of Hsp90 antibody in 500 μL total volume of lysis buffer for approximately
+  2 h with rocking at 4 °C. Following incubation, 30 μL of resuspended MagBeads Protein
+  G were added to each sample and incubated with rocking for 1.5 h at 4 °C. Protein
+  G beads were washed 3 times with lysis buffer, suspended in Laemmli sample buffer,
+  and boiled at 70 °C for 15 min to dissociate proteins from beads. Samples were electrophoresed
+  under reducing conditions, transferred to PVDF, and immunoblotted with the indicated
+  antibodies. Membranes were incubated with a species-appropriate horseradish peroxidase-labeled
+  secondary antibody, developed with a chemiluminescent substrate, and visualized.\n\n\nWestern
+  blot for Hsp90 client proteins and heat shock proteins from cell lysates dosed for
+  24 hours with high and low concentrations of each cucurbitacin; 1H NMR spectra of
+  cucurbitacins 4–10; electron impact HR-MS for semisynthesized cucurbitacin I. This
+  material is available free of charge via the Internet at http://pubs.acs.org.\n\n\n\n\nThis
+  work was supported by the NIH grant CA109265 and the NIGMS Biotechnology Predoctoral
+  Training Grant Program. We would like to thank South Dakota Board of Regents-2010
+  Biological Control and Analysis by Applied Photonics for financial support.\n"
+...
