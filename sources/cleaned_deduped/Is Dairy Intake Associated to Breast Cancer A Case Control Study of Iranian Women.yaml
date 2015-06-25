@@ -1,8 +1,16 @@
 ---
+title: Is Dairy Intake Associated to Breast Cancer? A Case Control Study of Iranian
+  Women
 pathHash: c0e7fd108c07fcd4ad891b9f1f2dc5a8
+tags:
+- butter
+- cheese
+- milk
+- kefir
+- low-fat-yogurt
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Is
+  Dairy Intake Associated to Breast Cancer A Case Control Study of Iranian Women.md
 text: '
-
-
 
 
   Current epidemiologic data lack consistent evidence for an association between consumption
@@ -14,7 +22,7 @@ text: '
   cancer were estimated across quartile categories of energy-adjusted dairy intake
   using multiple logistic regression models with adjustment for confounders. We observed
   that higher consumption of total dairy intake was accompanied with reduced breast
-  cancer risk . A similar inverse association was also observed for higher intakes
+  cancer risk. A similar inverse association was also observed for higher intakes
   of low-fat and fermented dairy products. Lower intake of high-fat dairy was associated
   with reduced odds of breast cancer, and no significant association was found between
   nonfermented dairy and breast cancer risk. Our study demonstrates the protective

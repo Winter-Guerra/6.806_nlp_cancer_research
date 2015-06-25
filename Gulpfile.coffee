@@ -20,17 +20,55 @@ buffer = require 'vinyl-buffer'
 util = require('util')
 {wait, repeat, doAndRepeat, waitUntil} = require 'wait'
 prat = require('prat')
-# si = require('search-index')({logLevel:'error'})
 promise = require 'bluebird'
+lazypipe = require('lazypipe')
 
 # Init libraries
 natural.PorterStemmer.attach()
 
 
+# Helper methods
 convertFilepath = (filepath) ->
 	filepath = filepath.replace(/tokenized_deduped/, "deduped")
 	filepath = filepath.replace(/.yaml/, ".md")
 	return filepath
+
+getTitle = (text) ->
+	titleList = /^# .*/m.exec(text)
+	title = titleList[titleList.length-1]
+	title = title[2..]
+	return title
+
+
+cleanData = lazypipe()
+	# Let's remove sub headings from the sources (these cannot count as sentences)
+	.pipe(replace, /^##+.*/mg, '')
+	# Let's remove underlines 
+	.pipe(replace, /_/g, '')
+	# Let's remove asterisks  
+	.pipe(replace, /\*/g, '')
+	# Let's remove all apostrophies
+	.pipe(replace, /\'/g, '')
+	# Let's remove all quotation marks
+	.pipe(replace, /\"/g, '')
+	# Let's lazily remove all square parenthesis
+	.pipe(replace, /\[.*?\]/g, '')
+	# Let's lazily remove all stuff inside of parenthesis.
+	.pipe(replace, /\(.*?\)/g, '')
+	# Let's make all paragraph breaks 2 linebreaks, not more.
+	.pipe(replace, /\n\s*\n+/g, '\n\n')
+	# Move periods back to closest word
+	.pipe(replace, /\s*\./g, '.')
+	# Move commas back to closest word
+	.pipe(replace, /\s*\,/g, ',')
+	# Let's keep all ascii and killall unicode
+	.pipe(replace, /[^\x00-\x7F]/g,'')
+	# Remove some more crap
+	.pipe(replace, /\&lt/,'')
+
+removeTitle = lazypipe()
+	# Let's remove the title from the source (these cannot count as sentences)
+	.pipe(replace, /^#+.*/mg, '')
 
 
 gulp.task 'dedupeSources', () ->
@@ -41,14 +79,14 @@ gulp.task 'dedupeSources', () ->
 	.pipe(gulp.dest('./sources/deduped'))
 	return stream
 
-gulp.task 'cleanSummary', () ->
+gulp.task 'cleanSummaries', () ->
 	stream = gulp.src([ 'sources/raw/*Summary/**/*.md' ])
 	.pipe(dedupe())
 	# Fix the naming scheme
 	.pipe(rename( (path) ->
 		path.basename = path.dirname
 		path.dirname = './'
-		# path.extname = '.yaml'
+		path.extname = '.yaml'
 		return path
 	))
 	.pipe(flatten())
@@ -63,11 +101,25 @@ gulp.task 'cleanSummary', () ->
 	# Remove all remaining headings
 	.pipe(replace(/^#.*/mg, ''))
 
-	# Do a sanity check that all files have at least 1 sentence in them
+	# Now, do some other default text cleaning
+	.pipe(cleanData())
+	.pipe(removeTitle())
+
+	# Now save the new text file as a yaml file
 	.pipe(
 		tap (file) ->
-			if file.contents.toString().length < 100
-				console.error "ERR: #{file.path} does not have enough characters in the tokenized summary"
+
+			# Figure out the tag
+
+
+			objData = {
+				tags: path.basename(file.path, '.yaml')
+				filePath: file.path
+				text: file.contents.toString()
+			}
+
+			file.contents = new Buffer YAML.stringify(objData)
+			
 		)
 	# Save the output
 	.pipe(gulp.dest('./sources/cleanedSummaries'))
@@ -76,79 +128,38 @@ gulp.task 'cleanSummary', () ->
 
 
 
-	# Let's tokenize our summary dataset by sentence
-gulp.task 'tokenizeSummary', ['cleanSummary'], () ->
-	
-	stream = gulp.src([ './sources/cleanedSummaries/*.md' ])
-
-	# Fix the naming scheme
-	.pipe(rename( (path) ->
-		# path.basename = path.dirname
-		# path.dirname = './'
-		path.extname = '.yaml'
-		return path
-	))
-	
-	# Tokenize the sentence
-	.pipe(run('python3 sentence_tokenizer.py', {verbosity:0})) # This generates yaml files of each sentence of the summaries
-	
-	# Save the output
-	.pipe(gulp.dest('./sources/tokenizedSummaries')) # Save this to a temp directory so that we can check the output of the tokenizer
-
-	return stream
-
-gulp.task 'stemAllSummaries', () ->
-	stream = gulp.src(['./sources/tokenizedSummaries/*.yaml'])
-	.pipe(
-		tap (file) ->
-
-			sentenceList = YAML.parse(file.contents.toString())[0]
-			
-			# Tokenize and stem the sentences using porter1 stemmer
-			tokenizedStemmedSentenceList = ( String(sentence).tokenizeAndStem() for sentence in sentenceList )
-
-			# Save the output
-			file.contents = new Buffer YAML.stringify(tokenizedStemmedSentenceList)
-			return file.contents
-
-	)
-	.pipe(gulp.dest('./sources/tokenizedStemmedSummaries'))
-
-	return stream
-
 gulp.task 'cleanCorpus', () ->
+
+	hashTable = yaml.safeLoad(fs.readFileSync('./sources/dedupedPathIndexedHashTable.yaml'))
 
 	stream = gulp.src(['./sources/deduped/*.md'])
 
-	# Let's remove headings from the sources (these cannot count as sentences)
-	.pipe(replace(/^#.*/mg, ''))
-
-	# Let's remove underlines 
-	.pipe(replace(/_/g, ''))
-	# Let's remove asterisks  
-	.pipe(replace(/\*/g, ''))
-	# Let's remove all apostrophies
-	.pipe(replace(/\'/g, ''))
-	# Let's remove all square parenthesis
-	.pipe(replace(/\[.*?\]/g, ''))
-	# Let's lazily remove all stuff inside of parenthesis.
-	.pipe(replace(/\ \(.*?\)/g, ''))
-
-	# Let's keep all ascii and killall unicode
-	# .pipe(replace(/[^[:ascii:]]/,''))
-
-	# Remove some more crap
-	.pipe(replace(/\&lt/,''))
-
+	.pipe(cleanData())
 	 
 	.pipe(
 		tap (file) ->
 
+			text = file.contents.toString()
+
+			# save the title
+			title = getTitle(text)
+
+			# Remove the title from the data
+			text = text.replace(/^# .*/mg, '')
+
+			# Get hash
 			filePathHash = crypto.createHash('md5').update(file.path).digest("hex").toString()
 
+			# Get other file data (like tags)
+			metadata = hashTable[filePathHash]
+
+
 			objData = {
+				title: title
 				pathHash: filePathHash
-				text: file.contents.toString()
+				tags: metadata['tags']
+				filePath: metadata['filePath']
+				text: text
 			}
 
 			file.contents = new Buffer YAML.stringify(objData)
@@ -161,111 +172,6 @@ gulp.task 'cleanCorpus', () ->
 
 	return stream
 
-# gulp.task 'cleanCorpus', () ->
-
-
-
-# This task will put all sentences from our articles into a yaml of sentence lists. Each entry will also have the hash of the document it came from
-gulp.task 'aggregateAndStemCorpus', (cb) ->
-	outputList = []
-	
-	stream = gulp.src(['./sources/tokenized_deduped/*.yaml'])
-
-	# Let's remove headings from the sources (these cannot count as sentences)
-	.pipe(
-		tap (file) ->
-			sentenceList = YAML.parse(file.contents.toString())[0]
-
-			# Remove underscores from the sentenceList
-			sentenceList = ( String(sentence).replace(/_/g,'') for sentence in sentenceList )
-			
-			# Tokenize and stem the sentences using porter1 stemmer
-			# tokenizedStemmedSentenceList = ( String(sentence).tokenizeAndStem() for sentence in sentenceList )
-			tokenizedStemmedSentenceList = ( [String(sentence).tokenizeAndStem().join(' '), String(sentence)] for sentence in sentenceList )
-
-			# Now, for each sentence, add the sentence and the hash it came from to the output list
-			filePath = convertFilepath(file.path)
-			# console.log filePath
-			pathHash = crypto.createHash('md5').update(filePath).digest("hex").toString()
-			# console.log fileHash
-			
-			outputList.push {sentence, pathHash, originalSentence} for [sentence, originalSentence] in tokenizedStemmedSentenceList
-
-	)
-	.on 'end', () ->
-
-		# Now, let's output our final tokenized corpus
-		YAML.writeFileSync('./sources/stemmedCorpus.yaml', outputList)
-		cb()
-
-	.on	'error', (err) ->
-		console.error err
-
-	return 
-
-
-
-# This will use tf-idf to match all the summary sentences with sentence and document that best match from our corpus  
-# gulp.task 'generateSentencebasedTrainingClassifications', (cb) ->
-
-
-# 	# Make the index
-# 	tokenizedCorpus = YAML.readFileSync('./sources/tokenizedStemmedCorpus.yaml')[0]
-
-
-# 	# TfIdf = natural.TfIdf
-# 	# tfidf = new TfIdf()
-
-# 	# addDocument = promise.promisify(si.add, si)
-
-# 	# First, let's make our corpus of sentences. This returns an array of promises
-# 	documentsToAdd = ( {body:sentence, docHash: pathHash} for {sentence, pathHash} in tokenizedCorpus )
-# 	tokenizedCorpus = undefined
-
-# 	# Tell me how many docs we need to add
-# 	console.log "We need to add #{documentsToAdd.length} docs to the index. Should be ~60k"
-	
-# 	waitForIndex = addDocument({},documentsToAdd)
-# 	documentsToAdd = undefined
-
-# 	waitForIndex.then () ->
-
-# 		console.log "Index has been initialized"
-
-# 		si.tellMeAboutMySearchIndex (msg) ->
-# 			console.log msg
-# 			cb()
-
-
-	# stream = gulp.src([ './sources/tokenizedStemmedSummaries/*yaml' ])
-
-	# .pipe(
-	# 	tap (file) ->
-	# 		# read YAML file
-	# 		sentences = YAML.parse( file.contents.toString() )[0]
-
-	# 		# Iterate through every sentence in the yaml
-	# 		output = [] # a 2d vector that holds summary sentences and their relation to corpus sentences
-
-	# 		for doc, i in tfidf.documents
-	# 			sentenceRanking = ( tfidf.tfidf(sentence, i) for sentence in sentences )
-
-	# 			output.push(sentenceRanking)
-
-	# 		# record the relation vector to the file
-	# 		file.contents = new Buffer YAML.stringify(output)
-	# 		return file.contents
-
-	# 		# Clean up
-	# 		sentences = undefined
-	# 		output = undefined
-
-	# 		console.log "Done with #{file.path}"
-	# )
-	# .pipe( gulp.dest('./sources/trainingClassifications') )
-
-	# return whenIndexInitialized
-	return 
 
 # Let's make a table of what the content of a file is and what bins the file belongs to.
 gulp.task 'createHashTable', () ->

@@ -1,28 +1,27 @@
 ---
+title: Piperlongumine induces cell death through ROS-mediated CHOP activation and
+  potentiates TRAIL-induced cell death in breast cancer cells
 pathHash: 7d2aaefd58441d5563fb4c6b1a823edf
+tags:
+- bell-peppers
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Piperlongumine
+  induces cell death through ROS-mediated CHOP activation and potentiates TRAIL-induced
+  cell death in breas.md
 text: '
 
 
-
-
-
-
-  Piperlongumine has been shown to selectively induce apoptotic cell death in cancer
-  cells via reactive oxygen species accumulation. In this study, we characterized
+  Piperlongumine  has been shown to selectively induce apoptotic cell death in cancer
+  cells via reactive oxygen species  accumulation. In this study, we characterized
   a molecular mechanism for PL-induced cell death.
 
 
-
-
   Cell viability and cell death were assessed by MTT assay and Annexin V-FITC/PI staining,
-  respectively. ROS generation was measured using the H2DCFDA. Small interfering RNA
-  was used for suppressing gene expression. The mRNA and protein expression were analyzed
+  respectively. ROS generation was measured using the H2DCFDA. Small interfering RNA  was
+  used for suppressing gene expression. The mRNA and protein expression were analyzed
   by RT-PCR and Western blot analysis, respectively.
 
 
-
-
-  We found that PL promotes C/EBP homologous protein induction, which leads to the
+  We found that PL promotes C/EBP homologous protein  induction, which leads to the
   up-regulation of its targets Bim and DR5. Pretreatment with the ROS scavenger N-acetyl-cysteine
   abolishes the PL-induced up-regulation of CHOP and its target genes, suggesting
   an essential role for ROS in PL-induced CHOP activation. The down-regulation of
@@ -32,21 +31,14 @@ text: '
   the sensitizing effect of PL on TRAIL responses.
 
 
-
-
   Overall, our data suggest a new mechanism for the PL-induced cell death in which
   ROS mediates CHOP activation, and combination treatment with PL and TRAIL could
   be a potential strategy for breast cancer therapy.
 
 
-
-
-
-
-
-  Piperlongumine is a natural alkaloid of the long pepper that can selectively kill
+  Piperlongumine  is a natural alkaloid of the long pepper  that can selectively kill
   cancer cells but not normal cells. A proposed mechanism by which PL induces cancer-selective
-  cell death is by elevating reactive oxygen species levels. PL directly binds to
+  cell death is by elevating reactive oxygen species  levels. PL directly binds to
   and inhibits the antioxidant enzyme glutathione S-transferase pi 1, resulting in
   elevated levels of ROS and subsequent cancer-selective cell death. ROS are by-products
   of normal cellular metabolism and play vital roles in stimulating signaling pathways,
@@ -58,14 +50,14 @@ text: '
   of cancer cells.
 
 
-  C/EBP homologous protein/growth arrest and DNA damage-inducible gene 153 are a basic
-  leucine zipper transcription factor that is present at very low levels under normal
-  conditions but is robustly expressed by a variety of cellular stresses, such as
-  genotoxic stress, nutrient depletion, or ER stress. CHOP functions as a transcription
+  C/EBP homologous protein /growth arrest and DNA damage-inducible gene 153  are a
+  basic leucine zipper transcription factor that is present at very low levels under
+  normal conditions but is robustly expressed by a variety of cellular stresses, such
+  as genotoxic stress, nutrient depletion, or ER stress. CHOP functions as a transcription
   factor that regulates the expression of proapoptotic Bcl-2 family genes, which in
   turn elicit mitochondrial cell death. Death receptors are members of the tumor necrosis
   factor receptor family and are also induced by CHOP by various agents. TRAIL induces
-  apoptosis by interacting with DR4 and DR5, leading to the formation of the death-inducing
+  apoptosis by interacting with DR4  and DR5, leading to the formation of the death-inducing
   signal complex with the binding of caspase-8. TRAIL induces cell death in various
   cancer cells but not has little or no effect on most normal cells. Several reports
   have shown that DR5 plays a crucial role in sensitizing tumor cells to apoptosis
@@ -78,78 +70,58 @@ text: '
   cancer therapy.
 
 
-
-
-
-
   Two human breast cancer cell lines, MCF7 and BT474, and a normal breast cell line,
-  MCF10A, were obtained from the American Type Culture Collection and cultured in
-  the recommended growth medium under 5 % CO2 at 37 °C. Piperlongumine was purchased
-  from Biovision, N-acetyl cysteine and 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium
-  bromide were purchased from Sigma, and TRAIL was purchased from Enzo Life Sciences.
+  MCF10A, were obtained from the American Type Culture Collection  and cultured in
+  the recommended growth medium  under 5 % CO2 at 37 C. Piperlongumine was purchased
+  from Biovision, N-acetyl cysteine  and 3--2,5-diphenyltetrazolium bromide  were
+  purchased from Sigma, and TRAIL was purchased from Enzo Life Sciences.
 
 
+  MTT assays were used to measure cell viability as reported previously. Annexin V-FITC/PI  staining
+  was used to assess cell death as described previously.
 
 
-  MTT assays were used to measure cell viability as reported previously. Annexin V-FITC/PI
-  staining was used to assess cell death as described previously.
+  ROS were detected using the cell-permeable indicator 5--carboxy-2,7-dichlorodihydrofluorescein
+  diacetate  with a FACScan flow cytometer.
 
 
-
-
-  ROS were detected using the cell-permeable indicator 5-(and-6)-carboxy-2′,7′-dichlorodihydrofluorescein
-  diacetate with a FACScan flow cytometer.
-
-
-
-
-  Bim, CHOP, DR5 and control siRNAs were purchased from Santa Cruz Biotechnology.
-  Transfection experiments were performed with Lipofectamine™ 2000 according to the
-  manufacturer’s instructions.
-
-
+  Bim, CHOP, DR5  and control  siRNAs were purchased from Santa Cruz Biotechnology.
+  Transfection experiments were performed with Lipofectamine 2000 according to the
+  manufacturers instructions.
 
 
   RNA isolation and RT-PCR were conducted as described previously. The following primers
-  were used: CHOP, DR4, DR5, Bim and β-actin. PCR products were subjected to electrophoresis
+  were used: CHOP, DR4, DR5, Bim   and -actin. PCR products were subjected to electrophoresis
   on 1.5 % agarose gels and visualized with ethidium bromide.
-
-
 
 
   Cell lysates were separated via SDS-PAGE and transferred to PVDF membrane, followed
   by immunoblotting with specified primary and horseradish peroxidase-conjugated secondary
   antibodies. Immunoreactive bands were visualized with SuperSignal West Pico chemiluminescent
-  substrates. Antibodies specific for CHOP and cleaved PARP were obtained from Cell
-  Signaling Technology, and the β-actin antibody was purchased from Sigma.
-
-
-
+  substrates. Antibodies specific for CHOP  and cleaved PARP  were obtained from Cell
+  Signaling Technology, and the -actin antibody  was purchased from Sigma.
 
 
   We first investigated the effect of PL on two breast cancer cell lines, MCF7 and
   BT474, and a normal breast cell line, MCF10A. The cells were incubated for 24 h
   with various concentrations of PL, and cell viability was determined by MTT assays.
   As shown in Fig. 1a, PL decreased the viability of breast cancer cells in a dose-dependent
-  manner but was not toxic toward normal breast cells at concentrations below 14 μM.
+  manner but was not toxic toward normal breast cells at concentrations below 14 M.
   Next, we examined cell death as assessed by annexin V/PI positivity. Cell death
-  with 10 µM PL was induced at 35 % in MCF7 cells and 45 % in BT474 cells. Cell death
+  with 10 M PL was induced at 35 % in MCF7 cells and 45 % in BT474 cells. Cell death
   induced by PL was also demonstrated by PARP cleavage. However, no significant cell
   death was observed in PL-treated MCF10A cells. These data suggest that PL promotes
   cell death in breast cancer cells but not in normal breast cells.
-
 
 
   PL induces breast cancer cell death. a MCF10A, MCF7 and BT474 cells were treated
   with the indicated concentrations of PL for 24 h. Cell viability was measured with
   an MTT assay. The viability of the control cells was set at 100 %, and survival
   was calculated relative to this value. b, c MCF10A, MCF7 and BT474 cells were treated
-  with 10 μM PL for 24 h. Cell death was evaluated via flow cytometry after annexin
+  with 10 M PL for 24 h. Cell death was evaluated via flow cytometry after annexin
   V and PI staining. Data are presented as the means of triplicate samples, and error
   bars indicate the SD. The indicated protein levels were estimated using Western
   blot. The blot is representative of two independent experiments
-
-
 
 
   Previous studies have shown that increased ROS levels are responsible for cell death
@@ -162,17 +134,14 @@ text: '
   an important role in PL-induced cell death of breast cancer cells.
 
 
-
   PL induces cell death via ROS. a MCF10A, MCF7 and BT474 cells were treated with
-  10 mM NAC for 30 min, followed by 10 μM PL for 6 h. ROS were detected with H2DCFDA.
+  10 mM NAC for 30 min, followed by 10 M PL for 6 h. ROS were detected with H2DCFDA.
   b, c MCF7 and BT474 cells were treated with 10 mM NAC for 30 min, followed by 10
-  μM PL for 24 h. Cell death was evaluated via flow cytometry after annexin V and
-  PI staining. Data are presented as the means of triplicate samples, and error bars
+  M PL for 24 h. Cell death was evaluated via flow cytometry after annexin V and PI
+  staining. Data are presented as the means of triplicate samples, and error bars
   indicate the SD. p ; 0.001 versus the PL-treated group. The indicated protein levels
   were estimated using Western blot analysis. The blot is representative of two independent
   experiments
-
-
 
 
   ROS have been shown to induce CHOP expression. Therefore, we investigated whether
@@ -182,15 +151,14 @@ text: '
   implicated in the PL-induced up-regulation of CHOP.
 
 
-
   PL induces cell death through ROS-mediated CHOP up-regulation. a MCF7 and BT474
   cells were treated with the indicated concentrations of PL for 24 h. b MCF7 and
-  BT474 cells were treated with 10 mM NAC for 30 min, followed by 10 μM PL for 24
-  h. c MCF7 and BT474 cells were transfected with control or CHOP siRNA for 16 h,
-  followed by treatment with 10 μM PL for 24 h. The indicated protein and mRNA levels
-  were estimated by Western blot and RT-PCR analyses. Cell viability was measured
-  with an MTT assay. The viability of the control cells was set at 100 %, and survival
-  was calculated relative to this value. p &lt; 0.01 versus the siCTL/PL-treated group
+  BT474 cells were treated with 10 mM NAC for 30 min, followed by 10 M PL for 24 h.
+  c MCF7 and BT474 cells were transfected with control or CHOP siRNA for 16 h, followed
+  by treatment with 10 M PL for 24 h. The indicated protein and mRNA levels were estimated
+  by Western blot and RT-PCR analyses. Cell viability was measured with an MTT assay.
+  The viability of the control cells was set at 100 %, and survival was calculated
+  relative to this value. p &lt; 0.01 versus the siCTL/PL-treated group
 
 
   To investigate the role of CHOP in PL-induced cell death, its expression was silenced
@@ -200,32 +168,27 @@ text: '
   PL downstream of ROS production.
 
 
-
-
-  Next, we investigated the downstream regulatory mechanism(s) of PL-induced CHOP
-  activation. We analyzed CHOP target genes, including Bim, DR4, and DR5, by RT-PCR.
-  We observed that Bim and DR5 mRNA expression increased in a dose-dependent manner
-  in cells treated with PL, and pretreatment with NAC blocked Bim and DR5 induction
-  by PL. Knockdown of CHOP by siRNA reduced the Bim and DR5 expression induced by
-  PL, suggesting that CHOP is responsible for Bim and DR5 induction by PL. Next, we
-  investigated the role of Bim in PL-induced cell death in BT474 breast cancer cells.
-  Silencing of Bim with siRNA significantly suppressed the cell cytotoxicity induced
-  by PL. These results strongly suggest that Bim up-regulation by PL is dependent
-  on CHOP and is required for the induction of cell death in breast cancer cells.
-
+  Next, we investigated the downstream regulatory mechanism of PL-induced CHOP activation.
+  We analyzed CHOP target genes, including Bim, DR4, and DR5, by RT-PCR. We observed
+  that Bim and DR5 mRNA expression increased in a dose-dependent manner in cells treated
+  with PL, and pretreatment with NAC blocked Bim and DR5 induction by PL. Knockdown
+  of CHOP by siRNA reduced the Bim and DR5 expression induced by PL, suggesting that
+  CHOP is responsible for Bim and DR5 induction by PL. Next, we investigated the role
+  of Bim in PL-induced cell death in BT474 breast cancer cells. Silencing of Bim with
+  siRNA significantly suppressed the cell cytotoxicity induced by PL. These results
+  strongly suggest that Bim up-regulation by PL is dependent on CHOP and is required
+  for the induction of cell death in breast cancer cells.
 
 
   PL leads to cell death via CHOP-mediated Bim induction. a BT474 cells were treated
   with the indicated concentrations of PL for 24 h. b BT474 cells were treated with
-  10 mM NAC for 30 min, followed by 10 μM PL for 24 h. c BT474 cells were transfected
-  with control or CHOP siRNA for 16 h, followed by treatment with 10 μM PL for 24
-  h. d, e BT474 cells were transfected with control or Bim siRNA for 16 h, followed
-  by treatment with 10 μM PL for 24 h. The indicated mRNA levels were estimated by
-  RT-PCR analysis. Cell viability was measured with an MTT assay. The viability of
-  the control cells was set at 100 %, and survival was calculated relative to this
-  value. p &lt; 0.01 versus the siCTL/PL-treated group
-
-
+  10 mM NAC for 30 min, followed by 10 M PL for 24 h. c BT474 cells were transfected
+  with control or CHOP siRNA for 16 h, followed by treatment with 10 M PL for 24 h.
+  d, e BT474 cells were transfected with control or Bim siRNA for 16 h, followed by
+  treatment with 10 M PL for 24 h. The indicated mRNA levels were estimated by RT-PCR
+  analysis. Cell viability was measured with an MTT assay. The viability of the control
+  cells was set at 100 %, and survival was calculated relative to this value. p &lt;
+  0.01 versus the siCTL/PL-treated group
 
 
   Because TRAIL triggers apoptosis upon binding to two transmembrane agonistic receptors,
@@ -242,19 +205,15 @@ text: '
   PL-induced up-regulation of DR5 mediated by CHOP.
 
 
-
   PL sensitized TRAIL-mediated cell death mediated by DR5 up-regulation. a, b MCF7
-  and BT474 cells were treated with 50 ng/mL TRAIL or/and 10 μM PL for 24 h. c, d
-  MCF7 and BT474 cells were transfected with control or DR5 siRNA for 16 h, followed
-  by treatment with 10 μM PL/50 ng/mL TRAIL for 24 h. Cell death was evaluated via
-  flow cytometry after annexin V and PI staining. Data are presented as the means
-  of triplicate samples, and error bars indicate the SD. The indicated protein and
-  mRNA levels were estimated using Western blot and RT-PCR analyses. Cell viability
-  was measured with an MTT assay. The viability of the control cells was set at 100
-  %, and survival was calculated relative to this value. p &lt; 0.01 versus the siCTL/PL-treated
-  group
-
-
+  and BT474 cells were treated with 50 ng/mL TRAIL or/and 10 M PL for 24 h. c, d MCF7
+  and BT474 cells were transfected with control or DR5 siRNA for 16 h, followed by
+  treatment with 10 M PL/50 ng/mL TRAIL for 24 h. Cell death was evaluated via flow
+  cytometry after annexin V and PI staining. Data are presented as the means of triplicate
+  samples, and error bars indicate the SD. The indicated protein and mRNA levels were
+  estimated using Western blot and RT-PCR analyses. Cell viability was measured with
+  an MTT assay. The viability of the control cells was set at 100 %, and survival
+  was calculated relative to this value. p &lt; 0.01 versus the siCTL/PL-treated group
 
 
   PL has been shown to selectively induce apoptotic cell death in cancer cells via
@@ -308,14 +267,10 @@ text: '
   PL and TRAIL.
 
 
-
-
   This research was supported by grants from the Radiation Bio-Resource Research Program
   of the Korea Institute of Radiological and Medical Sciences, the National Nuclear
-  R&amp;D program and the Basic Science Research Program funded by the Ministry of
+  R&amp;D program and the Basic Science Research Program  funded by the Ministry of
   Education, Science and Technology in the Republic of Korea.
-
-
 
 
 '

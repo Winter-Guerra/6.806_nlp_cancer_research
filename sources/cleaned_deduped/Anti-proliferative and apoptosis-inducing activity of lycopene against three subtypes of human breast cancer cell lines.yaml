@@ -1,8 +1,17 @@
 ---
+title: Anti-proliferative and apoptosis-inducing activity of lycopene against three
+  subtypes of human breast cancer cell lines
 pathHash: 2f43634495d42cfe65c609fc8f21057d
+tags:
+- papaya
+- saffron
+- bell-peppers
+- hot-peppers
+- watermelon
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Anti-proliferative
+  and apoptosis-inducing activity of lycopene against three subtypes of human breast
+  cancer cell lines.md
 text: '
-
-
 
 
   Although lycopene, a major carotenoid component of tomatoes, has been suggested
@@ -77,45 +86,37 @@ text: '
   receptor and HER2 status.
 
 
-
-
-
-
   The study was performed on three subtypes of breast cancer cell lines, including
-  hormone receptor positive MCF-7, hormone receptor negative but HER2-positive SK-BR-3,
+  hormone receptor  positive MCF-7, hormone receptor negative but HER2-positive SK-BR-3,
   and triple-negative MDA-MB-468, all purchased from the American Type Culture Collection.
   The origin of the cell lines and their hormone receptor and HER2 status have been
-  described previously. These cell lines were cultured in RPMI 1640 supplemented with
-  10% FBS, 100 IU/mL penicillin and 100 μg/mL streptomycin in a humidified atmosphere
-  of 95% air and 5% CO2 at 37°C.
+  described previously. These cell lines were cultured in RPMI 1640  supplemented
+  with 10% FBS, 100 IU/mL penicillin and 100 g/mL streptomycin in a humidified atmosphere
+  of 95% air and 5% CO2 at 37C.
 
 
-  All-trans-lycopene was purchased from Wako, and stored at −80°C. A 15-mM solution
-  was freshly prepared with tetrahydroflan immediately before use for the experiments.
-  The final concentration of THF for all experiments and treatments was maintained
+  All-trans-lycopene  was purchased from Wako, and stored at 80C. A 15-mM solution
+  was freshly prepared with tetrahydroflan   immediately before use for the experiments.
+  The final concentration of THF for all experiments and treatments  was maintained
   at ;1.0%. These conditions were found to be non-cytotoxic for 168 h.
-
-
 
 
   Lycopene was found to form a precipitate when dissolved in culture medium because
   of its hydrophobic property. Therefore, it was removed by centrifugation at 17 000
   g for 10 min. The concentration of lycopene in the medium was measured by spectrophotometry
   after extraction in 2-propnol and n-hexane-dichloromethane, as described previously.
-  The residue was redissolved in 500 μL methanol : THF and 50 μL solution was injected
+  The residue was redissolved in 500 L methanol : THF  and 50 L solution was injected
   into the reverse-phase HPLC system. The flow rate was 0.4 mL/min and lycopene was
   detected at 452 nm. Lycopene was quantified by reference to standard curves. The
-  determined concentration of lycopene thus obtained in 100 μM solution was 4.47 μM.
-
-
+  determined concentration of lycopene thus obtained in 100 M solution was 4.47 M.
 
 
   The anti-proliferative effect of lycopene on these breast cancer cells was assessed
-  by WST assay, as described previously. Briefly, 100 μL suspension of cells was seeded
-  into each well of a 96-well plate at a density of 2000 cells per well. This inoculation
+  by WST assay, as described previously. Briefly, 100 L suspension of cells was seeded
+  into each well of a 96-well plate  at a density of 2000 cells per well. This inoculation
   density was determined by the growth curves so that non-treated cells did not reach
   confluency for up to 7 days, without medium change. After overnight incubation,
-  100 μL lycopene solutions at various concentrations were added and cells were further
+  100 L lycopene solutions at various concentrations were added and cells were further
   cultured up to 168 h. At various times after treatment, cell viability was measured
   using the Premix CCK-8 Cell Proliferation Assay System. The relative number of viable
   cells was determined by comparing the absorbance of the treated cells with the corresponding
@@ -128,35 +129,29 @@ text: '
   of the 89-kD PARP fragment with anti-PARP thus serves as an early marker of apoptosis.
 
 
-
-
   At various times following treatment with lycopene, floating and trypsinized adherent
-  cells were combined, fixed in 70% ethanol and stored at 4°C prior to cell cycle
-  analysis. After the removal of ethanol by centrifugation, cells were then washed
-  with PBS and stained with a solution containing RNase A and propidium iodide. Cell
-  cycle analyses were performed on a Beckman Coulter Gallios Flow Cytometer using
-  the Kaluza version 1.2 software packages, and the extent of apoptosis was determined
-  by measuring the sub-G0/G1 population.
-
-
+  cells were combined, fixed in 70% ethanol and stored at 4C prior to cell cycle analysis.
+  After the removal of ethanol by centrifugation, cells were then washed with PBS
+  and stained with a solution containing RNase A and propidium iodide. Cell cycle
+  analyses were performed on a Beckman Coulter Gallios Flow Cytometer using the Kaluza
+  version 1.2 software packages, and the extent of apoptosis was determined by measuring
+  the sub-G0/G1 population.
 
 
   Immunoprecipitation and western blot analysis were performed as described previously.
   Equal amounts of proteins or immunoprecipitated target proteins were resolved by
-  4-15% SDS-PAGE and electrotransferred onto a polyvinylidene difluoride membrane.
+  4-15% SDS-PAGE  and electrotransferred onto a polyvinylidene difluoride membrane.
   Non-specific binding sites were blocked by incubating the membranes in blocking
-  buffer at room temperature for 30 min. The membranes were then incubated with primary
+  buffer  at room temperature for 30 min. The membranes were then incubated with primary
   antibodies against either phospho-mTOR, phospho-p44/42 MAPK, phospho-Akt, Cyclin
   D1, p21, Bcl-xL or Bax. The membranes were hybridized with horseradish peroxidase-conjugated
   secondary antibody. Immunoblots were developed with the enhanced chemiluminescence
-  system and were then quantitated using LAS-3000 Luminescent Image Analyzer. The
+  system  and were then quantitated using LAS-3000 Luminescent Image Analyzer. The
   blots were striped and reprobed with primary antibodies against mTOR, MAPK, Akt
-  and β-actin. All primary and secondary antibodies except those for p21 and phospho-mTOR
+  and -actin. All primary and secondary antibodies except those for p21 and phospho-mTOR
   were purchased from Cell Signaling Technology. For reblotting, membranes were incubated
-  in stripping buffer for 30 min at room temperature before washing, blocking and
+  in stripping buffer  for 30 min at room temperature before washing, blocking and
   incubating with antibody. Triplicate determinations were made in separate experiments.
-
-
 
 
   To determine the significance of observed differences, the anova was applied to
@@ -164,36 +159,28 @@ text: '
   t-test. A P-value &lt; 0.05 was considered significant.
 
 
-
-
-
-
   Lycopene treatment for 168 consecutive hours exhibited dose-dependent growth inhibitory
   activities against MCF-7, SK-BR-3 and MDA-MB-468 cells, with the greatest growth
   inhibition observed in MDA-MB-468. MDA-MB-468 cells treated with lycopene for 168
-  h showed significantly lower IC50 value, compared to MCF-7 cells and SK-BR-3, being
+  h showed significantly lower IC50 value, compared to MCF-7 cells  and SK-BR-3, being
   threefold more sensitive to lycopene than MCF-7 cells. HER2-positive cells were
   moderately sensitive to lycopene, showing the IC50 between those of triple-negative
   and hormone-receptor positive cells. When the exposure time was shortened, IC50
   values increased and there were no significant differences of lycopene sensitivity
   between these cell lines at 72-h exposure. These data indicate that a relatively
-  long time would be required for lycopene to exhibit its true anti-proliferative
+  long time  would be required for lycopene to exhibit its true anti-proliferative
   activity for individual cell lines.
 
 
-  Figure 1\. Survival curves for lycopene against MCF-7, SK-BR-3 and MDA-MB-468 cells.
+  Figure 1\. Survival curves for lycopene against MCF-7, SK-BR-3  and MDA-MB-468  cells.
   Cells were treated with various concentrations of lycopene for 168 h and assessed
   for viability by WST-1 assay, as described in the Materials and Methods. The data
   represent the means from three independent experiments. Bars, standard deviation.
 
 
-
-
-
-
   To examine whether the inhibitory effects observed in cytotoxicity assays reflect
   the arrest or delay of cell cycle or apoptotic cell death, cells were treated with
-  lycopene at a dose of 50 μM, and the cell cycle progression and apoptosis were evaluated
+  lycopene at a dose of 50 M, and the cell cycle progression and apoptosis were evaluated
   by FACS analysis. Consecutive treatment of lycopene significantly increased the
   proportion of cells in a G0/G1 phase after 72 h treatment, with a corresponding
   decrease in cells in S and G2/M phases regardless of subtypes of breast cancer.Upon
@@ -213,13 +200,10 @@ text: '
 
   Figure 2\. Time-course analysis of the effect lycopene on cell-cycle progression
   and apoptosis determined by flow cytometry. Representative cell-cycle distributions
-  after exposure to 50 μM lycopene for 0, 72 and 120 h. MCF-7, SK-BR-3 and MBA-MB-468.
+  after exposure to 50 M lycopene for 0, 72 and 120 h. MCF-7, SK-BR-3  and MBA-MB-468.
   Percentages of the total cell population in the different phases of cell cycle are
-  also shown as column bars in the right panels of each cell line. Mean ± SD of three
+  also shown as column bars in the right panels of each cell line. Mean  SD of three
   independent experiments. Significant difference versus vehicle control. P &lt; 0.05.
-
-
-
 
 
   Cleavage of PARP was demonstrated from 24 to 72 h after initiation of the treatment
@@ -228,7 +212,7 @@ text: '
   cells, supporting lower incidence of lycopene-induced apoptosis in MCF-7 and SK-BR-3
   cells. Because activations of signaling molecules such as ERK1/2, Akt and mTOR have
   been considered as major factors contributing toward proliferation and survival,
-  we examined the effects of lycopene on expression or activation of these proteins
+  we examined the effects of lycopene on expression or activation  of these proteins
   in these three breast cancer cell lines. Upon treatment with lycopene, the constitutive
   activity of ERK1/2 was enhanced 6 h after initiation of treatment in these three
   cell lines, and remained at high levels over 24 h. By contrast, the phosphorylation
@@ -241,18 +225,15 @@ text: '
 
 
   Figure 3\. Effects of lycopene on activations of signaling molecules for cell proliferation
-  and survival. Cells were treated with 100 μM lycopene for indicated times and harvested
-  for western blot analysis. Western blots are shown for phosphorylated and total
-  ERK1/2, Akt, and mTOR. Cyclin D1 and p21 are also shown. Effects of lycopene on
-  the apoptotic and anti-apoptotic proteins, including Bax and Bcl-xL. β-Actin, PARP
+  and survival. Cells were treated with 100 M lycopene for indicated times and harvested
+  for western blot analysis.  Western blots are shown for phosphorylated and total
+  ERK1/2, Akt, and mTOR. Cyclin D1 and p21 are also shown.  Effects of lycopene on
+  the apoptotic and anti-apoptotic proteins, including Bax and Bcl-xL. -Actin, PARP
   and cleaved PARP are shown.
 
 
-
-
-
   To clarify the apoptotic mechanism induced by lycopene, we examined the expression
-  of anti-apoptotic Bcl-xL as well as pro-apoptotic Bax. Upon treatment with 100 μM
+  of anti-apoptotic Bcl-xL as well as pro-apoptotic Bax. Upon treatment with 100 M
   lycopene, expression of Bcl-xL did not change in all cell lines. Expression of pro-apoptotic
   Bax protein did not change with the incubation time with lycopene in MCF-7 cells
   and SK-BR-3 cells, but was enhanced in MDA-MB-468 cells. Therefore, enhanced expression
@@ -260,8 +241,6 @@ text: '
   cells. Both Bcl-xL and Bax appear not to be involved in lycopene-induced apoptosis
   in MCF-7 and SK-BR-3 cells, providing an explanation for the lower levels of apoptosis
   induction in these cells than in MDA-MB-468 cells.
-
-
 
 
   In this study, we investigated the growth-inhibitory activity of lycopene against
@@ -273,21 +252,21 @@ text: '
   activity for individual cell lines. This is probably because of the cytostatic nature
   of lycopene that requires a substantial time for the alterations of mRNA or protein
   to exhibit the ultimate cellular death. Accordingly, the sub-G0/G1 apoptotic fraction
-  became noticeable after lycopene exposure for 72 h despite that changes in protein
+  became noticeable after lycopene exposure for 72 h  despite that changes in protein
   expression level occurred after 6 or 24 h of exposure. Moreover, the dissociation
   was observed between the initiation of the apoptotic event and true cytotoxicity.
   In this experiment, WST assay was used, which measures the level of succinate dehydrogenase
   activity in the cytoplasm, while the apoptotic events were measured by the fluorescent
   intensity, which reflects nuclear size. Because it is conceivable that the cells
-  with small nuclear size may still contain a certain level of succinate dehydrogenase
+  with small nuclear size  may still contain a certain level of succinate dehydrogenase
   activity, these differential methods of determination may produce the time lag between
   apoptotic events and cytotoxicity, especially when the compounds show cytostatic
   but not cytocidal activity.
 
 
-  Because the actual concentration of lycopene in 100 μM lycopene medium was found
-  to be 4.47 μM, the calculated IC50 values were 1.3 μM for MCF-7, 1.0 μM for SK-BR-3
-  and 0.5 μM for MDA-MB-468, indicating similar IC50 values of lycopene reported in
+  Because the actual concentration of lycopene in 100 M lycopene medium was found
+  to be 4.47 M, the calculated IC50 values were 1.3 M for MCF-7, 1.0 M for SK-BR-3
+  and 0.5 M for MDA-MB-468, indicating similar IC50 values of lycopene reported in
   a variety of human cancer cells. The estimated IC50 value shown here for MDA-MB-468
   cells is physiologically achievable concentrations of lycopene, because median lycopene
   levels are frequently found in this range in human plasma. This suggests that regular
@@ -387,15 +366,11 @@ text: '
   of this subtype of breast cancer.
 
 
-
-
   This work was supported by the Grant-in-Aid for Scientific Research C, the Strategic
-  Research Foundation Grant-aided Project for Private Universities 2010-2012 from
+  Research Foundation Grant-aided Project for Private Universities 2010-2012  from
   the Ministry of Education, Culture, Sports, Science and Technology in Japan, and
   the Science Research Promotion Fund from the Promotion and Mutual Aid Corporation
   for Private Schools of Japan.
-
-
 
 
 '

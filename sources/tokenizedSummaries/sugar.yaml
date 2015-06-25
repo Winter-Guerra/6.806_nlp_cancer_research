@@ -1,27 +1,27 @@
-['Sweetened soda consumption has been shown to increase the level of circulating estradiol,
-    a known risk factor for breast cancer, in premenopausal women.', 'High sugar consumption
-    is associated with increased breast density, a powerful risk factor for breast
-    cancer.', 'One study evaluated carcinogen-induced mammary tumors in rats fed diets
-    containing high levels of either sugar (dextrose or sucrose) or starch (wheat,
-    rice or potato starch).', 'Rats fed sugar diets were found to develop significantly
-    more mammary tumors than those fed starch diets, at both low and high levels of
-    dietary fat.', 'A U.S. case-control study found that consumption of sweets, particularly
-    desserts, was associated with an increased risk of breast cancer.', 'An Italian
-    case-control study found that women with the highest intake of desserts (including
-    cookies, brioches, cakes, pastry puffs and ice-cream) and sugars (including sugar,
-    honey, jam, marmalade and chocolate) had increased risk of breast cancer.', The
-    results held when adjusted for body mass index and total calorie intake., A Mexican
-    case-control study found that carbohydrate intake was positively associated with
-    risk of breast cancer for both premenopausal and postmenopausal women after adjusting
-    for total calorie intake., The strongest associations were observed for sucrose
-    and fructose intake., 'Another Italian case-control study found that breast cancer
-    risk increased with increasing consumption of bread, pasta and refined sugar.',
-  'A Japanese case-control study found that breast cancer risk was positively associated
-    with higher intakes of bread, cake, and soft drinks with sugar.', 'A Canadian
-    prospective study found higher risk of breast cancer among postmenopausal women
-    consuming high glycemic index foods, an association that was not altered when
-    adjusted for body mass.', 'On the other hand, a Danish prospective study found
-    no associations between intake of glucose, fructose, sucrose, maltose, lactose,
-    or starch and breast cancer risk.', 'However, a borderline significant positive
-    association between high glycemic index foods and estrogen receptor negative (ER-)
-    breast cancer was found in this study.']
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml
+tags: sugar
+text: ['Sweetened soda consumption has been shown to increase the level of circulating
+    estradiol, a known risk factor for breast cancer, in premenopausal women.', 'High
+    sugar consumption is associated with increased breast density, a powerful risk
+    factor for breast cancer.', One study evaluated carcinogen-induced mammary tumors
+    in rats fed diets containing high levels of either sugar  or starch., 'Rats fed
+    sugar diets were found to develop significantly more mammary tumors than those
+    fed starch diets, at both low and high levels of dietary fat.', 'A U.S. case-control
+    study found that consumption of sweets, particularly desserts, was associated
+    with an increased risk of breast cancer.', An Italian case-control study found
+    that women with the highest intake of desserts  and sugars  had increased risk
+    of breast cancer., The results held when adjusted for body mass index and total
+    calorie intake., A Mexican case-control study found that carbohydrate intake was
+    positively associated with risk of breast cancer for both premenopausal and postmenopausal
+    women after adjusting for total calorie intake., The strongest associations were
+    observed for sucrose and fructose intake., 'Another Italian case-control study
+    found that breast cancer risk increased with increasing consumption of bread,
+    pasta and refined sugar.', 'A Japanese case-control study found that breast cancer
+    risk was positively associated with higher intakes of bread, cake, and soft drinks
+    with sugar.', 'A Canadian prospective study found higher risk of breast cancer
+    among postmenopausal women consuming high glycemic index foods, an association
+    that was not altered when adjusted for body mass.', 'On the other hand, a Danish
+    prospective study found no associations between intake of glucose, fructose, sucrose,
+    maltose, lactose, or starch and breast cancer risk.', 'However, a borderline significant
+    positive association between high glycemic index foods and estrogen receptor negative  breast
+    cancer was found in this study.']

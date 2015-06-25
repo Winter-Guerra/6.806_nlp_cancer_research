@@ -1,19 +1,24 @@
 ---
+title: Silibinin Induces Cell Death through Reactive Oxygen Species-Dependent Downregulation
+  of Notch-1/ERK/Akt Signaling in Human Breast Cancer Cells
 pathHash: a63b06f8e9765176c4b4d473c0986f97
+tags:
+- artichokes
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Silibinin
+  Induces Cell Death through Reactive Oxygen Species-Dependent Downregulation of Notch-1ERKAkt
+  Signaling in Huma.md
 text: '
-
-
 
 
   The present study was undertaken to determine the underlying mechanism of silibinin-induced
   cell death in human breast cancer cell lines MCF7 and MDA-MB-231. Silibinin-induced
-  cell death was attenuated by antioxidants, N-acetylcysteine and 6-hydroxy-2,5,7,8-tetramethylchromane-2-carboxylic
+  cell death was attenuated by antioxidants, N-acetylcysteine  and 6-hydroxy-2,5,7,8-tetramethylchromane-2-carboxylic
   acid, suggesting that the effect of silibinin was dependent on generation of reactive
   oxygen species. Western blot analysis showed that silibinin induced downregulation
-  of extracellular signal-regulated kinase and Akt. When cells were transiently transfected
-  with constitutively active mitogen-activated protein kinase, an upstream kinase
+  of extracellular signal-regulated kinase  and Akt. When cells were transiently transfected
+  with constitutively active  mitogen-activated protein kinase, an upstream kinase
   of ERK and caAkt, they showed resistance to silibinin-induced cell death. Silibinin
-  decreased the cleavage of Notch-1 mRNA and protein levels. Notch-1–overexpressed
+  decreased the cleavage of Notch-1 mRNA and protein levels. Notch-1overexpressed
   cells were resistant to the silibinin-induced cell death. Inhibition of Notch-1
   signaling was dependent on ROSgeneration. Overexpression of Notch-1 prevented silibinin-induced
   inhibition of ERK and Akt phosphorylation. Silibinin-induced cell death was accompanied
@@ -22,7 +27,7 @@ text: '
   factor, which was blocked by NAC, and transfection of caMEK and caAkt. Silibinin-induced
   cell death was prevented by silencing of AIF expression using small interfering
   AIF RNA in MCF7 cells but not in MDA-MB-231 cells. In conclusion, silibinin induces
-  cell death through an AIF-dependent mechanism in MCF7 cells and a caspase-3–dependent
+  cell death through an AIF-dependent mechanism in MCF7 cells and a caspase-3dependent
   mechanism in MDA-MB-231 cells, and ROS generation and Notch-1 signaling act upstream
   of the ERK and Akt pathway. These data suggest that silibinin may serve as a potential
   agent for induction of apoptosis in human breast cancer cells. '

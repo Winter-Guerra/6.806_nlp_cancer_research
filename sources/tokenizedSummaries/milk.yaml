@@ -1,8 +1,10 @@
-['Many studies have been conducted to try to determine the effects of milk consumption
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/milk.yaml
+tags: milk
+text: ['Many studies have been conducted to try to determine the effects of milk consumption
     on the risk of breast cancer and on breast cancer development, but the results
     appear contradictory, presumably because milk has both beneficial and harmful
     components.', 'Components of milk, including calcium, vitamin D, stearate, lactaptin,
-    conjugated linoleic acid (CLA), and bovine lactoferricin, have been found to induce
+    conjugated linoleic acid, and bovine lactoferricin, have been found to induce
     apoptosis of breast cancer cells or reduce mammary tumor size and incidence in
     the laboratory.', 'In fact, milk has been found to be somewhat protective against
     breast cancer when consumed in infancy and childhood.', Some population-based
@@ -21,7 +23,7 @@
     to human breast cancer.', 'Some observers have noted that much of the milk we
     drink today is produced from pregnant cows, in which estrogen and progesterone
     levels are markedly elevated.', 'Other components of milk that are suspected to
-    be breast cancer promoting include saturated fat, recombinant bovine growth hormone
-    (rBGH), insulin-like growth factor (IGF), pesticides, and polychlorinated biphenyls
-    (PCBs).', 'Since cream concentrates some of the potentially harmful substances
-    found in milk, it is also to be avoided.']
+    be breast cancer promoting include saturated fat, recombinant bovine growth hormone,
+    insulin-like growth factor, pesticides, and polychlorinated biphenyls.', 'Since
+    cream concentrates some of the potentially harmful substances found in milk, it
+    is also to be avoided.']

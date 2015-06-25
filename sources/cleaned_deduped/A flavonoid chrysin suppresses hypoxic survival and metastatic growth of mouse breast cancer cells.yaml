@@ -1,163 +1,169 @@
 ---
+title: A flavonoid chrysin suppresses hypoxic survival and metastatic growth of mouse
+  breast cancer cells
 pathHash: 6f430edb5e7354fe3a4316c8bd588dd3
-text: "\n\n\n\nTumor hypoxia commonly occurs in solid tumors, and correlates with
-  metastasis. Current cancer therapies are inefficient in curing metastatic disease.
-  Herein, we examined effect of Thai propolis extract and its major constituent, chrysin,
-  on hypoxic survival of 4T1 mouse breast cancer cells in vitro, and investigated
-  its underlying mechanism. In vivo effect of chrysin on metastatic progression of
-  cancer cells was studied, both as a single agent and in combination with another
-  antimetastatic agent, agonistic monoclonal antibody targeting the DR5 TRAIL receptor.
-  Thai propolis extract and chrysin decreased survival of 4T1 cells after exposure
-  to hypoxia, for 2 days. Immunoblot analysis revealed that chrysin inhibited hypoxia-induced
-  STAT3 phosphorylation without affecting HIF-1α protein level. Chrysin also abrogated
-  hypoxia-induced VEGF gene expression as determined by qRT-PCR. The in vivo effect
-  of chrysin was determined in a spontaneous metastasis mouse model of breast cancer,
-  either alone or in combination with DR5 mAb. Daily oral administration of chrysin
-  in Balb/c mice implanted with 4T1 cells significantly suppressed growth of lung
-  metastatic colonies. Moreover, antimetastatic activity of DR5 mAb was enhanced when
-  given in combination with chrysin. We demonstrate that chrysin has potential in
-  controlling metastatic progression.\n\n\n\nMetastasis is the spread of cancer in
-  the body, by which cancer cells in the primary tumor travel to distant sites, and
-  form metastatic colonies. Most cancer deaths are caused by the growth of metastases
-  to form clinically harmful tumors, rather than primary tumor growth. Since current
-  cancer therapies are inefficient in eradicating metastases, any strategy that can
-  prevent metastatic progression or inhibits the growth of metastases in distant sites
-  benefit patients. An agonistic monoclonal antibody targeting a receptor of endogenous
-  death ligand can reduce the number of metastatic colonies in mouse models. However,
-  the effect of combining DR5 mAb with other antimetastatic natural products has not
-  been investigated.\n\nA unique feature of solid tumors is the occurrence of low
-  oxygen levels in some regions within the tumor as it grows. This has received much
-  attention as an attractive target for anticancer drug development. Clinical studies
-  indicate correlation between tumor hypoxia, tumor progression and development of
-  distant metastases. The presence of hypoxia is not restricted to the primary tumor,
-  but also appears in metastatic sites. Increasing evidence obtained from various
-  animal models indicates avascular micrometastases are hypoxic, while macrometastases
-  are vascularized and not hypoxic. Tumor-induced angiogenesis is known to contribute
-  to metastasis promotion and growth of micrometastases. Vascular endothelial growth
-  factor is one of the most potent angiogenic factors, and its production is upregulated
-  in hypoxic cells, further inducing angiogenesis in hypoxic tissues. Hypoxic adaptation
-  is mediated by hypoxia-inducible factor-1 which is a heterodimeric transcription
-  factor composed of HIF-1α and HIF-1β subunits. Although HIF-1 is the master regulator
-  of hypoxic response, other signaling pathways including STAT3, Akt, ERK, and NF-κB,
-  are also activated by hypoxia and participate in hypoxia-induced VEGF gene expression.
-  VEGF also acts as an autocrine survival factor for breast cancer cells under hypoxia.
-  Moreover, inhibition of VEGF gene expression in breast cancer cells can suppress
-  metastasis in a mouse model.\n\nPropolis is a resinous material that honeybees collect
-  from various plants, and is a rich source of bioactive compounds. Several HIF-1
-  modulating compounds have been isolated from Brazilian green propolis, indicating
-  the potential of propolis as a source of hypoxic modulating compounds. We have isolated
-  a flavonoid chrysin from Thai propolis extract as a major constituent. Chrysin has
-  been shown to possess multiple bioactivities. Inhibition of subcutaneous tumor growth
-  by chrysin has recently been demonstrated in mouse models of breast cancer and hepatoma.
-  Chrysin has also been shown to suppress hypoxia-induced VEGF expression in human
-  prostate cancer cells in vitro(16), and abrogates tumor-induced angiogenesis in
-  vivo(15,16). However, until now, there has been no report on the effect of chrysin
-  on hypoxic survival and metastatic progression of cancer cells.\n\nIn this study,
-  we demonstrate the inhibitory effect of chrysin on hypoxic survival of mouse breast
-  cancer cells in vitro, and also investigate its mechanism of action. We also studied
-  the in vivo effect of chrysin in a spontaneous metastasis model of breast cancer,
-  both as a single agent and in combination with DR5 mAb.\n\n\n\n\n\nProtease inhibitor
-  cocktail for use with mammalian cells and tissue extracts was obtained from Sigma-Aldrich.
-  Chrysin was purchased from Alexis Biochemicals. Specific inhibitors of STAT3, PI3K,
-  ERK, and NF-κB were obtained from Calbiochem. For in vitro experiments, test compounds
-  were dissolved in dimethyl sulfoxide and kept as a stock solution at −20°C. The
-  final concentration of DMSO was kept below 0.2% throughout the study. Primary antibodies
-  specific to Tubulin, STAT3, Akt, ERK1/2, and p65 NF-κB and phosphorylated forms
-  of STAT3, Akt, ERK1/2, p65 NF-κB were purchased from Cell Signaling Technology.
-  Primary antibody specific to HIF-1α was obtained from Novus Biologicals. Agonistic
-  monoclonal antibody targeting mouse DR5 TRAIL receptor was obtained from the Department
-  of Immunology, Juntendo University School of Medicine, Japan.\n\n\n\nThai propolis
-  was harvested from a hive of Apis mellifera collected in Chiangmai province, Thailand,
-  in August 2006\\. A voucher specimen was deposited at the Faculty of Pharmacy, Srinakharinwirot
-  University, Nakhon Nayok province, Thailand. Two major compounds, chrysin and tectochrysin,
-  were isolated. Propolis was extracted with methanol under sonication yielding 517
-  g extract. Part of the extract was fractionated by silica gel column chromatography
-  using dichloromethane, with increasing concentration of MeOH, to obtain 16 fractions.
-  Fraction 5 and fraction 8 was left overnight to obtain the crystals of tectochrysin
-  and chrysin, respectively. Their structures were identified by comparison of physical
-  and spectroscopic data with authentic standard and the published data.\n\n\n\n4T1
-  murine mammary carcinoma cell line was obtained from the American Type Culture Collection.
+tags:
+- honey
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/A
+  flavonoid chrysin suppresses hypoxic survival and metastatic growth of mouse breast
+  cancer cells.md
+text: "\n\nTumor hypoxia commonly occurs in solid tumors, and correlates with metastasis.
+  Current cancer therapies are inefficient in curing metastatic disease. Herein, we
+  examined effect of Thai propolis extract and its major constituent, chrysin, on
+  hypoxic survival of 4T1 mouse breast cancer cells in vitro, and investigated its
+  underlying mechanism. In vivo effect of chrysin on metastatic progression of cancer
+  cells was studied, both as a single agent and in combination with another antimetastatic
+  agent, agonistic monoclonal antibody targeting the DR5 TRAIL receptor. Thai propolis
+  extract and chrysin decreased survival of 4T1 cells after exposure to hypoxia, for
+  2 days. Immunoblot analysis revealed that chrysin inhibited hypoxia-induced STAT3
+  phosphorylation without affecting HIF-1 protein level. Chrysin also abrogated hypoxia-induced
+  VEGF gene expression as determined by qRT-PCR. The in vivo effect of chrysin was
+  determined in a spontaneous metastasis mouse model of breast cancer, either alone
+  or in combination with DR5 mAb. Daily oral administration of chrysin in Balb/c mice
+  implanted with 4T1 cells significantly suppressed growth of lung metastatic colonies.
+  Moreover, antimetastatic activity of DR5 mAb was enhanced when given in combination
+  with chrysin. We demonstrate that chrysin has potential in controlling metastatic
+  progression.\n\nMetastasis is the spread of cancer in the body, by which cancer
+  cells in the primary tumor travel to distant sites, and form metastatic colonies.
+  Most cancer deaths are caused by the growth of metastases to form clinically harmful
+  tumors, rather than primary tumor growth. Since current cancer therapies are inefficient
+  in eradicating metastases, any strategy that can prevent metastatic progression
+  or inhibits the growth of metastases in distant sites benefit patients. An agonistic
+  monoclonal antibody  targeting a receptor of endogenous death ligand  can reduce
+  the number of metastatic colonies in mouse models. However, the effect of combining
+  DR5 mAb with other antimetastatic natural products has not been investigated.\n\nA
+  unique feature of solid tumors is the occurrence of low oxygen levels  in some regions
+  within the tumor as it grows. This has received much attention as an attractive
+  target for anticancer drug development. Clinical studies indicate correlation between
+  tumor hypoxia, tumor progression and development of distant metastases. The presence
+  of hypoxia is not restricted to the primary tumor, but also appears in metastatic
+  sites. Increasing evidence obtained from various animal models indicates avascular
+  micrometastases  are hypoxic, while macrometastases  are vascularized and not hypoxic.
+  Tumor-induced angiogenesis is known to contribute to metastasis promotion and growth
+  of micrometastases. Vascular endothelial growth factor  is one of the most potent
+  angiogenic factors, and its production is upregulated in hypoxic cells, further
+  inducing angiogenesis in hypoxic tissues. Hypoxic adaptation is mediated by hypoxia-inducible
+  factor -1 which is a heterodimeric transcription factor composed of HIF-1 and HIF-1
+  subunits. Although HIF-1 is the master regulator of hypoxic response, other signaling
+  pathways including STAT3, Akt, ERK, and NF-B, are also activated by hypoxia and
+  participate in hypoxia-induced VEGF gene expression. VEGF also acts as an autocrine
+  survival factor for breast cancer cells under hypoxia. Moreover, inhibition of VEGF
+  gene expression in breast cancer cells can suppress metastasis in a mouse model.\n\nPropolis
+  \ is a resinous material that honeybees collect from various plants, and is a rich
+  source of bioactive compounds. Several HIF-1 modulating compounds have been isolated
+  from Brazilian green propolis, indicating the potential of propolis as a source
+  of hypoxic modulating compounds. We have isolated a flavonoid chrysin  from Thai
+  propolis extract as a major constituent. Chrysin has been shown to possess multiple
+  bioactivities. Inhibition of subcutaneous tumor growth by chrysin has recently been
+  demonstrated in mouse models of breast cancer and hepatoma. Chrysin has also been
+  shown to suppress hypoxia-induced VEGF expression in human prostate cancer cells
+  in vitro, and abrogates tumor-induced angiogenesis in vivo. However, until now,
+  there has been no report on the effect of chrysin on hypoxic survival and metastatic
+  progression of cancer cells.\n\nIn this study, we demonstrate the inhibitory effect
+  of chrysin on hypoxic survival of mouse breast cancer cells in vitro, and also investigate
+  its mechanism of action. We also studied the in vivo effect of chrysin in a spontaneous
+  metastasis model of breast cancer, both as a single agent and in combination with
+  DR5 mAb.\n\nProtease inhibitor cocktail for use with mammalian cells and tissue
+  extracts was obtained from Sigma-Aldrich. Chrysin was purchased from Alexis Biochemicals.
+  Specific inhibitors of STAT3, PI3K, ERK, and NF-B  were obtained from Calbiochem.
+  For in vitro experiments, test compounds were dissolved in dimethyl sulfoxide  and
+  kept as a stock solution at 20C. The final concentration of DMSO was kept below
+  0.2% throughout the study. Primary antibodies specific to Tubulin, STAT3, Akt, ERK1/2,
+  and p65 NF-B and phosphorylated forms of STAT3, Akt, ERK1/2, p65 NF-B  were purchased
+  from Cell Signaling Technology. Primary antibody specific to HIF-1  was obtained
+  from Novus Biologicals. Agonistic monoclonal antibody targeting mouse DR5 TRAIL
+  receptor  was obtained from the Department of Immunology, Juntendo University School
+  of Medicine, Japan.\n\nThai propolis was harvested from a hive of Apis mellifera
+  collected in Chiangmai province, Thailand, in August 2006\\. A voucher specimen
+  \ was deposited at the Faculty of Pharmacy, Srinakharinwirot University, Nakhon
+  Nayok province, Thailand. Two major compounds, chrysin and tectochrysin, were isolated.
+  Propolis  was extracted with methanol  under sonication yielding 517 g extract.
+  Part of the extract  was fractionated by silica gel column chromatography using
+  dichloromethane, with increasing concentration of MeOH, to obtain 16 fractions.
+  Fraction 5  and fraction 8  was left overnight to obtain the crystals of tectochrysin
+  \ and chrysin, respectively. Their structures were identified by comparison of physical
+  and spectroscopic data with authentic standard and the published data.\n\n4T1 murine
+  mammary carcinoma cell line was obtained from the American Type Culture Collection.
   Cells were cultured in DMEM supplemented with 2 mM L-glutamine, 10% fetal bovine
-  serum and antibiotics, and maintained at 37°C in a humidified atmosphere of 5% CO2:
+  serum  and antibiotics, and maintained at 37C in a humidified atmosphere of 5% CO2:
   these conditions were used as normoxic condition. For hypoxic condition, the cells
-  were incubated at 37°C, in a humidified atmosphere of 1% O2 and 5% CO2 maintained
-  by a regulated supply of N2 and CO2 gas inside a hypoxic chamber.\n\n\n\nCells were
-  seeded into 96-well plates and left overnight in a CO2 incubator. The cells were
+  were incubated at 37C, in a humidified atmosphere of 1% O2 and 5% CO2 maintained
+  by a regulated supply of N2 and CO2 gas inside a hypoxic chamber.\n\nCells were
+  seeded into 96-well plates  and left overnight in a CO2 incubator. The cells were
   pretreated by adding medium containing test compound to the wells, and incubated
-  for 30 min, then the plates were further incubated under hypoxia for 48 h. Number
+  for 30 min, then the plates were further incubated under hypoxia  for 48 h. Number
   of surviving cells after treatment was determined by crystal violet staining method
   as previously described. Briefly, the cells were washed three times with phosphate
   buffer saline, fixed with 95% ethanol, and stained with crystal violet solution.
   After extensive washing by tap water, the stained cells were lysed with 0.1 N HCl
   in MeOH, after which absorbance was determined at 550 nm using a microplate reader.
   Assay was performed in triplicate wells, and results were expressed as percent survival
-  compared with control.\n\n\n\nAfter treatment, cells were rinsed with cold PBS,
-  scraped and lysed in RIPA lysis buffer containing phosphatase inhibitors and protease
-  inhibitor cocktail. Cell lysates were fractionated by electrophoresis in 7.5% or
-  10% SDS-PAGE, and electrophoretically transferred to PVDF membrane. After blocking
-  with BlockAce, the membranes were probed with the indicated primary antibodies overnight,
-  followed by horseradish peroxidase-conjugated secondary antibodies. Bands were visualized
-  using WesternBright ECL reagent.\n\n\n\nRNA extraction and first-strand cDNA synthesis
-  were performed as previously described. Real-time PCR was run on a LightCycler®
-  2.0 Instrument, using QuantiTect™ SYBR Green PCR Master mix. Sequences of PCR primers
-  were obtained from following references; mouse VEGF; mouse β-actin. VEGF primer
-  5′-GAGATGAGCTTCCTACAGCAC-3′; and VEGF primer 5′-TCACCGCCTTGGCTTGTCAC-3′. β-actin
-  primer 5′-AAG TGT GAC GTT GAC ATC CGT AA-3′; and β-actin primer 5′-TGC CTG GGT ACA
-  TGG TGG TA-3′. PCR reaction was started by an initial activation step at 95°C for
-  15 min, followed by 40 cycles comprising denaturation at 94°C/15 sec, annealing
-  at 55°C/30 sec, and extension at 72°C/30 sec. Expression level of the VEGF gene
-  was normalized to β-actin gene, and calculated from crossing point value of the
-  sample, relative gene expression level = 2(Cpactin− Cptarget). The relative change
-  in gene expression compared with untreated normoxic cells was expressed as fold
-  change, calculated by 2−ΔΔCp method.\n\n\n\nBalb/c mice were purchased from Sankyo
-  Lab Service Co.. Experiments were conducted in accordance with institutional guidelines
-  and approval of University of Toyama Animal Experimental Ethics Committee. Cell
-  suspensions were injected into mammary fat pads on day 0. Tumors were measured every
-  other day using a caliper. Daily oral administration of chrysin suspended in 0.5%
-  carboxymethyl cellulose began on day 1 after tumor inoculation. DR5 mAb was intraperitoneally
-  injected on day 10 and day 14 after tumor inoculation. Primary tumors were excised
-  on day 18, weighed and fixed in 10% formalin. After sacrificing the mice on day
-  32, lungs were collected and fixed in Bouin’s solution. Number of metastatic colonies
-  on surface of the lungs was counted. Size of primary tumors and metastatic colonies
-  was measured using a caliper square along the longer axes and shorter axes, and
-  tumor volume was calculated by the following formula; tumor volume = ab2/2. The
-  volume of metastatic colonies was categorized into 3 sizes; small, medium, and large.
-  Metastatic burden was determined from total volume of lung metastatic colonies.
-  Data are expressed as mean ± SD of 10 mice per group.\n\n\n\nFor in vitro experiments,
-  data are expressed as mean ± SD, and analyzed by Student’s two-tailed t-test to
-  determine the significance of differences between groups. For in vivo experiments,
-  the significance of differences between groups was analyzed by analysis of variance,
-  and the means were compared by using Tukey, with a p-value ;0.05 being considered
-  significant.\n\n\n\n\n\nWe first examined the effect of Thai propolis extract against
-  hypoxic survival of 4T1 cells. Pretreatment with propolis extract for 30 min before
-  exposure to hypoxia for 2 days decreased hypoxic cell survival in a concentration-dependent
-  manner. Next, the two major constituents present in Thai propolis extract, chrysin
-  and tectochrysin were examined. Chrysin treatment showed a concentration-dependent
-  decrease in hypoxic cell survival, with 28–74% inhibition observed at 40–100 μM
-  chrysin, while tectochrysin did not show inhibition at the highest soluble concentration.
-  These results indicate that chrysin contributes to the inhibitory effect of Thai
-  propolis extract on hypoxic cell survival.  \n\n\n\n\nWe further explored effect
-  of chrysin on hypoxia-induced activation of multiple cell signaling pathways that
-  contribute to cell survival, including HIF-1, STAT3, Akt, ERK, and NF-κB. 4T1 cells
-  were pretreated with 60–100 μM chrysin for 30 min before exposure to hypoxia for
-  6–24 h. HIF-1α protein stabilization and hypoxia-induced phosphorylation of ERK
-  and p65 NF-κB were not inhibited by chrysin treatment. In contrast, hypoxia-induced
+  compared with control.\n\nAfter treatment, cells were rinsed with cold PBS, scraped
+  and lysed in RIPA lysis buffer containing phosphatase inhibitors  and protease inhibitor
+  cocktail. Cell lysates were fractionated by electrophoresis in 7.5% or 10% SDS-PAGE,
+  and electrophoretically transferred to PVDF membrane. After blocking with BlockAce,
+  the membranes were probed with the indicated primary antibodies overnight, followed
+  by horseradish peroxidase-conjugated secondary antibodies. Bands were visualized
+  using WesternBright ECL reagent.\n\nRNA extraction and first-strand cDNA synthesis
+  were performed as previously described. Real-time PCR was run on a LightCycler 2.0
+  Instrument, using QuantiTect SYBR Green PCR Master mix. Sequences of PCR primers
+  were obtained from following references; mouse VEGF ; mouse -actin. VEGF primer
+  \ 5-GAGATGAGCTTCCTACAGCAC-3; and VEGF primer  5-TCACCGCCTTGGCTTGTCAC-3. -actin primer
+  \ 5-AAG TGT GAC GTT GAC ATC CGT AA-3; and -actin primer  5-TGC CTG GGT ACA TGG TGG
+  TA-3. PCR reaction was started by an initial activation step at 95C for 15 min,
+  followed by 40 cycles comprising denaturation at 94C/15 sec, annealing at 55C/30
+  sec, and extension at 72C/30 sec. Expression level of the VEGF gene was normalized
+  to -actin gene, and calculated from crossing point  value of the sample, relative
+  gene expression level = 2. The relative change in gene expression compared with
+  untreated normoxic cells was expressed as fold change, calculated by 2Cp method.\n\nBalb/c
+  mice  were purchased from Sankyo Lab Service Co.. Experiments were conducted in
+  accordance with institutional guidelines and approval of University of Toyama Animal
+  Experimental Ethics Committee. Cell suspensions  were injected into mammary fat
+  pads on day 0. Tumors were measured every other day  using a caliper. Daily oral
+  administration  of chrysin suspended in 0.5% carboxymethyl cellulose began on day
+  1 after tumor inoculation. DR5 mAb  was intraperitoneally  injected on day 10 and
+  day 14 after tumor inoculation. Primary tumors were excised on day 18, weighed and
+  fixed in 10% formalin. After sacrificing the mice on day 32, lungs were collected
+  and fixed in Bouins solution. Number of metastatic colonies on surface of the lungs
+  was counted. Size of primary tumors and metastatic colonies was measured using a
+  caliper square along the longer axes  and shorter axes, and tumor volume was calculated
+  by the following formula; tumor volume  = ab2/2. The volume of metastatic colonies
+  was categorized into 3 sizes; small, medium, and large. Metastatic burden was determined
+  from total volume of lung metastatic colonies. Data are expressed as mean  SD of
+  10 mice per group.\n\nFor in vitro experiments, data are expressed as mean  SD,
+  and analyzed by Students two-tailed t-test to determine the significance of differences
+  between groups. For in vivo experiments, the significance of differences between
+  groups was analyzed by analysis of variance, and the means were compared by using
+  Tukey, with a p-value ;0.05 being considered significant.\n\nWe first examined the
+  effect of Thai propolis extract against hypoxic survival of 4T1 cells. Pretreatment
+  with propolis extract  for 30 min before exposure to hypoxia  for 2 days decreased
+  hypoxic cell survival in a concentration-dependent manner. Next, the two major constituents
+  present in Thai propolis extract, chrysin and tectochrysin  were examined. Chrysin
+  treatment showed a concentration-dependent decrease in hypoxic cell survival, with
+  2874% inhibition observed at 40100 M chrysin, while tectochrysin did not show inhibition
+  at the highest soluble concentration. These results indicate that chrysin contributes
+  to the inhibitory effect of Thai propolis extract on hypoxic cell survival.  \n\nWe
+  further explored effect of chrysin on hypoxia-induced activation of multiple cell
+  signaling pathways that contribute to cell survival, including HIF-1, STAT3, Akt,
+  ERK, and NF-B. 4T1 cells were pretreated with 60100 M chrysin for 30 min before
+  exposure to hypoxia for 624 h. HIF-1 protein stabilization and hypoxia-induced phosphorylation
+  of ERK and p65 NF-B were not inhibited by chrysin treatment. In contrast, hypoxia-induced
   STAT3 tyrosine phosphorylation was markedly inhibited by chrysin, in a dose- and
   time-dependent manner, while marginal decrease in Akt phosphorylation was observed
   only at the highest concentration test, suggesting that STAT3 was primary target
-  of chrysin rather than Akt.  \n\n\nSpecific inhibitors of STAT3, PI3K, ERK, and
-  NF-κB, were used to evaluate the contribution of the signaling pathways on hypoxic
-  survival of 4T1 cells. Pretreatment with inhibitors for 30 min before hypoxic exposure
-  for 2 days revealed that hypoxic cell survival was inhibited by inhibitors of STAT3,
-  Akt, and NF-κB pathways, while ERK inhibitor showed marginal effect. These results
-  indicate the important role of STAT3, Akt, and NF-κB pathways in hypoxic survival
+  of chrysin rather than Akt.  \n\nSpecific inhibitors of STAT3, PI3K, ERK, and NF-B,
+  were used to evaluate the contribution of the signaling pathways on hypoxic survival
+  of 4T1 cells. Pretreatment with inhibitors for 30 min before hypoxic exposure for
+  2 days revealed that hypoxic cell survival was inhibited by inhibitors of STAT3,
+  Akt, and NF-B pathways, while ERK inhibitor showed marginal effect. These results
+  indicate the important role of STAT3, Akt, and NF-B pathways in hypoxic survival
   of 4T1 cells. Moreover, STAT3 inhibitor treatment mimics the effect of chrysin,
   suggesting that STAT3 inhibition is the mechanism underlying inhibitory effect of
   chrysin on hypoxic survival of 4T1 cells.\n\nVEGF has been shown to be an autocrine
   survival factor for breast cancer cells under hypoxia. We examined the effect of
   chrysin on hypoxia-induced VEGF gene expression in 4T1 cells, in comparison to a
-  STAT3 inhibitor. The cells were pretreated with chrysin or STAT3 inhibitor for 30
-  min before exposure to hypoxia for 24 h. qRT-PCR analysis revealed that hypoxia
+  STAT3 inhibitor. The cells were pretreated with chrysin  or STAT3 inhibitor  for
+  30 min before exposure to hypoxia for 24 h. qRT-PCR analysis revealed that hypoxia
   increased VEGF mRNA levels in 4T1 cells by 16-fold higher than normoxic cells. Chrysin
   decreased VEGF mRNA levels in hypoxic 4T1 cells, similar to that observed with STAT3
   inhibitor treatment, by 71 and 81% inhibition, respectively, compared with control
@@ -165,28 +171,28 @@ text: "\n\n\n\nTumor hypoxia commonly occurs in solid tumors, and correlates wit
   correlated with decrease in STAT3 tyrosine phosphorylation levels under hypoxia.
   Taken together, the results indicate that STAT3 inhibition is likely to be a mechanism
   of action of chrysin for decreasing hypoxia-induced VEGF expression in 4T1 cells,
-  and this might contribute to the effect of chrysin on hypoxic survival.\n\n\n\nSince
+  and this might contribute to the effect of chrysin on hypoxic survival.\n\nSince
   hypoxia and angiogenesis contribute to tumor progression and metastatic formation,
   chrysin was further studied in 4T1 spontaneous metastasis model. The experimental
-  treatment protocol did not affect body weight of the mice. The effect of treatments
-  was evaluated from both primary tumor growth and metastatic burden. Chrysin had
+  treatment protocol  did not affect body weight of the mice. The effect of treatments
+  was evaluated from both primary tumor growth and metastatic burden. Chrysin  had
   no significant effect on primary tumor growth. However, metastatic burden was largely
   decreased by chrysin, in a dose-dependent manner, and significant suppression was
   observed with the highest dose of chrysin treatment. Reduction of metastatic burden
-  might result from either decrease in metastatic rate or metastatic growth, or both.
+  might result from either decrease in metastatic rate  or metastatic growth, or both.
   Chrysin tended to decrease metastatic rate but without statistical significance.
   Suppressive effect of chrysin on metastatic growth was observed by decreased number
   of medium and large size metastatic colonies, in a dose-dependent manner, and significant
   reduction was clearly observed with large size metastatic colonies. These results
   reveal the antimetastatic activity of chrysin in vivo by inhibiting the growth of
-  metastatic colonies.  \n\n\n\n\nIn addition to therapeutic effect on primary tumor,
-  DR5 mAb also expresses antimetastatic activity in mouse models. We evaluated the
-  potential of chrysin as an adjuvant for antimetastatic activity of DR5 mAb. Since
-  4T1 cells are sensitive to apoptosis induced by DR5 mAb, low dose treatment of DR5
-  mAb was used instead of therapeutic doses used previously, in order to avoid metastasis
+  metastatic colonies.  \n\nIn addition to therapeutic effect on primary tumor, DR5
+  mAb also expresses antimetastatic activity in mouse models. We evaluated the potential
+  of chrysin as an adjuvant for antimetastatic activity of DR5 mAb. Since 4T1 cells
+  are sensitive to apoptosis induced by DR5 mAb, low dose treatment of DR5 mAb  was
+  used instead of therapeutic doses  used previously, in order to avoid metastasis
   reduction by massive elimination. DR5 mAb alone significantly suppressed primary
   tumor growth as shown by reduction in primary tumor size and weight, compared with
-  control. Combination of DR5 mAb + chrysin tended to be more suppressive, but no
+  control. Combination of DR5 mAb + chrysin  tended to be more suppressive, but no
   statistical difference between DR5 mAb alone and the combination treatment was observed.
   Antimetastatic activity of DR5 mAb was revealed by significant decrease in metastatic
   burden and metastatic rate, and the combination treatment resulted in a significantly
@@ -196,7 +202,7 @@ text: "\n\n\n\nTumor hypoxia commonly occurs in solid tumors, and correlates wit
   DR5 mAb on the number of small size metastatic colonies was significantly potentiated
   when DR5 mAb was combined with chrysin. Collectively, the results suggested that
   chrysin per se had a suppressive effect on metastatic growth, and could enhance
-  antimetastatic activity of DR5 mAb in combination treatment.  \n\n\n\n\nIn the present
+  antimetastatic activity of DR5 mAb in combination treatment.  \n\nIn the present
   study, we demonstrate the ability of chrysin to decrease hypoxic survival of cancer
   cells, by inhibiting hypoxia-induced STAT3 activation and VEGF expression. We also
   provide in vivo evidence of the suppressive effect of chrysin on metastatic growth,
@@ -208,15 +214,15 @@ text: "\n\n\n\nTumor hypoxia commonly occurs in solid tumors, and correlates wit
   with previous studies, our results showed that treatment with either chrysin or
   STAT3 inhibitor, which inhibited hypoxia-induced VEGF expression, could decrease
   hypoxic survival of 4T1 cells.\n\nIn hypoxic cells, tyrosine phosphorylated STAT3
-  forms a complex with HIF-1α at the VEGF promoter, and this complex is important
-  for upregulation of VEGF gene expression in hypoxic cells. Our results clearly show
+  forms a complex with HIF-1 at the VEGF promoter, and this complex is important for
+  upregulation of VEGF gene expression in hypoxic cells. Our results clearly show
   that chrysin, as well as a STAT3 inhibitor, could abrogate hypoxia-induced VEGF
   gene expression of 4T1 cells, through inhibition of STAT3 tyrosine phosphorylation,
-  without decreasing HIF-1α protein levels. Chrysin has been shown to decrease HIF-1α
+  without decreasing HIF-1 protein levels. Chrysin has been shown to decrease HIF-1
   protein levels in hypoxic DU145 human prostate cancer cells, thus abrogating insulin-induced
-  HIF-1α protein stabilization in normoxic DU145 cells, via inhibition of Akt phosphorylation.\n\nIn
+  HIF-1 protein stabilization in normoxic DU145 cells, via inhibition of Akt phosphorylation.\n\nIn
   a previous study, STAT3 signaling was not investigated, and the inhibitory effect
-  of chrysin on Akt-modulated HIF-1α protein stability was shown only in the insulin-stimulated
+  of chrysin on Akt-modulated HIF-1 protein stability was shown only in the insulin-stimulated
   normoxic cells, but the mechanism was not tested in hypoxic cells. In 4T1 cells,
   the inhibition of hypoxia-induced VEGF expression and STAT3 activation by chrysin
   were observed at a concentration lower than that affecting Akt phosphorylation,
@@ -235,12 +241,12 @@ text: "\n\n\n\nTumor hypoxia commonly occurs in solid tumors, and correlates wit
   burden, while marginally decreasing primary tumor growth at mammary fat pads, in
   breast cancer-harboring mice receiving genistein-supplemented diet, similar to that
   observed in our chrysin treatment.\n\nOur results revealed that chrysin significantly
-  suppressed metastatic growth, while rate of metastasis was marginally decreased,
+  suppressed metastatic growth, while rate of metastasis  was marginally decreased,
   suggesting that chrysin interfered with growth after the tumor cells reached their
   metastatic sites. Since progression of micrometastases to macrometastases requires
   angiogenesis, blocking VEGF-mediated angiogenesis may suppress metastatic growth.
   This is supported by results showing that treatment with a soluble VEGF decoy receptor
-  leads to decrease in the size of established lung metastases of Wilms tumor cells,
+  \ leads to decrease in the size of established lung metastases of Wilms tumor cells,
   without changing the number of metastases. In another study, liver metastatic growth
   of colon adenocarcinoma was shown to be suppressed by rapamycin treatment, which
   affects both VEGF production of tumor cells and VEGF-response of endothelial cells.
@@ -259,9 +265,9 @@ text: "\n\n\n\nTumor hypoxia commonly occurs in solid tumors, and correlates wit
   angiogenesis and resulting in suppression of metastatic growth. This study also
   suggests that chrysin is a potential chemopreventive as well as an adjuvant agent,
   that can be used in combination with other antimetastatic agents to control metastatic
-  progression of tumors.  \n\n\n\n\nThis work was supported by the Thailand Research
-  Fund, TRG5380026, a Japanese-Thai Collaborative Scientific Research Fellowship,
-  and a research grant from the Chulabhorn Research Institute. We would like to thank
-  Ms. Yue Zhou, Dr Orawin Prangsaengtong, Dr Rudee Surarit, Ms. Korakot Atjanasuppat
-  and Ms. Khajeelak Chiablaem for their assistance.\n"
+  progression of tumors.  \n\nThis work was supported by the Thailand Research Fund,
+  TRG5380026, a Japanese-Thai Collaborative Scientific Research Fellowship, and a
+  research grant from the Chulabhorn Research Institute. We would like to thank Ms.
+  Yue Zhou, Dr Orawin Prangsaengtong, Dr Rudee Surarit, Ms. Korakot Atjanasuppat and
+  Ms. Khajeelak Chiablaem for their assistance.\n"
 ...

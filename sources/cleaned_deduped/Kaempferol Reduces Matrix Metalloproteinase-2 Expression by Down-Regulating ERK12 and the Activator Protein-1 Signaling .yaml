@@ -1,488 +1,304 @@
 ---
+title: Kaempferol Reduces Matrix Metalloproteinase-2 Expression by Down-Regulating
+  ERK1/2 and the Activator Protein-1 Signaling Pathways in Oral Cancer Cells
 pathHash: 9b2b5ed0323abbc05708d98a2a44c63f
-text: '
-
-
-
-
-
-
-  Kaempferol has been proposed as a potential drug for cancer chemoprevention and
-  treatment because it is a natural polyphenol contained in plant-based foods. Recent
-  studies have demonstrated that kaempferol protects against cardiovascular disease
-  and cancer. Based on this finding, we investigated the mechanisms by which kaempferol
-  produces the anti-metastatic effect in human tongue squamous cell carcinoma SCC4
-  cells.
-
-
-
-
-  In this study, we provided molecular evidence associated with the anti-metastatic
-  effect of kaempferol by demonstrating a substantial suppression of SCC4 cell migration
-  and invasion. This effect was associated with reduced expressions of MMP-2 and TIMP-2
-  mRNA and protein levels. Analysis of the transcriptional regulation indicated that
-  kaempferol inhibited MMP-2 transcription by suppressing c-Jun activity. Kaempferol
-  also produced an inhibitory effect on the phosphorylation of ERK1/2.
-
-
-
-
-  These findings provide new insights into the molecular mechanisms involved in the
-  anti-metastatic effect of kaempferol, and are valuable in the prevention of oral
-  cancer metastasis.
-
-
-  Citation: Lin C-W, Chen P-N, Chen M-K, Yang W-E, Tang C-H, Yang S-F, et al. Kaempferol
-  Reduces Matrix Metalloproteinase-2 Expression by Down-Regulating ERK1/2 and the
-  Activator Protein-1 Signaling Pathways in Oral Cancer Cells. PLoS ONE 8(11): e80883.
-  doi:10.1371/journal.pone.0080883
-
-
-
-  Received: October 2, 2013; Accepted: October 18, 2013; Published:  November 20,
-  2013
-
-
-  Copyright:  © 2013 Lin et al. This is an open-access article distributed under the
-  terms of the Creative Commons Attribution License, which permits unrestricted use,
-  distribution, and reproduction in any medium, provided the original author and source
-  are credited.
-
-
-  Funding: This study was financially supported by grants from National Science Council,
-  Taiwan. The funders had no role in the study design, data collection and analysis,
-  decision to publish, or preparation of the manuscript.
-
-
-  Competing interests:  The authors have declared that no competing interests exist.
-
-
-
-
-  Oral squamous cell carcinomas are the sixth most common malignancy worldwide and
-  the fourth leading cause of cancer deaths among men in Taiwan . Surgery and radiation
-  therapy are a critical treatment modality in the early stage of OSCC . Despite advances
-  in therapy, OSCC is still characterized as recurrent and metastasis to regional
-  cervical lymph nodes, which produces poor patient prognoses. The 5-year survival
-  rate of cancer patients is less than 50%, but the chances of early diagnosis and
-  prevention of this disease is likely to increase if the molecular mechanism is identified
-  . Although the cause of OSCC is multifactorial, metastasis, which is resistant to
-  conventional therapies, is likely to be the main cause of death .
-
-
-  Degradation of basement membranes and stromal extracellular matrix components constitutes
-  a crucial process during local tissue invasion and metastasis . By secreting proteolytic
-  enzymes, tumor cells can create a path to migrate both locally and distantly. Matrix
-  metalloproteinases belong to a family of zinc-dependent endopeptidases that degrade
-  several components of the ECM . The structure and substrate of the MMPs family allows
-  it to be divided into subgroups of collagenases, stromelysins, gelatinases, membrane-type
-  MMPs, and other MMPs . These are crucial to normal physiological processes, such
-  as embryonic development, inflammation, angiogenesis, and wound healing. However,
-  recent research has demonstrated that high levels of MMPs are often correlated with
-  human cancers, such as lung , breast , liver , and oral cancers . The activities
-  of MMPs are regulated by physiological inhibitors, tissue inhibitors of metalloproteinases
-  . The imbalance of active MMPs and TIMPs is a crucial element involved in the remodeling
-  of the ECM exhibited in a number of disease states . Gohji et al. suggested that
-  the serum MMP-2:TIMP-2 ratio is an independent prognostic indicator of urothelial
-  cancer recurrence.
-
-
-  Flavonoids are polyphenolic compounds that are found in fruits and vegetables .
-  Flavonoids are commonly used in cardiovascular disease prevention , . In addition,
-  previous studies have demonstrated that dietary flavonoids inhibit the development
-  of various human cancers, such as breast cancer , prostate cancer  and colorectal
-  cancer . Kaempferol, a natural polyphenol belonging to the flavonoid group, is present
-  at high levels in tea, grapes, broccoli, and berries , . Several previous studies
-  have indicated that kaempferol exhibits antioxidant , anti-inflammation  and anti-tumor
-  properties . There are at least six different types of flavonoids. Kaempferol belongs
-  to the flavonol and have a similar structure as quercein and myricetin, which also
-  have anti-cancer effects . Kaempferol was discovered to inhibit angiogenesis and
-  VEGF expression in human ovarian cancer cells, and the pathways involved the regulation
-  of HIF-1α . Kaempferol also produced an apoptosis effect through AKT expression
-  in human glioma cells  and leukemia cells . Recent studies have indicated that kaempferol
+tags:
+- kale
+- turnips-and-turnip-greens
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Kaempferol
+  Reduces Matrix Metalloproteinase-2 Expression by Down-Regulating ERK12 and the Activator
+  Protein-1 Signaling .md
+text: "\n\nKaempferol has been proposed as a potential drug for cancer chemoprevention
+  and treatment because it is a natural polyphenol contained in plant-based foods.
+  Recent studies have demonstrated that kaempferol protects against cardiovascular
+  disease and cancer. Based on this finding, we investigated the mechanisms by which
+  kaempferol produces the anti-metastatic effect in human tongue squamous cell carcinoma
+  SCC4 cells.\n\nIn this study, we provided molecular evidence associated with the
+  anti-metastatic effect of kaempferol by demonstrating a substantial suppression
+  of SCC4 cell migration and invasion. This effect was associated with reduced expressions
+  of MMP-2 and TIMP-2 mRNA and protein levels. Analysis of the transcriptional regulation
+  indicated that kaempferol inhibited MMP-2 transcription by suppressing c-Jun activity.
+  Kaempferol also produced an inhibitory effect on the phosphorylation of ERK1/2.\n\nThese
+  findings provide new insights into the molecular mechanisms involved in the anti-metastatic
+  effect of kaempferol, and are valuable in the prevention of oral cancer metastasis.\n\nCitation:
+  Lin C-W, Chen P-N, Chen M-K, Yang W-E, Tang C-H, Yang S-F, et al.  Kaempferol Reduces
+  Matrix Metalloproteinase-2 Expression by Down-Regulating ERK1/2 and the Activator
+  Protein-1 Signaling Pathways in Oral Cancer Cells. PLoS ONE 8: e80883. doi:10.1371/journal.pone.0080883\n\nReceived:
+  October 2, 2013; Accepted: October 18, 2013; Published:  November 20, 2013\n\nCopyright:
+  \  2013 Lin et al. This is an open-access article distributed under the terms of
+  the Creative Commons Attribution License, which permits unrestricted use, distribution,
+  and reproduction in any medium, provided the original author and source are credited.\n\nFunding:
+  This study was financially supported by grants from National Science Council, Taiwan.
+  The funders had no role in the study design, data collection and analysis, decision
+  to publish, or preparation of the manuscript.\n\nCompeting interests:  The authors
+  have declared that no competing interests exist.\n\nOral squamous cell carcinomas
+  \ are the sixth most common malignancy worldwide and the fourth leading cause of
+  cancer deaths among men in Taiwan. Surgery and radiation therapy are a critical
+  treatment modality in the early stage of OSCC. Despite advances in therapy, OSCC
+  is still characterized as recurrent and metastasis to regional cervical lymph nodes,
+  which produces poor patient prognoses. The 5-year survival rate of cancer patients
+  is less than 50%, but the chances of early diagnosis and prevention of this disease
+  is likely to increase if the molecular mechanism is identified. Although the cause
+  of OSCC is multifactorial, metastasis, which is resistant to conventional therapies,
+  is likely to be the main cause of death.\n\nDegradation of basement membranes and
+  stromal extracellular matrix  components constitutes a crucial process during local
+  tissue invasion and metastasis. By secreting proteolytic enzymes, tumor cells can
+  create a path to migrate both locally and distantly. Matrix metalloproteinases  belong
+  to a family of zinc-dependent endopeptidases that degrade several components of
+  the ECM. The structure and substrate of the MMPs family allows it to be divided
+  into subgroups of collagenases, stromelysins, gelatinases, membrane-type MMPs, and
+  other MMPs. These are crucial to normal physiological processes, such as embryonic
+  development, inflammation, angiogenesis, and wound healing. However, recent research
+  has demonstrated that high levels of MMPs are often correlated with human cancers,
+  such as lung, breast, liver, and oral cancers. The activities of MMPs are regulated
+  by physiological inhibitors, tissue inhibitors of metalloproteinases. The imbalance
+  of active MMPs and TIMPs is a crucial element involved in the remodeling of the
+  ECM exhibited in a number of disease states. Gohji et al. suggested that the serum
+  MMP-2:TIMP-2 ratio is an independent prognostic indicator of urothelial cancer recurrence.\n\nFlavonoids
+  are polyphenolic compounds that are found in fruits and vegetables. Flavonoids are
+  commonly used in cardiovascular disease prevention,. In addition, previous studies
+  have demonstrated that dietary flavonoids inhibit the development of various human
+  cancers, such as breast cancer, prostate cancer  and colorectal cancer. Kaempferol,
+  a natural polyphenol belonging to the flavonoid group, is present at high levels
+  in tea, grapes, broccoli, and berries,. Several previous studies have indicated
+  that kaempferol exhibits antioxidant, anti-inflammation  and anti-tumor properties.
+  There are at least six different types of flavonoids. Kaempferol belongs to the
+  flavonol and have a similar structure as quercein and myricetin, which also have
+  anti-cancer effects. Kaempferol was discovered to inhibit angiogenesis and VEGF
+  expression in human ovarian cancer cells, and the pathways involved the regulation
+  of HIF-1. Kaempferol also produced an apoptosis effect through AKT expression in
+  human glioma cells  and leukemia cells. Recent studies have indicated that kaempferol
   induces G2/M cell cycle arrest and autophagic cell death in human hepatic cancer
-  cells . Moreover, Kang et al., reported that kaempferol and quercetin induced caspase-3-dependent
-  apoptosis in oral cavity cancer cells . However, the effect of kaempferol on the
+  cells. Moreover, Kang et al., reported that kaempferol and quercetin induced caspase-3-dependent
+  apoptosis in oral cavity cancer cells. However, the effect of kaempferol on the
   cancer metastasis of OSCC, and the underlying mechanisms of this effect, has not
   yet been studied. In this study, we demonstrate that the suppression of metastatic
   ability by kaempferol is produced by the down-regulation of MMP-2 expression, and
-  we hope to provide a foundation for further research.
-
-
-
-
-
-
-  SCC-4, a human tongue squamous cell carcinoma cell line obtained from ATCC was cultured
-  in Dulbeccos modified Eagles medium supplemented with an equal volume of a nutrient
-  mixture, F-12 Hams medium, 10% fetal bovine serum, 2 mM glutamine, 100 U/mL penicillin,
-  100 µg/mL streptomycin, and 400 ng/mL hydrocortisone. All cell cultures were maintained
-  at 37 °C in a humidified atmosphere of 5% CO2.
-
-
-
-
-  SCC4 cells were seeded in 24-well plates at a density of 5×104 cells/well and treated
-  with kaempferol at a concentration between 0–100 µM at 37°C for 24 h. After the
-  exposure period, the media was removed, and cells were washed with phosphate buffered
-  saline and then incubated with 20 µL MTT for 4 h. The viable cell number per dish
-  is directly proportional to the production of formazan, by dehydrogenases in the
-  mitochondria within live cells, which can be measured spectrophotometrically at
-  563 nm following solubilization with isopropanol.
-
-
-
-
-  After a treatment with kaempferol for 24 h, surviving cells were harvested and seeded
-  to Boyden chamber at 104 cells/well in serum free medium and then incubated for
-  24 h or 48 h at 37°C in the migration assay or invasion assay, respectively. For
-  invasion assay, 10 µL Matrigel was applied to 8 µm pore size polycarbonate membrane
-  filters and the bottom chamber contained standard medium. The invaded cells were
-  fixed with 100% methanol and stained with 5% Giemsa. Cell numbers were counted under
-  a light microscope. The migration assay was carried out as described in the invasion
-  assay with no coating of Matrigel.
-
-
-
-
-  The activities of MMP-2 in conditional medium were measured by gelatin zymography
-  protease assays. Briefly, collected media of an appropriate volume were prepared
-  with SDS sample buffer without boiling or reduction and subjected to 0.1% gelatin-8%
-  SDS-PAGE electrophoresis. After electrophoresis, gels were washed with 2.5% Triton
-  X-100 and then incubated in reaction buffer for 12 h at 37°C. Then gel was stained
-  with Coomassie brilliant blue R-250. Bands corresponding to MMP-2 activity were
-  visualized by negative staining using 0.3% Coomassie blue in 50% methanol and 10%
-  acetic acid.
-
-
-
-
-  Cellular lysates were prepared by suspending 2×106/10 cm dish in 200 µL of RIPA
-  buffer containing protease inhibitors cocktail. Cell lysates were subjected to a
-  centrifugation of 10,000 rpm for 10 min at 4°C, and the insoluble pellet was discarded.
-  The protein concentration of total cell lysates was determined by Bradford assay.
-  The 20 µg samples of total cell lysates or nuclear fractions were separated by SDS-PAGE
-  on 10% polyacrylamide gels and transferred onto a nitrocellulose membrane using
-  the Mini-Protean Tetra Electrophoresis System as described previously . The blot
-  was subsequently incubated with 5% non-fat milk in Tris-buffered saline for 1 h
-  to block non-specific binding and then overnight with polyclonal antibodies against
-  MMP-2, TIMP-2 or three MAPKs with the specific antibodies for unphosphorylated or
-  phosphorylated forms of the corresponding ERK 1/2, JNK 1/2 and p38. Blots were then
-  incubated with a horseradish peroxidase goat anti-rabbit or anti-mouse IgG for 1
-  h. Afterwards, signal was detected by using enhanced chemiluminescence commercial
-  kit and relative photographic density was quantitated by scanning the photographic
-  negatives on a gel documentation and analysis system.
-
-
-
-
-  Total RNA was isolated from 1×106 SCC4 cells using Trizol according to the manufacturers
-  instructions. Total RNA was reverse transcribed into cDNA by SuperScript III First-Strand
-  Synthesis Supermix. The PCR was performed in a reaction mixture containing 2 µL
-  cDNA, 0.2 mM dNTP mixture, 2 µM of each primers, 1 U Taq DNA polymerase, and 1-fold
-  concentration of Thermal Pol Buffer by denaturation at 95°C for 5 min, followed
-  by amplification of indicated cycles of 95°C for 30 sec, 62°C for 30 sec, and 72°C
-  for 30 sec. The specific primer sequences for these genes are as following: MMP-2:
-  5′-GGCCCTGTCACTCCTGAGAT-3′, 5′-GGCATCCAGGTTATCGGGG A-3′, and TIMP-2: 5′-GGCGTTTTGCAATGCAGATGTAG-3′,
-  5′-CACAGGAGCCGTCACTTCTCTTG-3′. Quantitative real-time PCR analysis was carried out
-  using Taqman one-step PCR Master Mix. 100 ng of total cDNA was added per 25 µl reaction
-  with MMP-2 or GAPDH primers and Taqman probes. The MMP-2 and GAPDH primers and probes
-  were designed using commercial software. Quantitative real-time PCR assays were
-  carried out in triplicate on a StepOnePlus sequence detection system. The threshold
-  was set above the non-template control background and within the linear phase of
-  target gene amplification to calculate the cycle number at which the transcript
-  was detected.
-
-
-
-
-  SCC4 cells were seeded at a concentration of 5×104 cells per well in 6-well cell
-  culture plates. A fragment of the MMP-2 promoter was inserted into the pGL3-basic
-  vector to generate the MMP-2 promoter plasmid. After 24 h of incubation, pGL3-basic
-  and MMP-2 promoter plasmid were co-transfected with a β- galactosidase expression
-  vector into cells using Turbofect. After 12 h of transfection, cells were treated
-  with vehicle or kaempferol for 24 h. Luciferase and β-galactosidase activities were
-  assayed according to the manufacturers protocol. Luminescence was measured using
-  a Tropix TR717 Microplate Luminometer. The value of the luciferase activity was
-  normalized to transfection efficiency and monitored by β-galactosidase expression.
-
-
-
-
-  AP-1 binding assays in nuclear extracts were performed with biotin-labeled double-stranded
-  c-Jun oligonucleotides, and the electrophoretic mobility shift assay was carried
-  out by using the Lightshift kit. Briefly, binding reactions containing 10 µg of
-  nuclear protein, 10 mM Tris, 50 mM KCl, 1 mM dithiothreitol, 5 mM MgCl2, 2 µg poly
-  and 2 pmole of oligonucleotide probe were incubated for 20 min at room temperature.
-  Protein DNA complexes were separated by electrophoresis on a 6% non-denaturing acrylamide
-  gel, transferred to positively charged nylon membranes and then cross-linked in
-  a Stratagene cross-linker. Gel shifts were visualized with a streptavidin–horseradish
-  peroxidase followed by chemiluminescent detection. The unlabeled oligos of AP-1
-  at 200× were added to compete specifically with labeled oligo binding in the competitive
-  EMSA.
-
-
-
-
-  Chromatin immunoprecipitation analysis was performed as described previously . In
-  brief, chromatin and proteins from approximate 2×106 cells were crosslinked with
-  1% formaldehyde for 10 min at room temperature. These cells were collected, lysed,
-  and sonicated on ice to shear the chromatin DNA to a length between 200 – 1000 base
-  pair by using Sonicator 3000. The sonicated chromatin lysate was immunoprecipitated
-  with anti-c-Jun antibody, and collected with Protein A/G agarose beads. The protein/DNA
-  crosslinks of the immunoprecipitated complexes were reversed by incubation in 0.2
-  M NaCl at 65°C for 4 h, and then the DNA was purified and applied to PCR as described
-  above to determine the binding ability of c-Jun to MMP-2 promoter. The sequences
-  of the primers are 5′-CTCTTTAGCTCTTCAGGTCTCAGC-3′, and 5′-TGTTGGGAACGCCTGACT-3′.
-
-
-
-
-  For all of the measurements, analysis of variance followed by Scheffe posteriori
-  comparison was used to assess the differences between control and cells treated
-  with various concentration of kaempferol. A difference at p;0.05 was considered
-  to be statistically significant and the experiments were repeated three times.
-
-
-
-
-
-
-  We analyzed the cytotoxic effects of kaempferol at various concentrations on SCC4
-  cells by using the MTT assay. As shown in Figure 1, using kaempferol treatment on
-  the SCC4 cells produced no cytotoxic effect on cell viability. Therefore, this concentration
-  range of kaempferol was used in the following experiments.
-
-
-
-
-
-
-
-  SCC4 cells were treated with various concentrations of kaempferol for 24 hours.
-  Cell viability was determined using an MTT assay. The values represented the means
-  ± SD of at least three independent experiments.
-
-
-
-
-
-  To examine whether the cell migration and invasion were suppressed by kaempferol,
-  we seeded SCC4 cells in a Boyden chamber and calculated the number of invasive cells
+  we hope to provide a foundation for further research.\n\nSCC-4, a human tongue squamous
+  cell carcinoma cell line obtained from ATCC  was cultured in Dulbeccos modified
+  Eagles medium supplemented with an equal volume of a nutrient mixture, F-12 Hams
+  medium, 10% fetal bovine serum, 2 mM glutamine, 100 U/mL penicillin, 100 g/mL streptomycin,
+  and 400 ng/mL hydrocortisone. All cell cultures were maintained at 37 C in a humidified
+  atmosphere of 5% CO2.\n\nSCC4 cells were seeded in 24-well plates at a density of
+  5104 cells/well and treated with kaempferol at a concentration between 0100 M at
+  37C for 24 h. After the exposure period, the media was removed, and cells were washed
+  with phosphate buffered saline  and then incubated with 20 L MTT   for 4 h. The
+  viable cell number per dish is directly proportional to the production of formazan,
+  by dehydrogenases in the mitochondria within live cells, which can be measured spectrophotometrically
+  at 563 nm following solubilization with isopropanol.\n\nAfter a treatment with kaempferol
+  \ for 24 h, surviving cells were harvested and seeded to Boyden chamber  at 104
+  cells/well in serum free medium and then incubated for 24 h or 48 h at 37C in the
+  migration assay or invasion assay, respectively. For invasion assay, 10 L Matrigel
+  \ was applied to 8 m pore size polycarbonate membrane filters and the bottom chamber
+  contained standard medium. The invaded cells were fixed with 100% methanol and stained
+  with 5% Giemsa. Cell numbers were counted under a light microscope. The migration
+  assay was carried out as described in the invasion assay with no coating of Matrigel.\n\nThe
+  activities of MMP-2 in conditional medium were measured by gelatin zymography protease
+  assays. Briefly, collected media of an appropriate volume  were prepared with SDS
+  sample buffer without boiling or reduction and subjected to 0.1% gelatin-8% SDS-PAGE
+  electrophoresis. After electrophoresis, gels were washed with 2.5% Triton X-100
+  and then incubated in reaction buffer  for 12 h at 37C. Then gel was stained with
+  Coomassie brilliant blue R-250. Bands corresponding to MMP-2 activity were visualized
+  by negative staining using 0.3% Coomassie blue in 50% methanol and 10% acetic acid.\n\nCellular
+  lysates were prepared by suspending 2106/10 cm dish in 200 L of RIPA buffer containing
+  protease inhibitors cocktail. Cell lysates were subjected to a centrifugation of
+  10,000 rpm for 10 min at 4C, and the insoluble pellet was discarded. The protein
+  concentration of total cell lysates was determined by Bradford assay. The 20 g samples
+  of total cell lysates or nuclear fractions were separated by SDS-PAGE on 10% polyacrylamide
+  gels and transferred onto a nitrocellulose membrane using the Mini-Protean Tetra
+  Electrophoresis System as described previously. The blot was subsequently incubated
+  with 5% non-fat milk in Tris-buffered saline  for 1 h to block non-specific binding
+  and then overnight with polyclonal antibodies against MMP-2, TIMP-2 or three MAPKs
+  \ with the specific antibodies for unphosphorylated or phosphorylated forms of the
+  corresponding ERK 1/2, JNK 1/2 and p38. Blots were then incubated with a horseradish
+  peroxidase goat anti-rabbit or anti-mouse IgG for 1 h. Afterwards, signal was detected
+  by using enhanced chemiluminescence  commercial kit  and relative photographic density
+  was quantitated by scanning the photographic negatives on a gel documentation and
+  analysis system.\n\nTotal RNA was isolated from 1106 SCC4 cells using Trizol  according
+  to the manufacturers instructions. Total RNA  was reverse transcribed into cDNA
+  by SuperScript III First-Strand Synthesis Supermix. The PCR was performed in a reaction
+  mixture containing 2 L cDNA, 0.2 mM dNTP mixture, 2 M of each primers, 1 U Taq DNA
+  polymerase, and 1-fold concentration of Thermal Pol Buffer  by denaturation at 95C
+  for 5 min, followed by amplification of indicated cycles of 95C for 30 sec, 62C
+  for 30 sec, and 72C for 30 sec. The specific primer sequences for these genes are
+  as following: MMP-2: 5-GGCCCTGTCACTCCTGAGAT-3, 5-GGCATCCAGGTTATCGGGG A-3, and TIMP-2:
+  5-GGCGTTTTGCAATGCAGATGTAG-3, 5-CACAGGAGCCGTCACTTCTCTTG-3. Quantitative real-time
+  PCR analysis was carried out using Taqman one-step PCR Master Mix. 100 ng of total
+  cDNA was added per 25 l reaction with MMP-2 or GAPDH primers and Taqman probes.
+  The MMP-2 and GAPDH primers and probes were designed using commercial software.
+  Quantitative real-time PCR assays were carried out in triplicate on a StepOnePlus
+  sequence detection system. The threshold was set above the non-template control
+  background and within the linear phase of target gene amplification to calculate
+  the cycle number at which the transcript was detected.\n\nSCC4 cells were seeded
+  at a concentration of 5104 cells per well in 6-well cell culture plates. A fragment
+  of the MMP-2 promoter was inserted into the pGL3-basic vector to generate the MMP-2
+  promoter plasmid. After 24 h of incubation, pGL3-basic  and MMP-2 promoter plasmid
+  were co-transfected with a - galactosidase expression vector  into cells using Turbofect.
+  After 12 h of transfection, cells were treated with vehicle or kaempferol  for 24
+  h. Luciferase and -galactosidase activities were assayed according to the manufacturers
+  protocol. Luminescence was measured using a Tropix TR717 Microplate Luminometer.
+  The value of the luciferase activity was normalized to transfection efficiency and
+  monitored by -galactosidase expression.\n\nAP-1 binding assays in nuclear extracts
+  were performed with biotin-labeled double-stranded c-Jun oligonucleotides, and the
+  electrophoretic mobility shift assay was carried out by using the Lightshift kit.
+  Briefly, binding reactions containing 10 g of nuclear protein, 10 mM Tris, 50 mM
+  KCl, 1 mM dithiothreitol, 5 mM MgCl2, 2 g poly  and 2 pmole of oligonucleotide probe
+  were incubated for 20 min at room temperature. Protein DNA complexes were separated
+  by electrophoresis on a 6% non-denaturing acrylamide gel, transferred to positively
+  charged nylon membranes and then cross-linked in a Stratagene cross-linker. Gel
+  shifts were visualized with a streptavidinhorseradish peroxidase followed by chemiluminescent
+  detection. The unlabeled oligos of AP-1 at 200 were added to compete specifically
+  with labeled oligo binding in the competitive EMSA.\n\nChromatin immunoprecipitation
+  analysis was performed as described previously. In brief, chromatin and proteins
+  from approximate 2106 cells were crosslinked with 1% formaldehyde for 10 min at
+  room temperature. These cells were collected, lysed, and sonicated on ice to shear
+  the chromatin DNA to a length between 200  1000 base pair by using Sonicator 3000.
+  The sonicated chromatin lysate was immunoprecipitated with anti-c-Jun antibody,
+  and collected with Protein A/G agarose beads. The protein/DNA crosslinks of the
+  immunoprecipitated complexes were reversed by incubation in 0.2 M NaCl at 65C for
+  4 h, and then the DNA was purified and applied to PCR as described above to determine
+  the binding ability of c-Jun to MMP-2 promoter. The sequences of the primers are
+  5-CTCTTTAGCTCTTCAGGTCTCAGC-3, and 5-TGTTGGGAACGCCTGACT-3.\n\nFor all of the measurements,
+  analysis of variance followed by Scheffe posteriori comparison was used to assess
+  the differences between control and cells treated with various concentration of
+  kaempferol. A difference at p;0.05 was considered to be statistically significant
+  and the experiments were repeated three times.\n\nWe analyzed the cytotoxic effects
+  of kaempferol at various concentrations  on SCC4 cells by using the MTT assay. As
+  shown in Figure 1, using kaempferol treatment on the SCC4 cells produced no cytotoxic
+  effect on cell viability. Therefore, this concentration range of kaempferol was
+  used in the following experiments.\n\nSCC4 cells were treated with various concentrations
+  \ of kaempferol for 24 hours. Cell viability was determined using an MTT assay.
+  The values represented the means  SD of at least three independent experiments.\n\nTo
+  examine whether the cell migration and invasion were suppressed by kaempferol, we
+  seeded SCC4 cells in a Boyden chamber and calculated the number of invasive cells
   in the presence of kaempferol. We observed that kaempferol substantially inhibited
   the migration and invasion of SCC4 cells in a dose-dependent manner, with only 58%
-  and 56% remaining after a treatment of 100 µM of kaempferol at 24 h and 48 h, respectively.
-
-
-
-
-
-
-
-  After being treated with kaempferol at a concentration of 0, 20, 40, 60, 80, and
-  100 µM, the cell migration and cell invasion were measured using a Boyden chamber
-  for 24 hours and 48 hours, respectively. The values represented the means ± SD of
-  at least three independent experiments. p&lt;0.05 as compared with the control.
-
-
-
-
-
-  To demonstrate whether the suppression of SCC4 migration was mediated by regulating
+  and 56% remaining after a treatment of 100 M of kaempferol at 24 h and 48 h, respectively.\n\nAfter
+  being treated with kaempferol at a concentration of 0, 20, 40, 60, 80, and 100 M,
+  \ the cell migration and  cell invasion were measured using a Boyden chamber for
+  24 hours and 48 hours, respectively. The values represented the means  SD of at
+  least three independent experiments. p&lt;0.05 as compared with the control.\n\nTo
+  demonstrate whether the suppression of SCC4 migration was mediated by regulating
   the MMP-2 expression, a gelatin zymography assay was performed. The gelatin zymography
   data indicated that MMP-2 enzyme activity was inhibited by 53% at the highest concentration
   of kaempferol. Figure 3B shows a Western blotting analysis of the MMP-2 and TIMP-2
   protein levels. The protein levels of both MMP-2 and TIMP-2 decreased substantially.
   The mRNA expression also demonstrated the same results. We also used a quantitative
   real-time PCR assay to confirm the MMP-2 mRNA expression. Thus, Kaempferol considerably
-  inhibits MMP-2 mRNA expression in a concentration-dependent manner.
-
-
-
-
-
-
-  Figure 3.  Effects of kaempferol on protein and mRNA levels of MMP-2 and the endogenous
-  inhibitor TIMP-2.
-
-
-  SCC4 cells were treated with various concentrations of kaempferol for 24 hours.
-  The conditioned media were collected and the activity of MMP-2 was detected, or
-  a western blot with anti-MMP-2 and anti-TIMP-2 antibodies was performed. Semiquantitative
-  RT-PCR was performed to compare MMP-2 and TIMP-2 mRNA levels. The mRNA levels of
+  inhibits MMP-2 mRNA expression in a concentration-dependent manner.\n\nFigure 3.
+  \ Effects of kaempferol on protein and mRNA levels of MMP-2 and the endogenous inhibitor
+  TIMP-2.\n\nSCC4 cells were treated with various concentrations  of kaempferol for
+  24 hours. The conditioned media were collected and the activity of MMP-2 was detected,
+  or a western blot with anti-MMP-2 and anti-TIMP-2 antibodies was performed.  Semiquantitative
+  RT-PCR was performed to compare MMP-2 and TIMP-2 mRNA levels.  The mRNA levels of
   MMP-2 were quantified using a real-time PCR assay. The values represented the means
-  ± SD of at least three independent experiments. p&lt;0.05 as compared with the control.
-
-
-
-
-
-  To further investigate whether the kaempferol regulated the promoter activity of
-  MMP-2, we performed a luciferase reporter assay, and a reporter gene that contained
-  the MMP-2 promoter region was transfected into the SCC4 cells. As shown in Figure
-  4A, the MMP-2 promoter activity was reduced in a dose-dependent manner, indicating
-  that kaempferol inhibits MMP-2 expression at the transcriptional level.
-
-
-
-
-
-
-  Figure 4.  Kaempferol suppresses MMP-2 expression at a transcriptional level and
-  on DNA binding activity of AP-1 in SCC4 cells.
-
-
-  (A) SCC4 cells were transfected with pGL3 basic or a MMP-2 promoter/reporter plasmid,
-  then treated with various concentrations of kaempferol. After 24-hour incubation,
-  luciferase activities were determined and normalized to β-galactosidase activity.
-  Nuclear extract prepared from SCC4 cells with various concentrations of kaempferol
-  were incubated with biotin-labeled AP-1-specific oligonucleotides with consensus
-  sequence for AP-1 binding. Bound complexes were analyzed using an electrophoretic
-  mobility shift assay. Binding of c-Jun to the MMP-2 promoter was measured using
-  a ChIP assay. Representative results of c-Jun and c-Fos protein levels by using
-  western blot analysis. The values represented the means ± SD of at least three independent
-  experiments. p&lt;0.05 as compared with the control.
-
-
-
-
-
-  Because previous data revealed that AP-1 was a key transcriptional regulator in
-  MMP-2 promotion , EMSA and ChIP assays were then performed to investigate the effect
-  of kaempferol on AP-1 DNA-binding activity. As illustrated in Figure 4B, the binding
-  activity of AP-1 to the MMP-2 promoter decreased significantly in SCC4 cells after
-  being treated with kaempferol in a concentration-dependent manner. Specifically,
-  the binding capacity of AP-1 on the promoter of the MMP-2 gene was repressed in
-  SCC4 cells after being treated with 60 µM kaempferol.To determine the transcription
-  factors, we used a Western blot assay to detect the nuclear translocation of c-Jun
-  and c-Fos. Treating SCC4 cells with kaempferol reduced the nuclear translocation
-  of c-Jun, but produced no effects on the level of c-Fos.
-
-
-
-
-  According to the data we collected, kaempferol inhibited SCC4 cell migration by
-  reducing the MMP-2 expression. To further investigate the underlying mechanism of
-  the anti-metastatic ability of kaempferol in SCC4 cells, we used a Western blot
-  assay to detect the expression of the MAPK pathways. Figure 5A shows that the phosphorylation
-  of ERK was suppressed after treating the SCC4 cells with kaempferol. However, the
-  phosphorylation of the JNK1/2 and p38 pathways remained unaffected.
-
-
-
-
-
-
-
-  SCC4 cells were treated with various doses of kaempferol for 24 hours and whole
-  cell lysates prepared from these cells were used for western blot analysis with
-  anti-ERK1/2, anti-JNK1/2 and anti-p38 antibodies as described in the Materials and
-  Methods section. The values represented the means ± SD of at least three independent
-  experiments. p&lt;0.05 as compared with the control.
-
-
-
-
-
-  To demonstrate whether the suppression of the MMP-2 expression by kaempferol occurred
-  mainly by inhibiting the ERK1/2 signaling pathway, SCC4 cells were treated with
-  U0126, a MEK inhibitor. The gelatin zymography data demonstrated that MMP-2 enzyme
-  activity was suppressed when only treating kaempferol or U0126 with 47% and 42%.
-  However, combination treatment of the inhibitor with kaempferol intensively reduced
-  MMP-2 enzyme activity by 78%. In addition, similar results were obtained from the
-  Boyden chamber assay of cellular invasion. Figure 6B shows that both kaempferol
-  and U0126 inhibit cell invasion, and treatments combining these two chemical compounds
-  enhance anti-invasion activity. Therefore, the inhibition of the ERK1/2 signaling
-  pathways may result in a reduced expression of MMP-2, and reduced tumor cell migration.
-
-
-
-
-
-
-  Figure 6.  Effects of MEK inhibitor and kaempferol on MMP-2 activity and invasion
-  of SCC4 cells.
-
-
-  SCC4 cells were pre-treated with U0126 for 1 hour, and then incubated in the presence
-  or absence of kaempferol for 24 hours. The culture media were used as subjects for
-  analysis of MMP-2 activity, and cells were used for invasion assay as described
-  in the Materials and Methods section. The values represented the means ± SD of at
-  least three independent experiments. p&lt;0.05 as compared with the control.
-
-
-
-
-
-  The consumption of fruits and vegetables containing flavonoids produces vital health
-  benefits. Kaempferol, a flavonoid, demonstrates diverse biological and pharmacological
-  effects, such as antioxidant activity and anti-cancer-related properties , , . Our
-  study used SCC4 oral squamous cell carcinoma cells, and our results indicate that
-  kaempferol inhibits the migration and invasion of SCC4 cells; reduces the gene expression
-  and enzyme activity of MMP-2; decreases the nuclear translocation of AP-1 to the
-  MMP-2 promoter; and inhibits the phosphorylation of ERK1/2.
-
-
-  Several previous studies have demonstrated that numerous phytochemicals use anti-metastasis
-  abilities by suppressing the enzyme activity or gene expression of MMP-2 , . Caffeic
-  acid phenethyl ester inhibits oral cancer cell metastasis by regulating the MMP-2
-  and MAPK pathways . Silibinin suppresses human osteosarcoma MG-63 cell invasion
-  by inhibiting the ERK-dependent induction of MMP-2. Wang et al observed that PAK5-Egr1-MMP-2
-  signaling controls the migration and invasion in breast cancer cells . Although
-  TIMP-2 was the physiological inhibitor of MMP-2, our data indicate that kaempferol
-  reduces MMP-2 and TIMP-2 mRNA, and protein expression. In previous studies, TIMP-2
-  overexpression reduced invasion and angiogenesis, and protected melanoma cells from
-  apoptosis . Bourboulia et al. revealed that TIMP-2 promotes an anti-tumoral transcriptional
-  profile by up-regulating E-cadherin in lung cancer cells . However, de Vicente et
-  al. demonstrated that the expression of TIMP-2 in oral squamous cell carcinoma was
-  correlated with TNM staging, local recurrence, and less favorable survival rates
-  . The same findings were included in the study performed by Baker et al. who discovered
-  higher average levels of TIMP-2 in tumor tissue than in normal tissue .
-
-
-  Previous studies have comprehensively demonstrated the role of the MAPK pathway
-  in regulating MMPs expression , , . Shan et al. indicated that estrogen can increase
-  the expression of VEGF, and activate the ERK1/2 pathway to induce MMP-2 expression
-  . Silibinin inhibits the invasion of oral cancer cells by suppressing the activation
-  of ERK1/2 and the MMP-2 expression . Selaginella tamariscina, a traditional medicinal
-  plant, possesses antimetastatic effects on human osteosarcoma cells by decreasing
-  MMP-2 and MMP-9 secretions through p38 and Akt signaling pathways. However, our
-  study results showed that kaempferol only inhibits ERK phosphorylation and no significant
-  effects were evident on the JNK, and p38 signaling pathways. Indeed, as shown in
-  Figures 5–6, kaempferol inhibited the phosphorylation of ERK1/2, and the involvement
-  of the MAPK pathway was well-demonstrated by using the MEK inhibitor in SCC4 cells,
-  thus showing that a treatment using U0126 could lead to an inhibition of MMP-2 secretion
-  and SCC4 cell invasion.
-
-
-  The expression of the MMP-2 gene is regulated by the transcriptional level interaction
-  of AP-1 with binding sequences in the MMP-2 gene promoter , . AP-1 is not a single
-  transcription factor, but a heterodimer consisting of c-Fos and c-Jun families.
-  Several reports have demonstrated that numerous drugs inhibit cancer metastasis
-  by modulating the DNA-binding activities of AP-1. Hong et al. indicated that ascochlorin
-  inhibits MMP-9 expression by suppressing AP-1 activity . Nobiletin, a citrus flavonoid,
-  attenuated MMP-7 expression by reducing AP-1 DNA-binding activity . Our present
-  data reveal that kaempferol decreased the MMP-2 activity of SCC4 cells by inhibiting
-  AP-1 activation. This finding supports previous reports that indicated silibinin
-  suppressed human osteosarcoma cell invasion by inhibiting the ERK-dependent AP-1
-  induction of MMP-2 . However, we observed that kaempferol depresses only the c-Jun
-  expression in the nucleus without affecting c-Fos. All of these results suggest
-  that kaempferol inhibits SCC4 cell migration and invasion by decreasing the MMP-2
-  gene promoter binding activity of AP-1 transcription factors, including c-Jun.
-
-
-  In summary, our results indicate that kaempferol inhibits AP-1 activity, reduces
-  MMP-2 expression, and subsequently suppresses the invasion of SCC4 cells. Furthermore,
-  we demonstrated that kaempferol inhibits ERK1/2 phosphorylation, effectively leading
-  to MMP-2 down-regulation. These results suggest that kaempferol may be a powerful
-  candidate in the development of agents used for preventing cancer metastasis.
-
-
-
-
-  Conceived and designed the experiments: CWL PNC. Performed the experiments: MKC
-  WEY. Analyzed the data: SFY CHT. Contributed reagents/materials/analysis tools:
-  SFY YSH. Wrote the paper: CWL YSH.
-
-'
+  \ SD of at least three independent experiments. p&lt;0.05 as compared with the control.\n\nTo
+  further investigate whether the kaempferol regulated the promoter activity of MMP-2,
+  we performed a luciferase reporter assay, and a reporter gene that contained the
+  MMP-2 promoter region was transfected into the SCC4 cells. As shown in Figure 4A,
+  the MMP-2 promoter activity was reduced in a dose-dependent manner, indicating that
+  kaempferol inhibits MMP-2 expression at the transcriptional level.\n\nFigure 4.
+  \ Kaempferol suppresses MMP-2 expression at a transcriptional level and on DNA binding
+  activity of AP-1 in SCC4 cells.\n\n SCC4 cells were transfected with pGL3 basic
+  or a MMP-2 promoter/reporter plasmid, then treated with various concentrations  of
+  kaempferol. After 24-hour incubation, luciferase activities were determined and
+  normalized to -galactosidase activity.  Nuclear extract prepared from SCC4 cells
+  with various concentrations  of kaempferol were incubated with biotin-labeled AP-1-specific
+  oligonucleotides with consensus sequence for AP-1 binding. Bound complexes were
+  analyzed using an electrophoretic mobility shift assay.  Binding of c-Jun to the
+  MMP-2 promoter was measured using a ChIP assay.  Representative results of c-Jun
+  and c-Fos protein levels by using western blot analysis. The values represented
+  the means  SD of at least three independent experiments. p&lt;0.05 as compared with
+  the control.\n\nBecause previous data revealed that AP-1 was a key transcriptional
+  regulator in MMP-2 promotion, EMSA and ChIP assays were then performed to investigate
+  the effect of kaempferol on AP-1 DNA-binding activity. As illustrated in Figure
+  4B, the binding activity of AP-1 to the MMP-2 promoter decreased significantly in
+  SCC4 cells after being treated with kaempferol in a concentration-dependent manner.
+  Specifically, the binding capacity of AP-1 on the promoter of the MMP-2 gene was
+  repressed in SCC4 cells after being treated with 60 M kaempferol.To determine the
+  transcription factors, we used a Western blot assay to detect the nuclear translocation
+  of c-Jun and c-Fos. Treating SCC4 cells with kaempferol reduced the nuclear translocation
+  of c-Jun, but produced no effects on the level of c-Fos.\n\nAccording to the data
+  we collected, kaempferol inhibited SCC4 cell migration by reducing the MMP-2 expression.
+  To further investigate the underlying mechanism of the anti-metastatic ability of
+  kaempferol in SCC4 cells, we used a Western blot assay to detect the expression
+  of the MAPK pathways. Figure 5A shows that the phosphorylation of ERK was suppressed
+  after treating the SCC4 cells with kaempferol. However, the phosphorylation of the
+  JNK1/2 and p38 pathways remained unaffected.\n\nSCC4 cells were treated with various
+  doses of kaempferol  for 24 hours and whole cell lysates prepared from these cells
+  were used for western blot analysis with  anti-ERK1/2,  anti-JNK1/2 and  anti-p38
+  \ antibodies as described in the Materials and Methods section. The values represented
+  the means  SD of at least three independent experiments. p&lt;0.05 as compared with
+  the control.\n\nTo demonstrate whether the suppression of the MMP-2 expression by
+  kaempferol occurred mainly by inhibiting the ERK1/2 signaling pathway, SCC4 cells
+  were treated with U0126, a MEK inhibitor. The gelatin zymography data demonstrated
+  that MMP-2 enzyme activity was suppressed when only treating kaempferol or U0126
+  with 47% and 42%. However, combination treatment of the inhibitor with kaempferol
+  intensively reduced MMP-2 enzyme activity by 78%. In addition, similar results were
+  obtained from the Boyden chamber assay of cellular invasion. Figure 6B shows that
+  both kaempferol and U0126 inhibit cell invasion, and treatments combining these
+  two chemical compounds enhance anti-invasion activity. Therefore, the inhibition
+  of the ERK1/2 signaling pathways may result in a reduced expression of MMP-2, and
+  reduced tumor cell migration.\n\nFigure 6.  Effects of MEK inhibitor  and kaempferol
+  on MMP-2 activity and invasion of SCC4 cells.\n\nSCC4 cells were pre-treated with
+  U0126  for 1 hour, and then incubated in the presence or absence of kaempferol  for
+  24 hours.  The culture media were used as subjects for analysis of MMP-2 activity,
+  and cells were used for invasion assay  as described in the Materials and Methods
+  section. The values represented the means  SD of at least three independent experiments.
+  p&lt;0.05 as compared with the control.\n\nThe consumption of fruits and vegetables
+  containing flavonoids produces vital health benefits. Kaempferol, a flavonoid, demonstrates
+  diverse biological and pharmacological effects, such as antioxidant activity and
+  anti-cancer-related properties,,. Our study used SCC4 oral squamous cell carcinoma
+  cells, and our results indicate that kaempferol  inhibits the migration and invasion
+  of SCC4 cells;  reduces the gene expression and enzyme activity of MMP-2;  decreases
+  the nuclear translocation of AP-1 to the MMP-2 promoter; and  inhibits the phosphorylation
+  of ERK1/2.\n\nSeveral previous studies have demonstrated that numerous phytochemicals
+  use anti-metastasis abilities by suppressing the enzyme activity or gene expression
+  of MMP-2,. Caffeic acid phenethyl ester inhibits oral cancer cell metastasis by
+  regulating the MMP-2 and MAPK pathways. Silibinin suppresses human osteosarcoma
+  MG-63 cell invasion by inhibiting the ERK-dependent induction of MMP-2. Wang et
+  al observed that PAK5-Egr1-MMP-2 signaling controls the migration and invasion in
+  breast cancer cells. Although TIMP-2 was the physiological inhibitor of MMP-2, our
+  data indicate that kaempferol reduces MMP-2 and TIMP-2 mRNA, and protein expression.
+  In previous studies, TIMP-2 overexpression reduced invasion and angiogenesis, and
+  protected melanoma cells from apoptosis. Bourboulia et al. revealed that TIMP-2
+  promotes an anti-tumoral transcriptional profile by up-regulating E-cadherin in
+  lung cancer cells. However, de Vicente et al. demonstrated that the expression of
+  TIMP-2 in oral squamous cell carcinoma was correlated with TNM staging, local recurrence,
+  and less favorable survival rates. The same findings were included in the study
+  performed by Baker et al. who discovered higher average levels of TIMP-2 in tumor
+  tissue than in normal tissue.\n\nPrevious studies have comprehensively demonstrated
+  the role of the MAPK pathway in regulating MMPs expression,,. Shan et al. indicated
+  that estrogen can increase the expression of VEGF, and activate the ERK1/2 pathway
+  to induce MMP-2 expression. Silibinin inhibits the invasion of oral cancer cells
+  by suppressing the activation of ERK1/2 and the MMP-2 expression. Selaginella tamariscina,
+  a traditional medicinal plant, possesses antimetastatic effects on human osteosarcoma
+  cells by decreasing MMP-2 and MMP-9 secretions through p38 and Akt signaling pathways.
+  However, our study results showed that kaempferol only inhibits ERK phosphorylation
+  and no significant effects were evident on the JNK, and p38 signaling pathways.
+  Indeed, as shown in Figures 56, kaempferol inhibited the phosphorylation of ERK1/2,
+  and the involvement of the MAPK pathway was well-demonstrated by using the MEK inhibitor
+  in SCC4 cells, thus showing that a treatment using U0126 could lead to an inhibition
+  of MMP-2 secretion and SCC4 cell invasion.\n\nThe expression of the MMP-2 gene is
+  regulated by the transcriptional level interaction of AP-1 with binding sequences
+  in the MMP-2 gene promoter,. AP-1 is not a single transcription factor, but a heterodimer
+  consisting of c-Fos and c-Jun families. Several reports have demonstrated that numerous
+  drugs inhibit cancer metastasis by modulating the DNA-binding activities of AP-1.
+  Hong et al. indicated that ascochlorin inhibits MMP-9 expression by suppressing
+  AP-1 activity. Nobiletin, a citrus flavonoid, attenuated MMP-7 expression by reducing
+  AP-1 DNA-binding activity. Our present data reveal that kaempferol decreased the
+  MMP-2 activity of SCC4 cells by inhibiting AP-1 activation. This finding supports
+  previous reports that indicated silibinin suppressed human osteosarcoma cell invasion
+  by inhibiting the ERK-dependent AP-1 induction of MMP-2. However, we observed that
+  kaempferol depresses only the c-Jun expression in the nucleus without affecting
+  c-Fos. All of these results suggest that kaempferol inhibits SCC4 cell migration
+  and invasion by decreasing the MMP-2 gene promoter binding activity of AP-1 transcription
+  factors, including c-Jun.\n\nIn summary, our results indicate that kaempferol inhibits
+  AP-1 activity, reduces MMP-2 expression, and subsequently suppresses the invasion
+  of SCC4 cells. Furthermore, we demonstrated that kaempferol inhibits ERK1/2 phosphorylation,
+  effectively leading to MMP-2 down-regulation. These results suggest that kaempferol
+  may be a powerful candidate in the development of agents used for preventing cancer
+  metastasis.\n\nConceived and designed the experiments: CWL PNC. Performed the experiments:
+  MKC WEY. Analyzed the data: SFY CHT. Contributed reagents/materials/analysis tools:
+  SFY YSH. Wrote the paper: CWL YSH.\n"
 ...

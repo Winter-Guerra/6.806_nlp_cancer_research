@@ -1,10 +1,11 @@
-[Soybean oil is mainly comprised of fat., 'Major fatty acids in soybean oil include
-    linoleic acid (51%), oleic acid (23%), palmitic acid (10%), alpha-linolenic acid
-    (7%), and stearic acid (4%).', 'Linoleic acid, an omega-6 fatty acid, is the most
-    prevalent polyunsaturated fatty acid in the U.S. diet.', 'It is found in most
-    foods we eat, including meats, dairy foods, vegetables, vegetable oils, fruits,
-    legumes, nuts, seeds, cereals and breads.', 'Since linoleic acid is the metabolic
-    precursor of arachidonic acid (and eicosanoids derived from arachidonic acid),
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml
+tags: soybean-oil
+text: [Soybean oil is mainly comprised of fat., 'Major fatty acids in soybean oil
+    include linoleic acid, oleic acid, palmitic acid, alpha-linolenic acid, and stearic
+    acid.', 'Linoleic acid, an omega-6 fatty acid, is the most prevalent polyunsaturated
+    fatty acid in the U.S. diet.', 'It is found in most foods we eat, including meats,
+    dairy foods, vegetables, vegetable oils, fruits, legumes, nuts, seeds, cereals
+    and breads.', 'Since linoleic acid is the metabolic precursor of arachidonic acid,
     concern has been raised that dietary linoleic acid could increase arachidonic
     acid content and eicosanoid formation in the body and thereby promote cancers,
     cardiovascular disease, inflammation, and related disorders.', 'Arachidonic acid
@@ -39,5 +40,5 @@
     found to be associated with higher risk of lung cancer in several Chinese studies.,
   One U.S. study that examined the association between the type of fat used in cooking
     and the risk of breast cancer found that women cooking primarily with vegetable/corn
-    oil (both rich in linoleic acid) had a 30% higher risk of breast cancer than women
-    normally using olive/canola oil (both rich in oleic acid).]
+    oil  had a 30% higher risk of breast cancer than women normally using olive/canola
+    oil.]

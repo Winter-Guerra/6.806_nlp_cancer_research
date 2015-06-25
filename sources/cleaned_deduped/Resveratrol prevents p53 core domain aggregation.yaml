@@ -1,8 +1,12 @@
 ---
+title: Resveratrol prevents p53 core domain aggregation
 pathHash: 7eb02d65f515856f80a845952e780f02
+tags:
+- peanuts
+- cranberries
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Resveratrol
+  prevents p53 core domain aggregation.md
 text: '
-
-
 
 
   p53 has an essential role in preventing cancer development by inducing cell cycle
@@ -19,7 +23,7 @@ text: '
   techniques. Our data suggest that an interaction between resveratrol and the wild-type
   p53C does occur. We also found that resveratrol has the ability to inhibit the wild-type
   p53 core domain as well as the R248Q p53 mutant to undergo in vitro aggregation.
-  Additionally, resveratrol reduces the formation of nuclear p53 aggregates in MDA-MB231
+  Additionally, resveratrol  reduces the formation of nuclear p53 aggregates in MDA-MB231
   human breast cancer cells. Our study provides evidence that resveratrol can directly
   modulate p53 and may pave the way for a better understanding of the mechanisms involved
   in p53 protein aggregation as a therapeutic strategy for cancer treatment. '

@@ -1,11 +1,19 @@
 ---
+title: Premenopausal dietary fat in relation to pre- and post-menopausal breast cancer
 pathHash: 9c4bbb1d26153a48563ca96885aba41d
-text: "\n\n\n\nWe examined the association between fat intake and breast cancer incidence
-  in the Nurses’ Health Study II. We followed 88,804 women aged 26–45 years from 1991
+tags:
+- bacon
+- beef
+- lamb
+- pork
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Premenopausal
+  dietary fat in relation to pre- and post-menopausal breast cancer.md
+text: "\n\nWe examined the association between fat intake and breast cancer incidence
+  in the Nurses Health Study II. We followed 88,804 women aged 2645 years from 1991
   to 2011 and documented incident breast cancers. Dietary fat, assessed by questionnaires
   in 1991, was examined in relation to total, premenopausal, and postmenopausal breast
   cancers. Multivariable-adjusted Cox proportional hazards models were used to estimate
-  relative risk and 95 % confidence intervals. During 20 years of follow-up, 2,830
+  relative risk  and 95 % confidence intervals. During 20 years of follow-up, 2,830
   incident invasive breast cancer cases were diagnosed. Total fat intake was not associated
   with risk of breast cancer overall. After adjustment for demographic, anthropometric,
   lifestyle, and dietary factors, a positive association was observed between animal
@@ -18,160 +26,159 @@ text: "\n\n\n\nWe examined the association between fat intake and breast cancer 
   adjustment for red meat intake. Intakes of other types of fat including vegetable
   fat, dairy fat, polyunsaturated fat, and trans fat were not associated with breast
   cancer risk. Our finding suggests a positive association between early adult intake
-  of animal fat and breast cancer risk.\n\n\n\n\n\n\nThe potential influence of a
-  high fat diet on risk of breast cancer has received considerable attention, but
-  results from prospective cohort studies have generally provided little support for
-  this hypothesis . In a recent randomized controlled trial in Canada, 10 years of
-  reduction in dietary fat intake did not alter breast cancer risk in women with extensive
-  mammographic density . A lack of significant effect of a low fat diet was also seen
-  in the Women’s Health Initiative trial , but the low compliance with the dietary
-  modification intervention makes interpreting the results more difficult . However,
-  most of the evidence has been based on diet during midlife and later. Animal fat
-  intake during early adulthood was associated with an increased risk of breast cancer
-  in premenopausal women in Nurses’ Health Study II cohort . The hypothesis that exposures
-  between menarche and first pregnancy can be more important in breast cancer development
-  has been supported by epidemiologic studies of women who survived the atomic bombing
-  of Hiroshima and Nagasaki and women treated for Hodgkin’s lymphoma; exposure to
-  radiation in childhood and early adulthood was associated with subsequent risk of
-  breast cancer, but exposure after age 30 was weakly associated with increased risk
-  .\n\nIn a previous analysis of the NHSII with 8 years follow-up and with 714 incident
-  invasive breast cancer cases , animal fat intake in early adulthood was associated
-  with higher risk of premenopausal breast cancer. However, it was not clear whether
-  this finding was due to early age at dietary assessment or the relatively young
-  age of women at diagnosis of breast cancer. In this updated analysis with longer
-  follow-up and almost four times the number of cases, we were able to examine dietary
-  fat intake during early adult life in relation to both premenopausal and postmenopausal
-  breast cancer. Furthermore, we investigated the association between fat intake and
-  breast cancer according to hormone receptor status.\n\n\n\n\n\nThe NHSII is a prospective
-  cohort study established in 1989 with a total of 116,430 female registered nurses
-  aged 24–43 years. For this analysis, we started follow-up in 1991, when participants
-  were first asked to complete the food frequency questionnaire. The 95,452 women
-  returned the 1991 FFQ. Participants were excluded if they were postmenopausal in
-  1991, had reported a prior diagnosis of cancer, diabetes, coronary heart disease,
-  or stroke before returning the 1991 questionnaire, had missing information on age
-  or had an implausible total energy intake. After exclusions, data from 88,804 women
-  were available for the analysis. The follow-up rate was 95 % of total potential
-  person-years of follow-up through 2011. The study protocol was approved by the institutional
-  review boards of Brigham and Women’s Hospital and Harvard School of Public Health.\n\n\n\nAs
-  part of the ongoing NHSII study, in 1991, 1995, 1999, 2003, and 2007, participants
-  completed a semi-quantitative FFQ with ~130 items about usual dietary intake and
-  alcohol consumption during the previous year. Nutrient intakes were computed by
-  multiplying the frequency of consumption of each unit of food or beverage by the
-  nutrient content of the specified portion size and then summing across all items.
-  The questionnaire included information about specific types of margarine and types
-  of fat used for baking and frying; this information was incorporated in the nutrient
-  calculations. Nutrient values in foods were obtained from the US Department of Agriculture,
-  food manufacturers, independent academic sources, and our own fatty acid analyses
-  of commonly used margarines, cooking oils, and baked foods . The food composition
-  database was updated every 4 years, including updated fatty acid analyses, to account
-  for changes in the food supply. The percentage of energy from each type of fat and
-  protein was calculated by dividing energy intake from each fat or protein by total
-  energy intake. Cholesterol intake was expressed as mg/1,000 kcal.\n\nThe reproducibility
-  and validity of intakes of fat and individual fat-contributing foods by FFQ have
-  been evaluated elsewhere . In 92 participants in Nurse’s Health Study cohort, the
-  correlations were examined between nutrients measured by the mean of three FFQ’s
-  and mean of diet records obtained 6 years apart, which provides an assessment of
-  long-term intake. The correlations for energy-adjusted intakes, de-attenuated for
-  variation in the diet records, were 0.83 with total fat and 0.95 for saturated fat.\n\n\n\nBiennial
-  follow-up questionnaires were used to ascertain newly incident breast cancers. Deaths
-  were reported through family members and the postal service in response to the follow-up
-  questionnaires or identified through annual review of the National Death Index.
-  We asked all women who reported breast cancer for confirmation of the diagnosis
-  and for permission to review pathology reports and hospital record. Because of high
-  confirmation rate by medical record review, diagnoses confirmed by participants
-  with missing medical record information were included in the analyses. Cases of
-  carcinoma in situ were excluded from the analyses. Estrogen and progesterone receptor
-  status of the breast cancer were abstracted from pathology reports.\n\n\n\nData
-  on potential risk factors for breast cancer were obtained from the biennial NHSII
-  questionnaires including age, height, weight, family history of breast cancer, smoking,
-  race, menopausal status, postmenopausal hormone use, and oral contraceptive use.
-  Women were defined as premenopausal if they still had menstrual periods or had hysterectomy
-  with at least one ovary remaining and were younger than 46 years or younger than
-  48 years. Women were defined as postmenopausal if they reported permanent cessation
-  of menstrual periods or had bilateral oophorectomy surgery. Women who had unknown
-  menopausal status or had hysterectomy without bilateral oophorectomy were considered
-  postmenopausal if they were 54 years or older or 56 years or older .\n\n\n\nPerson-year
-  was calculated from the date of return of the 1991 questionnaire until the date
-  of breast cancer diagnosis, death, or end of follow-up period, whichever came first.
-  The primary analysis used the 1991 baseline diet as this represents diet earliest
-  in adult life. Participants were divided into quintile categories according to their
-  fat or food group intake. Cox proportional hazards models, stratified by age in
-  months and follow-up cycle, were used to estimate relative risk and 95 % confidence
-  intervals. Multivariable models adjusted for several breast cancer risk factors,
-  including race, family history of breast cancer in mother or sisters, history of
-  benign breast disease, smoking, height, body mass index, age at menarche, parity
-  and age at first birth, oral contraceptive use, and intakes of alcohol, energy and
-  protein, and, for postmenopausal women, age at menopause and hormone use. For all
-  women, we additionally adjusted for menopausal status. All variables except race,
-  height and age at menarche were updated from follow-up questionnaires. Because fat
-  intake may increase risk of breast cancer over a long period of time, for a sensitivity
-  analysis, we also calculated premenopausal cumulative averaged intakes of fat using
-  the 1991, 1995, 1999, 2003, and 2007 dietary data, stopping updating at menopause.
-  SAS version 9.3 was used for all analyses. The median value for each quintile was
-  used for tests for trend for each category of fat intake as a continuous variable.
-  We examined the interaction between total, animal and vegetable fat intakes and
-  established breast cancer risk factors by including a cross-product interaction
-  term between risk factors and intake of total, animal and vegetable fat in the multivariable
-  model. P values for the tests of interactions were calculated by using likelihood
-  ratio test with one degree of freedom. To examine differential associations of intakes
-  of total fat, animal fat and vegetable fat with breast cancer risk by hormone receptor
-  status, we used Cox proportional cause-specific hazards regression model with a
-  duplication method for competing risk data . This method permits estimation of separate
-  associations of fat intake with both ER and PR receptors positive and receptors
-  negative, and tests whether dietary fat intake has statistically different regression
-  coefficients for different tumor subtypes. All P values were two-sided.\n\n\n\nDuring
-  1,725,439 person-years of follow-up of 88,804 women, a total of 2,830 incident cases
-  of invasive breast cancer were identified. The mean age of participants in 1991
-  was 36.4 years. Table 1 shows age-standardized distribution of risk factors for
-  breast cancer according to quintiles of animal fat intake in 1991. Women who consumed
-  a higher amount of animal fat were more likely to smoke, to have 3 children or more,
-  to have lower age at first birth, and to have a larger BMI than women with a lower
-  intake. Women who consumed a higher amount of animal fat were also less likely to
-  drink alcohol, and less likely to have a history of benign breast disease, than
-  women with a lower intake.\n\n\nAge-standardized distribution of potential risk
-  factors for breast cancer according to animal fat intake in 1991 in women enrolled
-  in Nurses’ Health Study II  \n\n\nAmong all women, total fat intake was non-significantly
-  associated with breast cancer risk in multivariable analysis. In both the age-adjusted
-  and multivariable analyses, intake of total fat in 1991 was not significantly associated
-  with risk of either premenopausal or postmenopausal breast cancer. In multivariable
-  analysis, higher intake of animal fat was significantly associated with higher risk
-  of breast cancer overall. Among premenopausal women, we also observed a positive
-  association between animal fat and breast cancer incidence. Further adjustment for
-  vegetable fat intake did not alter the results. However, after adjustment for red
-  meat intake, these associations were no longer statistically significant. In a sensitivity
-  analysis using the cumulative average of premenopausal intake, there was a significant
-  association between animal fat and risk of premenopausal breast cancer. Cumulative
-  average of premenopausal intake of animal fat was modestly associated with breast
-  cancer among all women. For vegetable fat and dairy fat neither baseline intakes
-  nor cumulative average of premenopausal intakes was associated with risk of either
-  premenopausal or postmenopausal breast cancer.\n\n\nRR and 95 % CI for breast cancer
-  according to quintile of fat intake in 1991 in women  \n\n\nP trend calculated with
-  median intake of each variable in each quintile as a continuous variable\n\nMultivariable
-  model was stratified by age in months at start of follow-up and calendar year of
-  the current questionnaire cycle and was simultaneously adjusted for race, family
-  history of breast cancer in mother or sisters, history of benign breast disease,
-  smoking, height, BMI, age at menarche, parity and age at first birth, oral contraceptive
-  use, alcohol intake, energy, and percentage of energy from protein. Among postmenopausal
-  women, we also adjusted for hormone use and age at menopause. Among all women, we
-  also adjusted for menopausal status, hormone use and age at menopause\n\nHigher
-  intakes of saturated fat and monounsaturated fat were each associated with modestly
-  higher risk of breast cancer among all women. However, after adjustment for red
-  meat intake, these associations were no longer statistically significant. Intake
-  of cholesterol was associated with higher risk of premenopausal breast cancer, but
-  this association was attenuated after accounting for intake of red meat. Intakes
-  of polyunsaturated fat, trans-unsaturated fat, and long-chain omega-3 fatty acids
-  were not significant predictors of either premenopausal or postmenopausal breast
-  cancer.\n\n\nRR and 95 % CI for breast cancer according to quintile of specific
-  types of fat intake in 1991 in women  \n\n\nPtrend calculated with median intake
-  of each variable in each quintile as a continuous variable \n\nMultivariable model
+  of animal fat and breast cancer risk.\n\nThe potential influence of a high fat diet
+  on risk of breast cancer has received considerable attention, but results from prospective
+  cohort studies have generally provided little support for this hypothesis. In a
+  recent randomized controlled trial in Canada, 10 years of reduction in dietary fat
+  intake did not alter breast cancer risk in women with extensive mammographic density.
+  A lack of significant effect of a low fat diet was also seen in the Womens Health
+  Initiative trial, but the low compliance with the dietary modification intervention
+  makes interpreting the results more difficult. However, most of the evidence has
+  been based on diet during midlife and later. Animal fat intake during early adulthood
+  was associated with an increased risk of breast cancer in premenopausal women in
+  Nurses Health Study II  cohort. The hypothesis that exposures between menarche and
+  first pregnancy can be more important in breast cancer development has been supported
+  by epidemiologic studies of women who survived the atomic bombing of Hiroshima and
+  Nagasaki and women treated for Hodgkins lymphoma; exposure to radiation in childhood
+  and early adulthood was associated with subsequent risk of breast cancer, but exposure
+  after age 30 was weakly associated with increased risk.\n\nIn a previous analysis
+  of the NHSII with 8 years follow-up and with 714 incident invasive breast cancer
+  cases, animal fat intake in early adulthood was associated with higher risk of premenopausal
+  breast cancer. However, it was not clear whether this finding was due to early age
+  at dietary assessment or the relatively young age of women at diagnosis of breast
+  cancer. In this updated analysis with longer follow-up and almost four times the
+  number of cases, we were able to examine dietary fat intake during early adult life
+  in relation to both premenopausal and postmenopausal breast cancer. Furthermore,
+  we investigated the association between fat intake and breast cancer according to
+  hormone receptor status.\n\nThe NHSII is a prospective cohort study established
+  in 1989 with a total of 116,430 female registered nurses aged 2443 years. For this
+  analysis, we started follow-up in 1991, when participants were first asked to complete
+  the food frequency questionnaire. The 95,452 women returned the 1991 FFQ. Participants
+  were excluded if they were postmenopausal in 1991, had reported a prior diagnosis
+  of cancer, diabetes, coronary heart disease, or stroke before returning the 1991
+  questionnaire, had missing information on age or had an implausible total energy
+  intake. After exclusions, data from 88,804 women were available for the analysis.
+  The follow-up rate was 95 % of total potential person-years of follow-up through
+  2011. The study protocol was approved by the institutional review boards of Brigham
+  and Womens Hospital and Harvard School of Public Health.\n\nAs part of the ongoing
+  NHSII study, in 1991, 1995, 1999, 2003, and 2007, participants completed a semi-quantitative
+  FFQ with ~130 items about usual dietary intake and alcohol consumption during the
+  previous year. Nutrient intakes were computed by multiplying the frequency of consumption
+  of each unit of food or beverage by the nutrient content of the specified portion
+  size and then summing across all items. The questionnaire included information about
+  specific types of margarine and types of fat used for baking and frying; this information
+  was incorporated in the nutrient calculations. Nutrient values in foods were obtained
+  from the US Department of Agriculture, food manufacturers, independent academic
+  sources, and our own fatty acid analyses of commonly used margarines, cooking oils,
+  and baked foods. The food composition database was updated every 4 years, including
+  updated fatty acid analyses, to account for changes in the food supply. The percentage
+  of energy from each type of fat and protein was calculated by dividing energy intake
+  from each fat or protein by total energy intake. Cholesterol intake was expressed
+  as mg/1,000 kcal.\n\nThe reproducibility and validity of intakes of fat and individual
+  fat-contributing foods by FFQ have been evaluated elsewhere. In 92 participants
+  in Nurses Health Study cohort, the correlations were examined between nutrients
+  measured by the mean of three FFQs and mean of diet records obtained 6 years apart,
+  which provides an assessment of long-term intake. The correlations for energy-adjusted
+  intakes, de-attenuated for variation in the diet records, were 0.83 with total fat
+  and 0.95 for saturated fat.\n\nBiennial follow-up questionnaires were used to ascertain
+  newly incident breast cancers. Deaths were reported through family members and the
+  postal service in response to the follow-up questionnaires or identified through
+  annual review of the National Death Index. We asked all women who reported breast
+  cancer  for confirmation of the diagnosis and for permission to review pathology
+  reports and hospital record. Because of high confirmation rate  by medical record
+  review, diagnoses confirmed by participants with missing medical record information
+  were included in the analyses. Cases of carcinoma in situ were excluded from the
+  analyses. Estrogen  and progesterone  receptor status of the breast cancer were
+  abstracted from pathology reports.\n\nData on potential risk factors for breast
+  cancer were obtained from the biennial NHSII questionnaires including age, height,
+  weight, family history of breast cancer, smoking, race, menopausal status, postmenopausal
+  hormone use, and oral contraceptive use. Women were defined as premenopausal if
+  they still had menstrual periods or had hysterectomy with at least one ovary remaining
+  and were younger than 46 years  or younger than 48 years. Women were defined as
+  postmenopausal if they reported permanent cessation of menstrual periods or had
+  bilateral oophorectomy surgery. Women who had unknown menopausal status or had hysterectomy
+  without bilateral oophorectomy were considered postmenopausal if they were 54 years
+  or older  or 56 years or older.\n\nPerson-year was calculated from the date of return
+  of the 1991 questionnaire until the date of breast cancer diagnosis, death, or end
+  of follow-up period, whichever came first. The primary analysis used the 1991 baseline
+  diet as this represents diet earliest in adult life. Participants were divided into
+  quintile categories according to their fat or food group intake. Cox proportional
+  hazards models, stratified by age in months and follow-up cycle, were used to estimate
+  relative risk  and 95 % confidence intervals. Multivariable models adjusted for
+  several breast cancer risk factors, including race, family history of breast cancer
+  in mother or sisters, history of benign breast disease, smoking, height, body mass
+  index, age at menarche, parity and age at first birth, oral contraceptive use, and
+  intakes of alcohol, energy and protein, and, for postmenopausal women, age at menopause
+  and hormone use. For all women, we additionally adjusted for menopausal status.
+  All variables except race, height and age at menarche were updated from follow-up
+  questionnaires. Because fat intake may increase risk of breast cancer over a long
+  period of time, for a sensitivity analysis, we also calculated premenopausal cumulative
+  averaged intakes of fat using the 1991, 1995, 1999, 2003, and 2007 dietary data,
+  stopping updating at menopause. SAS version 9.3  was used for all analyses. The
+  median value for each quintile was used for tests for trend for each category of
+  fat intake as a continuous variable. We examined the interaction between total,
+  animal and vegetable fat intakes and established breast cancer risk factors by including
+  a cross-product interaction term between risk factors and intake of total, animal
+  and vegetable fat in the multivariable model. P values for the tests of interactions
+  were calculated by using likelihood ratio test with one degree of freedom. To examine
+  differential associations of intakes of total fat, animal fat and vegetable fat
+  with breast cancer risk by hormone receptor status, we used Cox proportional cause-specific
+  hazards regression model with a duplication method for competing risk data. This
+  method permits estimation of separate associations of fat intake with both ER and
+  PR receptors positive  and receptors negative, and tests whether dietary fat intake
+  has statistically different regression coefficients for different tumor subtypes.
+  All P values were two-sided.\n\nDuring 1,725,439 person-years of follow-up of 88,804
+  women, a total of 2,830 incident cases of invasive breast cancer  were identified.
+  The mean age of participants in 1991 was 36.4 years. Table 1 shows age-standardized
+  distribution of risk factors for breast cancer according to quintiles of animal
+  fat intake in 1991. Women who consumed a higher amount of animal fat were more likely
+  to smoke, to have 3 children or more, to have lower age at first birth, and to have
+  a larger BMI than women with a lower intake. Women who consumed a higher amount
+  of animal fat were also less likely to drink alcohol, and less likely to have a
+  history of benign breast disease, than women with a lower intake.\n\nAge-standardized
+  distribution of potential risk factors for breast cancer according to animal fat
+  intake in 1991 in women enrolled in Nurses Health Study II  \n\nAmong all women,
+  total fat intake was non-significantly associated with breast cancer risk in multivariable
+  analysis. In both the age-adjusted and multivariable analyses, intake of total fat
+  in 1991 was not significantly associated with risk of either premenopausal or postmenopausal
+  breast cancer. In multivariable analysis, higher intake of animal fat was significantly
+  associated with higher risk of breast cancer overall. Among premenopausal women,
+  we also observed a positive association between animal fat and breast cancer incidence.
+  Further adjustment for vegetable fat intake did not alter the results. However,
+  after adjustment for red meat intake, these associations were no longer statistically
+  significant. In a sensitivity analysis using the cumulative average of premenopausal
+  intake, there was a significant association between animal fat and risk of premenopausal
+  breast cancer. Cumulative average of premenopausal intake of animal fat was modestly
+  associated with breast cancer among all women. For vegetable fat and dairy fat neither
+  baseline intakes nor cumulative average of premenopausal intakes was associated
+  with risk of either premenopausal or postmenopausal breast cancer.\n\nRR and 95
+  % CI for breast cancer according to quintile of fat intake in 1991 in women  \n\nP
+  trend calculated with median intake of each variable in each quintile as a continuous
+  variable\n\nMultivariable model was stratified by age in months at start of follow-up
+  and calendar year of the current questionnaire cycle and was simultaneously adjusted
+  for race, family history of breast cancer in mother or sisters, history of benign
+  breast disease, smoking, height, BMI, age at menarche, parity and age at first birth,
+  oral contraceptive use, alcohol intake, energy, and percentage of energy from protein.
+  Among postmenopausal women, we also adjusted for hormone use  and age at menopause.
+  Among all women, we also adjusted for menopausal status, hormone use  and age at
+  menopause \n\nHigher intakes of saturated fat and monounsaturated fat were each
+  associated with modestly higher risk of breast cancer among all women. However,
+  after adjustment for red meat intake, these associations were no longer statistically
+  significant. Intake of cholesterol was associated with higher risk of premenopausal
+  breast cancer, but this association was attenuated after accounting for intake of
+  red meat. Intakes of polyunsaturated fat, trans-unsaturated fat, and long-chain
+  omega-3 fatty acids were not significant predictors of either premenopausal or postmenopausal
+  breast cancer.\n\nRR and 95 % CI for breast cancer according to quintile of specific
+  types of fat intake in 1991 in women  \n\nPtrend calculated with median intake of
+  each variable in each quintile as a continuous variable \n\nMultivariable model
   was stratified by age in months at start of follow-up and calendar year of the current
   questionnaire cycle and was simultaneously adjusted for race, family history of
   breast cancer in mother or sisters, history of benign breast disease, smoking, height,
   BMI, age at menarche, parity and age at first birth, oral contraceptive use, alcohol
   intake, energy, and percentage of energy from protein. Among postmenopausal women,
-  we also adjusted for hormone use and age at menopause. Among all women, we also
-  adjusted for menopausa status, hormone use and age at menopause\n\nWe also evaluated
-  the associations using multivariable nutrient density model approach . We included
+  we also adjusted for hormone use  and age at menopause. Among all women, we also
+  adjusted for menopausa status, hormone use  and age at menopause \n\nWe also evaluated
+  the associations using multivariable nutrient density model approach. We included
   simultaneously total energy intake, and percent of energy intake from animal fat
   and vegetable fat, alcohol and protein in the multivariable model. We found that
   substitution of 5 % energy intake from animal fat for an equivalent energy intake
@@ -179,23 +186,23 @@ text: "\n\n\n\nWe examined the association between fat intake and breast cancer 
   Substituting animal fat intake for an equivalent energy from protein or vegetable
   fat and also substituting saturated fat for monounsaturated or polyunsaturated fat
   were not associated with increasing risk of breast cancer before or after menopause.\n\nInformation
-  on ER receptor status was available for 81 % and PR receptor status for 80 % of
+  on ER receptor status was available for 81 %  and PR receptor status for 80 %  of
   the breast cancer cases. Table 4 presents the associations between total, animal
   and vegetable fat and breast cancer according to hormone receptor status; data are
-  presented for tumors with both ER and PR positive receptors and for both negative
-  receptors as those with discordant receptor status were too few for analysis. We
+  presented for tumors with both ER and PR positive receptors  and for both negative
+  receptors  as those with discordant receptor status were too few for analysis. We
   did not find any significant heterogeneity between tumors characterized by receptor
   status for total fat, animal fat or vegetable fat intakes in either premenopausal
-  or postmenopausal breast cancer.\n\n\nMultivariable RR and 95 % CI of subtypes of
+  or postmenopausal breast cancer.\n\nMultivariable RR and 95 % CI of subtypes of
   breast cancer according to fat intake in 1991, expressed as a continuous variable
-  \ \n\n\nMultivariable model was stratified by age in months at start of follow-up
+  \ \n\nMultivariable model was stratified by age in months at start of follow-up
   and calendar year of the current questionnaire cycle and was simultaneously adjusted
   for race, family history of breast cancer in mother or sisters, history of benign
   breast disease, smoking, height, BMI, age at menarche, parity and age at first birth,
   oral contraceptive use, alcohol intake, energy, and percentage of energy from protein.
-  Among postmenopausal women, we also adjusted for hormone use and age at menopause.
-  Among all women, we also adjusted for menopausal status, hormone use and age at
-  menopause\n\nWe also examined whether the association between intakes of total,
+  Among postmenopausal women, we also adjusted for hormone use  and age at menopause.
+  Among all women, we also adjusted for menopausal status, hormone use  and age at
+  menopause \n\nWe also examined whether the association between intakes of total,
   animal and vegetable fats and breast cancer risk differed by levels of breast cancer
   risk factors including family history of breast cancer, BMI, oral contraceptive
   use, history of benign breast disease, alcohol intake, age at first birth, and hormone
@@ -203,7 +210,7 @@ text: "\n\n\n\nWe examined the association between fat intake and breast cancer 
   risk was modified by BMI. In normal weight women, higher intake of animal fat was
   significantly associated with higher incidence of breast cancer. But among overweight
   and obese women, there was no significant association. In women with alcohol intake
-  of ≥5 g/day, higher intake of total fat was significantly associated with higher
+  of 5 g/day, higher intake of total fat was significantly associated with higher
   incidence of breast cancer. In addition, higher intake of total fat was significantly
   associated with higher risk of breast cancer among women with history of benign
   breast disease. Such association was not observed in women without history of benign
@@ -212,13 +219,13 @@ text: "\n\n\n\nWe examined the association between fat intake and breast cancer 
   of vegetable fat was associated with lower risk of breast cancer in women without
   family history of breast cancer. Higher intake of animal fat was also associated
   with higher risk of premenopausal breast cancer in women with age at first birth
-  ≥30 years. \n\n\n\nIn this prospective cohort study, we assessed the relation of
-  dietary fat intakes and breast cancer diagnosed before and after menopause. Our
-  findings suggest that higher intake of animal fat was associated with modestly higher
-  risk of breast cancer. Intakes of saturated fat and mono-unsaturated fat, found
-  in most animal fat, were also related to increased risk of breast cancer among all
-  participants, but these associations were weaker and not significant after accounting
-  for intake of red meat. Cholesterol intake was associated with higher risk of premenopausal
+  30 years. \n\nIn this prospective cohort study, we assessed the relation of dietary
+  fat intakes and breast cancer diagnosed before and after menopause. Our findings
+  suggest that higher intake of animal fat was associated with modestly higher risk
+  of breast cancer. Intakes of saturated fat and mono-unsaturated fat, found in most
+  animal fat, were also related to increased risk of breast cancer among all participants,
+  but these associations were weaker and not significant after accounting for intake
+  of red meat. Cholesterol intake was associated with higher risk of premenopausal
   breast cancer, but this association was attenuated after accounting for intake of
   red meat. Higher animal fat intake, relative to an equivalent reduction in the amount
   of energy from carbohydrates, was significantly associated with greater breast cancer
@@ -227,27 +234,27 @@ text: "\n\n\n\nWe examined the association between fat intake and breast cancer 
   between fatty acids and breast cancer incidence using a pooled data of 8 cohorts
   with 7,329 incident invasive breast cancer cases among over 350,000 women. They
   found no increase in risk with increasing animal fat intake. Similarly, in an analysis
-  of diet during midlife and later, Kim et al. , did not find any association between
+  of diet during midlife and later, Kim et al., did not find any association between
   fat intake and postmenopausal breast cancer in a 20-year follow-up of women in the
-  Nurses’ Health Study cohort. No significant association between animal fat intake
+  Nurses Health Study cohort. No significant association between animal fat intake
   and breast cancer was observed in a recently published meta-analysis of animal fat
   consumption and breast cancer that combined these two studies with data from other
-  cohort studies . However, none of these studies were able to focus on fat intake
+  cohort studies. However, none of these studies were able to focus on fat intake
   in early adult life.\n\nIn an early analysis from NHSII, Cho et al.  reported a
   positive association between animal fat intake and premenopausal breast cancer,
   and this association was more pronounced among women with ER+/PR+ breast cancers.
   The extended follow-up of NHSII provided an opportunity to address the issue of
   early adulthood diet in relation to both premenopausal and postmenopausal breast
   cancer with higher number of cases. On the basis of the findings from our study
-  and evidence available from generally null findings described above , intake of
-  animal fat in early adult life may be associated more with risk of premenopausal
-  breast cancer than with breast cancer after menopause.\n\nIn addition, caution is
-  appropriate when interpreting the association between animal fat and breast cancer
-  because this association could be due to specific foods contributing to animal fat.
-  Red meat has been associated with risk of breast cancer, including a previous report
-  from this cohort . Adjustment for red meat attenuated the risk associated with high
-  consumption of animal fat, and thus animal fat may be a surrogate for other constituents
-  of red meat. Notably, dairy fat was not associated with risk of breast cancer.\n\nPotential
+  and evidence available from generally null findings described above, intake of animal
+  fat in early adult life may be associated more with risk of premenopausal breast
+  cancer than with breast cancer after menopause.\n\nIn addition, caution is appropriate
+  when interpreting the association between animal fat and breast cancer because this
+  association could be due to specific foods contributing to animal fat. Red meat
+  has been associated with risk of breast cancer, including a previous report from
+  this cohort. Adjustment for red meat attenuated the risk associated with high consumption
+  of animal fat, and thus animal fat may be a surrogate for other constituents of
+  red meat. Notably, dairy fat was not associated with risk of breast cancer.\n\nPotential
   limitations also need to be considered. Because the participants were predominantly
   white, educated US adults, we cannot determine whether our findings are generalizable
   to other race or ethnic groups; however, it is unlikely that the biology underlying
@@ -260,19 +267,19 @@ text: "\n\n\n\nWe examined the association between fat intake and breast cancer 
   and after menopause, our findings suggest that high intake of animal fat and cholesterol
   may be associated with risk of premenopausal breast cancer but not postmenopausal
   breast cancer. However, these associations may be due to other constituents of red
-  meat.\n\n\n\nThe study was supported by the National Institutes of Health Grant.
-  The study sponsors were not involved in the study design and collection, analysis
-  and interpretation of data, or the writing of the article or the decision to submit
+  meat.\n\nThe study was supported by the National Institutes of Health Grant. The
+  study sponsors were not involved in the study design and collection, analysis and
+  interpretation of data, or the writing of the article or the decision to submit
   it for publication. The authors were independent from study sponsors. We would like
-  to thank the participants and staff of the Nurses’ Health Study II, for their valuable
+  to thank the participants and staff of the Nurses Health Study II, for their valuable
   contributions as well as the following state cancer registries for their help: AL,
   AZ, AR, CA, CO, CT, DE, FL, GA, ID, IL, IN, IA, KY, LA, ME, MD, MA, MI, NE, NH,
   NJ, NY, NC, ND, OH, OK, OR, PA, RI, SC, TN, TX, VA, WA, WY. In addition, this study
-  was approved by the Connecticut Department of Public Health Human Investigations
+  was approved by the Connecticut Department of Public Health  Human Investigations
   Committee. Certain data used in this publication were obtained from the DPH. The
-  authors’ responsibility were as follows: MSF, EC, WYC, AHE, and WCW: designed the
+  authors responsibility were as follows: MSF, EC, WYC, AHE, and WCW: designed the
   research; MSF: analyzed and wrote the manuscript; and WCW: had primary responsibility
   for the final content of the manuscript; and all authors: provided critical input
   in the writing of the manuscript and read and approved the final manuscript. The
-  authors assume full responsibility for analyses and interpretation of these data.\n\n\n\n"
+  authors assume full responsibility for analyses and interpretation of these data.\n\n"
 ...

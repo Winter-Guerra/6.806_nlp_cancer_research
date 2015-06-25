@@ -1,8 +1,14 @@
 ---
+title: The flavonoid luteolin induces apoptotic cell death through AIF nuclear translocation
+  mediated by activation of ERK and p38 in human breast cancer cell lines
 pathHash: 2e750727b51ff254d388d25256698054
+tags:
+- sage
+- celery
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The
+  flavonoid luteolin induces apoptotic cell death through AIF nuclear translocation
+  mediated by activation of ERK and .md
 text: '
-
-
 
 
   The flavonoid, luteolin, has been shown to have anticancer activity in various cancer
@@ -11,11 +17,11 @@ text: '
   cancer cells. Luteolin induced a reduction of viability in a dose- and time-dependent
   manner. The pro-apoptotic effect of luteolin was demonstrated by cell cycle measurement
   and Hoechst 3325 staining. Western blot analysis showed that luteolin activates
-  ERK and p38. Pharmacological inhibition or knockdown of ERK and p38 protected against
+  ERK  and p38. Pharmacological inhibition or knockdown of ERK and p38 protected against
   luteolin-induced cell death; however, the caspase-3-specific inhibitor had no effect.
   Immunocytochemical examination indicated that luteolin induced nuclear translocation
   of AIF, which was mediated by activation of ERK and p38. Transfection of a vector
-  expressing the miRNA of AIF prevented luteolin-induced apoptosis. The data suggest
+  expressing the miRNA  of AIF prevented luteolin-induced apoptosis. The data suggest
   that luteolin induces a caspase-dependent and -independent apoptosis involving AIF
   nuclear translocation mediated by activation of ERK and p38 in breast cancer cells.'
 ...

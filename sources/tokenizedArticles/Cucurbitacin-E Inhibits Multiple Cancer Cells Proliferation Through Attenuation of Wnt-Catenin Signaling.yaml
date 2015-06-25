@@ -1,0 +1,160 @@
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Cucurbitacin-E
+  Inhibits Multiple Cancer Cells Proliferation Through Attenuation of Wnt-Catenin
+  Signaling.md
+pathHash: 809caf9c5e00b9c7105290c0e984dc6d
+tags: [cucumbers, pumpkins, zucchini]
+text: [Recent studies suggest that the use of cucurbitacins could inhibit cancer cell
+    progression., 'In the current study, the authors analyzed the effect of cucurbitacin-E  in
+    cancer cells using A549, Hep3B, and SW480 cells.', The authors found that CuE
+    inhibited cell proliferation and modulated the expression of cell cycle regulators
+    in these cells., 'Moreover, the authors found that CuE inhibited Wnt/-catenin
+    signaling activation through upregulation of tumor suppressor Menin.', 'Indeed,
+    ablation of Menin using small interfering RNA  oligos attenuated the antiproliferative
+    roles of CuE.', 'Taken together, the results of this study provide a novel mechanism
+    that may contribute to the antineoplastic effects of CuE in cancer cells.', 'Navigate
+    ArticleTop of pageAuthor informationABSTRACTIntroduction ;&lt;Materials and MethodsResultsDiscussionDisclosure
+    StatementReferencesCITING ARTICLES
+
+
+    Abnormal expression and  activity of many oncogenes and tumor suppressors, such
+    as -catenin, C-myc, PTEN, and P53, play critical roles in the development of human
+    cancers.1,2 Recent studies suggest that the anticancer ability of several natural
+    products may be associated with regulation of these genes.3,4 For instance, metformin,
+    which is usually prescribed as an oral antihyperglycemic agent, could reduce risk
+    and improve prognosis of certain cancers.5,6 At the molecular level, metformin
+    inhibits cancer cell proliferation and migration through repressing the insulin/insulin-like
+    growth factor 1  signaling pathway and upregulation of p53 contents.7,8
+
+
+    Cucurbitacins, which are widely distributed in plants, belong to a class of highly
+    oxidized tetracyclic triterpenoids.9 They have attracted much attention for their
+    promising anticancer activities, including antiproliferation, cell cycle arrest,
+    and induction of apoptosis.10,11 It has been shown that cucurbitacin-B regulates
+    immature myeloid cell differentiation and enhances antitumor immunity in patients
+    with lung cancer.12 Besides, cucurbitacin-B enhances the radiation sensitivity
+    of human breast cancer cells via G2/M cell cycle arrest.13 Moreover, cucurbitacin-D
+    increases the proportion in the sub-G0/G1 phases and G2/M phases of the cell cycle,
+    resulting in growth inhibition and apoptosis in human endometrial and ovarian
+    cancer cells.14
+
+
+    In the present study, the antiproliferative role and molecular mechanisms of cucurbitacin-E  were
+    explored in A549, Hep3B, and SW480 cells.', The results suggest that CuE could
+    suppress cancer cells proliferation through attenuation of Wnt/-catenin signaling.,
+  'Navigate ArticleTop of pageAuthor informationABSTRACTIntroductionMaterials and
+    Methods &lt;&lt;ResultsDiscussionDisclosure StatementReferencesCITING ARTICLES
+
+
+    A549, Hep3B, and SW480 cells were obtained from the Cell Bank of Type Culture
+    Collection of Chinese Academy of Sciences.', Cells were cultured in RPMI 1640
+    medium supplemented with 10% fetal bovine serum., CuE was purchased from Sigma-Aldrich  and
+    dissolved in the DMSO solution., A cell proliferation enzyme-linked immunosorbent
+    assay was used to analyze the incorporation of BrdU during DNA synthesis according
+    to the manufacturers protocols., Absorbance was measured at 450 nm in the Spectra
+    Max 190 ELISA reader., All experiments were performed in triplicate., All small
+    interfering RNA  oligos were obtained from Dharmacon Company., 'The siRNA designed
+    for the knockdown of Menin had the following sequence: 5-CAGCUUCAUCACAGGUUGGAG-3.',
+  A scrambled sequence of 5-AGUUCGAGGUGUACGAC UA-3 was used as a negative control.,
+  Cells were seeded onto six-well plates and then transfected with 50 nM siRNA oligos.,
+  'Total RNAs were isolated from cells by TRIzol reagent, and reverse transcriptions
+    were performed by the Takara RNA PCR kit according to the manufacturers instructions.',
+  'To quantify the transcripts of the interest genes, real-time PCR was performed
+    using an SYBR Green Premix Ex Taq  on Light Cycler 480.', Cells were harvested
+    and lysed with lysis buffer., 'After centrifugation at 20,000 g for 10 minutes
+    at 4C, proteins in the supernatants were quantified and separated by 10%12% SDSpolyacrylamide
+    gel electrophoresis and then transferred to nitrocellulose  membrane.', 'After
+    blocking with 10% nonfat milk in phosphate-buffered saline, membranes were immunoblotted
+    with antibodies as indicated, followed by horseradish peroxidase-linked secondary
+    antibodies.', The signals were detected by the SuperSignal West Pico Chemiluminescent
+    Substrate kit  according to the manufacturers instructions., 'Anti-Menin, APC,
+    Axin, and -catenin antibodies were purchased from Abcam Company.', Anti-cyclin
+    D1 and cyclin E antibodies were purchased from Santa Cruz Company., Protein levels
+    were normalized to Lamin B  or GAPDH., Data are expressed as the meanSEM  from
+    at least three separate experiments., Differences between the groups were analyzed
+    using the Students t-test., A p-value of &lt;0.05 was considered statistically
+    significant., 'Navigate ArticleTop of pageAuthor informationABSTRACTIntroductionMaterials
+    and MethodsResults &lt;&lt;DiscussionDisclosure StatementReferencesCITING ARTICLES
+
+
+    To explore the effects of CuE on cell proliferation, three types of cancer cells
+    were used in the current study.', A549 cells are derived from lung cancer., Hep3B
+    cells are from hepatocellular carcinoma., SW480 cells are from colon cancer.,
+  'These cells were treated with CuE, and cell growth was examined by BrdU incorporation
+    assays.', 'As a result, CuE inhibited cell proliferation in a dose-dependent manner.',
+  FIG., '1.', The effects of cucurbitacin-E  on cancer cell proliferation., 'Cell
+    proliferation activity was measured by BrdU incorporation assays in A549, Hep3B,
+    and SW480  cells.', Cells were treated with various concentrations of CuE as indicated.,
+  A450 absorption was assayed after incubation for 24 hours., 'p&lt;0.05, p&lt;0.01.',
+  'To test whether the Wnt/-catenin pathway mediates the anticancer action of CuE,
+    abundance of nuclear -catenin, the hallmark of Wnt signaling activation, was examined.',
+  'As shown in Figure 2AC, the protein contents of nuclear -catenin were decreased
+    in A549, Hep3B, and SW480 cells treated with CuE for 4 hours.', 'Besides, cyclin
+    D1 and cyclin E, two downstream target genes of -catenin, were also downregulated
+    by CuE treatment.', FIG., '2.', CuE inhibits Wnt/-catenin signaling in cancer
+    cells., 'Nuclear -catenin contents were determined by western blot in A549, Hep3B,
+    and SW480  cells treated with CuE  or vehicle control for 4 hours.', Protein levels
+    of Lamin B were measured as loading controls., mRNA and protein levels of cyclin
+    D1 and cyclin E were examined by real-time PCR and western blot., 'A549, Hep3B,
+    and SW480  cells were treated with CuE  or vehicle control for 24 or 36 hours,
+    respectively.', Protein levels of GAPDH were measured as loading controls., 'p&lt;0.01,
+    p&lt;0.001.', 'It has been demonstrated that Wnt signaling is negatively regulated
+    by several proteins, including adenomatous polyposis coli, Axin, and Menin.15,16
+    Here, the authors observed that Menin expression was markedly increased in A549
+    cells treated with CuE, whereas the expression levels of APC and Axin remained
+    unaltered.', 'Moreover, similar results were also observed in Hep3B and SW480
+    cells.', FIG., '3.', CuE upregulates Menin expression in cancer cells., 'mRNA  and
+    protein  levels of Menin, APC, and Axin were measured by real-time PCR and western
+    blot in A549 cells treated with CuE  or vehicle control for 24 or 36 hours, respectively.',
+  Protein levels of GAPDH were measured as loading controls., mRNA and protein levels
+    of Menin were measured by real-time PCR and western blot., 'Hep3B  and SW480  cells
+    were treated with CuE  or vehicle control for 24 or 36 hours, respectively.',
+  Protein levels of GAPDH were measured as loading controls., p&lt;0.001., 'Next,
+    the authors sought to determine whether the effect of CuE on cell proliferation
+    relies on its upregulation of Menin.', 'To confirm this hypothesis, siRNA oligos-mediated
+    knockdown of Menin was performed in A549 cells.', 'As a result, the authors observed
+    that CuE could not regulate cell proliferation in A549 cells with Menin depletion.',
+  'Moreover, similar results were also obtained in Hep3B and SW480 cells.', 'Therefore,
+    the results of this study suggest that the antiproliferative roles of CuE, at
+    least in part, depend on Menin expression.', FIG., '4.', Inhibition of Menin by
+    small interfering RNA  oligos reversed the antiproliferative roles of CuE., 'Protein
+    levels of Menin in A549, Hep3B, and SW480  cells were determined by western blot.',
+  Cells were transfected with siRNA oligos targeting Menin or negative controls  for
+    24 hours., 'Cell proliferation activity was measured by BrdU incorporation assays
+    in A549, Hep3B, and SW480  cells.', Cells were pretransfected with siRNA oligos
+    for 24 hours and then treated with different dose of CuE., 'p&lt;0.01, p&lt;0.001.',
+  'Navigate ArticleTop of pageAuthor informationABSTRACTIntroductionMaterials and
+    MethodsResultsDiscussion &lt;&lt;Disclosure StatementReferencesCITING ARTICLES
+
+
+    In the present study, the authors explored the roles and molecular mechanisms
+    of CuE in cancer cells.', The antitumor activity of CuE has been documented in
+    vitro and in animal models by previous studies., 'It has been shown that CuE impaired
+    Arp2/3-dependent actin polymerization and suppressed Src/FAK/Rac1/MMP involved
+    pathway, leading to the suppression of cell migration and invasion in breast tumor
+    metastasis.17 Therefore, the results of this study add a novel mechanism for the
+    antitumor effects of CuE.', 'Hyperactivation of Wnt/-catenin pathway is the common
+    hallmark in various human cancer tissues.18 Nuclear retention of -catenin was
+    shown to predict a poor outcome and favorable risk indicator.19 In addition, Wnt/-catenin
+    pathway is also activated in the cells that are employed in the present study.',
+  'Menin, encoded by MEN1 gene, is identified as a tumor suppressor in pituitary tumor,
+    parathyroid tumor, adrenocortical carcinoma, insulinoma, and lung carcinoma.20
+    Heterozygous germline-inactivating mutation in the MEN1 gene usually results in
+    multiple endocrine neoplasia type 1, which is an inherited tumor syndrome that
+    includes susceptibility to pancreatic islet tumors.21 At the molecular level,
+    Menin could directly interact with -catenin and carry -catenin out of the nucleus
+    via nuclearcytoplasmic shuttling in a CRM1-dependent manner.22 Indeed, Menin overexpression
+    reduces -catenin nuclear accumulation and represses its transcriptional activity.22
+    In agreement, the authors found that CuE could induce Menin expression, by which
+    it attenuates the nuclear retention of -catenin.', 'However, the mechanisms of
+    upregulation of Menin by CuE remain unclear, which needs to be investigated in
+    the future.', 'In summary, the results of this study revealed that CuE exhibits
+    direct antiproliferative actions on cancer cells through inhibition of Wnt/-catenin
+    activation.', The presented data reinforce the fact that CuE might be a good candidate
+    for clinical trial in cancer treatment., 'Navigate ArticleTop of pageAuthor informationABSTRACTIntroductionMaterials
+    and MethodsResultsDiscussionDisclosure Statement &lt;&lt;ReferencesCITING ARTICLES
+
+
+    Navigate ArticleTop of pageAuthor informationABSTRACTIntroductionMaterials and
+    MethodsResultsDiscussionDisclosure StatementReferences &lt;&lt;CITING ARTICLES']
+title: Cucurbitacin-E Inhibits Multiple Cancer Cells Proliferation Through Attenuation
+  of Wnt/-Catenin Signaling

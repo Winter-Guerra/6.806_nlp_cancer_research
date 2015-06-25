@@ -1,274 +1,283 @@
 ---
+title: Selenium intake and breast cancer mortality in a cohort of Swedish women
 pathHash: 05526e5d7862d5a3d2bfbbc95cbc2575
-text: "\n\n\n\nSelenium is an important cofactor in the production of antioxidant
-  enzymes that may influence cancer progression. Selenium intake and cancer survival
-  has not been extensively studied; however, selenium supplementation has been demonstrated
+tags:
+- almonds
+- mushrooms
+- sunflower-oil
+- buckwheat
+- chicken
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Selenium
+  intake and breast cancer mortality in a cohort of Swedish women.md
+text: "\n\nSelenium is an important cofactor in the production of antioxidant enzymes
+  that may influence cancer progression. Selenium intake and cancer survival has not
+  been extensively studied; however, selenium supplementation has been demonstrated
   to reduce cancer mortality in nutritional intervention trials. We investigated whether
   dietary selenium intake was associated with survival among 3,146 women diagnosed
   with invasive breast cancer in the population-based Swedish Mammography Cohort.
   Selenium intake before breast cancer diagnosis was estimated using a food frequency
   questionnaire completed in 1987. Cox proportional hazard models were used to calculate
-  hazard ratios and 95 % confidence intervals for death from breast cancer, non-breast
+  hazard ratios  and 95 % confidence intervals  for death from breast cancer, non-breast
   cancer death, and death from any cause. During 28,172 person-years of follow-up
-  from 1987 to 2009, there were 416 breast cancer–specific deaths and 964 total deaths.
-  Dietary selenium intake was inversely associated with breast cancer–specific mortality
+  from 1987 to 2009, there were 416 breast cancerspecific deaths and 964 total deaths.
+  Dietary selenium intake was inversely associated with breast cancerspecific mortality
   and overall mortality. Women in the highest quartile of selenium intake had a multivariable
-  HR of death from breast cancer of 0.69 compared with those in the lowest quartile.
+  HR  of death from breast cancer of 0.69  compared with those in the lowest quartile.
   The inverse association between dietary selenium intake and breast cancer death
-  appeared strongest among women who had ever smoked comparing the highest to lowest
+  appeared strongest among women who had ever smoked  comparing the highest to lowest
   quartile. Our findings suggest that selenium intake before breast cancer diagnosis
-  may improve breast cancer–specific survival and overall survival. However, these
-  results may be limited to populations with low intakes of selenium.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSelenium
+  may improve breast cancerspecific survival and overall survival. However, these
+  results may be limited to populations with low intakes of selenium.\n\nSelenium
   is an essential trace element that is an important cofactor in the production of
   antioxidant enzymes that may influence cancer initiation and progression. Animal
-  models support a preventive role of selenium in carcinogenesis , while observational
+  models support a preventive role of selenium in carcinogenesis, while observational
   epidemiologic studies primarily provide some evidence for a role of selenium in
-  prostate cancer prevention with less convincing evidence for other cancers . Selenium
+  prostate cancer prevention with less convincing evidence for other cancers. Selenium
   intake and survival following cancer diagnosis has been less extensively studied;
   however, selenium supplementation has been demonstrated to reduce all-cause and
-  cancer mortality in some randomized nutritional intervention trials , while in the
+  cancer mortality in some randomized nutritional intervention trials, while in the
   Selenium and Vitamin E Cancer Prevention Trial, selenium supplementation had no
-  influence on all-cause mortality .\n\nTo our knowledge, only two studies have examined
+  influence on all-cause mortality.\n\nTo our knowledge, only two studies have examined
   the association between selenium intake and mortality among women with breast cancer.
   Holmes et al. reported a non-significant inverse association between selenium intake
-  and all-cause mortality among women in the Nurses’ Health Study . Conversely, Saquib
+  and all-cause mortality among women in the Nurses Health Study. Conversely, Saquib
   et al. observed a non-significant increase in all-cause mortality for selenium levels
-  exceeding the U.S. dietary reference upper tolerable limit compared with women with
-  adequate intake . In this study, we investigated whether pre-diagnosis selenium
+  exceeding the U.S. dietary reference upper tolerable limit  compared with women
+  with adequate intake. In this study, we investigated whether pre-diagnosis selenium
   intake was associated with breast cancer survival among women diagnosed with invasive
   breast cancer in the population-based Swedish Mammography Cohort, a population with
   low selenium intake. We also examined whether the association between selenium intake
   and survival differed by hormone receptor status, disease stage at diagnosis, by
-  oxidative stress related factors, and other antioxidant micronutrients.\n\n\n\n\n\nThis
-  study included 3,146 participants in the Swedish Mammography Cohort with invasive
+  oxidative stress related factors, and other antioxidant micronutrients.\n\nThis
+  study included 3,146 participants in the Swedish Mammography Cohort  with invasive
   breast cancer diagnosed from 1987 to 2008. Recruitment and characteristics of this
-  cohort have been previously described . In brief, the SMC is a population-based
-  cohort of 66,651 women born between 1914 and 1948 that were recruited between 1987
-  and 1990 in Västmanland and Uppsala counties in central Sweden. Participants completed
+  cohort have been previously described. In brief, the SMC is a population-based cohort
+  of 66,651 women born between 1914 and 1948 that were recruited between 1987 and
+  1990 in Vstmanland and Uppsala counties in central Sweden. Participants completed
   a baseline questionnaire with questions regarding diet, reproductive, and other
   factors. In 1997, a second questionnaire was extended to include dietary supplements,
   physical activity, and smoking status and was sent to participants who were still
-  alive and residing in the study area; 39,227 women returned this questionnaire.
+  alive and residing in the study area; 39,227  women returned this questionnaire.
   Those with an incorrect or missing national registration number, previous cancer
-  diagnosis, and implausible total energy intake were excluded from the baseline cohort.
-  Completion and return of the self-administered questionnaire was treated as informed
-  consent of study participants. The study was approved by the ethics committee at
-  the Karolinska Institutet.\n\nHistologically confirmed incident invasive breast
-  cancer cases were ascertained by linkage of the study cohort with the Swedish Cancer
-  Registry. This registry has been estimated to provide almost 100 % complete case
-  ascertainment . Estrogen receptor and progesterone receptor status and other clinical
-  characteristics were obtained by reviewing pathology laboratory works logs from
-  Uppsala University Hospital and by linkage with the clinical database at the Regional
-  Oncology Centre in Uppsala. ER and PR status, menopausal status at diagnosis, tumor
-  size, grade, lymph node involvement, and type of treatment were available for approximately
-  77 % of the cases. More detailed information on the evaluation of hormone receptor
-  status in this cohort has been described previously .\n\n\n\nDiet was assessed using
-  a 67-item food frequency questionnaire at baseline and a 96-item FFQ in 1997. Participants
-  were asked how often, on average, they had consumed each food item or beverage during
-  the previous 6 months or year. Eight responses were possible ranging from never
-  or seldom to four or more times per day. Information on dietary supplement use was
-  not obtained at baseline. Selenium intake was calculated as the frequency of consumption
-  of each food item multiplied by its selenium content per age-specific serving using
-  food composition values obtained from the Swedish National Food Administration Database
-  . The baseline FFQ has been previously validated for foods that were the main sources
-  of dietary selenium in our population. Among 129 participants randomly chosen from
-  the study population, correlation coefficients between the questionnaire and the
-  mean of four 1-week dietary records ranged 0.4–0.5 for fish , 0.3–0.6 for milk ,
-  0.3–0.7 for meat products , and 0.5 for eggs . Nutrient intakes were adjusted for
-  energy using the residual method .\n\n\n\nDate of death was identified through linkage
-  to the Swedish National Death Registry. Cause of death was determined by International
-  Classification of Diseases codes through linkage to the Cause of Death Registry
-  at the National Bureau of Health and Welfare.\n\n\n\nCox proportional hazard models
-  with time since diagnosis in months as the time scale were used to calculate hazard
-  ratios and 95 % confidence intervals for death from breast cancer. Participants
-  contributed person-time from the date of breast cancer diagnosis until death from
-  breast cancer, death from another cause or end of follow-up on December 31, 2009.
-  Baseline diet was considered the exposure in all analyses except when dietary change
-  was examined. Selenium intake was categorized in quartiles with the lowest quartile
-  as the reference group. Total caloric intake and age at diagnosis were included
-  in all models.\n\nEducation level, marital status, menopausal status at diagnosis,
-  body mass index, and calendar year of diagnosis were considered potential confounders
-  in all multivariable models. Parity, age at first birth, oral contraceptive use,
-  postmenopausal hormone use, height, and family history of breast cancer were not
-  observed to be confounders and were not included in the final models. Multivariable
-  models were adjusted for the following clinical characteristics: stage, grade of
-  tumor, radiation treatment, and chemotherapy/hormonal therapy. We also adjusted
-  for physical activity among women who completed the 1997 questionnaire. Tests for
-  linear trend were performed by assigning the median value of each quartile to each
-  participant in that group. We conducted sensitivity analyses excluding women with
-  stage IV cancer and excluding those who reported taking a supplement containing
+  diagnosis, and implausible total energy intake  were excluded from the baseline
+  cohort. Completion and return of the self-administered questionnaire was treated
+  as informed consent of study participants. The study was approved by the ethics
+  committee at the Karolinska Institutet.\n\nHistologically confirmed incident invasive
+  breast cancer cases were ascertained by linkage of the study cohort with the Swedish
+  Cancer Registry. This registry has been estimated to provide almost 100 % complete
+  case ascertainment. Estrogen receptor  and progesterone receptor  status and other
+  clinical characteristics were obtained by reviewing pathology laboratory works logs
+  from Uppsala University Hospital and by linkage with the clinical database at the
+  Regional Oncology Centre in Uppsala. ER and PR status, menopausal status at diagnosis,
+  tumor size, grade, lymph node involvement, and type of treatment were available
+  for approximately 77 % of the cases. More detailed information on the evaluation
+  of hormone receptor status in this cohort has been described previously.\n\nDiet
+  was assessed using a 67-item food frequency questionnaire  at baseline and a 96-item
+  FFQ in 1997. Participants were asked how often, on average, they had consumed each
+  food item or beverage during the previous 6 months  or year. Eight responses were
+  possible ranging from never or seldom to four or more times per day. Information
+  on dietary supplement use was not obtained at baseline. Selenium intake was calculated
+  as the frequency of consumption of each food item multiplied by its selenium content
+  per age-specific serving using food composition values obtained from the Swedish
+  National Food Administration Database. The baseline FFQ has been previously validated
+  for foods that were the main sources of dietary selenium in our population. Among
+  129 participants randomly chosen from the study population, correlation coefficients
+  between the questionnaire and the mean of four 1-week dietary records ranged 0.40.5
+  for fish, 0.30.6 for milk, 0.30.7 for meat products, and 0.5 for eggs. Nutrient
+  intakes were adjusted for energy using the residual method.\n\nDate of death was
+  identified through linkage to the Swedish National Death Registry. Cause of death
+  was determined by International Classification of Diseases  codes  through linkage
+  to the Cause of Death Registry at the National Bureau of Health and Welfare.\n\nCox
+  proportional hazard models with time since diagnosis in months as the time scale
+  were used to calculate hazard ratios  and 95 % confidence intervals  for death from
+  breast cancer. Participants contributed person-time from the date of breast cancer
+  diagnosis until death from breast cancer, death from another cause or end of follow-up
+  on December 31, 2009. Baseline diet  was considered the exposure in all analyses
+  except when dietary change was examined. Selenium intake was categorized in quartiles
+  with the lowest quartile as the reference group. Total caloric intake and age at
+  diagnosis were included in all models.\n\nEducation level, marital status, menopausal
+  status at diagnosis, body mass index, and calendar year of diagnosis were considered
+  potential confounders in all multivariable models. Parity, age at first birth, oral
+  contraceptive use, postmenopausal hormone use, height, and family history of breast
+  cancer were not observed to be confounders and were not included in the final models.
+  Multivariable models were adjusted for the following clinical characteristics: stage,
+  grade of tumor, radiation treatment, and chemotherapy/hormonal therapy. We also
+  adjusted for physical activity among women who completed the 1997 questionnaire.
+  Tests for linear trend were performed by assigning the median value of each quartile
+  to each participant in that group. We conducted sensitivity analyses excluding women
+  with stage IV cancer and excluding those who reported taking a supplement containing
   selenium on the 1997 FFQ.\n\nWe examined whether the association between selenium
   and breast cancer survival differed by hormone receptor status, disease stage at
-  diagnosis, smoking status, age, BMI, and other antioxidant micronutrients with a
-  likelihood ratio test comparing the model with the cross-product term between selenium
-  and each potential effect modifier to the model with main effects only. All tests
-  of statistical significance were two-sided and statistical analyses were performed
-  using SAS Version 9.2.\n\n\n\nDuring 28,172 person-years of follow-up contributed
+  diagnosis, smoking status, age, BMI, and other antioxidant micronutrients  with
+  a likelihood ratio test comparing the model with the cross-product term between
+  selenium and each potential effect modifier to the model with main effects only.
+  All tests of statistical significance were two-sided and statistical analyses were
+  performed using SAS Version 9.2.\n\nDuring 28,172 person-years of follow-up contributed
   by 3,146 breast cancer cases, there were 964 deaths with 416 deaths from breast
-  cancer. The mean age at diagnosis was 65 years and the median follow-up time was
+  cancer. The mean  age at diagnosis was 65 years  and the median follow-up time was
   9.0 years. Dietary assessment occurred a median of 10.6 years before breast cancer
-  diagnosis. Mean selenium intake was 24.7 μg/day. The main sources of dietary selenium
+  diagnosis. Mean selenium intake was 24.7 g/day. The main sources of dietary selenium
   in the study population were fish, dairy products, meat, eggs, and hard bread. Women
   in the highest quartile of selenium intake were more likely to have a post-secondary
   education, to use postmenopausal hormones, consumed more alcohol than women in the
   lowest quartile of selenium intake, and were less likely to have been diagnosed
-  with stage III or IV breast cancer.\n\n\nCharacteristics of 3,146 women with invasive
+  with stage III or IV breast cancer.\n\nCharacteristics of 3,146 women with invasive
   breast cancer in the Swedish Mammography Cohort by quartiles of dietary selenium
-  intakea  \n\n\n\n\n\nSelenium intake was inversely associated with breast cancer
-  mortality. Women in the highest quartile of selenium intake had a covariate-adjusted
-  HR of death from breast cancer of 0.64 compared with those in the lowest quartile.
-  Adjustment for clinical characteristics and treatment did not materially alter the
-  results. In a sensitivity analysis that excluded women with stage IV breast cancer,
-  results were not materially different than the main analysis. We also adjusted for
-  physical activity among women who completed the 1997 questionnaire and saw no change
-  in the effect estimates. Results were similar but slightly attenuated when death
-  from any cause was the outcome, and when death from a cause other than breast cancer
-  was considered the outcome, the covariate and clinical adjusted trend was borderline
+  intakea  \n\nSelenium intake was inversely associated with breast cancer mortality.
+  Women in the highest quartile of selenium intake had a covariate-adjusted HR  of
+  death from breast cancer of 0.64  compared with those in the lowest quartile. Adjustment
+  for clinical characteristics and treatment did not materially alter the results.
+  In a sensitivity analysis that excluded women with stage IV breast cancer, results
+  were not materially different than the main analysis. We also adjusted for physical
+  activity among women who completed the 1997 questionnaire and saw no change in the
+  effect estimates. Results were similar but slightly attenuated when death from any
+  cause was the outcome, and when death from a cause other than breast cancer was
+  considered the outcome, the covariate and clinical adjusted trend was borderline
   significant. The association between selenium intake and non-breast deaths appeared
   to be driven by deaths from other cancers as when these deaths were excluded the
-  association was attenuated and the trend was not significant.\n\n\nHazard ratios
-  and 95 % confidence intervals of breast cancer death by quartile of selenium intake
-  among 3,146 invasive breast cancer cases in the Swedish Mammography Cohort  \n\n\n\nbCox
+  association was attenuated and the trend was not significant.\n\nHazard ratios  and
+  95 % confidence intervals  of breast cancer death by quartile of selenium intake
+  among 3,146 invasive breast cancer cases in the Swedish Mammography Cohort  \n\nbCox
   proportional hazard model adjusted for age, energy intake, education level, marital
-  status, menopausal status at diagnosis, body mass index, and calendar year of diagnosis\n\ncCox
-  proportional hazard model adjusted for the variables above plus disease stage, grade,
-  radiation treatment, and chemotherapy and/or hormonal treatment\n\nWe evaluated
-  the association of foods that were the main sources of dietary selenium in our population
-  to explore if any of these foods could explain the association between selenium
-  and breast cancer–specific mortality. There was a non-significant inverse association
-  between fish consumption and breast cancer–specific mortality. Women consuming five
-  or more servings of fish per week had a covariate and clinical characteristics–adjusted
-  HR of 0.57 compared with those consuming less than one serving per week; however,
-  adjustment for selenium attenuated these results while selenium remained significantly
-  inversely associated with breast cancer mortality in this model. In addition, adjustment
-  for dietary marine ω-3 fatty acids did not alter the association. Other sources
-  of selenium, including milk, cheese, meat, eggs, and hard bread, as well as protein,
-  were not significantly associated with breast cancer–specific mortality and selenium
-  was still significantly associated with mortality following adjustment for these
-  foods and nutrients.\n\nNo heterogeneity in the associations between selenium and
-  breast cancer–specific mortality was observed by the hormone receptor status of
-  the tumor or by disease stage at diagnosis. The association between selenium and
-  breast cancer death did not vary according to intake of other antioxidants.\n\n\nHazard
-  ratios and 95 % confidence intervals of breast cancer death across hormone receptor
-  subtypes by quartile of selenium intake among 3,146 invasive breast cancer cases
-  in the Swedish Mammography Cohort  \n\n\n\nb P-value from likelihood ratio test
-  comparing a model with the cross-product term between selenium and hormone receptor
-  status to the model with main effects only\n\ncCox proportional hazard model adjusted
-  for age, energy intake, education level, marital status, menopausal status at diagnosis,
-  body mass index, and calendar year of diagnosis\n\ndCox proportional hazard model
-  adjusted for the variables above plus disease stage, grade, radiation treatment,
-  and chemotherapy and/or hormonal treatment\n\nWe also examined whether the association
-  between selenium and breast cancer death varied by the oxidative stress–related
-  factors of smoking status, age, and BMI. In the subset of 1,761 women who reported
-  their smoking habits on the 1997 questionnaire, there was the suggestion of a stronger
-  inverse association between selenium intake and breast cancer mortality among women
-  who had ever smoked. Among ever smokers, those in the highest quartile of selenium
-  intake had a covariate-adjusted HR of 0.31 and a covariate and clinical characteristics–adjusted
-  HR of 0.34 compared with women in the lowest quartile. The corresponding covariate-adjusted
-  HR for women who had never smoked was 0.72. However, the P value for heterogeneity
-  was not significant. There was no evidence of heterogeneity by age or BMI.\n\nWe
-  compared dietary selenium intake among women who completed both the 1987 and 1997
-  FFQs. Up to 84.3 % of women completing the 1997 FFQ remained in the same or adjacent
-  quartile of selenium intake compared with the 1987 FFQ. Among the subset of women
-  who were diagnosed with breast cancer from 1987 to 1996 and completed a FFQ in 1997
-  following breast cancer diagnosis, up to 85.3 % of these women remained in the same
-  or adjacent quartile of selenium intake following breast cancer diagnosis. However,
-  numbers were too small to examine the association between post-diagnosis selenium
-  intake and survival in this group.\n\nIn addition, 10.0 % of these 717 women reported
-  the use of a supplement containing selenium in 1997 compared with 11.2 % among all
-  women who completed both FFQs. In a sensitivity analysis that excluded women who
-  reported taking a supplement containing selenium in 1997 results were not materially
-  different than the main analysis.\n\n\n\nIn this prospective study among 3,146 women
-  with invasive breast cancer, dietary selenium intake was inversely associated with
-  breast cancer–specific and overall mortality. This association persisted after adjustment
-  for intake of foods with high selenium content indicating that selenium intake itself
-  was the most likely explanation for the observed inverse association. In addition,
-  there was the suggestion that the inverse association was stronger among women who
-  were ever smokers and thus exposed to higher levels of oxidative stress.\n\nThe
-  epidemiologic data regarding the relation between selenium and survival among women
-  with breast cancer are sparse. To our knowledge, only two studies have examined
-  the association between selenium intake and mortality following breast cancer diagnosis.
-  Holmes et al. examined post-diagnosis intake of selenium among 1,982 women with
-  invasive breast cancer in the Nurses’ Health Study and reported a non-significant
-  inverse association with all-cause mortality . Hazard ratios ;1.0 were observed
-  for the second through fifth quintiles compared with the first quintile with the
-  lowest point estimate for the third quintile. In contrast, among 2,939 women with
-  breast cancer enrolled in the Women’s Healthy Eating and Living Study, a u-shaped
-  association was observed with a non-significant positive association reported between
-  selenium intakes &gt;400 μg and all-cause mortality and a non-significant positive
-  association with selenium intake &lt;55 μg, using women with adequate intake as
-  the reference group . In Sweden, selenium levels in soil are naturally low and our
-  population had much lower selenium intake than these two American study populations.
-  The highest selenium quartile in our population had selenium levels of 27.7 μg/day
-  or higher corresponding to the lowest category in the WHEL Study. Holmes et al.
-  did not report the range of selenium intake among their breast cancer cases, but
-  previous analyses in the NHS using toenail selenium levels have implied that the
-  difference in selenium levels between the highest and lowest quintiles was at least
-  100 μg/day , which is higher than the range of values observed in our population.
-  Data from the National Health and Nutrition Examination Survey in the U.S. have
-  reported mean serum selenium levels of 134.7 μg/L among women ≥40 years, whereas
-  among a population of Swedish women with a median age of 38 years, median serum
-  selenium levels were 70 μg/L . It is possible that in populations with adequately
-  high levels of selenium intake, the protective effect of selenium may not be apparent
-  .\n\nPrevious investigations of intake of antioxidants and cancer prevention have
-  resulted in discordant results between observational studies and randomized nutritional
-  interventional trials. Some observational data suggest that higher intake of antioxidants
-  reduces risk of certain cancers , while intervention trials have observed an increased
-  risk of lung cancer with beta-carotene supplement intake  and with a combination
-  of beta-carotene and vitamin A , and an increased risk of prostate cancer with vitamin
-  E supplement intake . Our results are consistent with two of three intervention
-  trials that have examined selenium supplementation. The Nutritional Prevention of
-  Cancer trial randomized patients with a history of basal cell or squamous cell carcinomas
-  who were living in low selenium areas of the U.S. to 200 μg/day of selenium or placebo.
-  While selenium supplementation did not reduce the risk of basal cell or squamous
-  cell carcinomas, a significant reduction in total cancer mortality and a non-significant
-  reduction in all-cause mortality were observed . In the Nutritional Intervention
-  Trial in Linxian, China, where intake of several micronutrients is low, adults were
-  randomized to four different combinations of nutrients including a supplement containing
-  beta-carotene, vitamin E, and selenium. A reduction in total mortality was observed
-  in those receiving the beta-carotene, vitamin E, and selenium supplement but not
-  among those receiving the other supplements or placebo . In contrast, the SELECT
-  trial, which randomized U.S. and Canadian men to four groups, reported no association
-  between selenium supplementation either alone or with vitamin E and all-cause deaths,
-  a secondary study endpoint . Differences in baseline selenium plasma levels may
-  potentially explain the differing results between the NPC and Linxian trial and
-  SELECT. Participants in the NPC trial were recruited from low selenium areas in
-  the Eastern U.S., and baseline mean plasma selenium level of participants was 115.1
-  ng/mL . Baseline mean serum selenium concentration in a subset of the Linxian cohort
-  was 73 μg/L , while median baseline serum selenium levels ranged from 135.0 to 137.6
-  μg/L for the four groups in SELECT . In addition, in a follow-up report on the NPC
-  trial, selenium supplementation reduced prostate cancer incidence only among participants
-  in the bottom two tertiles of baseline plasma selenium further supporting a threshold
-  effect for the benefits of selenium .\n\nThe mechanisms through which selenium might
-  influence cancer development and progression are not clear but may involve its incorporation
-  into selenoproteins. The selenoprotein glutathione peroxidase has antioxidant activities
-  that may help prevent cellular damage from free radicals. Baliga et al. reported
-  that GPx-1 attenuated UV-induced micronuclei formation most likely through either
-  the prevention or repair of DNA damage . Mouse models have also demonstrated that
-  higher selenium intake may increase survival time and age at tumor onset as well
-  as decrease tumor incidence . The optimal activity of GPx is suggested to be reached
-  at selenium intakes of 55–75 μg/day  which is consistent with a threshold effect
-  above which intake of selenium may not appear to influence mortality or disease
-  risk. In contrast, at low levels of selenium intake such as those observed in our
-  population, the effect of selenium through its antioxidant activities may be most
-  evident.\n\nWe observed a stronger inverse association between selenium intake and
-  breast cancer mortality among women who were current or former smokers. Cigarette
-  smokers are subject to higher levels of oxidative stress as smoking is associated
-  with reactive oxygen species production . Although the mechanisms underlying the
-  interaction between selenium and smoking are not known, GPx activity has been shown
-  to be lower among smokers  and thus increased selenium intake may have a stronger
+  status, menopausal status at diagnosis, body mass index, and calendar year of diagnosis
+  \n\ncCox proportional hazard model adjusted for the variables above plus disease
+  stage, grade, radiation treatment, and chemotherapy and/or hormonal treatment \n\nWe
+  evaluated the association of foods that were the main sources of dietary selenium
+  in our population to explore if any of these foods could explain the association
+  between selenium and breast cancerspecific mortality. There was a non-significant
+  inverse association between fish consumption and breast cancerspecific mortality.
+  Women consuming five or more servings of fish per week had a covariate and clinical
+  characteristicsadjusted HR of 0.57  compared with those consuming less than one
+  serving per week; however, adjustment for selenium attenuated these results  while
+  selenium remained significantly inversely associated with breast cancer mortality
+  in this model. In addition, adjustment for dietary marine -3 fatty acids did not
+  alter the association. Other sources of selenium, including milk, cheese, meat,
+  eggs, and hard bread, as well as protein, were not significantly associated with
+  breast cancerspecific mortality and selenium was still significantly associated
+  with mortality following adjustment for these foods and nutrients.\n\nNo heterogeneity
+  in the associations between selenium and breast cancerspecific mortality was observed
+  by the hormone receptor status of the tumor  or by disease stage at diagnosis. The
+  association between selenium and breast cancer death did not vary according to intake
+  of other antioxidants.\n\nHazard ratios  and 95 % confidence intervals  of breast
+  cancer death across hormone receptor subtypes by quartile of selenium intake among
+  3,146 invasive breast cancer cases in the Swedish Mammography Cohort  \n\nb P-value
+  from likelihood ratio test comparing a model with the cross-product term between
+  selenium and hormone receptor status to the model with main effects only\n\ncCox
+  proportional hazard model adjusted for age, energy intake, education level, marital
+  status, menopausal status at diagnosis, body mass index, and calendar year of diagnosis
+  \n\ndCox proportional hazard model adjusted for the variables above plus disease
+  stage, grade, radiation treatment, and chemotherapy and/or hormonal treatment \n\nWe
+  also examined whether the association between selenium and breast cancer death varied
+  by the oxidative stressrelated factors of smoking status, age, and BMI. In the subset
+  of 1,761 women who reported their smoking habits on the 1997 questionnaire, there
+  was the suggestion of a stronger inverse association between selenium intake and
+  breast cancer mortality among women who had ever smoked. Among ever smokers, those
+  in the highest quartile of selenium intake had a covariate-adjusted HR of 0.31  and
+  a covariate and clinical characteristicsadjusted HR of 0.34  compared with women
+  in the lowest quartile. The corresponding covariate-adjusted HR for women who had
+  never smoked  was 0.72. However, the P value for heterogeneity was not significant.
+  There was no evidence of heterogeneity by age or BMI.\n\nWe compared dietary selenium
+  intake among women who completed both the 1987 and 1997 FFQs. Up to 84.3 % of women
+  completing the 1997 FFQ remained in the same or adjacent quartile of selenium intake
+  compared with the 1987 FFQ. Among the subset of women who were diagnosed with breast
+  cancer from 1987 to 1996 and completed a FFQ in 1997 following breast cancer diagnosis,
+  up to 85.3 % of these women remained in the same or adjacent quartile of selenium
+  intake following breast cancer diagnosis. However, numbers were too small to examine
+  the association between post-diagnosis selenium intake and survival in this group.\n\nIn
+  addition, 10.0 % of these 717 women reported the use of a supplement containing
+  selenium in 1997 compared with 11.2 % among all women who completed both FFQs. In
+  a sensitivity analysis that excluded women who reported taking a supplement containing
+  selenium in 1997 results were not materially different than the main analysis.\n\nIn
+  this prospective study among 3,146 women with invasive breast cancer, dietary selenium
+  intake was inversely associated with breast cancerspecific and overall mortality.
+  This association persisted after adjustment for intake of foods with high selenium
+  content indicating that selenium intake itself was the most likely explanation for
+  the observed inverse association. In addition, there was the suggestion that the
+  inverse association was stronger among women who were ever smokers and thus exposed
+  to higher levels of oxidative stress.\n\nThe epidemiologic data regarding the relation
+  between selenium and survival among women with breast cancer are sparse. To our
+  knowledge, only two studies have examined the association between selenium intake
+  and mortality following breast cancer diagnosis. Holmes et al. examined post-diagnosis
+  intake of selenium among 1,982 women with invasive breast cancer in the Nurses Health
+  Study  and reported a non-significant inverse association with all-cause mortality.
+  Hazard ratios ;1.0 were observed for the second through fifth quintiles compared
+  with the first quintile with the lowest point estimate for the third quintile. In
+  contrast, among 2,939 women with breast cancer enrolled in the Womens Healthy Eating
+  and Living  Study, a u-shaped association was observed with a non-significant positive
+  association reported between selenium intakes &gt;400 g and all-cause mortality
+  \ and a non-significant positive association with selenium intake &lt;55 g, using
+  women with adequate intake as the reference group. In Sweden, selenium levels in
+  soil are naturally low and our population had much lower selenium intake than these
+  two American study populations. The highest selenium quartile in our population
+  had selenium levels of 27.7 g/day or higher  corresponding to the lowest category
+  in the WHEL Study. Holmes et al. did not report the range of selenium intake among
+  their breast cancer cases, but previous analyses in the NHS using toenail selenium
+  levels have implied that the difference in selenium levels between the highest and
+  lowest quintiles was at least 100 g/day, which is higher than the range of values
+  observed in our population. Data from the National Health and Nutrition Examination
+  Survey  in the U.S. have reported mean serum selenium levels of 134.7 g/L among
+  women 40 years, whereas among a population of Swedish women with a median age of
+  38 years, median serum selenium levels were 70 g/L. It is possible that in populations
+  with adequately high levels of selenium intake, the protective effect of selenium
+  may not be apparent.\n\nPrevious investigations of intake of antioxidants and cancer
+  prevention have resulted in discordant results between observational studies and
+  randomized nutritional interventional trials. Some observational data suggest that
+  higher intake of antioxidants reduces risk of certain cancers, while intervention
+  trials have observed an increased risk of lung cancer with beta-carotene supplement
+  intake  and with a combination of beta-carotene and vitamin A, and an increased
+  risk of prostate cancer with vitamin E supplement intake. Our results are consistent
+  with two of three intervention trials that have examined selenium supplementation.
+  The Nutritional Prevention of Cancer  trial randomized patients with a history of
+  basal cell or squamous cell carcinomas who were living in low selenium areas of
+  the U.S. to 200 g/day of selenium or placebo. While selenium supplementation did
+  not reduce the risk of basal cell or squamous cell carcinomas, a significant reduction
+  in total cancer mortality and a non-significant reduction in all-cause mortality
+  were observed. In the Nutritional Intervention Trial in Linxian, China, where intake
+  of several micronutrients is low, adults were randomized to four different combinations
+  of nutrients including a supplement containing beta-carotene, vitamin E, and selenium.
+  A reduction in total mortality was observed in those receiving the beta-carotene,
+  vitamin E, and selenium supplement but not among those receiving the other supplements
+  or placebo. In contrast, the SELECT trial, which randomized U.S. and Canadian men
+  to four groups, reported no association between selenium supplementation either
+  alone or with vitamin E and all-cause deaths, a secondary study endpoint. Differences
+  in baseline selenium plasma levels may potentially explain the differing results
+  between the NPC and Linxian trial and SELECT. Participants in the NPC trial were
+  recruited from low selenium areas in the Eastern U.S., and baseline mean plasma
+  selenium level of participants was 115.1 ng/mL. Baseline mean serum selenium concentration
+  in a subset of the Linxian cohort was 73 g/L, while median baseline serum selenium
+  levels ranged from 135.0 to 137.6 g/L for the four groups in SELECT. In addition,
+  in a follow-up report on the NPC trial, selenium supplementation reduced prostate
+  cancer incidence only among participants in the bottom two tertiles of baseline
+  plasma selenium further supporting a threshold effect for the benefits of selenium.\n\nThe
+  mechanisms through which selenium might influence cancer development and progression
+  are not clear but may involve its incorporation into selenoproteins. The selenoprotein
+  glutathione peroxidase  has antioxidant activities that may help prevent cellular
+  damage from free radicals. Baliga et al. reported that GPx-1 attenuated UV-induced
+  micronuclei formation most likely through either the prevention or repair of DNA
+  damage. Mouse models have also demonstrated that higher selenium intake may increase
+  survival time and age at tumor onset as well as decrease tumor incidence. The optimal
+  activity of GPx is suggested to be reached at selenium intakes of 5575 g/day  which
+  is consistent with a threshold effect above which intake of selenium may not appear
+  to influence mortality or disease risk. In contrast, at low levels of selenium intake
+  such as those observed in our population, the effect of selenium through its antioxidant
+  activities may be most evident.\n\nWe observed a stronger inverse association between
+  selenium intake and breast cancer mortality among women who were current or former
+  smokers. Cigarette smokers are subject to higher levels of oxidative stress as smoking
+  is associated with reactive oxygen species production. Although the mechanisms underlying
+  the interaction between selenium and smoking are not known, GPx activity has been
+  shown to be lower among smokers  and thus increased selenium intake may have a stronger
   influence on smokers reaching optimal GPx activity levels than non-smokers. Selenium
   has also been found to decrease ROS generation  which may also explain the stronger
   effect observed among smokers.\n\nSelenium levels in foods may vary between geographic
   regions because of the selenium content of the soil where the food was produced.
   Thus, epidemiologic studies often prefer to use toenail or plasma selenium levels
-  to reflect body selenium status . A potential limitation of our study is the use
+  to reflect body selenium status. A potential limitation of our study is the use
   of FFQ to assess selenium intake including the lack of validation data specifically
   for selenium intake estimated from the FFQ. However, a previous study in a population
   of Swedish women reported a significant association between serum selenium levels
-  and fish consumption measured from a FFQ . The FFQ has been previously validated
-  with diet records for most foods that were the main contributors to selenium intake
-  . We expect that the errors in dietary assessment of selenium would be random and
+  and fish consumption  measured from a FFQ. The FFQ has been previously validated
+  with diet records for most foods that were the main contributors to selenium intake.
+  We expect that the errors in dietary assessment of selenium would be random and
   likely cause an attenuation of the true effect not create an artificial effect when
   none existed. In addition, the lower levels of selenium in foods in Sweden may limit
   the generalizability of our results as other populations are naturally exposed to
@@ -278,33 +287,33 @@ text: "\n\n\n\nSelenium is an important cofactor in the production of antioxidan
   limit the generalizability of our results.\n\nAnother limitation of our study was
   for the majority of our participants, we only had a pre-diagnosis assessment of
   diet and thus could not examine diet post-diagnosis during the follow-up period.
-  While studies among women with breast cancer have indicated that 30–40 % report
-  dietary change following diagnosis, the main changes reported were an increase in
-  fruit and vegetable consumption and a decrease in meat consumption . However, fruit
-  and vegetables were not primary contributors to selenium intake in our population
-  while meat consumption contributed to approximately 11 % of dietary selenium intake.
-  In addition, among a cohort of breast cancer patients in the U.K., no change in
-  selenium intake pre- to post-diagnosis was observed . In our study, up to 85 % of
-  women who completed a FFQ post-diagnosis remained in the same or adjacent quartile
-  of selenium intake following diagnosis.\n\nResidual or unmeasured confounding by
-  healthy lifestyle characteristics such as physical activity or other dietary factors
-  is a possibility. However, we adjusted for a variety of potential confounders with
-  minimal change in our effect estimates. We also adjusted for physical activity in
-  the subset of breast cancer cases with this information and the association did
-  not materially change. Additional adjustment for the foods that were the highest
-  contributors to selenium did not materially change the effect estimates. Finally,
-  we cannot rule out that the results may be because of chance.\n\nTo our knowledge,
-  this is the largest study to examine the association between dietary selenium intake
-  and mortality with 964 total deaths including 416 breast cancer deaths which allowed
-  us the power to not only evaluate breast cancer–specific mortality but also whether
-  the association differed by tumor hormone receptor status or other potential effect
-  modifiers. Strengths also include a prospective population-based cohort design,
-  complete follow-up of all cases, long follow-up period, detailed information on
-  diet, and data on many important covariates, including clinical and lifestyle characteristics.\n\nIn
-  conclusion, we observed that selenium intake before breast cancer diagnosis may
-  improve breast cancer–specific survival and overall survival. These findings may
-  be limited to populations with low intakes of selenium.\n\n\n\nThis work was supported
-  by the Swedish Cancer Foundation, the Swedish Research Council/Committee for Infrastructure,
-  the Swedish Foundation for International Cooperation in Research and Higher Education,
-  and the Regional Research Fund Uppsala-Örebro Region.\n\n\n\n"
+  While studies among women with breast cancer have indicated that 3040 % report dietary
+  change following diagnosis, the main changes reported were an increase in fruit
+  and vegetable consumption and a decrease in meat consumption. However, fruit and
+  vegetables were not primary contributors to selenium intake in our population while
+  meat consumption contributed to approximately 11 % of dietary selenium intake. In
+  addition, among a cohort of breast cancer patients in the U.K., no change in selenium
+  intake pre- to post-diagnosis was observed. In our study, up to 85 % of women who
+  completed a FFQ post-diagnosis remained in the same or adjacent quartile of selenium
+  intake following diagnosis.\n\nResidual or unmeasured confounding by healthy lifestyle
+  characteristics such as physical activity or other dietary factors is a possibility.
+  However, we adjusted for a variety of potential confounders with minimal change
+  in our effect estimates. We also adjusted for physical activity in the subset of
+  breast cancer cases with this information and the association did not materially
+  change. Additional adjustment for the foods that were the highest contributors to
+  selenium did not materially change the effect estimates. Finally, we cannot rule
+  out that the results may be because of chance.\n\nTo our knowledge, this is the
+  largest study to examine the association between dietary selenium intake and mortality
+  with 964 total deaths including 416 breast cancer deaths which allowed us the power
+  to not only evaluate breast cancerspecific mortality but also whether the association
+  differed by tumor hormone receptor status or other potential effect modifiers. Strengths
+  also include a prospective population-based cohort design, complete follow-up of
+  all cases, long follow-up period, detailed information on diet, and data on many
+  important covariates, including clinical and lifestyle characteristics.\n\nIn conclusion,
+  we observed that selenium intake before breast cancer diagnosis may improve breast
+  cancerspecific survival and overall survival. These findings may be limited to populations
+  with low intakes of selenium.\n\nThis work was supported by the Swedish Cancer Foundation,
+  the Swedish Research Council/Committee for Infrastructure, the Swedish Foundation
+  for International Cooperation in Research and Higher Education, and the Regional
+  Research Fund Uppsala-rebro Region.\n\n"
 ...

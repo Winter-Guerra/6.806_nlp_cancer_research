@@ -1,27 +1,26 @@
-['A number of studies have found an inverse association between breast cancer risk
-    and increasing consumption of tomatoes, components of tomatoes, or vegetables
-    that have high levels of carotenoids (including tomatoes).', "For example, one\
-    \ study comprising 84,805 postmenopausal women in the Women's Health Initiative\
-    \ Observational Study found that dietary \u03B1-carotene, \u03B2-carotene, and\
-    \ lycopene were each found to be inversely associated with the risk of ER+/PR+\
-    \ breast cancer.", 'Another study found that dietary carotenoids inhibit the cancer-promoting
-    effects of both estradiol and genistein (the phytoestrogen found in soy), thereby
-    reducing their harmful effect in hormone-dependent breast cancer.', 'Studies of
-    naringenin, a tomato flavanone, have shown that it also inhibits ER+ breast cancer
-    cell growth and migration in the presence of estradiol.', 'Delphinidin, an anthocyanin
-    found in tomatoes, has been shown to block epidermal growth factor receptor (EGFR)
-    signaling in breast cancer cells (EGFR is expressed at high levels in at least
-    30% of breast cancers and is associated with a poor prognosis).', 'However, one
-    large study found no association between dietary or plasma lycopene levels and
-    the risk of breast cancer in middle-aged and older women.', Several studies of
-    early-stage breast cancer survivors have found that higher levels of cartenoids
-    in the blood are associated with both lower risk of break cancer recurrence and
-    lower risk of a new primary breast tumor., "Another study found that plasma levels\
-    \ of retinol (a form of vitamin A that is a by-product of \u03B2-carotene in the\
-    \ body) also are positively associated with breast cancer survival in postmenopausal\
-    \ women.", 'As noted above, tomatoes are a good dietary source of melatonin.',
-  'Melatonin protects against breast cancer in several ways, including by reducing
-    aromatase activity within the breast, thereby reducing estrogen production.',
-  Several studies have shown that the cardioprotective effect of tomatoes and lycopene
-    extends to reducing the impact of myocardial toxicity from Adriamycin (doxorubicin)
-    chemotherapy by ameliorating cardiac cell injury.]
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml
+tags: tomatoes
+text: ['A number of studies have found an inverse association between breast cancer
+    risk and increasing consumption of tomatoes, components of tomatoes, or vegetables
+    that have high levels of carotenoids.', 'For example, one study comprising 84,805
+    postmenopausal women in the Womens Health Initiative Observational Study found
+    that dietary -carotene, -carotene, and lycopene were each found to be inversely
+    associated with the risk of ER+/PR+ breast cancer.', 'Another study found that
+    dietary carotenoids inhibit the cancer-promoting effects of both estradiol and
+    genistein, thereby reducing their harmful effect in hormone-dependent breast cancer.',
+  'Studies of naringenin, a tomato flavanone, have shown that it also inhibits ER+
+    breast cancer cell growth and migration in the presence of estradiol.', 'Delphinidin,
+    an anthocyanin found in tomatoes, has been shown to block epidermal growth factor
+    receptor  signaling in breast cancer cells.', 'However, one large study found
+    no association between dietary or plasma lycopene levels and the risk of breast
+    cancer in middle-aged and older women.', Several studies of early-stage breast
+    cancer survivors have found that higher levels of cartenoids in the blood are
+    associated with both lower risk of break cancer recurrence and lower risk of a
+    new primary breast tumor., Another study found that plasma levels of retinol  also
+    are positively associated with breast cancer survival in postmenopausal women.,
+  'As noted above, tomatoes are a good dietary source of melatonin.', 'Melatonin protects
+    against breast cancer in several ways, including by reducing aromatase activity
+    within the breast, thereby reducing estrogen production.', Several studies have
+    shown that the cardioprotective effect of tomatoes and lycopene extends to reducing
+    the impact of myocardial toxicity from Adriamycin  chemotherapy by ameliorating
+    cardiac cell injury.]

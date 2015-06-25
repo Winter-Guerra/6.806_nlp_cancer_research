@@ -1,0 +1,369 @@
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Induction
+  of Caspase-dependent Apoptosis by Apigenin by Inhibiting STAT3 Signaling in HER2-overexpressing
+  MDA-MB-453 Bre.md
+pathHash: 662a234117976cc4657d1e6dfad6c736
+tags: [artichokes, bell-peppers, celery, onions-and-garlic, parsley]
+text: ['Background: This study aimed to examine the effect of apigenin on proliferation
+    and apoptosis in HER2-overexpressing MDA-MB-453 breast cancer cells.', 'Materials
+    and Methods: The antiproliferative effects of apigenin were examined by proliferation
+    and MTT assays.', The effect of apigenin on apoptotic molecules was determined
+    by western blotting., RT-PCR was performed to measure mRNA levels of HIF-1 and
+    VEGF., ELISA assay was performed to measure intracellular VEGF levels., Immunocytochemistry
+    was performed to evaluate nuclear STAT3 level., 'Results: Apigenin inhibited the
+    proliferation of MDA-MB-453 cells.', 'Apigenin up-regulated the levels of cleaved
+    caspase-8 and caspase-3, and induced the cleavage of PARP.', Apigenin induced
+    extrinsic apoptosis and blocked the activation  of JAK2 and STAT3., Apigenin inhibited
+    CoCl2-induced VEGF secretion and decreased the nuclear staining of STAT3., 'Conclusion:
+    Apigenin exerts its antiproliferative activity by inhibiting STAT3 signaling.',
+  Apigenin could serve as a useful compound to prevent or treat HER2-overexpressing
+    breast cancer., Cancer prevention/treatment through food may be largely feasible
+    by increased consumption of fruits and vegetables., Considerable efforts have
+    been put to identify plant-derived dietary agents which could prevent or treat
+    cancer., 'A naturally-occurring plant flavone,, apigenin abundantly presents in
+    common fruits and vegetables including parsley, onions, oranges, tea, chamomile,
+    wheat sprouts and some seasonings.', 'Apigenin is known to exert anti-oxidant,
+    anti-inflammatory, anti-telomerase, and anti-depressant activities.', 'Notably,
+    apigenin also possesses antitumor properties and, therefore, has special interest
+    for the development of a novel chemopreventive and/or chemotherapeutic agents.',
+  It was previously demonstrated that apigenin reduces the tumor volume and mass of
+    androgen-sensitive 22Rv1 and androgen-insensitive PC-3-implanted cells., Apigenin
+    also suppresses inducible cyclooxygenase and inducible nitric oxide synthase in
+    mouse macrophages  and inhibits ultraviolet light-induced skin carcinogenesis
+    in SKH-1 mice., 'In addition, apigenin induces growth inhibition and apoptosis
+    in a variety of cancer cell lines, including breast, lung, colon, prostate, leukemia,
+    and pancreatic  cells.', 'Apoptosis plays an important role in determining cellular
+    fate; it participates in development, cellular homeostasis, and both physiological
+    as well as pathological processes.', Caspases are aspartate-specific cysteine
+    proteases and members of the interleukin-1-converting enzyme family and essential
+    in cells for apoptosis., 'The caspase cascade system plays vital roles in the
+    induction, transduction and amplification of intracellular apoptotic signals.',
+  'The apoptotic-signaling cascade is divided into two major pathways, extrinsic and
+    intrinsic.', 'The extrinsic pathway is related to the activation of death receptors,
+    such as Fas and the tumor necrosis factor receptors  and the cleavage of caspase-8
+    and caspase-3.', 'The intrinsic pathway is related to changes in the mitochondrial
+    membrane potential, the mitochondrial permeability transition, and the cleavage
+    of caspase-9 and caspase-3.', 'In both the extrinsic and intrinsic pathways, caspase-3
+    is responsible for the cleavage of poly  polymerase  during cell death.', Human
+    epidermal growth factor receptor-2 -positive breast cancers tend to grow more
+    quickly than HER2-negative breast cancers., 'In HER2-positive breast cancers,
+    hormonal receptors expression is associated with a poor prognosis despite the
+    hormone therapy.', HER2 amplification or overexpression is a risk factor for recurrence.,
+  Between 15 and 25 out of every 100 women with breast cancer  have HER2-positive
+    cancers., Effective treatments called targeted  therapies have been developed
+    to treat HER2-positive breast cancer., The drug most commonly used is trastuzumab.,
+  'Trastuzumab induces the down-regulation of HER-2/Neu, leading to the disruption
+    of receptor dimerization and signaling.', 'Trastuzumab also causes arrests during
+    G1 phase of the cell cycle and inhibits the phosphorylation of p27Kip1, resulting
+    in the suppression of cdk2 activity and reduced proliferation.', Trastuzumab suppresses
+    angiogenesis by both the induction of anti-angiogenic factors and the repression
+    of pro-angiogenic factors., 'However, many women do not respond to trastuzumab
+    or develop resistance to this drug.', This has resulted in significant efforts
+    to identify other compounds that can effectively treat HER-2-overexpressing breast
+    cancer., 'Previously, we reported that genistein and quercetin induce apoptosis
+    via the extrinsic pathway inhibiting nuclear factor-kappa B  signaling in HER2-transfected
+    MCF-7 cells.', 'We also reported that apigenin promotes apoptosis via the extrinsic
+    pathway, inducing p53 and inhibiting signal transducer and activator of transcription-3  and
+    NF-B signaling in HER-2-transfected MCF-7 cells.', 'In the present study, we investigated
+    whether apigenin produces apoptosis-inducing cleavage of caspases and PARP and
+    regulating STAT3 signaling.', We also investigated whether apigenin regulates
+    the levels of VEGF which is a STAT3 target gene., Our study will provide new insight
+    on the role of phytoestrogens in the prevention or treatment of HER2-overxpressing
+    breast cancer., Compounds., 'Apigenin  was purchased from Sigma Chemical Co..
+    Apigenin was dissolved in dimethyl sulfoxide, and the final concentration of DMSO
+    in the controls and each sample did not exceed 0.1%.', We found that 0.1% DMSO
+    did not affect the cell growth rate compared to 0% DMSO  in the breast cancer
+    cells., 'The caspase-8 inhibitor Z-IETD-fmk and the caspase-9 inhibitor Z-LEHD-fmk
+    were obtained from R&amp;D Systems, Inc..', The STAT3 inhibitor S31-201 was obtained
+    from Calbiochem., An EZ-western chemiluminescent detection kit was purchased from
+    Daeillab Service Co.., Cell culture., 'The human breast cancer cell line MDA-MB-453  was
+    cultured in RPMI containing 50 U/ml penicillin, 50 mg/ml streptomycin and 10%
+    FBS  at 37C in an atmosphere of 5% CO2.', Antibodies., 'Primary antibodies against
+    FAS, cleaved caspase-8, caspase-3, cleaved caspase-3, PARP, and HER2 were purchased
+    from Cell Signaling Technology, Inc.. Primary antibodies against Bcl-2, BAX, p53,
+    phospho-p53, p21 and VEGF were obtained from Santa Cruz Biotechnology, Inc.. Primary
+    antibodies against Bcl-xL and HIF-1 was purchased from BD Biosciences.', 'Primary
+    antibodies against STAT3, phospho-STAT3, phospho-JAK2  were obtained from Upstate-Millipore.',
+  The anti-tubulin antibody was from Sigma Chemical Co. Horseradish peroxidase -conjugated
+    secondary antibodies  were purchased from Calbiochem., Cell proliferation assay.,
+  Cells were seeded in 12-well culture plates at a density of 8104 cells/well., 'After
+    the cells were exposed to different concentrations of apigenin  and incubated
+    for 3 days, they were harvested by trypsinization, re-suspended in 1-2 ml medium,
+    and counted using a hemocytometer.', MTT assay., Cells were seeded in 96-multiwell
+    culture plates at densities of 5103 \- 7103 cells/well and incubated overnight
+    at 37C., 'Then, they were treated with different concentrations of apigenin  for
+    24 h, 48 h, or 72 h. After incubation, MTT reagent  was added to each well, and
+    the plates were incubated in the dark at 37C for 2 h. At the end of the incubation,
+    the medium was removed, the resulting formazan was dissolved in DMSO, and the
+    optical density was measured at 570 nm using an ELISA plate reader.', Cell-cycle
+    analysis by flow cytometry., Cells were harvested with 0.25% trypsin and washed
+    once with phosphate buffered saline., 'After centrifugation, the cells were fixed
+    in cold 95% ethanol with 0.5% Tween-20, and stored at 20C for at least 30 min.',
+  The cells were incubated in 50 g/ml propidium iodide   at room temperature in the
+    dark for 30 min., 'Analysis of the apoptotic cells was performed with a FACScan
+    flow cytometer, and the data were analyzed using CellQuest software.', Immunocytochemistry.,
+  'Cells  were seeded in 8-well chamber slides, incubated for 24 h at 37C and treated
+    with apigenin  in the presence or absence of CoCl2 for another 24 h. The cells
+    were fixed with 4% paraformaldehyde for 30 min and treated with 3% hydrogen peroxide  in
+    methanol for 20 min to quench the endogenous peroxidase activity.', 'The cells
+    were washed with PBS, blocked with 5% BSA in PBS for 1 h and incubated with the
+    anti-STAT3 primary antibody  overnight at 4C.', 'After washing with PBS, the cells
+    were incubated with the anti-rabbit biotin-conjugated secondary antibody for 1
+    h at room temperature.', 'Then, the cells were treated with Vectastain ABC reagent  for
+    30 min at 4C and stained with diaminobenzidine tetrachloride  and hematoxylin.',
+  The cells were mounted with mounting medium and subsequently analyzed by microscopy.,
+  Measurement of VEGF secreted from MDA-MB-453 cells by ELISA., 'To assess the level
+    of VEGF in the MDA-MB-453 cell supernatants, the cells were treated with apigenin  in
+    the presence or absence of CoCl2  to mimic hypoxia.', 'After 24 h, the media were
+    collected, centrifuged to remove the cellular debris, and stored at 70C until
+    assayed for VEGF.', The amount of VEGF secreted into the culture medium was measured
+    by ELISA according to the manufacturers instructions., 'Briefly, 96 well plates
+    were coated with capture antibody in ELISA coating buffer and incubated overnight
+    at 4C.', The plates were then washed with PBS with 0.05% Tween 20  and subsequently
+    blocked with 10% FBS in PBS for 1 h at 20C., 'Serial dilutions of standard antigen
+    or sample in dilution buffer  were added to the plates, and the plates were incubated
+    for 2 h at 20C.', 'After washing, biotin-conjugated anti-mouse IgE and streptavidin-conjugated
+    horseradish peroxidase  were added to the plates, and the plates were incubated
+    for 1 h at 20C.', 'Finally, the tetramethylbenzidine  substrate was added to the
+    plates, and after 15 min of incubation in the dark, 2 N H2SO4 was added to stop
+    the reaction.', The optical density was measured at 450 nm on an automated ELISA
+    reader., Western blot analysis., 'Cells were lysed in modified RIPA buffer, 1
+    mM EDTA, 1 mM phenylmethylsulfonyl fluoride, 1 mM NaF, 1 mM Na3VO4, and a protease
+    inhibitor mixture).', 'The lysates were cleared by centrifugation at 13,000 rpm
+    for 15 min, and the supernatants were collected.', The protein concentration was
+    quantified using a Bradford Protein Assay., Equal amounts of protein lysates were
+    used for western blot analysis with the indicated antibodies., The immunoreactive
+    protein bands were detected using an EZ-Western Detection kit., RNA extraction
+    and reverse transcription-polymerase chain reaction., Whole-cell lysates under
+    diverse conditions were prepared by washing with ice-cold PBS., Total RNA was
+    isolated using Trizol reagent., 'Total RNA was treated with 2 units of RNase-free
+    DNase at 37C for 30 min, extracted with phenol/chloroform/isoprophanol, and precipitated
+    with ethanol.', 'The RNA concentration was determined by measuring the absorbance
+    at 260 nm using a nanodrop, and the ratio of absorbance at 260 nm and 280 nm was
+    1.8 or higher.', 'cDNA was synthesized from 2 g of total RNA as a template in
+    20 L reaction mixture containing 5X first strand buffer, 0.1 M DTT, 10 mM dNTP,
+    and 200 unit M-MLV reverse transcriptase.', cDNA was incubated at 42C for 1 h
+    and inactivated at 95C for 5 min., 'After inactivation, the cDNA was stored at
+    20C until use.', RT-PCR was performed by co-amplification of the genes with a
+    reference gene by use of the cDNA template and corresponding gene-specific primer
+    sets., 'The primer sequences are shown in Table I. PCR was conducted out in a
+    total volume of 25 L containing 5 L of cDNA solution, 25 M of sense primers, and
+    25 M of antisense primers, 1PCR buffer, 2.5 mM MgCl2, and 2.5 unit Taq DNA polymerase.',
+  'The sequencing involved 30 cycle at 94C, 45 sec for denaturation, 58C, 45 sec for
+    annealing, and 72C, 45 sec for extension.', The resulting PCR products were resolved
+    on 1% agarose gels containing ethidium bromide., Statistical analysis., All experiments
+    were performed in triplicate., 'The data for the cell proliferation assay, MTT
+    assay and ELISA assay are expressed as the meanstandard deviation.', The standard
+    deviations for all of the measured biological parameters are displayed in the
+    appropriate Figures., 'A students t-test was used for single variable comparisons,
+    and a p-value of ;0.05 was considered statistically significant.', Apigenin suppresses
+    the growth of MDA-MB-453 cells., We investigated the growth suppressive activity
+    of three different phytoestrogens  in MDA-MB-453 cells using a cell proliferation
+    assay., 'As shown in Figure 1A, apigenin, genistein and quercetin significantly
+    inhibited MDA-MB-453 cell proliferation in a dose-dependent manner  after 72 h
+    of treatment.', 'In addition, the time-dependent growth suppressive activity of
+    apigenin was measured by the MTT assay, as shown in Figure 1B.', 'It seems that
+    the proliferation assay was more sensitive than the MTT assay with respect to
+    measuring the intensity of the cell growth inhibition, as shown in Figure 1A and
+    1B.', 'Moreover, the growth inhibition induced by apigenin was verified by microscopic
+    observation.', The results in Figure 1C show that apigenin effectively inhibited
+    the growth rate of MDA-MB-453 monolayer cells after 72 h of treatment., 'Of note,
+    apigenin also induced morphological changes in these cells.', The growth-suppressive
+    activity of apigenin is accompanied by an increase in the subG0/G1 apoptotic population
+    in MDA-MB-453 cells., 'To investigate whether apigenin inhibits cell proliferation
+    by promoting changes in cell-cycle progression, the effect of apigenin on the
+    cell-cycle profile was assessed in MDA-MB-453 cells.', 'For this purpose, cells
+    were treated with apigenin  for 72 h and then analyzed for cell-cycle stage by
+    flow cytometry.', The results demonstrated that apigenin induced an increase in
+    the sub G0/G1 apoptotic population in MDA-MB-453 cells., Apigenin induces apoptosis
+    via a caspase-dependent pathway in MDA-MB-453 cells., 'In this step, we investigated
+    whether apigenin activates caspase-dependent apoptosis by measuring the expression
+    of caspase-8, caspase-3, and PARP.', 'We observed that apigenin up-regulated the
+    levels of cleaved caspase-8 and caspase-3, and induced the cleavage of PARP in
+    SKBR3 cells.', 'We also found that the cleavage of caspase-8, caspase-3, and PARP
+    was inhibited by the caspase-8 inhibitor Z-IETD-fmk and the caspase-9 inhibitor
+    Z-LEHD-fmk, but apigenin prevented this inhibition and was able to induce the
+    cleavage of caspase-3 and PARP in the presence of Z-IETD-fmk and Z-LEHD-fmk.',
+  'Moreover, the caspase-8 and caspase-9 inhibitors did not suppress cell growth,
+    but apigenin was able to induce apoptosis even in their presence.', These results
+    confirm that apigenin strongly promotes apoptosis via a caspase-dependent mechanism.,
+  Effect of apigenin on MDA-MB-453 cell growth., 'MDA-MB-453 cells were treated with
+    different doses of apigenin, genistein and quercetin.', 'After 72 h, cell viability
+    was assessed using a cell proliferation assay.', MDA-MB-453 cells were treated
+    with different doses of apigenin., 'The relative cell growth rate was measured
+    by the MTT assay after 24 h, 48 h and 72 h. The growth rate of the vehicle-treated
+    cells was set to 100%, and the relative decrease in cell viability resulting from
+    the phytoestrogen treatment was expressed as a percentage of the control.', MDA-MB-453
+    cells were treated with different doses of apigenin  for 72 h and photographed
+    by phase-contrast microscopy., Control cells were treated with DMSO-alone., Data
+    are shown as the means of three independent experiments., 'p&lt;0.05, p&lt;0.01,
+    p&lt;0.001.', Effect of apigenin on the cell cycle and subG0/G1 apoptotic population
+    of MDA-MB-453 cells., MDA-MB-453 cells were treated with apigenin  and fixed for
+    72 h for flow cytometry., Propidium iodide-labeled nuclei were analyzed for DNA
+    content., 'The subG0/G1 apoptotic population and the G1, S and G2/M phase populations
+    were quantified using DNA histograms.', The data shown are representative of three
+    independent experiments that gave similar results., Effect of apigenin on the
+    expression of apoptotic molecules in MDA-MB-453 cells., Apigenin induces apoptosis
+    via caspase-dependent apoptosis pathway in MDA-MB-453 cells., 'MDA-MB-453 cells
+    were treated with apigenin  for 24 h. Whole-cell lysates were analyzed by western
+    blotting with anti-FAS, anti-cleaved caspase-8, anti-caspase-3, anti-cleaved caspase-3,
+    anti-PARP and anti-tubulin antibodies.', The data shown are representative of
+    three independent experiments that gave similar results., Effect of caspase-8
+    and caspase-9 inhibitors on apigenin-induced apoptosis in MDA-MB-453 cells., 'MDA-MB-453
+    cells were exposed to 60 M apigenin with or without the caspase-8 inhibitor  or
+    the caspase-9 inhibitor  for 24 h, the cell lysates were separated by SDS-PAGE,
+    and western blotting with specific antibodies was performed.', The data shown
+    are representative of three independent experiments that gave similar results.,
+  Effect of caspase-8 and caspase-9 inhibitors on MDA-MB-453 cell proliferation.,
+  MDA-MB-453 cells were exposed to 60 M apigenin with or without the caspase-8 inhibitor  or
+    the caspase-9 inhibitor  for 72 h and photographed by phase contrast microscopy.,
+  Apigenin induces extrinsic apoptosis in MDA-MB-453 cells., 'Next, we investigated
+    whether apoptosis induced by apigenin occurs via the extrinsic apoptosis pathway
+    in MDA-MB-453 cells.', 'For this purpose, we measured the levels of BCL2 family
+    members  which are important in non-extrinsic  apoptosis pathway.', 'We found
+    that apigenin failed to regulate the levels of BAX, Bcl-2, and Bcl-XL in MDA-MB-453
+    cells as seen in Figure 4A and 4B.', We also measured the loss of mitochondrial
+    transmembrane potential  using JC-1., JC-1 is able to selectively enter mitochondria
+    and reversibly-transforms color from red to green when the membrane potential
+    decreases., 'In non-apoptotic cells with high mitochondrial m, JC-1 spontaneously
+    forms complexes known as J-aggregates with intense red fluorescence.', 'On the
+    other hand, in apoptotic cells  with low m, JC-1 remains in the monomeric form,
+    which shows only green fluorescence.', 'In our study, apigenin did not induce
+    a low mitochondrial transmembrane potential, showing relatively weak green fluorescence  as
+    compared to FCCP.', These results demonstrate that apigenin does not induce apoptosis
+    via the intrinsic mitochondrial pathway but induces apoptosis via the extrinsic
+    pathway in MDA-MB-453 cells., Apigenin induces apoptosis via the extrinsic pathway
+    in MDA-MB-453 cells., and  analysis of intrinsic apoptosis-related molecules.,
+  'MDA-MB-453 cells were treated with apigenin  for 24 h. Total proteins were analyzed
+    by western blotting with anti-Bcl-2, anti-BAX, anti-Bcl-L and anti-tubulin antibodies.',
+  MDA-MB-453 cells were incubated with apigenin  for 72 h and were dyed with JC-1.,
+  'The data were analyzed by FACSCalibur flow cytometry measuring the green fluorescence
+    and red fluorescence at 514/529 nm  and 585/590 nm, respectively.', The data shown
+    are representative of three independent experiments that gave similar results.,
+  Effect of apigenin on STAT3 activation in MDA-MB-453 cells., 'MDA-MB-453 cells were
+    treated with apigenin  for 24 h. Whole-cell lysates were analyzed by western blotting
+    with anti-HER2, anti-p-p53, anti-p53, anti-p21 and anti-tubulin antibodies.',
+  'MDA-MB-453 cells were treated with apigenin  for 24 h. Whole-cell lysates were
+    analyzed by western blotting with anti-p-JAK2, anti-p-STAT3, anti-STAT3, anti-VEGF,
+    and anti-tubulin antibodies.', MDA-MB-453 cells were treated with apigenin  for
+    24h in the presence or absence of CoCl2., 'Whole-cell lysates were analyzed by
+    western blotting with anti-phospho-STAT3, anti-HIF-1, anti-STAT3, and anti-tubulin
+    antibodies.', MDA-MB-453 cells were treated with apigenin  for 24 h in the presence
+    or absence of CoCl2 and then submitted to immunocytochemistry for detection of
+    nuclear STAT3., The data shown are representative of three independent experiments
+    that gave similar results., Effect of apigenin on the levels of HIF-1 and VEGF
+    in MDA-MB-453 cells., 'MDA-MB-453 cells were treated with apigenin  for 24 h in
+    the presence or absence of CoCl2, and the mRNA levels of HIF-1 and VEGF were measured
+    by RT-PCR.', 'MDA-MB-453 cells were treated with apigenin  for 24 h in the presence
+    or absence of CoCl2, and the intracellular VEGF concentration was measured by
+    ELISA.', The data shown are representative of three independent experiments that
+    gave similar results., Effect of apigenin on STAT3 activation in MDA-MB-453 cells.,
+  Figure 5A shows that MDA-MB-453 cells express HER2 and apigenin slightly up-regulates
+    phospho-p53  and p21., 'In Figure 5, we investigated whether apigenin affects
+    STAT3 signaling by measuring levels of p-STAT3 and VEGF.', We found that apigenin
+    reduced the expression of p-STAT3 as well as p-JAK2., Apigenin also reduced the
+    level of VEGF., 'Since STAT3 is a potential modulator of HIF-1, we observed the
+    relationship between STAT3 and HIF-1.', We found that apigenin suppressed the
+    expression of p-STAT3 and Hif-1 that was up-regulated by CoCl2., Immunocytochemical
+    staining indicated that apigenin decreased the nuclear localization of STAT3 in
+    the presence and absence of CoCl2., 'As seen in Figure 6A, apigenin decreased
+    mRNA levels of HIF-1 and VEGF that was slightly up-regulated by CoCl2.', 'Moreover,
+    apigenin strongly decreased the CoCl2-induced up-regulation of intracellular VEGF.',
+  These results suggest that apigenin decreases the cell growth rate by inhibiting
+    the JAK2-STAT3-VEGF signaling pathway., Effect of the STAT3 inhibitor S31-201
+    on the growth of MDA-MB-453 cells., MDA-MB-453 cells were treated with different
+    doses of the STAT3 inhibitor S31-201., 'After 72 h, the cell viability was assessed
+    using a cell proliferation assay.', MDA-MB-453 cells were treated with different
+    doses of the STAT3 inhibitor S31-201., 'The relative cell growth rate was measured
+    by the MTT assay after 24 h, 48 h and 72 h. The growth rate of the vehicle-treated
+    cells was set to 100%, and the relative decrease in the cell viability resulting
+    from the S31-201 treatment was expressed as a percentage of the control.', 'MDA-MB-453
+    cells were treated with the STAT3 inhibitor S31-201 for 24 h. Whole-cell lysates
+    were analyzed by western blotting with anti-p-STAT3, anti-STAT3, anti-VEGF, and
+    anti-tubulin antibodies.', The data shown are representative of three independent
+    experiments that gave similar results., Effect of S31-201 on STAT3 activation
+    in MDA-MB-453 cells., 'Finally, we investigated whether the STAT3 inhibitor S31-201
+    inhibits cell proliferation and STAT3 activation in MDA-MB-453 cells.', 'As shown
+    in Figure 7A and B, S31-201 decreased cell growth in a dose- and time-dependent
+    manner.', 'Furthermore, S31-201 reduced the expression of p-STAT3 and VEGF.',
+  These results demonstrate that STAT3 inhibition induces cell growth inhibition and
+    represses the expression of oncogenic molecules., 'In the present study, we investigated
+    the anti-proliferative activity of apigenin and its mechanisms of action in HER2-overexpressing
+    breast cancer cells.', Apigenin suppressed the growth of MDA-MB-453 cells in a
+    dose-  and time-  dependent manner., The growth inhibition induced by apigenin
+    was related to an increase in the sub-G0/G1 apoptotic population in MDA-MB-453
+    cells., 'Apigenin increased the number of apoptotic cells in a dose-dependent
+    manner, as assessed by FACS analysis.', 'Interestingly, apigenin induced apoptosis
+    via a caspase-dependent pathway by enhancing the cleavage of caspase-8, caspase-3,
+    and PARP.', 'To confirm whether the apoptosis induced by apigenin occurs via a
+    caspase-8-, and caspase-3-dependent pathway, we treated MDA-MB-453 cells with
+    the caspase-8 inhibitor Z-IETD-fmk and the caspase-9 inhibitor Z-LEHD-fmk and
+    performed western blot analysis.', 'We found that the cleavage of caspase-8, caspase-3,
+    and PARP was inhibited by the caspase-8 and caspase-9 inhibitors.', 'However,
+    this inhibition was abrogated by apigenin, suggesting that this phytochemical
+    contains a strong apoptotic capacity.', 'The caspases, a family of cysteine-dependent
+    aspartate-directed proteases, are common death proteases.', Caspases are synthesized
+    as relatively inactive zymogens that become activated by scaffold-mediated transactivation
+    or by cleavage via upstream proteases in an intracellular cascade., 'Once activated,
+    they cleave a variety of intracellular polypeptides, including major structural
+    elements of the cytoplasm and nucleus, components of the DNA repair machinery,
+    and a number of protein kinases.', 'It should be noted that apigenin did not induce
+    apoptosis via the intrinsic mitochondrial apoptosis pathway since this compound
+    did not reduce the mitochondrial membrane potential, maintaining red flouorescence,
+    and did not affect the levels of Bcl-2 and BAX.', BCL2 family includes both anti-apoptotic
+    proteins  and pro-apoptotic proteins., All BCL2 members possess at least one of
+    four conserved motifs known as BCL2 homology domains., Pro- and anti-apoptotic
+    family members can heterodimerize and regulate each others functions; their relative
+    concentration may be important in modulating apoptosis., 'On the other hand, apigenin
+    induced the extrinsic apoptosis pathway: apigenin activated death receptor-related
+    apoptosis signaling, enhancing the cleavage of caspase-8, caspase-3 and PARP.',
+  'Our western blot data also indicated that apigenin slightly increased the expression
+    of p53, active p53  and p21, suggesting that this compound suppresses HER2-overexpressing
+    cancer cell growth via a p53-dependent manner.', 'In agreement with our data,
+    apigenin has been shown to induce G1 or G2/M arrest and apoptosis in human prostate
+    carcinoma cells, human cervical carcinoma cells, and human hepatoma cells  through
+    a p53-dependent manner.', 'The p53 tumor suppressor inhibits cellular proliferation
+    by inducing cell-cycle arrest and apoptosis in response to cellular stresses including
+    DNA damage, growth factor deprivation, hypoxia, and oncogene activation.', 'p53-dependent
+    apoptosis is produced by the caspase proteinases and is related to pro-apoptotic
+    proteins such as BAX, NOXA and PUMA.', 'Interestingly, apigenin reduced the expression
+    of p-STAT3 and p-JAK2 in MDA-MB-453 cells.', 'The VEGF promoter contains various
+    transcription factor binding sites, including sites for STAT3  and HIF-1.', The
+    physical interaction of STAT3 with HIF-1 controls VEGF transcriptional activation
+    by their binding to the VEGF promoter., 'In our study, we found that apigenin
+    inhibited VEGF expression/production as well as STAT3 expression/nuclear localization
+    in the presence or absence of CoCl2.', The STAT3 inhibitor S31-201 decreased the
+    expression of p-STAT3 and VEGF., 'In our experiments, culturing of MDA-MB-453
+    cells under conditions that mimicked hypoxia or normoxia did not induce the expression
+    or activation of MMP-2 or MMP-9, as indicated in a previous report.', The co-culture
+    of MDA-MB-453 with another cell line or tumor-associated macrophages induces the
+    expression and activation of MMP-2 and MMP-9., Our data clearly demonstrate that
+    apigenin suppresses cell growth by inhibiting the STAT3-VEGF signaling pathway
+    in MDA-MB-453 cells., STAT3 is a transcription factor that regulates the gene
+    expression in response to various cellular stimuli and plays an important role
+    in cell growth and apoptosis., 'STAT3 usually acts as a tumor promoter, although
+    its role as a tumor-suppressor has been recently reported.', 'STAT3 accelerates
+    cell proliferation and angiogenesis, inhibits apoptosis, and drives invasion and
+    metastasis.', STAT3 in melanoma tumors is associated with poor prognosis., Constitutive
+    STAT3 phosphorylation is mediated by several upstream kinases  and is thought
+    to be a key component of the oncogenic process., Another phytoestrogen  is known
+    to inhibit STAT3 signaling and induces the apoptosis of malignant cells containing
+    activated STAT3., Approximately 20-25% of invasive breast carcinomas show HER2
+    overexpression., 'A normal breast cell has 20,000 HER2 receptors, but a breast
+    cancer cell could have up to 1.5 million.', 'HER2 is a member of the HER/ErbB2/Neu
+    protein family, which also includes HER1/EGFR, HER3 and HER4.', 'HER2 cross-talks
+    with the estrogen receptor  signal transduction pathway, and its expression levels
+    can be regulated by ER.', 'In our study, we found that apigenin significantly
+    inhibited the growth of HER2-overexpressing cancer cells.', This indicates that
+    apigenin could be a useful natural therapy that inhibits HER2-overexpressing breast
+    cancer., Apigenin could be a promising target for the treatment and prevention
+    of HER2-overexpressing breast cancer., 'This research was supported by Basic Science
+    Research Program through the National Research Foundation of Korea  funded by
+    the Ministry of Education, Science and Technology.', HYE SOOK SEO performed most
+    of experiments and wrote the manuscript., JIN MO KU performed RT-PCR and Elisa
+    assay., HAN SEOK CHOI performed FACS analysis., 'JONG-KYU WOO, BO-HYOUNG JANG
+    and YONG CHEOL SHIN advised the discussion.', 'SEONG-GYU KO designed, supervised
+    the experiments and corrected the manuscript.', The Authors declare that there
+    is no conflict of interest that could be perceived as prejudicing the impartiality
+    of the research reported.]
+title: Induction of Caspase-dependent Apoptosis by Apigenin by Inhibiting STAT3 Signaling
+  in HER2-overexpressing MDA-MB-453 Breast Cancer Cells

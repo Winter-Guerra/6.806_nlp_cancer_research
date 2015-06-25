@@ -1,15 +1,24 @@
 ---
+title: 'The gut microbiota ellagic acid-derived metabolite urolithin A, and its sulfate
+  conjugate, are substrates for the drug efflux transporter breast cancer resistance
+  protein '
 pathHash: 2c8d346a76b92195215f6ac601863a0a
+tags:
+- blackberries
+- boysenberries
+- currants
+- raspberries
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/The
+  gut microbiota ellagic acid-derived metabolite urolithin A and its sulfate conjugate
+  are substrates for the drug eff.md
 text: '
 
 
-
-
-  The breast cancer resistance protein is a drug efflux transporter that can affect
+  The breast cancer resistance protein  is a drug efflux transporter that can affect
   the pharmacological and toxicological properties of many molecules. Urolithins,
-  metabolites produced by the gut microbiota from ellagic acid and ellagitannins,
+  metabolites produced by the gut microbiota from ellagic acid  and ellagitannins,
   have been acknowledged with in vivo anti-inflammatory and cancer chemopreventive
-  properties. This study evaluated whether urolithins and their main phase II metabolites
+  properties. This study evaluated whether urolithins  and their main phase II metabolites
   Uro-A sulfate, Uro-A glucuronide, and Uro-B glucuronide as well as their precursor
   EA were substrates for ABCG2/BCRP. Parental and Bcrp1-transduced MDCKII cells were
   used for active transport assays. Uro-A and, to a lesser extent, Uro-A sulfate showed
@@ -26,44 +35,38 @@ text: '
   drug resistance. Further in vivo investigations are warranted.
 
 
-
-
   urolithin; ellagic acid; ABCG2/BCRP transporters; gut microbiota; Bcrp1-MDCKII cells
 
 
-
-
-  ABCG2/BCRP is an ATP-binding cassette transporter that mediates energy-dependent
+  ABCG2/BCRP is an ATP-binding cassette  transporter that mediates energy-dependent
   translocation of substrates from cells in the intestine, liver, kidney, mammary
   gland, etc., across cellular membranes, affecting the pharmacokinetics and disposition
   of drugs and other compounds such as xenotoxins and endogenous compounds in tissues
-  and mediating drug–drug interactions.(1, 2) The multifunctional behavior of ABCG2/BCRP
+  and mediating drugdrug interactions. The multifunctional behavior of ABCG2/BCRP
   linked to great substrate specificities for a wide range of compounds supported
-  its important role in homeostatic processes.(3, 4) In addition, the modulation of
-  ABCG2/BCRP transporters can affect chemotherapeutic treatments by modulating the
-  pharmacokinetic behavior of anticancer drugs.(5-7)
+  its important role in homeostatic processes. In addition, the modulation of ABCG2/BCRP
+  transporters can affect chemotherapeutic treatments by modulating the pharmacokinetic
+  behavior of anticancer drugs.
 
 
   Some in vitro and in vivo studies using BCRP-overexpressing cell lines and/or knockout
   mice have indicated that plant-derived polyphenols such as flavonoids and the stilbene
   resveratrol can interact directly with BCRP by modulating both its transport function
-  and ATPase activity.(8-12) Recently, the important role of ABCG2/BCRP in the transport
+  and ATPase activity. Recently, the important role of ABCG2/BCRP in the transport
   of glucuronide and sulfate conjugates of polyphenols including the flavonoids naringenin,
-  genistein, and daidzein,(13-15) as well as resveratrol conjugates,(16) has been
-  described.
+  genistein, and daidzein, as well as resveratrol conjugates, has been described.
 
 
   Urolithins are dibenzopyran-6-one derivatives produced from ellagitannins and ellagic
-  acid by the gut microbiota through the loss of one lactone ring present in ellagic
-  acid and successive removals of hydroxyl groups(17-19). Urolithins have been found
-  in plasma, urine, feces, and tissues in a number of animals including the pig,(20)
-  rat,(21-23) mouse,(24) beef cattle,(25) etc. Urolithins are also produced by humans,
-  and their occurrence has been reported in plasma, feces, urine,(17, 19, 26, 27)
-  and also prostate tissue(28) after the intake of ellagitannin-containing foods such
-  as pomegranates, strawberries, raspberries, walnuts, and oak-aged wines. Phase II
-  derived conjugates of urolithins reach the plasma and systemic organs at low micromolar
-  concentrations, whereas high concentrations of the aglycone forms can be found in
-  the gut.(20, 23)
+  acid  by the gut microbiota through the loss of one lactone ring present in ellagic
+  acid  and successive removals of hydroxyl groups. Urolithins have been found in
+  plasma, urine, feces, and tissues in a number of animals including the pig, rat,
+  mouse, beef cattle, etc. Urolithins are also produced by humans, and their occurrence
+  has been reported in plasma, feces, urine, and also prostate tissue after the intake
+  of ellagitannin-containing foods such as pomegranates, strawberries, raspberries,
+  walnuts, and oak-aged wines. Phase II derived conjugates of urolithins reach the
+  plasma and systemic organs at low micromolar concentrations, whereas high concentrations
+  of the aglycone forms can be found in the gut.
 
 
   Figure 1. Chemical structures of EA, Uro-D, Uro-C, Uro-A, and Uro-B. The arrows
@@ -71,72 +74,66 @@ text: '
 
 
   In the past decade, after our first report about the occurrence of urolithins in
-  humans,(17) numerous in vitro and in vivo studies have shown a wide range of biological
-  activities of urolithins, mainly attributed to Uro-A, such as anticancer,(23, 24,
-  29-31) anti-inflammatory,(32-36) antibacterial,(37) and estrogenic/antiestrogenic.(38)
-  However, the possible role of ABC transporters in the bioavailability of urolithins
-  remains unknown.
+  humans, numerous in vitro and in vivo studies have shown a wide range of biological
+  activities of urolithins, mainly attributed to Uro-A, such as anticancer, anti-inflammatory,
+  antibacterial, and estrogenic/antiestrogenic. However, the possible role of ABC
+  transporters in the bioavailability of urolithins remains unknown.
 
 
   Our aim was to evaluate whether ellagic acid, urolithins A, B C, and D, and their
-  main glucuronide and sulfate derivates might be ABCG2/BCRP substrates and/or inhibitors.
+  main glucuronide and sulfate derivates  might be ABCG2/BCRP substrates and/or inhibitors.
 
 
-
-
-
-  EA was purchased from Sigma-Aldrich. Urolithin A and urolithin B were synthesized
-  as described previously.(39) Uro B glucuronide was prepared according to the method
-  of Lucas et al.(40) Urolithin A glucuronide and urolithin A sulfate were prepared
+  EA was purchased from Sigma-Aldrich. Urolithin A  and urolithin B  were synthesized
+  as described previously. Uro B glucuronide  was prepared according to the method
+  of Lucas et al. Urolithin A glucuronide  and urolithin A sulfate  were prepared
   as a mixture of regioisomers. Experimental procedure and 1H NMR data for the synthesis
   of Uro-A and Uro-A sulfate are detailed in the Supporting Information. Briefly,
-  Uro-A was first monoprotected with a silyl protecting group. Random protection(41)
+  Uro-A was first monoprotected with a silyl protecting group. Random   protection
   of Uro-A and subsequent chromatographic separation afforded the two possible monophenolic
-  derivatives 1 and 2 as a regioisomeric mixture and the double-silylated Uro-A. The
-  glycosylation reaction of acceptors 1 and 2 with glucuronosyl donor 3 was performed
-  using the same conditions described previously(40) to give compounds 4 and 5 as
-  a regioisomeric mixture. Ester hydrolysis and deprotection of acetyl and TBDMS groups
-  were carried out in one step by using K2CO3 and KF in a methanol–water solution.
-  Reverse phase purification of the crude afforded a 1:1 regioisomeric mixture of
-  Uro-A 3-glucuronide and Uro-A 8-glucuronide. Uro-A sulfate was also prepared as
-  a mixture of regioisomers following a similar strategy to the one used for the glucuronate
-  derivatives. Sulfation of the monosilylated urolithin derivatives 1 and 2 was carried
-  out with SO3•NMe3 as sulfating reagent, NEt3 as base, and acetonitrile as solvent
-  at 100 °C under microwave radiation for 20 min. The reaction afforded the sulfated
-  1:1 mixture of urolithin derivatives 6 and 7 in 92% yield. Final silyl deprotection
-  with KF and reverse phase purification gave a 1:1 mixture of Uro-A 3-sulfate and
-  Uro-A 8-sulfate. Urolithin C and urolithin D were purchased from Dalton Pharma Services.
-  Purity was &gt;95% in all tested compounds. Dimethyl sulfoxide, diethyl ether, and
-  HPLC reagents, formic acid and acetonitrile, were obtained from Panreac. Methanol
-  was from Lab-Scan. Ko143 was purchased from Tocris. Ultrapure Millipore water was
-  used for all of the experiments.
+  derivatives 1 and 2 as a regioisomeric mixture  and the double-silylated Uro-A.
+  The glycosylation reaction of acceptors 1 and 2 with glucuronosyl donor 3 was performed
+  using the same conditions described previously to give compounds 4 and 5 as a regioisomeric
+  mixture. Ester hydrolysis and deprotection of acetyl and TBDMS groups were carried
+  out in one step by using K2CO3 and KF in a methanolwater solution. Reverse phase
+  purification of the crude afforded a 1:1 regioisomeric mixture of Uro-A 3-glucuronide
+  and Uro-A 8-glucuronide. Uro-A sulfate was also prepared as a mixture of regioisomers
+  following a similar strategy to the one used for the glucuronate derivatives. Sulfation
+  of the monosilylated urolithin derivatives 1 and 2 was carried out with SO3NMe3
+  as sulfating reagent, NEt3 as base, and acetonitrile as solvent at 100 C under microwave
+  radiation for 20 min. The reaction afforded the sulfated 1:1 mixture of urolithin
+  derivatives 6 and 7 in 92% yield. Final silyl deprotection with KF and reverse phase
+  purification gave a 1:1 mixture of Uro-A 3-sulfate and Uro-A 8-sulfate. Urolithin
+  C  and urolithin D  were purchased from Dalton Pharma Services. Purity was &gt;95%
+  in all tested compounds. Dimethyl sulfoxide, diethyl ether, and HPLC reagents, formic
+  acid and acetonitrile, were obtained from Panreac. Methanol  was from Lab-Scan.
+  Ko143 was purchased from Tocris. Ultrapure Millipore water was used for all of the
+  experiments.
 
 
-  Figure 2. Synthesis of Uro-A glucuronates: TBDMSTfO, DIPEA, CH2Cl2; BF3•OEt2; CH2Cl2,
-  glucuronate donor 3; K2CO3, KF, MeOH/H2O. Synthesis of Uro-A sulfates: SO3•NMe3,
-  NEt3, CH3CN, 100 °C, 20 min, MW; KF, MeOH.
+  Figure 2.  Synthesis of Uro-A glucuronates:  TBDMSTfO, DIPEA, CH2Cl2;  BF3OEt2;
+  CH2Cl2, glucuronate donor 3;  K2CO3, KF, MeOH/H2O.  Synthesis of Uro-A sulfates:  SO3NMe3,
+  NEt3, CH3CN, 100 C, 20 min, MW;  KF, MeOH.
 
 
-
-  Mardin–Darby canine kidney cells and their human BCRP-transduced and murine Bcrp1-transduced
+  MardinDarby canine kidney  cells and their human BCRP-transduced and murine Bcrp1-transduced
   subclones were kindly provided by Dr. A. H. Schinkel, Netherlands Cancer Institute.
   MDCKII cells stably transduced with bovine and ovine variants of ABCG2 have recently
-  been generated by the research group.(42, 43) Culture conditions were as previously
-  described.(44) The cells were cultured in Dulbecco’s modified Eagle’s medium containing
-  GlutaMAX and supplemented with penicillin, streptomycin, and 10% fetal calf serum
-  at 37 °C in the presence of 5% CO2. The cells were trypsinized every 3–4 days for
-  subculturing. All of the test samples were solubilized in DMSO and were filter sterilized
-  prior to addition to the culture media. Control cells were also run in parallel
-  and subjected to the same changes in medium with 0.5% DMSO.
-
+  been generated by the research group. Culture conditions were as previously described.
+  The cells were cultured in Dulbeccos modified Eagles medium  containing GlutaMAX  and
+  supplemented with penicillin, streptomycin, and 10%  fetal calf serum  at 37 C in
+  the presence of 5% CO2. The cells were trypsinized every 34 days for subculturing.
+  All of the test samples were solubilized in DMSO  and were filter sterilized  prior
+  to addition to the culture media. Control cells were also run in parallel and subjected
+  to the same changes in medium with 0.5% DMSO.
 
 
   Transepithelial transport assays using Transwell plates were carried out as described
-  previously(10, 42) with minor modifications. Cells were seeded on microporous polycarbonate
-  membrane filters at a density of 1.0 × 106 cells per well. Cells were grown for
+  previously with minor modifications. Cells were seeded on microporous polycarbonate
+  membrane filters  at a density of 1.0  106 cells per well. Cells were grown for
   3 days, and the medium was replaced every day. Transepithelial resistance was measured
   in each well using a Millicell ERS ohm-meter. Wells registering a resistance of
-  ≥200 Ω, after correction for the resistance obtained in blank control wells, were
+  200 , after correction for the resistance obtained in blank control wells, were
   used in the transport experiments. The measurement was repeated at the end of the
   experiment to check the tightness of the monolayer.
 
@@ -144,20 +141,19 @@ text: '
   Before the start of the experiment, medium on both sides of the monolayer was replaced
   with 2 mL of Optimem medium, without serum. After 2 h of preincubation, the experiment
   was started by replacing the medium in either the apical or basolateral compartment
-  with fresh Optimem medium containing 20 μM of the compound tested. Aliquots of 100
-  μL were taken from the opposite compartment at 2 and 4 h and stored at −20 °C until
-  LC-MS analysis. In the cotreatments assays, the inhibitor Ko143 was added 2 h before
+  with fresh Optimem medium containing 20 M of the compound tested. Aliquots of 100
+  L were taken from the opposite compartment at 2 and 4 h and stored at 20 C until
+  LC-MS analysis. In the cotreatments assays, the inhibitor Ko143  was added 2 h before
   each compound and remained during all of the experiment. Experiments were carried
   out in triplicate.
 
 
-
-  In vitro accumulation assays were carried out as described previously using mitoxantrone
-  as fluorescent substrate.(45) In brief, subconfluent cultures were used after 36
-  h from seeding. Cells were incubated in Optimem medium with or without Ko143 inhibitor
-  or EA and urolithins A, B, C, and D at different concentrations for 60 min before
-  the addition of MXR. All compounds were applied on the apical side. Accumulation
-  of MXR was allowed for 1 h at 37 °C. Then, cells were washed, trypsinized, collected,
+  In vitro accumulation assays were carried out as described previously using mitoxantrone  as
+  fluorescent substrate. In brief, subconfluent cultures were used after 36 h from
+  seeding. Cells were incubated in Optimem medium with or without Ko143 inhibitor  or
+  EA and urolithins A, B, C, and D at different concentrations for 60 min before the
+  addition of MXR. All compounds were applied on the apical side. Accumulation of
+  MXR was allowed for 1 h at 37 C. Then, cells were washed, trypsinized, collected,
   and resuspended in PBS with 2.5% fetal calf serum. Relative cellular accumulation
   of MXR of at least 5000 cells was determined by flow cytometry using a FACSCalibur
   cytometer. Samples were gated on forward scatter versus side scatter to exclude
@@ -174,43 +170,37 @@ text: '
 
 
   Percentage of inhibition was calculated according to the following equation: % inhibition
-  =/(MF with inhibitor Ko143 in BCRP cells – MF without tested compound in BCRP cells)
-  × 100.
+  = /  100.
 
 
-
-  Cell media after transport studies was processed as described elsewhere.(35) Briefly,
-  ACN was added to 100 μL of culture media, vortexed, and centrifuged at 16435g for
+  Cell media after transport studies was processed as described elsewhere. Briefly,
+  ACN  was added to 100 L of culture media, vortexed, and centrifuged at 16435g for
   10 min. The supernatant was then concentrated in a Speedvac concentrator Savant
-  SPD121P and the residue redissolved in 100 μL of MeOH and filtered before analysis
+  SPD121P  and the residue redissolved in 100 L of MeOH and filtered  before analysis
   by LC-MS using the conditions described below.
 
 
-
   Aliquots of processed cell media were analyzed using an LC-MS system. The HPLC system
-  was equipped with a 100 × 3 mm i.d., 2.7 μm, reverse phase C18 column and a single-quadrupole
-  mass detector in series. Water/formic acid and ACN were used as mobile phases A
+  was equipped with a 100  3 mm i.d., 2.7 m, reverse phase C18 column  and a single-quadrupole
+  mass detector in series. Water/formic acid  and ACN were used as mobile phases A
   and B, respectively, with a flow rate of 0.5 mL/min. The linear gradient started
   with 5% of solvent B in solvent A, reaching 18% solvent B at 7 min, 28% at 17 min,
   50% from 22 min, and 90% at 27 min, which was maintained up to 29 min. The initial
   conditions were re-established at 29 min and kept under isocratic conditions up
-  to 33 min. Injections were made for each sample at 25 °C. The mass detector was
+  to 33 min. Injections  were made for each sample at 25 C. The mass detector was
   a quadrupole mass spectrometer equipped with an ESI system. MS spectra were measured
-  in selective ion monitoring mode using  ions for measuring all tested compounds.
+  in selective ion monitoring  mode using  ions for measuring all tested compounds.
   MS data were acquired in the negative ionization mode. Identification of all tested
-  compounds was carried out by direct comparison with available standards and confirmed
+  compounds was carried out by direct comparison  with available standards and confirmed
   by their spectral properties, molecular mass, and fragmentation pattern. Calibration
   curves were obtained for each tested compound with good linearity. EA was quantified
   at 360 nm and urolithins and their conjugates were quantified at 305 nm using the
   corresponding available standards.
 
 
-
-  All data are presented as mean values ± SD. A two-tailed unpaired Student’s t test
+  All data are presented as mean values  SD. A two-tailed unpaired Students t test
   was used for statistical analysis of the data. A p value of ;0.05 was considered
   to be significant.
-
-
 
 
   Initial Screening of the Transport of Urolithins and EA on Parental and Bcrp1-Transduced
@@ -219,8 +209,8 @@ text: '
 
   As initial screening, we used the polarized canine kidney cell line MDCKII and its
   subclone transduced with murine Bcrp1 cDNAs to test the possible role of Bcrp1 in
-  the in vitro transport of EA, urolithins, and some representative in vivo conjugates
-  at 10 μM for 2 and 4 h.
+  the in vitro transport of EA, urolithins, and some representative in vivo conjugates  at
+  10 M for 2 and 4 h.
 
 
   In the MDCKII parental cell line, both Uro-A and Uro-B aglycones showed similar
@@ -228,12 +218,12 @@ text: '
   around 20% at 4 h, whereas the transport values for the rest of compounds were lower.
 
 
-  Figure 3. Transepithelial transport of tested compounds in parental MDCKII cells
-  and their murine Bcrp1-transduced derivatives: translocation from the basolateral
-  to the apical compartment; translocation from the apical to the basolateral compartment.
+  Figure 3. Transepithelial transport of tested compounds  in  parental MDCKII cells
+  and  their murine Bcrp1-transduced derivatives:  translocation from the basolateral
+  to the apical compartment;  translocation from the apical to the basolateral compartment.
   The experiment was started with the addition of each compound to one compartment.
   After 2 and 4 h, the percentage of each compound appearing in the opposite compartment
-  was measured by LC-MS and plotted. Data are expressed as mean values ± SD.
+  was measured by LC-MS and plotted. Data are expressed as mean values  SD.
 
 
   In the murine Bcrp1-transduced MDCKII cell line the most remarkable results were
@@ -250,27 +240,27 @@ text: '
 
 
   As the transport of Uro-A by murine Bcrp1-transduced subclone cells was higher than
-  in the rest of compounds, we next determined the vectorial transport of Uro-A across
+  in the rest of compounds, we next determined the vectorial transport of Uro-A  across
   human, murine, bovine, and ovine BCRP-transduced MDCKII cells. The transport of
   Uro-A on all transduced subclones showed a significant time-dependent increase in
   the apically directed translocation, whereas the basolaterally directed translocation
   was drastically decreased versus parental cells. Among the transduced subclones,
-  the apically directed translocation of Uro-A was higher on murine Bcrp1 followed
+  the apically directed translocation of Uro-A was higher on murine Bcrp1  followed
   by ovine BCRP, human BCRP, and finally bovine BCRP.
 
 
-  Figure 4. Transepithelial transport of Uro-A in parental MDCKII cells and in their
+  Figure 4. Transepithelial transport of Uro-A  in parental MDCKII cells and in their
   murine Bcrp1- and human, bovine, and ovine BCRP-transduced subclones in the absence
-  or presence of Ko143: translocation from the basolateral to the apical compartment;
-  translocation from the apical to the basolateral compartment. The experiment was
-  carried out as indicated in Figure 2. Data are expressed as mean values ± SD.
+  or presence of Ko143 :  translocation from the basolateral to the apical compartment;  translocation
+  from the apical to the basolateral compartment. The experiment was carried out as
+  indicated in Figure 2. Data are expressed as mean values  SD.
 
 
   In addition, we next confirmed the transport of Uro-A mediated by ABCG2/BCRP by
-  performing a cotreatment with a selective BCRP inhibitor, Ko143 on all MDCKII subclones.
+  performing a cotreatment with a selective BCRP inhibitor, Ko143  on all MDCKII subclones.
   The BCRP-mediated transport of Uro-A was completely inhibited in all transduced
   cells, resulting in a vectorial translocation pattern equal to that of the MDCKII
-  parental cell line and thus confirming that Uro-A is transported by ABCG2/BCRP.
+  parental cell line  and thus confirming that Uro-A is transported by ABCG2/BCRP.
 
 
   Due to the small available amount of the standard Uro-A sulfate, we focused on the
@@ -281,12 +271,11 @@ text: '
   ABCG2/BCRP substrate.
 
 
-  Figure 5. Transepithelial transport of Uro-A sulfate in parental MDCKII and in their
-  murine Bcrp1- and human BCRP-transduced derivatives: translocation from the basolateral
-  to the apical compartment; translocation from the apical to the basolateral compartment.
-  The experiment was carried out as indicated in Figure 2. Data are expressed as mean
-  values ± SD.
-
+  Figure 5. Transepithelial transport of Uro-A sulfate  in parental MDCKII and in
+  their murine Bcrp1- and human BCRP-transduced derivatives:  translocation from the
+  basolateral to the apical compartment;  translocation from the apical to the basolateral
+  compartment. The experiment was carried out as indicated in Figure 2. Data are expressed
+  as mean values  SD.
 
 
   To show the potential inhibitory effect of urolithins on ABCG2/BCRP, the ability
@@ -298,53 +287,49 @@ text: '
 
   Our results showed that Uro-A was able to inhibit ABCG2/BCRP increasing, in a dose-dependent
   manner, the accumulation of MXR in human BCRP and murine Bcrp1 transduced cells,
-  showing percentages of inhibition of 40–50% at 50 μM. This result supported the
-  strong interaction between Uro-A and the transporter, showing its important potential
-  as inhibitor because other tested compounds such as urolithins B, C, and D and EA
-  at 50 and 100 μM did not show any inhibition.
+  showing percentages of inhibition of 4050% at 50 M. This result supported the strong
+  interaction between Uro-A and the transporter, showing its important potential as
+  inhibitor because other tested compounds such as urolithins B, C, and D and EA at
+  50 and 100 M did not show any inhibition.
 
 
   Figure 6. Percentage of inhibition of the different concentrations of Uro-A for
   Bcrp1/BCRP-transduced cells in mitoxantrone accumulation assays. Data are expressed
-  as mean values ± SD. Percentage of inhibition was related to the effect of reference
+  as mean values  SD. Percentage of inhibition was related to the effect of reference
   inhibitor Ko143.
 
 
-
-
-  Uro-A, the most abundant urolithin produced by humans,(46) has been reported to
-  be the most active urolithin with acknowledged in vitro(23, 24, 29, 30, 33, 35)
-  and in vivo(32, 47) anti-inflammatory and anticarcinogenic activities. With regard
-  to the biological activity of the phase II conjugates, the main in vivo circulating
-  conjugate, Uro-A glur, has shown to decrease the TNF-α-induced inflammation in endothelial
-  cells.(36)
+  Uro-A, the most abundant urolithin produced by humans, has been reported to be the
+  most active urolithin with acknowledged in vitro and in vivo anti-inflammatory and
+  anticarcinogenic activities. With regard to the biological activity of the phase
+  II conjugates, the main in vivo circulating conjugate, Uro-A glur, has shown to
+  decrease the TNF--induced inflammation in endothelial cells.
 
 
   Taking into account the above, we evaluated whether urolithins and some representative
   circulating conjugates could be substrates for ABCG2/BCRP at a physiologically relevant
-  concentration.(20, 23) For this purpose we examined their active transport using
-  a parental and murine Bcrp1-transduced MDCKII cell model. Our results indicated
-  that only Uro-A, and also its sulfate conjugate, showed a significant increase in
-  the apically directed translocation together with a decrease of the basolaterally
-  directed translocation compared to parental cells. In contrast, Bcrp1 showed no
-  affinity for the urolithin precursor EA and the rest of the urolithins and glucuronide
-  conjugates.
+  concentration. For this purpose we examined their active transport using a parental
+  and murine Bcrp1-transduced MDCKII cell model. Our results indicated that only Uro-A,
+  and also its sulfate conjugate, showed a significant increase in the apically directed
+  translocation together with a decrease of the basolaterally directed translocation
+  compared to parental cells. In contrast, Bcrp1 showed no affinity for the urolithin
+  precursor EA and the rest of the urolithins and glucuronide conjugates.
 
 
   Our results indicate that the affinity of ABCG2/BCRP for urolithins seems to be
   influenced by the number and position of hydroxyl groups in the urolithin scaffold.
   In the present study, BCRP showed affinity only for Uro-A, with two hydroxyl groups
-  in 3- and 8-positions. In this regard, a structure–activity relationship study comparing
+  in 3- and 8-positions. In this regard, a structureactivity relationship  study comparing
   the BCRP inhibitory effect of 12 different flavonoids indicated that flavones were
   more efficient than flavonols, isoflavones, and flavanones due to the occurrence
-  of hydroxyl groups at the 5-position, in contrast to positions 3 and 7 in flavones.(48)
-  More recently, another SAR study in flavonoids confirmed that an OH– group in the
+  of hydroxyl groups  at the 5-position, in contrast to positions 3 and 7 in flavones.
+  More recently, another SAR study in flavonoids confirmed that an OH group in the
   5-position contributed positively to BCRP inhibition because the replacement of
-  this OH– group by a 3-methoxy group resulted in a decrease in the affinity.(49)
-  Our results in urolithins also support the potential role of OH– groups in the interaction
-  with BCRP. The presence of an OH– group at the 8-position, but not at the 3-position,
+  this OH group by a 3-methoxy group resulted in a decrease in the affinity. Our results
+  in urolithins also support the potential role of OH groups in the interaction with
+  BCRP. The presence of an OH group at the 8-position, but not at the 3-position,
   might favor the interaction with BCRP, which was supported by the lack of interaction
-  between BCRP and Uro-B, with only one OH– group at the 3-position. In the case of
+  between BCRP and Uro-B, with only one OH group at the 3-position. In the case of
   urolithin A conjugates, the possible explanation is more difficult. The chemical
   synthesis of Uro-A glur and Uro-A sulfate yielded a mixture of 50% Uro-A 3-glur
   and 50% Uro-A 8-glur for the glucuronides and also 50% Uro-A 3-sulfate and 50% Uro-A
@@ -352,34 +337,34 @@ text: '
   for Uro-A glur should be expected because the 8-position was 50% available, as in
   the case or Uro-A sulfate. However, whereas Uro-A sulfate was a BCRP substrate,
   Uro-A glur was not transported at all. In addition, the occurrence of additional
-  hydroxyl groups decreased the affinity of BCRP for urolithins. Overall, the above
+  hydroxyl groups  decreased the affinity of BCRP for urolithins. Overall, the above
   rationale is coincident, at least in part, with that launched in a previous study
-  where estrogenic receptors showed higher affinity for Uro-A than for Uro-B.(38)
-  The transport of Uro-A sulfate confirms that ABCG2/BCRP might be a general phytoestrogen
+  where estrogenic receptors  showed higher affinity for Uro-A than for Uro-B. The
+  transport of Uro-A sulfate  confirms that ABCG2/BCRP might be a general phytoestrogen
   transporter for a structurally diverse array of phytoestrogen sulfates including
   sulfate conjugates of enterolignans, isoflavones, and coumestans, under physiological
-  conditions.(50) Interestingly, it was also found that the inhibitory potency against
+  conditions. Interestingly, it was also found that the inhibitory potency against
   ABCG2/BCRP of daidzein-7-glucuronide was 100-fold lower than that of daidzein, whereas
-  daidzein-4-sulfate showed an inhibitory potency comparable to that of daidzein.(51)
+  daidzein-4-sulfate showed an inhibitory potency comparable to that of daidzein.
 
 
   In the present study, the affinity of ABCG2/BCRP for Uro-A was also confirmed for
   bovine and ovine BCRP as well as for human BCRP transporters in the line of recent
   studies that have included the comparative inhibition among murine Bcrp1, bovine
-  and ovine BCRP, and human BCRP.(14, 42, 52, 53) In vitro results showed an efficient
-  and dose-dependent inhibition of Uro-A with percentages observed of 40–50% with
-  a concentration of 50 μM for human BCRP and murine Bcrp1 in MXR accumulation assays,
-  in agreement with known BCRP inhibitors such as the flavonoid biochanin A.(54) In
-  addition, these data showed the potential of Uro-A as a reversal agent in chemotherapy
-  treatments with regard to the multidrug resistance phenotype.(7)
+  and ovine BCRP, and human BCRP. In vitro results showed an efficient and dose-dependent
+  inhibition of Uro-A with percentages observed of 4050% with a concentration of 50
+  M for human BCRP and murine Bcrp1 in MXR accumulation assays, in agreement with
+  known BCRP inhibitors such as the flavonoid biochanin A. In addition, these data
+  showed the potential of Uro-A as a reversal agent in chemotherapy treatments with
+  regard to the multidrug resistance  phenotype.
 
 
-  These results indicate that urolithins, also produced by cattle,(25, 55) could interact
-  with BCRP, affecting the oral bioavailability of drugs and drug transport across
-  barriers as previously described for the isoflavones genistein and daidzein.(10)
-  On the other hand, the contribution of the phytochemical glucuronide transport by
-  ABCC2/MRP2 and ABCC3/MRP3(15, 56) should be considered in further studies taking
-  into account the plasma metabolic profile of urolithins.(17)
+  These results indicate that urolithins, also produced by cattle, could interact
+  with BCRP, affecting the oral bioavailability of drugs  and drug transport across
+  barriers as previously described for the isoflavones genistein and daidzein. On
+  the other hand, the contribution of the phytochemical glucuronide transport by ABCC2/MRP2
+  and ABCC3/MRP3 should be considered in further studies taking into account the plasma
+  metabolic profile of urolithins.
 
 
   The present study shows, for the first time, that Uro-A and Uro-A sulfate are transported
@@ -387,22 +372,19 @@ text: '
   of the transporter in vitro. On the contrary, the urolithin precursor EA as well
   as Uro-B, -C, and -D and the phase II conjugates Uro-A glur and Uro-B glur were
   not transported. It has been reported that the dietary consumption of ellagitannin-
-  or ellagic acid-containing foods can exert anti-inflammatory effects due to the
-  in vivo formation of Uro-A by the gut microbiota.(32, 46) However, the results obtained
+  or ellagic acid-containing foods  can exert anti-inflammatory effects due to the
+  in vivo formation of Uro-A by the gut microbiota. However, the results obtained
   here also suggest that Uro-A might influence the pharmacokinetics and bioavailability
   of drug levels, which could lead to potential adverse effects. Therefore, further
   in vivo studies should clarify this hypothesis.
-
 
 
   Experimental procedure for the synthesis of Uro-A glucuronide and Uro-A sulfate.
   This material is available free of charge via the Internet at http://pubs.acs.org.
 
 
-
   This work was funded by Projects CICYT AGL2011-22447, AGL2012-31116, Consolider
-  Ingenio 2010, CSD2007-00063, and Fundación Seneca de la Región de Murcia, Spain.
-
+  Ingenio 2010, CSD2007-00063, and Fundacin Seneca de la Regin de Murcia, Spain.
 
 
 '

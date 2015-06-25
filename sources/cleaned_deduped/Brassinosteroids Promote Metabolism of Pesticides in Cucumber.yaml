@@ -1,22 +1,25 @@
 ---
+title: Brassinosteroids Promote Metabolism of Pesticides in Cucumber
 pathHash: 6d655119e1025cdce8281a121e0a89a2
+tags:
+- cucumbers
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Brassinosteroids
+  Promote Metabolism of Pesticides in Cucumber.md
 text: '
 
 
-
-
-  Brassinosteroids are known to protect crops from the toxicity of herbicides, fungicides
-  and insecticides. It is shown here that application of 24-epibrassinolide accelerated
+  Brassinosteroids  are known to protect crops from the toxicity of herbicides, fungicides
+  and insecticides. It is shown here that application of 24-epibrassinolide  accelerated
   metabolism of various pesticides and consequently reduced their residual levels
   in cucumber. Chlorpyrifos, a widely used insecticide, caused significant reductions
-  of net photosynthetic rate and quantum yield of PSII in cucumber leaves. EBR pretreatment
-  alleviated the declines of Pn and ΦPSII caused by chlorpyrifos application, and
-  this effect of EBR was associated with reductions of chlorpyrifos residues. To understand
+  of net photosynthetic rate  and quantum yield of PSII  in cucumber leaves. EBR pretreatment
+  alleviated the declines of Pn and PSII caused by chlorpyrifos application, and this
+  effect of EBR was associated with reductions of chlorpyrifos residues. To understand
   how EBR promotes chlorpyrifos metabolism, the effects of EBR on activity and expression
   of enzymes involved in pesticide metabolism were analyzed. EBR had a positive effect
-  on the activation of glutathione S-transferase, peroxidase, and glutathione reductase
-  after treatment with chlorpyrifos, although the effect on GR was attenuated at later
-  time points when plants were treated with 1 mM chlorpyrifos. In addition, EBR enhanced
+  on the activation of glutathione S-transferase, peroxidase, and glutathione reductase  after
+  treatment with chlorpyrifos, although the effect on GR was attenuated at later time
+  points when plants were treated with 1 mM chlorpyrifos. In addition, EBR enhanced
   the expression of P450 and MRP, which encode P450 monooxygenase and ABC-type transporter,
   respectively. However, the expression of GST was consistently lower than that of
   plants treated with only chlorpyrifos. Importantly, the stimulatory effect of EBR
@@ -27,11 +30,6 @@ text: '
   human and environment exposure to pesticides.
 
 
-
-
-
-
-
   Biotic stresses caused by herbivores or pathogens lead to major losses in crop productivity
   worldwide. Over the past several decades, our understanding of the molecular mechanisms
   by which plants respond and adapt to biotic stresses has been enhanced drastically,
@@ -40,7 +38,7 @@ text: '
   involved in plant biotic stress responses. However, the use of pesticides is still
   the most common and effective strategy for controlling pests and for achieving high
   crop yields for a rapidly growing population. It is difficult to completely imagine
-  the levels and security of today’s yields without the use of synthetic pesticides.
+  the levels and security of todays yields without the use of synthetic pesticides.
   An estimated 2.5 million tons of pesticides are used annually in the world. The
   excessive use of pesticide results in pollution to nontarget agricultural produces
   and has raised worldwide concerns on food safety.
@@ -49,7 +47,7 @@ text: '
   Extensive research has focused on bioremediation, which uses microorganisms to break
   down soil pollutants into harmless products. By contrast, there is only very limited
   information about cost-effective strategies that reduce pesticide residues in agricultural
-  produces. Many developed countries have set maximum residue limits for agricultural
+  produces. Many developed countries have set maximum residue limits  for agricultural
   produces. To meet these MRLs, many countries rely on optimizing the input and timing
   of pesticide applications. However, these empirical methods, which are developed
   from field and glasshouse trials, may not be very reliable and can fail and cause
@@ -59,9 +57,9 @@ text: '
 
 
   Plants are able to transform pesticides by using a phased detoxification system.
-  Absorbed pesticides are first metabolically activated by “phase 1” enzymes, such
-  as P450 monooxygenase, peroxidase, and carboxylesterases. The second phase involves
-  conjugation to glutathione and glucose catalyzed by glutathione S-transferase and
+  Absorbed pesticides are first metabolically activated by phase 1 enzymes, such as
+  P450 monooxygenase, peroxidase, and carboxylesterases. The second phase involves
+  conjugation to glutathione  and glucose catalyzed by glutathione S-transferase  and
   UDP-glycosyltransferase, respectively. The third phase of pesticide metabolism is
   sequestration and storage of soluble metabolites either in vacuoles or in apoplast.
   The glutathione S-conjugates are actively transported to the vacuoles or apoplast
@@ -71,7 +69,7 @@ text: '
   of plant detoxification genes are largely unknown.
 
 
-  Brassinosteroids play an essential role in plant growth and development. BRs have
+  Brassinosteroids  play an essential role in plant growth and development. BRs have
   also been implicated in plant responses to environmental stresses and in plant defense
   against bacterial, fungal, and viral pathogens. However, little is known about the
   involvement of BRs in plant responses to organic pollutants such as pesticides.
@@ -84,76 +82,71 @@ text: '
   On the basis of their effects on the toxicity of pesticide, BRs can be considered
   as safeners, which are known to induce the activity of numerous plant P450s and
   enhance glutathione conjugation involved in the biodegradation of herbicides. Indeed,
-  Hatzios and Burgos have previously suggested that plant hormones are involved in
+  Hatzios and Burgos  have previously suggested that plant hormones are involved in
   the induction of plant defense and detoxification genes in response to pesticides.
   Furthermore, transcriptional analyses of BR-deficient or BR-treated Arabidopsis
   and cucumber plants have shown that BR-regulated genes include those pesticide detoxification
   genes encoding P450 monooxygenase, glutathione S-transferase, and UDP-glycosyltransferase.
-  Here we showed that application of 24-epibrassinolide accelerated the degradation
+  Here we showed that application of 24-epibrassinolide  accelerated the degradation
   of various fungicides and insecticides and that this effect was associated with
   the enhanced expression of detoxification genes. These results strongly suggest
   that BRs enhance plant tolerance to pesticides by modulating the metabolic process
   of these pesticides
 
 
-
-
-
-  Cucumber seeds were sown in a mixture of vermiculite and perlite in a growth chamber
-  with a photoperiod of 12 h, temperature of 25/17 °C, and light intensity of 600
-  μmol m−2 s−1. When the cotyledons fully expanded, groups of six plants were transplanted
+  Cucumber  seeds were sown in a mixture of vermiculite and perlite  in a growth chamber
+  with a photoperiod of 12 h, temperature of 25/17 C, and light intensity of 600 mol
+  m2 s1. When the cotyledons fully expanded, groups of six plants were transplanted
   into a 10 L container filled with Hoagland nutrient solution. Plants at the four-leaf
-  stage were used for the experiments. Plants were first treated with 0.1 μM 24-epibrassinolide
-  and 24 h later treated with the following commercial formulations of pesticides:
-  chlorpyrifos, β-cypermethrin, chlorothalonil, and carbendazim. The pesticides were
-  applied using a stainless steel sprayer. The third leaf of each plant was used for
-  analysis of photosynthesis, pesticide residues, enzyme activities, and gene expression
-  after the BR and pesticide treatments.
+  stage were used for the experiments. Plants were first treated with 0.1 M 24-epibrassinolide  and
+  24 h later treated with the following commercial formulations of pesticides: chlorpyrifos,
+  -cypermethrin, chlorothalonil, and carbendazim. The pesticides were applied using
+  a stainless steel sprayer. The third leaf of each plant was used for analysis of
+  photosynthesis, pesticide residues, enzyme activities, and gene expression after
+  the BR and pesticide treatments.
 
 
-
-  Net photosynthetic rates were determined by using an infrared gas analyzer based
+  Net photosynthetic rates  were determined by using an infrared gas analyzer based
   portable photosynthesis system. The air temperature, relative humidity, CO2 concentration,
-  and PPFD were maintained at 25 °C, 85%, 360 μmol mol−1, and 1000 μmol m−2 s−1, respectively.
+  and PPFD were maintained at 25 C, 85%, 360 mol mol1, and 1000 mol m2 s1, respectively.
 
 
-  Chlorophyll fluorescence was measured with a pulse amplitude fluorometer in the
+  Chlorophyll fluorescence was measured with a pulse amplitude fluorometer  in the
   same leaves used for gas exchange measurements. Leaves were maintained in darkness
   for 30 min before determination of maximal photochemical yield of PSII. Minimal
-  fluorescence was measured under a weak pulse of modulating light over 0.8 s, and
-  maximal fluorescence was induced by a saturating pulse of light applied over 0.8
+  fluorescence  was measured under a weak pulse of modulating light over 0.8 s, and
+  maximal fluorescence  was induced by a saturating pulse of light  applied over 0.8
   s. The experimentally determined Fo and Fm were then used to calculate Fv/Fm, where
-  Fv is the difference between Fo and Fm. For determining Fs, an actinic light source
-  was applied to achieve steady state photosynthesis, after which a second saturation
-  pulse was applied for 0.7 s to obtain Fm′. Fluorescence parameters were calculated
+  Fv is the difference between Fo and Fm. For determining Fs, an actinic light source  was
+  applied to achieve steady state photosynthesis, after which a second saturation
+  pulse was applied for 0.7 s to obtain Fm. Fluorescence parameters were calculated
   by FMS-2 on the basis of the dark-adapted and light-adapted fluorescence measurements.
-  The quantum yield of PSII was calculated as/Fm′. The photochemical quenching coefficient
-  was calculated as/(Fm′ − Fo).
-
+  The quantum yield of PSII  was calculated as /Fm. The photochemical quenching coefficient  was
+  calculated as /.
 
 
   Pure chlorpyrifos, cypermethrin, chlorothalonil, and carbendazim compounds were
   purchased from the Institute for the Control of Agrochemicals, Ministry of Agriculture,
   Beijing, China. For determination of chlorpyrifos, cypermethrin, and chlorothalonil
   residues, 10 g of chopped cucumber leaves was homogenized in a glass jar containing
-  80 mL of petroleum ether and 80 g of anhydrous sodium sulfate at the speed of 10000
+  80 mL of petroleum ether  and 80 g of anhydrous sodium sulfate at the speed of 10000
   rpm for 2 min with a high-speed disperser. The mixture was decanted and filtered
-  through a 7 cm Büchner funnel with 10 g of anhydrous sodium sulfate, and the filter
+  through a 7 cm Bchner funnel with 10 g of anhydrous sodium sulfate, and the filter
   cake was washed successively three times with 25 mL of redistilled petroleum ether.
   The filtrates were combined in a 250 mL flat-bottom flask and dried under a N2 stream.
   Redistilled petroleum ether was added to dissolve pesticides, and the volume was
   adjusted to 5 mL for analysis by gas chromatography with a flame photometric detector.
   Quantitative analysis was performed with a Fuli GC9790 gas chromatograph equipped
-  with a FPD and a phosphorus filter. A fused silica capillary column was employed
+  with a FPD and a phosphorus filter. A fused silica capillary column   was employed
   for the separation in GC. Operating conditions were as follows: injector port temperature,
-  230 °C; column temperature, 230 °C; detector temperature, 250 °C; carrier gas, nitrogen,
-  50 mL min−1; air, 80 mL min−1; hydrogen, 125 mL min−1.
+  230 C; column temperature, 230 C; detector temperature, 250 C; carrier gas, nitrogen,
+  50 mL min1; air, 80 mL min1; hydrogen, 125 mL min1.
 
 
   For the determination of carbendazim residues, 10 g of chopped cucumber leaves was
   transferred to a 250 mL Erlenmeyer flask, followed by the addition of 80 mL of methanol
   and 10 mL of 0.2 M HCl. The samples were homogenized in a glass jar at high speed
-  of 10000 rpm for 2 min and then filtered through a 7 cm Büchner funnel. The filter
+  of 10000 rpm for 2 min and then filtered through a 7 cm Bchner funnel. The filter
   cake was washed twice with 50 mL of methanol. The filtrates were collected in a
   250 mL Erlenmeyer flask and concentrated on a rotary evaporator to about 10 mL.
   The concentrated extract was transferred into 10 mL of 0.2 M HCl and 50 mL of distilled
@@ -163,103 +156,96 @@ text: '
   extracted three times with 50, 40, and 30 mL of methane dichloride, respectively.
   All extracts were then passed through a layer of anhydrous sodium sulfate and collected
   in a flat-bottom flask. The sample extract was dried on a rotary evaporator and
-  dissolved in N,N-dimethylformamide prior to HPLC analysis. The HPLC was equipped
-  with diode array detector set to 281 nm. A Hewlett-Packard stainless steel analytical
-  column was used. A Hewlett-Packard stainless steel guard column packed with Zorbax
-  SB-C18 preceded the analytical column. The mobile phase consisted of methanol and
+  dissolved in N,N-dimethylformamide prior to HPLC analysis. The HPLC  was equipped
+  with diode array detector  set to 281 nm. A Hewlett-Packard stainless steel analytical
+  column  was used. A Hewlett-Packard stainless steel guard column packed with Zorbax
+  SB-C18  preceded the analytical column. The mobile phase consisted of methanol and
   water with a ratio of 65:35, and all analyses were performed at a flow rate of 0.8
-  mL min−1. Injection of 10 μL of extract sample was performed in HPLC for quantitative
+  mL min1. Injection of 10 L of extract sample was performed in HPLC for quantitative
   analysis. Under the used experimental conditions, the HPLC retention time for carbendazim
   was about 5 min.
 
 
-  To determine the extraction and recovery efficiency, cucumber leaves were spiked
-  with 0.1, 1.0, and 10.0 mg kg−1 of pesticides. Extraction and analysis were performed
+  To determine the extraction and recovery efficiency, cucumber leaves  were spiked
+  with 0.1, 1.0, and 10.0 mg kg1 of pesticides. Extraction and analysis were performed
   in triplicate.
-
 
 
   Approximately 0.3 g of leaf tissue was extracted with 2 mL of extraction buffer
   of 50 mM potassium phosphate, 10 mM KCl, 1 mM EDTA, 5 mM dithiothreitol, 0.5 mM
-  4-(2-aminoethyl)benzenesulphonyl fluoride hydrochloride, and 1: 4 polyvinylpolypyrrolidone.
-  The homogenate was centrifuged for 20 min at 12000 rpm, and the supernatant obtained
-  was used for enzyme assay. All procedures were carried out at 0−4 °C.
+  4-benzenesulphonyl fluoride hydrochloride, and 1: 4  polyvinylpolypyrrolidone. The
+  homogenate was centrifuged for 20 min at 12000 rpm, and the supernatant obtained
+  was used for enzyme assay. All procedures were carried out at 04 C.
 
 
   GST activity was determined using a GST colorimetric activity assay kit. The reactions
-  contained 50 mM potassium phosphate at 25 °C, aliquots of enzyme extract, 5 mM GSH,
-  0.4 mM CDNB, and 1% ethanol in a final volume of 1 mL. Reactions were initiated
+  contained 50 mM potassium phosphate  at 25 C, aliquots of enzyme extract, 5 mM GSH,
+  0.4 mM CDNB, and 1%  ethanol in a final volume of 1 mL. Reactions were initiated
   with addition of the CDNB substrate in ethanol. Enzymatic formation of 2,4-dinitrophenyl-S-glutathione
-  at 340 nm was monitored for 5 min and corrected for nonenzymatic controls. The activity
-  of peroxidase and glutathione reductase was assayed following the method described
-  by Cakmak and Marschner with some modifications. For measurement of POD activity,
-  the reaction mixture contained 25 mM phosphate buffer, 0.05% guaiacol, 10 mM H2O2,
-  and aliquots of enzyme extract. Activity was measured by the increase in absorbance
-  at 470 nm caused by guaiacol oxidation. GR activity was measured on the basis of
-  the rate of decrease in the absorbance of NADPH at 340 nm. All spectrophotometric
+  at 340 nm  was monitored for 5 min and corrected for nonenzymatic controls. The
+  activity of peroxidase  and glutathione reductase  was assayed following the method
+  described by Cakmak and Marschner  with some modifications. For measurement of POD
+  activity, the reaction mixture contained 25 mM phosphate buffer, 0.05% guaiacol,
+  10 mM H2O2, and aliquots of enzyme extract. Activity was measured by the increase
+  in absorbance at 470 nm caused by guaiacol oxidation. GR activity was measured on
+  the basis of the rate of decrease in the absorbance of NADPH at 340 nm. All spectrophotometric
   analyses were conducted on a Shimadzu UV-2410PC spectrophotometer.
 
 
-
-  Total RNA was extracted using Trizol according to the supplier’s instruction. Contaminated
+  Total RNA was extracted using Trizol according to the suppliers instruction. Contaminated
   DNA was removed with a purifying column. One microgram of total RNA was reverse-transcribed
-  using 0.5 μg of oligo(dT) 12−18 and 200 units of Superscript II following the supplier’s
+  using 0.5 g of oligo 1218  and 200 units of Superscript II  following the suppliers
   recommendation. The gene-specific primers were designed according to the EST sequences:
-  5′-TACTGATTTCCATTGTTGT-3′ and 5′-CTTGTATGTTTTATGCTTT-3′ for P450; 5′- TTTGAGGAGGTGAAGGTAA-3′
-  and 5′-ACGCACAAGAAATGTAGAT-3′ for GST; and 5′-TCAGAAAACAATAAGGGAA-3′ and 5′-CCAGAATCGAGTACAAGGA-3′
+  5-TACTGATTTCCATTGTTGT-3 and 5-CTTGTATGTTTTATGCTTT-3 for P450; 5- TTTGAGGAGGTGAAGGTAA-3
+  and 5-ACGCACAAGAAATGTAGAT-3 for GST; and 5-TCAGAAAACAATAAGGGAA-3 and 5-CCAGAATCGAGTACAAGGA-3
   for MRP. For quantitative RT-PCR analysis, we amplified PCR products in triplicate
-  using iQ SYBR Green SuperMix in 25 μL qRT-PCR reactions, an iCycler iQ 96-well real-time
+  using iQ SYBR Green SuperMix  in 25 L qRT-PCR reactions, an iCycler iQ 96-well real-time
   PCR detection system, iCycler software to calculate threshold cycle values, and
   cucumber actin as an internal control. The quantification of mRNA levels is based
-  on the method of Livak and Schmittgen. The threshold cycle value of actin was subtracted
-  from that of the gene of interest to obtain a ΔCt value. The Ct value of untreated
-  control sample was subtracted from the ΔCt value to obtain a ΔΔCt value. The fold
-  changes in expression level relative to the control were expressed as 2−ΔΔCt.
+  on the method of Livak and Schmittgen. The threshold cycle  value of actin was subtracted
+  from that of the gene of interest to obtain a Ct value. The Ct value of untreated
+  control sample was subtracted from the Ct value to obtain a Ct value. The fold changes
+  in expression level relative to the control were expressed as 2Ct.
 
 
-
-  Measurements were performed randomly using three replicates. SAS 8.0 for Windows
+  Measurements were performed randomly using three replicates. SAS 8.0  for Windows
   was used for statistical analysis. The data were analyzed with a one-way analysis
-  of variance, and differences between treatments were separated by Tukey’s HSD test
+  of variance, and differences between treatments were separated by Tukeys HSD test
   at the P ; 0.05 level.
-
-
-
 
 
   Chlorpyrifos, an acetylcholinesterase inhibitor, is the most intensively used organophosphate
   insecticide in agriculture. With the increasing use of CPF, it is of great importance
   to understand its physiological effects on nontargeted crops. The effect of CPF
   on cucumber photosynthesis was determined by gas exchange and Chl fluorescence measurements.
-  CPF concentration in the range of 0.5−1 mM causes a 38−61% decrease in net photosynthetic
+  CPF concentration in the range of 0.51 mM causes a 3861% decrease in net photosynthetic
   rate. The higher concentrations of CPF resulted in further but marginal declines
-  in Pn. The maximum quantum yield of PSII decreased almost linearly with increasing
-  concentrations of CPF. Changes in the quantum yield of PSII and photochemical quenching
-  coefficient were similar to that of Pn after treatments of various concentrations
+  in Pn. The maximum quantum yield of PSII  decreased almost linearly with increasing
+  concentrations of CPF. Changes in the quantum yield of PSII  and photochemical quenching
+  coefficient  were similar to that of Pn after treatments of various concentrations
   of CPF. Consistent with our previous results, pretreatment of EBR alleviated the
   inhibitory effect of CPF on photosynthesis. EBR pretreatment did not completely
-  prevent the decline of Fv/Fm, ΦPSII, or qP after CPF treatment; however, for all
+  prevent the decline of Fv/Fm, PSII, or qP after CPF treatment; however, for all
   of these photosynthetic parameters, the concentration response curves showed partial
-  effects of EBR pretreatment following treatment of 0.5−2 mM CPF.
+  effects of EBR pretreatment following treatment of 0.52 mM CPF.
 
 
-  Figure 1. Effects of EBR pretreatment on the concentration response or time course
-  of Pn, Fv/Fm, ΦPSII, and qP after CPF treatment. Data are means ± SD.
+  Figure 1. Effects of EBR pretreatment on the concentration response  or time course  of
+  Pn, Fv/Fm, PSII, and qP after CPF treatment. Data are means  SD.
 
 
   The magnitude of CPF-induced toxicity in cucumber was further determined by assaying
   the recovery of photosynthesis after 1 mM CPF treatment. After a dramatic repression
   by CPF, the Pn started to recover 3 days after CPF treatment. The Pn increased steadily
   and recovered to the normal value at 7 days post-treatment. Three days after CPF
-  treatment, the Fv/Fm, ΦPSII, and qP also gradually increased. The Fv/Fm recovered
-  to the normal value at 7 days after treatment, whereas ΦPSII and qP were completely
+  treatment, the Fv/Fm, PSII, and qP also gradually increased. The Fv/Fm recovered
+  to the normal value at 7 days after treatment, whereas PSII and qP were completely
   recovered at 9 days after CPF treatment. EBR pretreatment promoted recovery of all
   these photosynthetic parameters. The Pn of EBR-pretreated plants recovered to control
   value at 5 days after CPF treatment. Fv/Fm increased to control level as early as
-  3 days, and ΦPSII and qP recovered close to the control values at 5 days after CPF
+  3 days, and PSII and qP recovered close to the control values at 5 days after CPF
   treatment. The results indicated that EBR could alleviate CPF toxicity and promote
   recovery from CPF-inflicted injury.
-
 
 
   To determine whether difference in tolerance to CPF was related to changes in CPF
@@ -270,22 +256,21 @@ text: '
   and the effect was most pronounced with 4 mM CPF. Time course analysis of CPF residue
   was also performed after treatment with 1 mM CPF. The CPF residues in plants without
   EBR pretreatment were generally higher than those in EBR-pretreated plants. Notably
-  the CPF residues of EBR-pretreated plants fell below the maximum residue limits
-  set by China at 9 days when the values of plants without EBR pretreatment were still
+  the CPF residues of EBR-pretreated plants fell below the maximum residue limits  set
+  by China  at 9 days when the values of plants without EBR pretreatment were still
   60% higher than the limit. We found a close relationship between the CPF residue
   and the net photosynthetic rate. This suggested that EBR reduced the negative effects
   of CPF on plant photosynthesis by enhancing the dissipation of the pesticide.
 
 
   Figure 2. Effects of EBR pretreatment on the pesticide residues after treatment
-  with different concentrations of CPF and dissipation of CPF. Data are means ± SD.
-
+  with different concentrations of CPF  and dissipation of CPF. Data are means  SD.
 
 
   The effects of CPF on enzymes involved in detoxification pathways were determined.
   Treatment with 0.5 mM CPF did not have a significant effect on GST activity. A significant
   increase in GST activity was observed in plants treated with 1 or 2 mM CPF, but
-  application of a high CPF concentration led to a reduction of GST activity. POD
+  application of a high CPF concentration  led to a reduction of GST activity. POD
   activity showed a concentration-dependent increase from 1 to 4 mM CPF. GR activity
   was increased even by treatment of 0.5 mM CPF and was further elevated by higher
   concentrations of the pesticide. In EBR-pretreated plants, induction of GST and
@@ -295,8 +280,8 @@ text: '
   plants than in unpretreated plants.
 
 
-  Figure 3. Effects of EBR pretreatment on the concentration response or time course
-  of GST, POD, and GR activities after CPF treatment. Data are means ± SD.
+  Figure 3. Effects of EBR pretreatment on the concentration response  or time course  of
+  GST, POD, and GR activities after CPF treatment. Data are means  SD.
 
 
   The time courses of the activities of detoxification enzymes after 1 mM CPF treatment
@@ -314,7 +299,6 @@ text: '
   enhanced dissipation rate of CPF in EBR-pretreated plants.
 
 
-
   To investigate the molecular mechanism of EBR-enhanced CPF dissipation, we analyzed
   the gene expressions of P450, GST, and MRP, which encode proteins involved in pesticide
   conversion, conjugation, and transport, respectively. The expressions of P450 and
@@ -325,7 +309,7 @@ text: '
   comparison, the expression of MRP increased almost linearly with increasing concentrations
   of CPF and transcript level after treatment of 4 mM CPF increased to 200% of control
   levels. Consistent with the roles in CPF dissipation, EBR pretreatment significantly
-  increased the induction of P450 by 0.5−2 mM CPF. However, this effect of EBR was
+  increased the induction of P450 by 0.52 mM CPF. However, this effect of EBR was
   not observed when the concentration of CPF was increased to 4 mM. In the absence
   of CPF, EBR significantly increased the expression of GST. With CPF treatment, however,
   the transcript level of GST in EBR-pretreated plants was significantly lower than
@@ -333,8 +317,8 @@ text: '
   all four concentrations of CPF applied.
 
 
-  Figure 4. Effects of EBR pretreatment on the concentration response or time course
-  of P450, GST, and MRP expression after CPF treatment. Data are means ± SD.
+  Figure 4. Effects of EBR pretreatment on the concentration response  or time course  of
+  P450, GST, and MRP expression after CPF treatment. Data are means  SD.
 
 
   The time course analysis of gene expression after 1 mM CPF treatment was also performed.
@@ -348,9 +332,8 @@ text: '
   induction of GST gene expression was significantly inhibited by EBR pretreatment.
 
 
-
   To investigate whether EBR-enhanced metabolism of pesticide was specific to CPF,
-  we analyzed changes of residue levels of another insecticide and two fungicides.
+  we analyzed changes of residue levels of another insecticide  and two fungicides.
   The pesticides were applied 24 h after EBR pretreatment, and the residues were determined
   4 days later. The analysis revealed a strong effect of EBR on pesticide degradation.
   The residues of CMT and CBZ in EBR-pretreated plants were 35 and 34% lower than
@@ -361,7 +344,7 @@ text: '
 
 
   Figure 5. Effects of EBR pretreatment on pesticide residues after treatment with
-  CMT, TPN, and CBZ. Data are means ± SD. Asterisks indicate a significant difference
+  CMT, TPN, and CBZ. Data are means  SD. Asterisks indicate a significant difference
   between plants with or without EBR pretreatment.
 
 
@@ -373,7 +356,7 @@ text: '
 
 
   Figure 6. Effects of EBR pretreatment on the GST, POD, and GR activities after treatment
-  with CMT, TPN, and CBZ. Data are means ± SD. Asterisks indicate a significant difference
+  with CMT, TPN, and CBZ. Data are means  SD. Asterisks indicate a significant difference
   between plants with or without EBR pretreatment.
 
 
@@ -387,9 +370,7 @@ text: '
 
 
   Figure 7. Effects of EBR pretreatment on P450, GST, and MRP expression after treatment
-  with CMT, TPN, and CBZ. Data are means ± SD.
-
-
+  with CMT, TPN, and CBZ. Data are means  SD.
 
 
   Fungicides and insecticides control diseases and insects by inhibiting important
@@ -397,13 +378,13 @@ text: '
   also have consequences on crop physiology, such as growth reduction, perturbation
   of reproductive organ development, and alteration of nitrogen and/or carbon metabolism.
   Here, we showed that chlorpyrifos, a broad-spectrum organophosphate insecticide,
-  induced reduction of CO2 assimilation and electron transport in cucumber leaves.
+  induced reduction of CO2 assimilation  and electron transport  in cucumber leaves.
   Although it is not clear whether chlorpyrifos directly targets photosynthetic apparatus,
   changes in Chl fluorescence parameters suggest strongly that chlorpyrifos causes
   perturbations of metabolism processes in leaves. Chlorpyrifos also induced significant
-  declines in Fv/Fm, which is often associated with oxidative stress. Previous study
-  has suggested that insecticides in combination with fungicides cause uncoupling
-  of the photosynthetic electron flow from phosphorylation, which would activate pseudocyclic
+  declines in Fv/Fm, which is often associated with oxidative stress. Previous study  has
+  suggested that insecticides in combination with fungicides cause uncoupling of the
+  photosynthetic electron flow from phosphorylation, which would activate pseudocyclic
   electron transport, result in generation of reactive oxygen species in chloroplast,
   and cause damage to the photosystems. The recovery of photosynthesis was observed
   at 3 days after 1 mM chlorpyrifos treatment, indicating that chlorpyrifos did not
@@ -411,11 +392,12 @@ text: '
   in plants usually result in less toxic metabolites. The recovery in photosynthesis
   may result from chlorpyrifos detoxification in treated plant leaves. This possibility
   is consistent with the observation that the recovery of photosynthesis was accompanied
-  by a decrease of chlorpyrifos residue. EBR decreased chlorpyrifos residues and alleviated
-  the toxic effect of chlorpyrifos on photosynthesis. EBR may enhance the metabolism
-  of pesticides into less toxic forms. The protective effect of EBR may also be attributed
-  to the induction of plant antioxidant capacity. However, we observed no significant
-  enhancement of activities of antioxidant enzymes in EBR-pretreated plants.
+  by a decrease of chlorpyrifos residue. EBR decreased chlorpyrifos residues  and
+  alleviated the toxic effect of chlorpyrifos on photosynthesis. EBR may enhance the
+  metabolism of pesticides into less toxic forms. The protective effect of EBR may
+  also be attributed to the induction of plant antioxidant capacity. However, we observed
+  no significant enhancement of activities of antioxidant enzymes in EBR-pretreated
+  plants.
 
 
   The enhanced metabolism of chlorpyrifos was associated with EBR-mediated increases
@@ -433,8 +415,8 @@ text: '
   POD is a general defense enzyme and responds to a variety of environmental stresses,
   it is possible that EBR-mediated induction of detoxification enzymes and chlorpyrifos
   metabolism may be part of a general stress response. GR is an NADPH-dependent enzyme
-  that catalyzes the reduction of oxidized glutathione to GSH. In addition, GR is
-  important for the maintenance of cellular glutathione pools. Broadbent et al. demonstrated
+  that catalyzes the reduction of oxidized glutathione  to GSH. In addition, GR is
+  important for the maintenance of cellular glutathione pools. Broadbent et al.  demonstrated
   that overexpression of pea gor1 gene resulted in an increase of glutathione pools
   up to 50% in tobacco. The enhanced activity of GR may indirectly contribute to the
   increase levels of GSH and enhance the formation of the GS conjugates of pesticides.
@@ -485,7 +467,7 @@ text: '
   the metabolism of these pesticides.
 
 
-  Although “organic farming” may reduce the risk of food contamination by pesticides,
+  Although organic farming may reduce the risk of food contamination by pesticides,
   the acceptance of this approach in developing countries such as China has been very
   slow. The positive effect of BRs on pesticide degradation in crops is intriguing.
   At present, there is no direct evidence for harmful effects of BRs on human health.
@@ -494,19 +476,14 @@ text: '
   promising approach for controlling food safety by reducing harmful pesticide residues.
 
 
-
-
   BRs, brassinosteroids; CBZ, carbendazim; CMT, cypermethrin; CPF, chlorpyrifos; EBR,
   24-epibrassinolide; Fv/Fm, maximal photochemical yield of PSII; GR, glutathione
   reductase; GSH, glutathione; GST, glutathione S-transferase; MRL, maximum residue
   limits; Pn, net photosynthetic rate; POD, peroxidase; qP, photochemical quenching
-  coefficient; TPN, chlorothalonil; ΦPSII, quantum yield of PSII.
-
-
+  coefficient; TPN, chlorothalonil; PSII, quantum yield of PSII.
 
 
   We acknowledge Professor Z. X. Chen of Purdue for critical reading of the manuscript.
-
 
 
   This work was financially supported by the National Basic Research Program of China,
