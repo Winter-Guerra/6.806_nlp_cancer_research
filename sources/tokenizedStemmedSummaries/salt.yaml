@@ -1,4 +1,39 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salt.yaml,
+  originalSentence: 'Although salt is a necessity, U.S. consumers are unlikely ever
+    to be deficient in salt.', sentence: although salt necess u s consum unlik ever
+    defici salt, tags: salt}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salt.yaml,
+  originalSentence: 'Our diets are heavily loaded with salt, the majority of which
+    is derived from processed food, fast food, and restaurant meals.', sentence: our
+    diet heavili load salt major deriv process food fast food restaur meal, tags: salt}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salt.yaml,
+  originalSentence: 'Increasing salt consumption is correlated with higher blood pressure
+    in the majority of people, so that high salt consumption serves to promote heart
+    disease and stroke.', sentence: increas salt consumpt correl higher blood pressur
+    major peopl high salt consumpt serv promot heart diseas stroke, tags: salt}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salt.yaml,
+  originalSentence: 'Salt consumption is also suspected of contributing to insulin
+    resistance and metabolic syndrome, which themselves may be associated with increased
+    risk of breast cancer.', sentence: salt consumpt also suspect contribut insulin
+    resist metabol syndrom may associ increas risk breast cancer, tags: salt}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salt.yaml,
+  originalSentence: High salt consumption has been found to be associated with increased
+    risk of pancreatic cancer., sentence: high salt consumpt found associ increas
+    risk pancreat cancer, tags: salt}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salt.yaml,
+  originalSentence: Consumption of highly salted foods  has also been found to be
+    associated with increased risks of ovarian and prostate cancer in China., sentence: consumpt
+    high salt food also found associ increas risk ovarian prostat cancer china, tags: salt}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salt.yaml,
+  originalSentence: 'Consumption of salted fish has been shown in several studies
+    to increase the risks of nasopharyngeal and colorectal cancers, as well as stomach
+    cancer.', sentence: consumpt salt fish shown sever studi increas risk nasopharyng
+    colorect cancer well stomach cancer, tags: salt}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salt.yaml,
+  originalSentence: One South American study found the risk of esophageal cancer to
+    increase with increasing consumption of salt., sentence: one south american studi
+    found risk esophag cancer increas increas consumpt salt, tags: salt}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salt.yaml,
   originalSentence: 'The relationship between salt and cancer is related to two types
     of salt intake: high overall intake and high intake of very salty foods.', sentence: the
     relationship salt cancer relat two type salt intak high overal intak high intak
@@ -43,3 +78,30 @@
     are vulnerable to gastric metastases., sentence: there evid breast cancer survivor
     increas risk develop stomach cancer lobular breast cancer survivor particular
     vulner gastric metastas, tags: salt}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salt.yaml,
+  originalSentence: Sodium nitrite and related compounds are routinely added to processed
+    meat and some other salty foods to preserve their freshness and coloring., sentence: sodium
+    nitrit relat compound routin ad process meat salti food preserv fresh color, tags: salt}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salt.yaml,
+  originalSentence: 'Sodium nitrite has been shown to react with chemicals in the
+    stomach to produce nitrosamines, which are known to be cancer-promoting.', sentence: sodium
+    nitrit shown react chemic stomach produc nitrosamin known cancer promot, tags: salt}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salt.yaml,
+  originalSentence: 'However, the cancer-related effects of salt consumption are not
+    dependent on the presence of sodium nitrite; this carcinogen simply worsens the
+    cancer profile of salty foods that contain it.', sentence: howev cancer relat
+    effect salt consumpt depend presenc sodium nitrit carcinogen simpli worsen cancer
+    profil salti food contain, tags: salt}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salt.yaml,
+  originalSentence: Iodine deficiency is a major cause of preventable mental retardation
+    found worldwide., sentence: iodin defici major caus prevent mental retard found
+    worldwid, tags: salt}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salt.yaml,
+  originalSentence: Iodized salt is designed to prevent this deficiency., sentence: iodiz
+    salt design prevent defici, tags: salt}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salt.yaml,
+  originalSentence: 'Note that while we are continually searching for new evidence
+    specifically concerning this food, there is not much interest in it among breast
+    cancer researchers, so few studies are available.', sentence: note continu search
+    new evid specif concern food much interest among breast cancer research studi
+    avail, tags: salt}

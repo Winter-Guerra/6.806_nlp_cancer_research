@@ -1,4 +1,46 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'Like black tea, green tea is made by adding hot water to the
+    cured leaves of the Camellia sinensis plant.', sentence: like black tea green
+    tea made ad hot water cure leav camellia sinensi plant, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'Green tea leaves are unoxidized, whereas black tea leaves have
+    been allowed to oxidize.', sentence: green tea leav unoxid wherea black tea leav
+    allow oxid, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: White tea is made from uncured and unoxidized tea leaves of the
+    same plant., sentence: white tea made uncur unoxid tea leav plant, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'Black tea and herbal teas such as yerba mat and chamomile, mint,
+    sage, and Essiac tea are covered in other web pages.', sentence: black tea herbal
+    tea yerba mat chamomil mint sage essiac tea cover web page, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'Green tea has been shown to have antioxidant, anti-inflammatory,
+    and antihypertensive properties and may reduce the risk of stroke.', sentence: green
+    tea shown antioxid anti inflammatori antihypertens properti may reduc risk stroke,
+  tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'Green tea may improve glucose metabolism and has been shown to
+    support weight loss by suppressing hunger, increasing satiety, and increasing
+    energy expenditure and fat oxidation.', sentence: green tea may improv glucos
+    metabol shown support weight loss suppress hunger increas satieti increas energi
+    expenditur fat oxid, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: Green tea consumption has been found to be associated with increased
+    bone mineral density and may help prevent osteoporotic fractures in older women.,
+  sentence: green tea consumpt found associ increas bone miner densiti may help prevent
+    osteoporot fractur older women, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'Increased consumption of green tea may reduce the risk of liver
+    disease, although it appears not to reduce the risk of liver cancer.', sentence: increas
+    consumpt green tea may reduc risk liver diseas although appear reduc risk liver
+    cancer, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'Consumption of tea has been found to be associated with reduced
+    risks of melanoma and adult leukemia, as well as gastric, ovarian, endometrial,
+    colorectal, and prostate cancer.', sentence: consumpt tea found associ reduc risk
+    melanoma adult leukemia well gastric ovarian endometri colorect prostat cancer,
+  tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
   originalSentence: Green tea contains catechins and other polyphenols that are thought
     to be responsible for its anti-cancer properties., sentence: green tea contain
     catechin polyphenol thought respons anti cancer properti, tags: green-tea}
@@ -65,3 +107,85 @@
   originalSentence: There is also some evidence that green tea consumption might help
     prevent recurrence in early stage  breast cancers., sentence: there also evid
     green tea consumpt might help prevent recurr earli stage breast cancer, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: Green tea consumption has been found to further reduce the risk
+    of breast cancer in combination with high dietary intake of mushrooms., sentence: green
+    tea consumpt found reduc risk breast cancer combin high dietari intak mushroom,
+  tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'In other words, there appears to be a synergistic effect between
+    green tea and mushroom consumption in reducing breast cancer risk.', sentence: in
+    word appear synergist effect green tea mushroom consumpt reduc breast cancer risk,
+  tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: Drinking very hot green tea  should be avoided., sentence: drink
+    hot green tea avoid, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: Rates of esophageal cancer are high in areas of the world where
+    tea normally is consumed at high temperatures., sentence: rate esophag cancer
+    high area world tea normal consum high temperatur, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'In one study, the risk of esophageal cancer was found to be eight
+    times higher for those who regularly drank very hot tea compared to those who
+    drank warm or lukewarm tea.', sentence: in one studi risk esophag cancer found
+    eight time higher regular drank hot tea compar drank warm lukewarm tea, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'Note that it is the hot temperature that contributes to esophageal
+    cancer, not the compounds found in green tea.', sentence: note hot temperatur
+    contribut esophag cancer compound found green tea, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'In fact, one large Chinese population study found that relatively
+    high urinary levels of green tea polyphenols were associated with lower risk of
+    esophageal squamous cell cancer.', sentence: in fact one larg chines popul studi
+    found relat high urinari level green tea polyphenol associ lower risk esophag
+    squamous cell cancer, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'Green tea should be prepared with hot, but not boiling, water
+    to maximize its polyphenol content.', sentence: green tea prepar hot boil water
+    maxim polyphenol content, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: Green and black tea consumption decreases the bioavailability
+    of folic acid in the diet by reducing the level of intestinal absorption and interfering
+    with the folate pathway., sentence: green black tea consumpt decreas bioavail
+    folic acid diet reduc level intestin absorpt interf folat pathway, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: This folate cycle inhibition is thought by some researchers to
+    be one mechanism by which green tea protects against breast cancer., sentence: this
+    folat cycl inhibit thought research one mechan green tea protect breast cancer,
+  tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'Similarly, tea inhibits iron absorption and high levels of iron
+    in benign breast tissue has been found to be associated with increased risk of
+    subsequent breast cancer.', sentence: similar tea inhibit iron absorpt high level
+    iron benign breast tissu found associ increas risk subsequ breast cancer, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'For those who require additional folate or iron, however, vitamin
+    pills or other supplements containing folate or iron should not be taken with
+    tea.', sentence: for requir addit folat iron howev vitamin pill supplement contain
+    folat iron taken tea, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: Prepared green or black tea contains less than half the caffeine
+    of the same amount of drip coffee., sentence: prepar green black tea contain less
+    half caffein amount drip coffe, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'However, high caffeine intake may increase the risk of benign
+    breast disease, particularly atypical hyperplasia, which is associated with increased
+    breast cancer risk.', sentence: howev high caffein intak may increas risk benign
+    breast diseas particular atyp hyperplasia associ increas breast cancer risk, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: Those sensitive to caffeine or with benign fibrocystic breast
+    disease should take steps to limit their caffeine intake when preparing green
+    tea., sentence: those sensit caffein benign fibrocyst breast diseas take step
+    limit caffein intak prepar green tea, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: Green tea supplements and herbal mixtures containing green tea
+    in concentrated form have been shown to cause liver damage in some consumers and
+    should be avoided., sentence: green tea supplement herbal mixtur contain green
+    tea concentr form shown caus liver damag consum avoid, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'For a more complete list, including less recent studies, please
+    click on green tea.', sentence: for complet list includ less recent studi pleas
+    click green tea, tags: green-tea}

@@ -1,4 +1,34 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Soybeans have an oil content of approximately 20%., sentence: soybean
+    oil content approxim 20, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'To produce soybean oil, the beans are crushed, the oil is solvent-extracted
+    with hexane, and then the oil is refined.', sentence: to produc soybean oil bean
+    crush oil solvent extract hexan oil refin, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: The remaining soybean husks are used primarily as animal feed.,
+  sentence: the remain soybean husk use primarili anim feed, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Soybean oil is the second-most widely produced food oil in the
+    world., sentence: soybean oil second wide produc food oil world, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Much of the oil sold in U.S. supermarkets as vegetable oil is
+    soybean oil., sentence: much oil sold u s supermarket veget oil soybean oil, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Soybean oil is a dietary source of vitamin E and vitamin K. It
+    does not have the phytoestrogen content of other soy foods., sentence: soybean
+    oil dietari sourc vitamin e vitamin k it phytoestrogen content soy food, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'This web page focuses on soybean oil; separate web pages cover
+    tofu, soybean paste, soy protein isolate, and soybeans.', sentence: this web page
+    focus soybean oil separ web page cover tofu soybean past soy protein isol soybean,
+  tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: We attempt to untangle the conflicting findings regarding breast
+    cancer risk and soybean isoflavones in the genistein and daidzein web page., sentence: we
+    attempt untangl conflict find regard breast cancer risk soybean isoflavon genistein
+    daidzein web page, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
   originalSentence: Soybean oil is mainly comprised of fat., sentence: soybean oil
     main compris fat, tags: soybean-oil}
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
@@ -111,3 +141,28 @@
     women normally using olive/canola oil., sentence: one u s studi examin associ
     type fat use cook risk breast cancer found women cook primarili veget corn oil
     30 higher risk breast cancer women normal use oliv canola oil, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'Partially-hydrogenated soybean oil, found in many processed foods
+    and restaurant meals, is to be avoided.', sentence: partial hydrogen soybean oil
+    found mani process food restaur meal avoid, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'Hydrogenation increases hardness and stabilizes fats, increasing
+    product shelf life and decreasing refrigeration requirements.', sentence: hydrogen
+    increas hard stabil fat increas product shelf life decreas refriger requir, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'Partial hydrogenation results in the formation of trans fatty
+    acids, which are known to increase LDL cholesterol  and lower HDL cholesterol,
+    thereby increasing cardiovascular disease risk factors.', sentence: partial hydrogen
+    result format tran fatti acid known increas ldl cholesterol lower hdl cholesterol
+    therebi increas cardiovascular diseas risk factor, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Consumption of trans fatty acids has also been found to be associated
+    with increased breast cancer risk., sentence: consumpt tran fatti acid also found
+    associ increas breast cancer risk, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'For a more complete list, including less recent studies, please
+    click on soybean oil.', sentence: for complet list includ less recent studi pleas
+    click soybean oil, tags: soybean-oil}

@@ -1,4 +1,42 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'While there are cheeses on the market made from various oils
+    and from the milk of goats, sheep, and other animals, the discussion in this webpage
+    refers to cheese made from cows milk.', sentence: while chees market made various
+    oil milk goat sheep anim discuss webpag refer chees made cow milk, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'Also, cheese refers to full-fat cheese rather than reduced fat
+    or non-fat cheese.', sentence: also chees refer full fat chees rather reduc fat
+    non fat chees, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'Cheese is a rich dietary source of calcium, conjugated linoleic
+    acid, and stearate, all of which have been shown to have anticarcinogenic properties.',
+  sentence: chees rich dietari sourc calcium conjug linol acid stearat shown anticarcinogen
+    properti, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: Numerous studies have found that the consumption of cheese and
+    other high-fat dairy foods is related to lower risk of colon cancer., sentence: numer
+    studi found consumpt chees high fat dairi food relat lower risk colon cancer,
+  tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: Cheese consumption also appears to reduce the risks of stomach
+    and pancreatic cancer., sentence: chees consumpt also appear reduc risk stomach
+    pancreat cancer, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'On the other hand, studies indicate that the consumption of cheese
+    may increase the risks of developing bladder, testicular, ovarian, and thyroid
+    cancers, as well as non-Hodgkin lymphoma.', sentence: on hand studi indic consumpt
+    chees may increas risk develop bladder testicular ovarian thyroid cancer well
+    non hodgkin lymphoma, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'Higher intake of cheese has been associated with increases in
+    prostate cancer risk in many, but not all, studies that have examined the association.',
+  sentence: higher intak chees associ increas prostat cancer risk mani studi examin
+    associ, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: Cheese consumption also has been found to increase the risk of
+    new skin cancer  among people with previous skin cancer., sentence: chees consumpt
+    also found increas risk new skin cancer among peopl previous skin cancer, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
   originalSentence: 'Components of cheese, including calcium, vitamin D, stearate,
     and CLA have been found to induce apoptosis of breast cancer cells or reduce mammary
     tumor size and incidence in the laboratory.', sentence: compon chees includ calcium
@@ -81,3 +119,29 @@
     gland are being developed in the hope that they can eventually play a role in
     breast cancer chemoprevention.', sentence: in fact substanc inhibit igf i action
     mammari gland develop hope eventu play role breast cancer chemoprevent, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'Since calcium and vitamin D both have been shown to be very significant
+    in protecting against several cancers, and since cheese is a major source of both
+    in the typical American diet, it is important that those who start to decrease
+    their overall consumption of cheese add new sources of calcium and vitamin D.
+
+
+    While consuming low-fat dairy products may reduce breast cancer risk compared
+    to full-fat dairy products, it also can increase the risk of infertility in women
+    due to lack of ovulation.', sentence: sinc calcium vitamin d shown signific protect
+    sever cancer sinc chees major sourc typic american diet import start decreas overal
+    consumpt chees add new sourc calcium vitamin d while consum low fat dairi product
+    may reduc breast cancer risk compar full fat dairi product also increas risk infertil
+    women due lack ovul, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: High intake of low-fat dairy foods has been found to increase
+    the risk of anovulatory infertility whereas intake of high-fat dairy foods has
+    been associated with lower risk., sentence: high intak low fat dairi food found
+    increas risk anovulatori infertil wherea intak high fat dairi food associ lower
+    risk, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'For a more complete list of studies, please click on cheese.',
+  sentence: for complet list studi pleas click chees, tags: cheese}

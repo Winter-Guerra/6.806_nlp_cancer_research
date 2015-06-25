@@ -1,4 +1,29 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'Tomatoes are a rich source of the carotenoids lycopene, alpha-carotene,
+    and beta-carotene, as well as melatonin, the anthocyanidin delphinidin, and the
+    flavanoids quercetin, fisetin and naringenin, all of which have been found to
+    have anti-cancer activities.', sentence: tomato rich sourc carotenoid lycopen
+    alpha caroten beta caroten well melatonin anthocyanidin delphinidin flavanoid
+    quercetin fisetin naringenin found anti cancer activ, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'Tomatoes have been shown to have anti-oxidant, anti-inflammatory,
+    antimutagenic, and cardioprotective properties.', sentence: tomato shown anti
+    oxid anti inflammatori antimutagen cardioprotect properti, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: Increased intake of tomatoes is associated with decreased cardiovascular
+    disease and reduced risk of heart attack., sentence: increas intak tomato associ
+    decreas cardiovascular diseas reduc risk heart attack, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'Tomato consumption has been found to be associated with reduced
+    risks of cancer of the mouth, breast, lung, stomach, pancreas, prostate, colon,
+    ovary, and endometrium.', sentence: tomato consumpt found associ reduc risk cancer
+    mouth breast lung stomach pancrea prostat colon ovari endometrium, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'However, tomatoes or lycopene have been shown not to have significant
+    anticancer effects on renal cell, uterine, ovarian, and bladder cancers.', sentence: howev
+    tomato lycopen shown signific anticanc effect renal cell uterin ovarian bladder
+    cancer, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
   originalSentence: 'A number of studies have found an inverse association between
     breast cancer risk and increasing consumption of tomatoes, components of tomatoes,
     or vegetables that have high levels of carotenoids.', sentence: a number studi
@@ -57,3 +82,73 @@
     Adriamycin  chemotherapy by ameliorating cardiac cell injury., sentence: sever
     studi shown cardioprotect effect tomato lycopen extend reduc impact myocardi toxic
     adriamycin chemotherapi amelior cardiac cell injuri, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'Cherry tomatoes rank the highest of all tomatoes in lycopene
+    and overall antioxidant content, presumably because of their high ratio of tomato
+    skin to tomato flesh and rich color.', sentence: cherri tomato rank highest tomato
+    lycopen overal antioxid content presum high ratio tomato skin tomato flesh rich
+    color, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'However, lycopene is absorbed in greater quantities from cooked
+    tomatoes than fresh tomatoes.', sentence: howev lycopen absorb greater quantiti
+    cook tomato fresh tomato, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: The best sources of bioavailable lycopene are tomato paste and
+    tomato sauce., sentence: the best sourc bioavail lycopen tomato past tomato sauc,
+  tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: Frying greatly reduces the lycopene content of fresh tomatoes.,
+  sentence: fri great reduc lycopen content fresh tomato, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'While tomato ketchup has a relatively low overall carotenoid
+    content compared to fresh tomatoes or tomato sauce, it is a good source of lycopene.',
+  sentence: while tomato ketchup relat low overal carotenoid content compar fresh
+    tomato tomato sauc good sourc lycopen, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'However, note that high fructose corn syrup is the second most
+    abundant ingredient in regular ketchup and that versions without this ingredient
+    are available.', sentence: howev note high fructos corn syrup second abund ingredi
+    regular ketchup version without ingredi avail, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'Sun dried tomatoes contain relatively high levels of copper,
+    which could contribute to angiogenesis and metastasis of breast cancer.', sentence: sun
+    dri tomato contain relat high level copper could contribut angiogenesi metastasi
+    breast cancer, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'Ready-made tomato soups can have high levels of sodium nitrite,
+    a known carcinogen.', sentence: readi made tomato soup high level sodium nitrit
+    known carcinogen, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: Check the labels of canned or otherwise pre-made soups and avoid
+    those containing sodium nitrite., sentence: check label can otherwis pre made
+    soup avoid contain sodium nitrit, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: The table salt content of such soups can also be acceptably high
+    for those who must limit their sodium intake., sentence: the tabl salt content
+    soup also accept high must limit sodium intak, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'Beta carotene, vitamin A and lycopene should be obtained from
+    food rather than supplements.', sentence: beta caroten vitamin a lycopen obtain
+    food rather supplement, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'Generally speaking, synergistic interactions between the biologically
+    active components in a given fruit or vegetable are important to its potential
+    health-related characteristics.', sentence: general speak synergist interact biolog
+    activ compon given fruit veget import potenti health relat characterist, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: Supplementation by -carotene and lycopene both have been found
+    to be ineffective in reducing the risk of breast cancer., sentence: supplement
+    caroten lycopen found ineffect reduc risk breast cancer, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'In addition, -carotene supplementation has been linked to increased
+    risk of lung cancer in high-risk persons and high serum -carotene concentrations  have
+    been associated with increased risk of aggressive prostate cancer.', sentence: in
+    addit caroten supplement link increas risk lung cancer high risk person high serum
+    caroten concentr associ increas risk aggress prostat cancer, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'For a more complete list, including less recent studies, please
+    click on tomatoes.', sentence: for complet list includ less recent studi pleas
+    click tomato, tags: tomatoes}

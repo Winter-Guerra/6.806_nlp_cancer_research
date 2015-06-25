@@ -76,7 +76,7 @@ class Analyzer():
 		# Let us discount words that appear in almost all articles
 		maxdf = int(0.9*n)
 
-		self.bigram_vectorizer = CountVectorizer(ngram_range=(1, 2), analyzer=str.split)
+		self.bigram_vectorizer = CountVectorizer(ngram_range=(1, 2), binary=True, analyzer=str.split)
 
 		print("Finding count vector")
 		# Get our count vector of bigram occurances
@@ -292,7 +292,7 @@ def runDoctest():
 
 
 @task
-def run():
+def run(verbose=False):
 
 	analyzer = Analyzer()
 
@@ -304,8 +304,9 @@ def run():
 	# Now, let's try to process the resulting sentence distribution for each document
 	analyzer.splitRelationMatrixByDocument()
 
-	# Let's prettyprint the file data
-	analyzer.prettyPrintRelationMatrixList()
+	if verbose:
+		# Let's prettyprint the file data
+		analyzer.prettyPrintRelationMatrixList()
 
 
 

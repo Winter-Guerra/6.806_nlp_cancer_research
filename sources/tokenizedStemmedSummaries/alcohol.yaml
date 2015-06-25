@@ -1,4 +1,31 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/alcohol.yaml,
+  originalSentence: 'Moderate to sizeable alcohol intake has been shown to contribute
+    to the risks of colorectal cancer, upper aerodigestive  cancers, liver cancer,
+    gallbladder cancer, pancreatic cancer, stomach cancer, and melanoma.', sentence: moder
+    sizeabl alcohol intak shown contribut risk colorect cancer upper aerodigest cancer
+    liver cancer gallbladd cancer pancreat cancer stomach cancer melanoma, tags: alcohol}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/alcohol.yaml,
+  originalSentence: 'On the other hand, some studies have found inverse associations
+    between alcohol drinking and renal cell cancer, thyroid cancer, and non-Hodgkin
+    lymphoma risk.', sentence: on hand studi found invers associ alcohol drink renal
+    cell cancer thyroid cancer non hodgkin lymphoma risk, tags: alcohol}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/alcohol.yaml,
+  originalSentence: Moderate alcohol consumption also is lower levels of cardiovascular
+    risk and type 2 diabetes in women., sentence: moder alcohol consumpt also lower
+    level cardiovascular risk type 2 diabet women, tags: alcohol}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/alcohol.yaml,
+  originalSentence: Several studies have found that those who consume an average of
+    one or two drinks per day tend to have lower all cause mortality than those who
+    either do not drink or consume three or more drinks per day., sentence: sever
+    studi found consum averag one two drink per day tend lower caus mortal either
+    drink consum three drink per day, tags: alcohol}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/alcohol.yaml,
+  originalSentence: 'Folate or folic acid was initially reported to reduce the alcohol
+    consumption-related risk of breast cancer, however recent studies have failed
+    to convincingly confirm this.', sentence: folat folic acid initi report reduc
+    alcohol consumpt relat risk breast cancer howev recent studi fail convinc confirm,
+  tags: alcohol}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/alcohol.yaml,
   originalSentence: Alcohol drinking is a well-established risk factor for breast
     cancer., sentence: alcohol drink well establish risk factor breast cancer, tags: alcohol}
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/alcohol.yaml,

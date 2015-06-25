@@ -1,4 +1,28 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: 'Lamb is a good dietary source of protein, zinc, selenium, B-vitamins
+    and iron.', sentence: lamb good dietari sourc protein zinc selenium b vitamin
+    iron, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: 'Lamb also contains high levels of conjugated linoleic acid  and
+    stearate, both of which have been shown to induce breast cancer cell death.',
+  sentence: lamb also contain high level conjug linol acid stearat shown induc breast
+    cancer cell death, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: 'However, the potentially favorable effects of these components
+    appear to be overwhelmed by lambs high level of saturated fat and the carcinogenic
+    effects of naturally-occurring lamb compounds, lamb additives and lamb preparation
+    methods.', sentence: howev potenti favor effect compon appear overwhelm lamb high
+    level satur fat carcinogen effect natur occur lamb compound lamb addit lamb prepar
+    method, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: 'Diets high in red meat or well-done red meat have been linked
+    in various population studies to higher risks of non-Hodgkins lymphoma and cancers
+    of the oral cavity, throat, esophagus, lung, stomach, pancreas, liver, colon,
+    rectum, endometrium and prostate.', sentence: diet high red meat well done red
+    meat link various popul studi higher risk non hodgkin lymphoma cancer oral caviti
+    throat esophagus lung stomach pancrea liver colon rectum endometrium prostat,
+  tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
   originalSentence: Most population studies combine lamb with other red meat intake
     when evaluating the influence of lamb consumption on breast cancer risk and some
     groups of people seldom eat lamb., sentence: most popul studi combin lamb red
@@ -86,3 +110,74 @@
   originalSentence: 'However, note that not all studies have found an association
     between red meat consumption and breast cancer risk.', sentence: howev note studi
     found associ red meat consumpt breast cancer risk, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: 'Most U.S. consumers never eat mutton, which has a strong flavor
+    compared to lamb.', sentence: most u s consum never eat mutton strong flavor compar
+    lamb, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: 'The majority of lambs consumed in the U.S. are grown in Texas,
+    California, Wyoming, Colorado or South Dakota and processed in Colorado, Iowa,
+    Michigan or New Jersey.', sentence: the major lamb consum u s grown texa california
+    wyom colorado south dakota process colorado iowa michigan new jersey, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: Lambs are normally finished  in feedlots., sentence: lamb normal
+    finish feedlot, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: Colorado produces the most organic lambs and sheep., sentence: colorado
+    produc organ lamb sheep, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: 'However, over 40 percent of U.S. lamb and mutton is imported
+    from Australia and New Zealand.', sentence: howev 40 percent u s lamb mutton import
+    australia new zealand, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: 'If lamb is to be consumed, it makes sense to buy grass-fed organic
+    lamb to avoid eating irradiated, growth hormone-treated meat from soy- or corn-fed
+    animals.', sentence: if lamb consum make sens buy grass fed organ lamb avoid eat
+    irradi growth hormon treat meat soy corn fed anim, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: 'Grass-fed lamb has a more favorable fatty acid content, with
+    a higher proportion of omega-3 fatty acids.', sentence: grass fed lamb favor fatti
+    acid content higher proport omega 3 fatti acid, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: Note that the organic label does not necessarily mean free range
+    or grass fed., sentence: note organ label necessarili mean free rang grass fed,
+  tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: The primary requirements for lamb to be labeled organic is that
+    the animals are raised without the use of antibiotics and growth hormones and
+    that their feed  must be organically grown., sentence: the primari requir lamb
+    label organ anim rais without use antibiot growth hormon feed must organ grown,
+  tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: 'Although most New Zealand land is grass-fed, lamb grown for export
+    to the U.S. may be corn fed.', sentence: although new zealand land grass fed lamb
+    grown export u s may corn fed, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: Well done and flame-broiled lamb is not recommended., sentence: well
+    done flame broil lamb recommend, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: Fat drippings and grill residue scrapings contain particularly
+    high levels of HCAs and should be discarded., sentence: fat drip grill residu
+    scrape contain particular high level hcas discard, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: 'Although we do not recommend supplementation with CLA, we wish
+    to advise those who do to avoid the t10,c12-CLA isomer.', sentence: although recommend
+    supplement cla wish advis avoid t10 c12 cla isom, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: 'The t10,c12 CLA isomer was found to dramatically enhance mammary
+    tumor development in one mouse experiment.', sentence: the t10 c12 cla isom found
+    dramat enhanc mammari tumor develop one mous experi, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: 'The time by which 50% of the mice in the group developed a tumor
+    was shortened from 267 days for mice on a control diet to 169 days for mice fed
+    t10,c12-CLA.', sentence: the time 50 mice group develop tumor shorten 267 day
+    mice control diet 169 day mice fed t10 c12 cla, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: 'Choose products with only the c9,t11 isomer.', sentence: choos
+    product c9 t11 isom, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: Below are links to recent studies concerning this food and related
+    foods., sentence: below link recent studi concern food relat food, tags: lamb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lamb.yaml,
+  originalSentence: 'For a more complete list of studies, please click on lamb.',
+  sentence: for complet list studi pleas click lamb, tags: lamb}

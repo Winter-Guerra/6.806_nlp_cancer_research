@@ -145,8 +145,19 @@ def stemSummaries():
 		newFileName = f.replace('tokenizedSummaries','tokenizedStemmedSummaries')
 
 		with open(newFileName, 'w') as _f:
-			output = yaml.dump(fileData, Dumper=Dumper)
+			output = yaml.dump(sentences, Dumper=Dumper)
 			_f.write(output)
+
+@task
+def doArticles():
+	tokenizeArticleSentences()
+	aggregateAndStemCorpus()
+
+@task
+def doSummaries():
+	tokenizeSummarySentences()
+	stemSummaries()
+
 
 
 

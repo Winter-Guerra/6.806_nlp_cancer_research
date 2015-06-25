@@ -1,4 +1,74 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'Olive oil is a mostly unsaturated oil consisting primarily of
+    oleic acid, linoleic acid, palmitic acid, and stearic acid.', sentence: oliv oil
+    most unsatur oil consist primarili oleic acid linol acid palmit acid stearic acid,
+  tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'In addition, olive oil is a major source phytochemicals and also
+    contains some melatonin.', sentence: in addit oliv oil major sourc phytochem also
+    contain melatonin, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'Olive oil has been shown to reduce oxidative DNA damage and improve
+    coronary heart disease by reducing blood pressure, low-density lipoprotein  cholesterol,
+    and inflammation.', sentence: oliv oil shown reduc oxid dna damag improv coronari
+    heart diseas reduc blood pressur low densiti lipoprotein cholesterol inflamm,
+  tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'Olive oil consumption was shown to be significantly related to
+    less cognitive decline in one study of 8,028 French subjects aged 65 years and
+    over, and has been shown to reduce pain and disability in those with arthritis.',
+  sentence: oliv oil consumpt shown signific relat less cognit declin one studi 8
+    028 french subject age 65 year shown reduc pain disabl arthriti, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'Olive extract has been shown to inhibit proliferation and induce
+    cell death of gastric cancer, lung cancer, and leukemia cells.', sentence: oliv
+    extract shown inhibit prolifer induc cell death gastric cancer lung cancer leukemia
+    cell, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: Olive oil consumption also has been associated with lower risks
+    of colon and ovarian cancer., sentence: oliv oil consumpt also associ lower risk
+    colon ovarian cancer, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: Oleic acid does not appear to account for its anti-cancer effects
+    and in fact might promote breast cancer., sentence: oleic acid appear account
+    anti cancer effect fact might promot breast cancer, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'While oleic acid has anti-inflammatory properties, it has also
+    been shown to induce migration and proliferation of both hormone receptor positive  and
+    triple negative breast cancer cells.', sentence: while oleic acid anti inflammatori
+    properti also shown induc migrat prolifer hormon receptor posit tripl negat breast
+    cancer cell, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: These findings imply that the protective effect of olive oil are
+    due to other components of the oil and not the direct effect of oleic acid., sentence: these
+    find impli protect effect oliv oil due compon oil direct effect oleic acid, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: The findings also argue against using highly refined olive oil.,
+  sentence: the find also argu use high refin oliv oil, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'Extra-virgin olive oil contains at least 30 phenolic compounds,
+    a diverse group of aromatic compounds.', sentence: extra virgin oliv oil contain
+    least 30 phenol compound divers group aromat compound, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: Included are some familiar flavonoids  and phenolic acids., sentence: includ
+    familiar flavonoid phenol acid, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'However, the most important phenolic compounds include the less
+    familiar oleuropein, oleocanthal, hydroxytyrosol, and tyrosol.', sentence: howev
+    import phenol compound includ less familiar oleuropein oleocanth hydroxytyrosol
+    tyrosol, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: The phenolic compounds present in olive oil are strong antioxidants
+    and free radical scavengers and have been shown to have anti-cancer effects in
+    breast cancer cells., sentence: the phenol compound present oliv oil strong antioxid
+    free radic scaveng shown anti cancer effect breast cancer cell, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'This again highlights the importance of using extra-virgin olive
+    oil  rather than later pressings or more processed and refined olive oil, which
+    tend to have less or very little phenolic content.', sentence: this highlight
+    import use extra virgin oliv oil rather later press process refin oliv oil tend
+    less littl phenol content, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
   originalSentence: A number of studies have found that olive oil consumption  is
     associated with a lower risk of breast cancer., sentence: a number studi found
     oliv oil consumpt associ lower risk breast cancer, tags: olives-and-olive-oil}
@@ -89,3 +159,34 @@
     in treating HER2+ breast cancer and may counteract resistance to Herceptin., sentence: oliv
     oil also shown increas herceptin effect treat her2 breast cancer may counteract
     resist herceptin, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'Consumption of olive oil was associated with lower breast density,
+    a strong breast cancer risk factor, in one study.', sentence: consumpt oliv oil
+    associ lower breast densiti strong breast cancer risk factor one studi, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'Oleic acid has been shown to increase the bioavailability of
+    beta-carotene in the diet, which may help explain why the high raw vegetable/high
+    olive oil dietary pattern appears to be protective against breast cancer.', sentence: oleic
+    acid shown increas bioavail beta caroten diet may help explain high raw veget
+    high oliv oil dietari pattern appear protect breast cancer, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'Emphasizing monounsaturated fats in the diet is thought to have
+    a positive effect on health in part because it will help reduce the relative proportions
+    of saturated fats, trans fatty acids and omega-6 fatty acids in the diet.', sentence: emphas
+    monounsatur fat diet thought posit effect health part help reduc relat proport
+    satur fat tran fatti acid omega 6 fatti acid diet, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: Adding extra-virgin olive oil to the typical American diet by
+    using it to fry with or to make marinades or pasta sauces is unlikely to have
+    as much positive impact on breast cancer risk as would using olive oil in salad
+    dressings and to prepare dishes with a high proportion of vegetables., sentence: ad
+    extra virgin oliv oil typic american diet use fri make marinad pasta sauc unlik
+    much posit impact breast cancer risk would use oliv oil salad dress prepar dish
+    high proport veget, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'For a more complete list, including less recent studies, please
+    click on olives.', sentence: for complet list includ less recent studi pleas click
+    oliv, tags: olives-and-olive-oil}

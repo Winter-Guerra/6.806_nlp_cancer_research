@@ -1,4 +1,35 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: 'By sugar, we mean ordinary table sugar.', sentence: by sugar
+    mean ordinari tabl sugar, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: This category also includes extremely sweet foods such as candy
+    and desserts incorporating high levels of sugar., sentence: this categori also
+    includ extrem sweet food candi dessert incorpor high level sugar, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: 'A high sugar intake can contribute to high body mass index  and
+    type 2 diabetes, which in themselves can increase breast cancer risk for some
+    women.', sentence: a high sugar intak contribut high bodi mass index type 2 diabet
+    increas breast cancer risk women, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: 'The question we have attempted to answer in this web page is
+    whether consumption of added sugar, sugary sweets, and high-sugar desserts are
+    associated with increased breast cancer risk, including for women who are not
+    overweight and presumably not insulin resistant.', sentence: the question attempt
+    answer web page whether consumpt ad sugar sugari sweet high sugar dessert associ
+    increas breast cancer risk includ women overweight presum insulin resist, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: A sucrose-rich diet has been found to increase the mutation frequency
+    in rat colon cells in a dose-dependent manner., sentence: a sucros rich diet found
+    increas mutat frequenc rat colon cell dose depend manner, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: Consumption of simple sugars has been shown to have a strong positive
+    association with markers of oxidative DNA damage in healthy adults., sentence: consumpt
+    simpl sugar shown strong posit associ marker oxid dna damag healthi adult, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: 'Added sugar has been found to be associated with increased risks
+    of pancreatic, gastric, colorectal and prostate cancer.', sentence: ad sugar found
+    associ increas risk pancreat gastric colorect prostat cancer, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
   originalSentence: 'Sweetened soda consumption has been shown to increase the level
     of circulating estradiol, a known risk factor for breast cancer, in premenopausal
     women.', sentence: sweeten soda consumpt shown increas level circul estradiol
@@ -66,3 +97,43 @@
     high glycemic index foods and estrogen receptor negative  breast cancer was found
     in this study.', sentence: howev borderlin signific posit associ high glycem index
     food estrogen receptor negat breast cancer found studi, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: Using honey as a sweetener instead of table sugar could be beneficial
+    to overall health and reduce breast cancer risk., sentence: use honey sweeten
+    instead tabl sugar could benefici overal health reduc breast cancer risk, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: Confectioners sugar  consists primarily of sucrose., sentence: confection
+    sugar consist primarili sucros, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: It is granulated sugar which has been ground into a very fine
+    powder with a small amount of cornstarch added to prevent lumping., sentence: it
+    granul sugar ground fine powder small amount cornstarch ad prevent lump, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: The idea that breast cancer is fed by sugar is not the correct
+    explanation for the association between sugar consumption and breast cancer risk.,
+  sentence: the idea breast cancer fed sugar correct explan associ sugar consumpt
+    breast cancer risk, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: Sucrose is converted to glucose by enzymes in the digestive tract.,
+  sentence: sucros convert glucos enzym digest tract, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: All of our cells require energy in the form of glucose to survive.,
+  sentence: all cell requir energi form glucos surviv, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: It is true that cancer cells typically consume glucose at a much
+    higher rate than normal cells and compounds that cause inhibition of glucose uptake
+    by tumor cells may inhibit their growth and viability., sentence: it true cancer
+    cell typic consum glucos much higher rate normal cell compound caus inhibit glucos
+    uptak tumor cell may inhibit growth viabil, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: 'However, this does not necessarily mean that consuming a great
+    deal of sugar will stimulate cancer growth since cancer cells will obtain glucose
+    from a variety of foods in the diet.', sentence: howev necessarili mean consum
+    great deal sugar stimul cancer growth sinc cancer cell obtain glucos varieti food
+    diet, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: 'For a more complete list of studies, please click on sugar.',
+  sentence: for complet list studi pleas click sugar, tags: sugar}

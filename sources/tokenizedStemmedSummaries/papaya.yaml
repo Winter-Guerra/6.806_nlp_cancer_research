@@ -1,4 +1,31 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'Papayas  and their seeds contain substances that have been shown
+    to have antihypertensive, antioxidant, anti-amoebic, antiparasitic, antiseptic,
+    wound and burn healing, contraceptive and neuroprotective properties, as well
+    as improving cholesterol profile and assisting with digestion.', sentence: papaya
+    seed contain substanc shown antihypertens antioxid anti amoeb antiparasit antisept
+    wound burn heal contracept neuroprotect properti well improv cholesterol profil
+    assist digest, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: Papaya is a good dietary source of vitamin C and vitamin A., sentence: papaya
+    good dietari sourc vitamin c vitamin a, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: The fruit has been selected to raise levels of vitamin A in children
+    in deficiency-prone countries such as Cameroon and Sri Lanka., sentence: the fruit
+    select rais level vitamin a children defici prone countri cameroon sri lanka,
+  tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'Compounds with known cancer-fighting properties found in papayas
+    include carotenoids such as lycopene, beta-carotene and cryptoxanthin, as well
+    as several isothiocyanates.', sentence: compound known cancer fight properti found
+    papaya includ carotenoid lycopen beta caroten cryptoxanthin well sever isothiocyan,
+  tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'The benzyl isothiocyanate found in papaya has been shown to induce
+    apoptosis in pancreas, prostate, and leukemic cancer cells and to inhibit carcinogen-induced
+    bladder cancer.', sentence: the benzyl isothiocyan found papaya shown induc apoptosi
+    pancrea prostat leukem cancer cell inhibit carcinogen induc bladder cancer, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
   originalSentence: 'Benzyl isothiocyanate, found in papaya flesh and seeds, has been
     shown to selectively induce apoptosis in human breast cancer cells.', sentence: benzyl
     isothiocyan found papaya flesh seed shown select induc apoptosi human breast cancer
@@ -11,3 +38,88 @@
   originalSentence: 'However, no population studies have been performed that directly
     assess the effects of papaya on the risk of breast cancer.', sentence: howev popul
     studi perform direct assess effect papaya risk breast cancer, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'Papayas are sometimes referred to as paw paws, but the paw paw  sold
+    in the U.S. is a different fruit.', sentence: papaya sometim refer paw paw paw
+    paw sold u s differ fruit, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'Papayas have two possible flesh colors, yellow and red.', sentence: papaya
+    two possibl flesh color yellow red, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: The red color of red papaya fruit is due to an accumulation of
+    lycopene; the yellow color of yellow papaya is the result of conversion of lycopene
+    to beta-carotene and beta-cryptoxanthin., sentence: the red color red papaya fruit
+    due accumul lycopen yellow color yellow papaya result convers lycopen beta caroten
+    beta cryptoxanthin, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'Papayas should be eaten ripe, without the skin or seeds.', sentence: papaya
+    eaten ripe without skin seed, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'Even though the peel is not eaten, papayas should be washed thoroughly
+    before being cut up for consumption since potent pesticides typically are used
+    in growing them.', sentence: even though peel eaten papaya wash thorough cut consumpt
+    sinc potent pesticid typic use grow, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: Both raw and cooked green papayas  are used in some Asian cuisines.,
+  sentence: both raw cook green papaya use asian cuisin, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'For example, atchara, a Filipino condiment or side dish, is made
+    of primarily of pickled raw green papaya.', sentence: for exampl atchara filipino
+    condiment side dish made primarili pickl raw green papaya, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: Ground papaya seeds are used in some cuisines similarly to black
+    pepper., sentence: ground papaya seed use cuisin similar black pepper, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'However, we recommend against consuming green papaya  or papaya
+    seeds.', sentence: howev recommend consum green papaya papaya seed, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'Unlike ripe papaya, green papaya contains a high concentration
+    of a type of latex that has been shown to produce uterine contractions in rats;
+    this may be the basis for the belief in parts of Asia that consumption of papaya
+    is unsafe during pregnancy.', sentence: unlik ripe papaya green papaya contain
+    high concentr type latex shown produc uterin contract rat may basi belief part
+    asia consumpt papaya unsaf pregnanc, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'In fact, green papaya is used for female contraception and abortion
+    in some traditional medicine systems.', sentence: in fact green papaya use femal
+    contracept abort tradit medicin system, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: Papaya seeds contain a higher proportion of benzyl isothiocyanate
+    than does the flesh and they are sometimes used as part of herbal preparations.,
+  sentence: papaya seed contain higher proport benzyl isothiocyan flesh sometim use
+    part herbal prepar, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'However, one study found that rats consuming papaya seed extract
+    exhibited liver cell damage and precancerous liver changes in a dose-dependent
+    manner.', sentence: howev one studi found rat consum papaya seed extract exhibit
+    liver cell damag precancer liver chang dose depend manner, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: Another study found that benzyl isothiocyanate promoted urinary
+    bladder carcinogenesis in rats., sentence: anoth studi found benzyl isothiocyan
+    promot urinari bladder carcinogenesi rat, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'Papaya seed extracts also have been shown to have dose-dependent
+    spermicidal effects, causing human sperm immobilization and death.', sentence: papaya
+    seed extract also shown dose depend spermicid effect caus human sperm immobil
+    death, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'Dried papaya typically has been treated with sulfur dioxide to
+    prevent the fruit from oxidizing during and after the drying process, thereby
+    preserving its color.', sentence: dri papaya typic treat sulfur dioxid prevent
+    fruit oxid dri process therebi preserv color, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'However, sulfur dioxide and its derivatives have been shown to
+    increase the frequencies of chromosomal aberrations in mammalian cells and cause
+    oxidative damage in multiple organs of male and female mice.', sentence: howev
+    sulfur dioxid deriv shown increas frequenc chromosom aberr mammalian cell caus
+    oxid damag multipl organ male femal mice, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'Therefore, we recommend obtaining unsulfured dried fruit where
+    possible.', sentence: therefor recommend obtain unsulfur dri fruit possibl, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'For a more complete list, including less recent studies, please
+    click on papaya.', sentence: for complet list includ less recent studi pleas click
+    papaya, tags: papaya}

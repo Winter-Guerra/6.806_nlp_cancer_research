@@ -1,4 +1,13 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cherries.yaml,
+  originalSentence: Cherries contain substances that have been shown to be antiproliferative
+    and antioxidant., sentence: cherri contain substanc shown antiprolif antioxid,
+  tags: cherries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cherries.yaml,
+  originalSentence: 'While several studies have found that cherries might inhibit
+    colon cancer, few studies have been performed that address the effects of consuming
+    cherries on breast cancer.', sentence: while sever studi found cherri might inhibit
+    colon cancer studi perform address effect consum cherri breast cancer, tags: cherries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cherries.yaml,
   originalSentence: 'Cherries contain relatively high levels of anthocyanins, giving
     them antioxidant, anti-inflammatory and chemopreventative properties.', sentence: cherri
     contain relat high level anthocyanin give antioxid anti inflammatori chemoprev
@@ -18,3 +27,13 @@
     by reducing aromatase activity within the breast, thereby reducing estrogen production.',
   sentence: melatonin protect breast cancer sever way includ reduc aromatas activ
     within breast therebi reduc estrogen product, tags: cherries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cherries.yaml,
+  originalSentence: Non-organic cherries must be washed very thoroughly to remove
+    pesticide residue., sentence: non organ cherri must wash thorough remov pesticid
+    residu, tags: cherries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cherries.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: cherries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cherries.yaml,
+  originalSentence: 'For a more complete list of studies, please click on cherry.',
+  sentence: for complet list studi pleas click cherri, tags: cherries}

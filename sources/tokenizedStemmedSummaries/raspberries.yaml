@@ -1,4 +1,13 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/raspberries.yaml,
+  originalSentence: 'Raspberries are rich in phenolic phytochemicals, including ellagitannin
+    and anthocyanins, which have been shown to have anti-inflammatory, chemopreventive,
+    antiproliferative and proapoptic effects.', sentence: raspberri rich phenol phytochem
+    includ ellagitannin anthocyanin shown anti inflammatori chemoprevent antiprolif
+    proapopt effect, tags: raspberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/raspberries.yaml,
+  originalSentence: Raspberries are also a good dietary source of the lignan enterolactone.,
+  sentence: raspberri also good dietari sourc lignan enterolacton, tags: raspberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/raspberries.yaml,
   originalSentence: Raspberry powder has been shown to have antiproliferative effects
     when fed to female rats prone to mammary tumors., sentence: raspberri powder shown
     antiprolif effect fed femal rat prone mammari tumor, tags: raspberries}
@@ -24,3 +33,17 @@
     of cancer from invasive and metastatic malignant growth., sentence: cancer cell
     induc angiogenesi earli stage tumor develop crucial step separ preinvas dormant
     form cancer invas metastat malign growth, tags: raspberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/raspberries.yaml,
+  originalSentence: Non-organic raspberries must be washed very thoroughly to remove
+    pesticide residue., sentence: non organ raspberri must wash thorough remov pesticid
+    residu, tags: raspberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/raspberries.yaml,
+  originalSentence: Loganberries are a hybrid cross between between a blackberry and
+    a raspberry., sentence: loganberri hybrid cross blackberri raspberri, tags: raspberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/raspberries.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: raspberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/raspberries.yaml,
+  originalSentence: 'For a more complete list, including less recent studies, please
+    click on raspberries.', sentence: for complet list includ less recent studi pleas
+    click raspberri, tags: raspberries}

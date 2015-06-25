@@ -1,4 +1,33 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/adzuki-beans.yaml,
+  originalSentence: 'Adzuki beans  are small, usually red, beans popular in Japan
+    and other parts of Asia.', sentence: adzuki bean small usual red bean popular
+    japan part asia, tags: adzuki-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/adzuki-beans.yaml,
+  originalSentence: 'Adzuki beans, which are also known as azuki beans, are the principal
+    ingredient in the red bean paste found in many Asian dishes and sweets.', sentence: adzuki
+    bean also known azuki bean princip ingredi red bean past found mani asian dish
+    sweet, tags: adzuki-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/adzuki-beans.yaml,
+  originalSentence: 'Adzuki bean phenolics include catechin and epicatechin glucosides,
+    procyanidin dimers, myricetin and protocatechuic acid.', sentence: adzuki bean
+    phenol includ catechin epicatechin glucosid procyanidin dimer myricetin protocatechu
+    acid, tags: adzuki-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/adzuki-beans.yaml,
+  originalSentence: The principal fatty acids in adzuki bean are linoleic acid and
+    oleic acid., sentence: the princip fatti acid adzuki bean linol acid oleic acid,
+  tags: adzuki-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/adzuki-beans.yaml,
+  originalSentence: 'Adzuki beans have been shown to have antioxidant, hypoglycemic,
+    antitumorigenesis, and hepatoprotective actions, as well as lowering cholesterol
+    and triglyceride levels.', sentence: adzuki bean shown antioxid hypoglycem antitumorigenesi
+    hepatoprotect action well lower cholesterol triglycerid level, tags: adzuki-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/adzuki-beans.yaml,
+  originalSentence: 'Adzuki bean extracts have been shown to inhibit metastasis of
+    lung cancer and melanoma in the laboratory, as well as inhibiting the growth and
+    proliferation of carcinogen-induced stomach cancer.', sentence: adzuki bean extract
+    shown inhibit metastasi lung cancer melanoma laboratori well inhibit growth prolifer
+    carcinogen induc stomach cancer, tags: adzuki-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/adzuki-beans.yaml,
   originalSentence: Ethanol extracts of adzuki beans have been found to increase proliferation
     of estrogen and progesterone responsive  human breast cancer cells., sentence: ethanol
     extract adzuki bean found increas prolifer estrogen progesteron respons human
@@ -8,3 +37,17 @@
     compared to that of other beans with significant phytoestrogen content., sentence: the
     estrogen effect adzuki bean appear uniqu characterist compar bean signific phytoestrogen
     content, tags: adzuki-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/adzuki-beans.yaml,
+  originalSentence: 'In Asia and Asian cuisine, red beans normally refers to adzuki
+    beans, whereas in the Americas red beans  refers to the larger common red dry
+    beans.', sentence: in asia asian cuisin red bean normal refer adzuki bean wherea
+    america red bean refer larger common red dri bean, tags: adzuki-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/adzuki-beans.yaml,
+  originalSentence: Mung bean paste can be used as a healthier substitute for red
+    bean paste in many dishes., sentence: mung bean past use healthier substitut red
+    bean past mani dish, tags: adzuki-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/adzuki-beans.yaml,
+  originalSentence: 'Note that while we are continually searching for new evidence
+    concerning this food, there is not much interest in it among cancer researchers
+    so few recent studies are available.', sentence: note continu search new evid
+    concern food much interest among cancer research recent studi avail, tags: adzuki-beans}

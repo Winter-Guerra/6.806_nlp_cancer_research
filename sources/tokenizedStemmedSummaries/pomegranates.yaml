@@ -1,4 +1,25 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pomegranates.yaml,
+  originalSentence: 'Pomegranates are a good source of important polyphenols, including
+    ellagic acid, punicic acid, ursolic acid, luteolin, delphinidin, and several anthocyanins.',
+  sentence: pomegran good sourc import polyphenol includ ellag acid punic acid ursol
+    acid luteolin delphinidin sever anthocyanin, tags: pomegranates}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pomegranates.yaml,
+  originalSentence: Pomegranates are also a good dietary source of the lignan enterolactone.,
+  sentence: pomegran also good dietari sourc lignan enterolacton, tags: pomegranates}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pomegranates.yaml,
+  originalSentence: 'Pomegranates have been shown to suppress inflammation and joint
+    damage in rheumatoid arthritis, improve hypertension and heart disease, reduce
+    cholesterol, protect against UVB-induced damage to human skin, protect the brain,
+    and improve sperm quality in rats.', sentence: pomegran shown suppress inflamm
+    joint damag rheumatoid arthriti improv hypertens heart diseas reduc cholesterol
+    protect uvb induc damag human skin protect brain improv sperm qualiti rat, tags: pomegranates}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pomegranates.yaml,
+  originalSentence: 'In addition, pomegranates have been shown to inhibit prostate
+    cancer growth in mice, retard pancreatic cancer cell growth, and inhibit the proliferation
+    of human oral, colon and lung cancer cells.', sentence: in addit pomegran shown
+    inhibit prostat cancer growth mice retard pancreat cancer cell growth inhibit
+    prolifer human oral colon lung cancer cell, tags: pomegranates}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pomegranates.yaml,
   originalSentence: 'Pomegranates and pomegranate extracts have been shown to inhibit
     breast cancer cell proliferation and invasion and promote cell apoptosis in both
     estrogen receptor positive  and negative ER- breast cancer cells in a dose dependent
@@ -61,3 +82,19 @@
     extracts.', sentence: therefor conclud breast cancer patient survivor high risk
     enjoy pomegran pomegran juic moder avoid enhanc pomegran juic pomegran seed oil
     pomegran extract, tags: pomegranates}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pomegranates.yaml,
+  originalSentence: 'Earlier studies suggested that, like grapefruit juice, pomegranate
+    juice could affect the metabolism of certain drugs.', sentence: earlier studi
+    suggest like grapefruit juic pomegran juic could affect metabol certain drug,
+  tags: pomegranates}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pomegranates.yaml,
+  originalSentence: 'However, it has since been demonstrated that pomegranate juice
+    does not generally interfere with oral or intravenous medication.', sentence: howev
+    sinc demonstr pomegran juic general interfer oral intraven medic, tags: pomegranates}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pomegranates.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: pomegranates}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pomegranates.yaml,
+  originalSentence: 'For a more complete list, including less recent studies, please
+    click on pomegranates.', sentence: for complet list includ less recent studi pleas
+    click pomegran, tags: pomegranates}

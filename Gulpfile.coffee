@@ -92,11 +92,11 @@ gulp.task 'cleanSummaries', () ->
 	.pipe(flatten())
 	# For debugging
 	.pipe(count('## summaries read'))
-	# remove all paragraphs before ## xxx breast cancer-related
-	.pipe( replace(/[\s\S]*^## .*cancer-related.*/mg, '') )
 
+	# remove all paragraphs before ## xxx breast cancer-related
+	# .pipe( replace(/[\s\S]*^## .*cancer-related.*/mg, '') )
 	# Remove all paragraphs after the following headings
-	.pipe(replace(/^## [\s\S]*/mg, ''))
+	# .pipe(replace(/^## [\s\S]*/mg, ''))
 
 	# Remove all remaining headings
 	.pipe(replace(/^#.*/mg, ''))

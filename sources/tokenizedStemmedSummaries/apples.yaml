@@ -1,4 +1,14 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
+  originalSentence: 'Like pears, apples are a member of the Rosaceae family.', sentence: like
+    pear appl member rosacea famili, tags: apples}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
+  originalSentence: 'The most beneficial varieties have red, rosy or red streaked
+    peels.', sentence: the benefici varieti red rosi red streak peel, tags: apples}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
+  originalSentence: 'The peel has the most micronutrients, however, nonorganic apple
+    peels are likely to be contaminated with pesticides.', sentence: the peel micronutri
+    howev nonorgan appl peel like contamin pesticid, tags: apples}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
   originalSentence: 'One study found that the consumption of apples was inversely
     related to the risk of breast cancer when the results were adjusted for factors
     such as age, education, body mass index, alcohol consumption, total energy intake,
@@ -26,3 +36,30 @@
   originalSentence: The apple flavonoid phloretin has been shown to increase the anti-cancer
     effects of the chemotherapy drug Taxol., sentence: the appl flavonoid phloretin
     shown increas anti cancer effect chemotherapi drug taxol, tags: apples}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
+  originalSentence: Red apples have more antioxidant and antiproliferative phytochemicals
+    than green or yellow apples., sentence: red appl antioxid antiprolif phytochem
+    green yellow appl, tags: apples}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
+  originalSentence: Organic U.S. apples are the best choice., sentence: organ u s
+    appl best choic, tags: apples}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
+  originalSentence: Non-organic apples must be washed very thoroughly to remove pesticide
+    residue., sentence: non organ appl must wash thorough remov pesticid residu, tags: apples}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
+  originalSentence: 'Apple juice is not particularly beneficial compared to raw apples,
+    however cloudy apple juice has more antioxidants than clear apple juice.', sentence: appl
+    juic particular benefici compar raw appl howev cloudi appl juic antioxid clear
+    appl juic, tags: apples}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
+  originalSentence: 'There have been reports of meaningful levels of arsenic in apple
+    juice produced from apples grown in countries that use certian pesticides no longer
+    approved for use in the U.S.
+
+
+    Below are links to recent studies concerning this food.', sentence: there report
+    meaning level arsenic appl juic produc appl grown countri use certian pesticid
+    longer approv use u s below link recent studi concern food, tags: apples}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
+  originalSentence: 'For a more complete list of studies, please click on apples.',
+  sentence: for complet list studi pleas click appl, tags: apples}

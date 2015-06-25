@@ -1,4 +1,21 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watermelon.yaml,
+  originalSentence: Watermelon  is a rich dietary source of vitamin C and glutathione.,
+  sentence: watermelon rich dietari sourc vitamin c glutathion, tags: watermelon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watermelon.yaml,
+  originalSentence: 'Watermelon also is an excellent source of carotenoids such as
+    lycopene, beta-carotene, and beta-cryptoxanthin, as well as L-citrulline  and
+    a small fraction of cucurbitacins, all of which have been shown to have chemopreventive
+    properties.', sentence: watermelon also excel sourc carotenoid lycopen beta caroten
+    beta cryptoxanthin well l citrullin small fraction cucurbitacin shown chemoprevent
+    properti, tags: watermelon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watermelon.yaml,
+  originalSentence: 'Watermelon also has been shown to possess anti-inflammatory and
+    antimicrobial properties, and to reduce cardiovascular risk factors by improving
+    glycemic control and ameliorating vascular dysfunction in laboratory animals with
+    type 2 diabetes.', sentence: watermelon also shown possess anti inflammatori antimicrobi
+    properti reduc cardiovascular risk factor improv glycem control amelior vascular
+    dysfunct laboratori anim type 2 diabet, tags: watermelon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watermelon.yaml,
   originalSentence: 'Consumption of the watermelon, papaya and cantaloupe  was found
     to be associated with a lower risk of breast cancer in one 2009 study of Chinese
     women.', sentence: consumpt watermelon papaya cantaloup found associ lower risk
@@ -16,3 +33,32 @@
   originalSentence: The high carotenoid levels found in watermelon are also likely
     to offer protection against breast cancer., sentence: the high carotenoid level
     found watermelon also like offer protect breast cancer, tags: watermelon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watermelon.yaml,
+  originalSentence: Watermelons should be washed before cutting to remove pesticide
+    residue., sentence: watermelon wash cut remov pesticid residu, tags: watermelon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watermelon.yaml,
+  originalSentence: 'Although watermelon seeds and watermelon rind  are eaten by many
+    peoples across the world, we have not been able to determine whether this practice
+    is completely safe.', sentence: although watermelon seed watermelon rind eaten
+    mani peopl across world abl determin whether practic complet safe, tags: watermelon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watermelon.yaml,
+  originalSentence: 'Colocynth, also known as bitter apple or bitter cucumber, and
+    bitter Hawkesbury watermelon  are closely related to watermelon, but with a much
+    higher fraction of cucurbitacins.', sentence: colocynth also known bitter appl
+    bitter cucumb bitter hawkesburi watermelon close relat watermelon much higher
+    fraction cucurbitacin, tags: watermelon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watermelon.yaml,
+  originalSentence: 'Colocynth and other high-cucurbitacin cucurbits are sometimes
+    sold as herbal remedies, including for cancer.', sentence: colocynth high cucurbitacin
+    cucurbit sometim sold herbal remedi includ cancer, tags: watermelon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watermelon.yaml,
+  originalSentence: 'However, while chemotherapy based on cucurbitacins may eventually
+    be developed, these are toxic chemicals whose safety profiles and appropriate
+    dosages have not been determined.', sentence: howev chemotherapi base cucurbitacin
+    may eventu develop toxic chemic whose safeti profil appropri dosag determin, tags: watermelon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watermelon.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: watermelon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watermelon.yaml,
+  originalSentence: 'For a more complete list of studies, please click on watermelon.',
+  sentence: for complet list studi pleas click watermelon, tags: watermelon}

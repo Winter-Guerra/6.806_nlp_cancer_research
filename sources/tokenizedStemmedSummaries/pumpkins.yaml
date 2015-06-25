@@ -1,4 +1,44 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: 'By pumpkins, we mean common large pumpkins, as well as smaller
+    members of the pumpkin family with orange or deep yellow flesh such as butternut
+    squash, acorn squash, winter squash, spaghetti squash, harlequin squash, Hokkaido
+    pumpkins, red kuri squash, and other small orange squashes.', sentence: by pumpkin
+    mean common larg pumpkin well smaller member pumpkin famili orang deep yellow
+    flesh butternut squash acorn squash winter squash spaghetti squash harlequin squash
+    hokkaido pumpkin red kuri squash small orang squash, tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: Pumpkins contain hypoglycemic substances that may improve diabetes.,
+  sentence: pumpkin contain hypoglycem substanc may improv diabet, tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: 'Pumpkins and pumpkin seeds have components such as squalene,
+    beta-carotene, alpha-carotene, and various tocopherols with suspected or demonstrated
+    cancer fighting properties.', sentence: pumpkin pumpkin seed compon squalen beta
+    caroten alpha caroten various tocopherol suspect demonstr cancer fight properti,
+  tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: Pumpkin polysaccharide has been shown to possess significant cytoprotective
+    effect and antioxidative activity., sentence: pumpkin polysaccharid shown possess
+    signific cytoprotect effect antioxid activ, tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: Dietary intake of pumpkin was found to be protective against head
+    and neck cancer in one Eastern European study., sentence: dietari intak pumpkin
+    found protect head neck cancer one eastern european studi, tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: Studies have found that those with very low plasma levels of alpha-carotene
+    and beta-carotene are at a higher risk of gastric cancer., sentence: studi found
+    low plasma level alpha caroten beta caroten higher risk gastric cancer, tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: Intake of orange and yellow vegetables may also be protective
+    against prostate cancer and non-Hodgkin lymphoma., sentence: intak orang yellow
+    veget may also protect prostat cancer non hodgkin lymphoma, tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: 'However, one Japanese study that found a reduced risk of lung
+    cancer in males with frequent consumption of raw and green vegetables, fruit and
+    milk, found an increased risk of lung cancer associated with the consumption of
+    carrots, pumpkins, eggs and coffee.', sentence: howev one japanes studi found
+    reduc risk lung cancer male frequent consumpt raw green veget fruit milk found
+    increas risk lung cancer associ consumpt carrot pumpkin egg coffe, tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
   originalSentence: Most of the population-based breast cancer studies performed to
     date that specifically included pumpkins were conducted in Japan., sentence: most
     popul base breast cancer studi perform date specif includ pumpkin conduct japan,
@@ -14,3 +54,36 @@
     and postmenopausal women., sentence: anoth japanes studi found reduct breast cancer
     risk associ high intak green yellow veget among premenopaus postmenopaus women,
   tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: 'Pumpkin flesh and seeds should be eaten cooked or roasted, not
+    raw.', sentence: pumpkin flesh seed eaten cook roast raw, tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: One study found that raw pumpkin juice increased chromosomal damage
+    in bone marrow cells of experimental rats treated with a carcinogen whereas boiled
+    pumpkin juice significantly suppressed it., sentence: one studi found raw pumpkin
+    juic increas chromosom damag bone marrow cell experiment rat treat carcinogen
+    wherea boil pumpkin juic signific suppress, tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: Pumpkin seeds and pumpkin seed oil are rich sources of phytoestrogens
+    and cucurbitacin E. One study found that pumpkin seed oil supplementation prevented
+    changes in plasma lipids and blood pressure associated with inadequate estrogen
+    availability in experimental rats that had their ovaries removed., sentence: pumpkin
+    seed pumpkin seed oil rich sourc phytoestrogen cucurbitacin e one studi found
+    pumpkin seed oil supplement prevent chang plasma lipid blood pressur associ inadequ
+    estrogen avail experiment rat ovari remov, tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: Cucurbitacin E has been shown to inhibit triple negative breast
+    cancer metastasis in the laboratory by suppressing cell migration and invasion.,
+  sentence: cucurbitacin e shown inhibit tripl negat breast cancer metastasi laboratori
+    suppress cell migrat invas, tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: 'On the other hand, pumpkin seeds also contains relatively high
+    levels of copper, which has been shown to increase angiogenesis and metastasis
+    of breast cancer.', sentence: on hand pumpkin seed also contain relat high level
+    copper shown increas angiogenesi metastasi breast cancer, tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: 'For a more complete list of studies, please click on pumpkin.',
+  sentence: for complet list studi pleas click pumpkin, tags: pumpkins}

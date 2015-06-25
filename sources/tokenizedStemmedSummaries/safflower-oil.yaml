@@ -1,4 +1,18 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/safflower-oil.yaml,
+  originalSentence: Safflower  oil is a polyunsaturated edible seed oil consisting
+    primarily  of the omega-6 fatty acid linoleic acid., sentence: safflow oil polyunsatur
+    edibl seed oil consist primarili omega 6 fatti acid linol acid, tags: safflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/safflower-oil.yaml,
+  originalSentence: Linoleic acid is converted into arachidonic acid in the body.,
+  sentence: linol acid convert arachidon acid bodi, tags: safflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/safflower-oil.yaml,
+  originalSentence: Safflower oil has been shown to have pro-inflammatory properties.,
+  sentence: safflow oil shown pro inflammatori properti, tags: safflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/safflower-oil.yaml,
+  originalSentence: Linoleic acid has been shown to enhance the invasion and peritoneal
+    metastasis of gastric carcinoma cells., sentence: linol acid shown enhanc invas
+    periton metastasi gastric carcinoma cell, tags: safflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/safflower-oil.yaml,
   originalSentence: Safflower oil has the highest proportion of linoleic acid of all
     common cooking oils., sentence: safflow oil highest proport linol acid common
     cook oil, tags: safflower-oil}
@@ -36,3 +50,15 @@
   originalSentence: Consuming safflower oil would tend to increase the ratio for most
     women because of its high omega-6 content., sentence: consum safflow oil would
     tend increas ratio women high omega 6 content, tags: safflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/safflower-oil.yaml,
+  originalSentence: 'Note that while we are continually searching for new evidence
+    specifically concerning this food, there is not much interest in it among breast
+    cancer researchers, so few studies are available.', sentence: note continu search
+    new evid specif concern food much interest among breast cancer research studi
+    avail, tags: safflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/safflower-oil.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: safflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/safflower-oil.yaml,
+  originalSentence: 'For a more complete list of studies, please click on safflower
+    oil.', sentence: for complet list studi pleas click safflow oil, tags: safflower-oil}

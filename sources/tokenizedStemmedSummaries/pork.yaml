@@ -1,4 +1,24 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: Pork is a dietary source of iron and selenium., sentence: pork
+    dietari sourc iron selenium, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: Pork fat has a high saturated fatty acid and cholesterol content.,
+  sentence: pork fat high satur fatti acid cholesterol content, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: 'Diets high in pork have been linked in population studies to
+    higher risks of esophageal, thyroid, lung, pancreatic, liver, bladder, colorectal,
+    and prostate cancer, as well as non-Hodgkins lymphoma.', sentence: diet high pork
+    link popul studi higher risk esophag thyroid lung pancreat liver bladder colorect
+    prostat cancer well non hodgkin lymphoma, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: 'In this article, we evaluate the potential impact on breast cancer
+    risk of consuming pork products that are not salted, smoked or cured.', sentence: in
+    articl evalu potenti impact breast cancer risk consum pork product salt smoke
+    cure, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: Such pork products are covered under bacon., sentence: such pork
+    product cover bacon, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
   originalSentence: Breast cancer risk has been found to increase with increasing
     consumption of pork in several population studies., sentence: breast cancer risk
     found increas increas consumpt pork sever popul studi, tags: pork}
@@ -75,3 +95,31 @@
     has also been found to be associated with increased risk of breast cancer., sentence: high
     intak satur fat anim sourc includ pork also found associ increas risk breast cancer,
   tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: 'Based on the available evidence, pork prepared using high temperature
+    methods, pork drippings, charred pork, pork fat, and lard all should be avoided
+    by breast cancer patients, survivors and those at high risk for breast cancer.',
+  sentence: base avail evid pork prepar use high temperatur method pork drip char
+    pork pork fat lard avoid breast cancer patient survivor high risk breast cancer,
+  tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: 'In addition, consumption of lean pork dishes prepared using lower
+    temperature methods should be limited.', sentence: in addit consumpt lean pork
+    dish prepar use lower temperatur method limit, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: 'Pork should eaten fully cooked, not rare or raw, to minimize
+    the risk of trichinosis and listeriosis infections.', sentence: pork eaten fulli
+    cook rare raw minim risk trichinosi listeriosi infect, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: 'While most U.S. consumers avoid cooking with lard because of
+    its known negative health profile, it is used in some processed foods such as
+    baked goods, often in hydrogenated form.', sentence: while u s consum avoid cook
+    lard known negat health profil use process food bake good often hydrogen form,
+  tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: 'For a more complete list, including less recent studies, please
+    click on pork.', sentence: for complet list includ less recent studi pleas click
+    pork, tags: pork}

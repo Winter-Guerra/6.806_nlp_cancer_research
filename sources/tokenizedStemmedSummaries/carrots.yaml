@@ -1,4 +1,29 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
+  originalSentence: 'Carrots have been shown to have antioxidant, antifungal, antibacterial,
+    and anti-inflammatory effects.', sentence: carrot shown antioxid antifung antibacteri
+    anti inflammatori effect, tags: carrots}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
+  originalSentence: 'Carrots are an excellent dietary source of vitamin A  and fiber,
+    and contains some vitamin C and B vitamins, as well as calcium, iron, magnesium,
+    and manganese.', sentence: carrot excel dietari sourc vitamin a fiber contain
+    vitamin c b vitamin well calcium iron magnesium manganes, tags: carrots}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
+  originalSentence: 'In addition to various carotenoids, carrots contain other bioactive
+    compounds such as falcarinol, luteolin, sulfoquinovosyl diacylglycerol, and various
+    lignans, all of which have been shown to have, or are suspected of having, anti-cancer
+    activities.', sentence: in addit various carotenoid carrot contain bioactiv compound
+    falcarinol luteolin sulfoquinovosyl diacylglycerol various lignan shown suspect
+    anti cancer activ, tags: carrots}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
+  originalSentence: 'Carrots have been shown to suppress inflammation, promote good
+    vision and be cardioprotective.', sentence: carrot shown suppress inflamm promot
+    good vision cardioprotect, tags: carrots}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
+  originalSentence: 'Consumption of carrots has been found to be associated with reduced
+    risk of esophageal, lung, colon, bladder, urothelial, cervical, prostate, and
+    ovarian cancer.', sentence: consumpt carrot found associ reduc risk esophag lung
+    colon bladder urotheli cervic prostat ovarian cancer, tags: carrots}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
   originalSentence: Consumption of carrots has been found to be associated with reduced
     risk of breast cancer in numerous  population studies., sentence: consumpt carrot
     found associ reduc risk breast cancer numer popul studi, tags: carrots}
@@ -13,3 +38,34 @@
     of breast cancer-free survival., sentence: higher level carotenoid vitamin a blood
     breast cancer survivor found associ greater likelihood breast cancer free surviv,
   tags: carrots}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
+  originalSentence: Consuming 8 fluid ounces of fresh carrot juice per day has been
+    shown to raise carotenoids in the blood to levels associated with protection against
+    breast cancer., sentence: consum 8 fluid ounc fresh carrot juic per day shown
+    rais carotenoid blood level associ protect breast cancer, tags: carrots}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
+  originalSentence: Supplementation with beta-carotene or with vitamin A will not
+    provide the same beneficial effects as consuming high-carotenoid foods such as
+    carrots and in fact these supplements have been associated with increased risk
+    of certain cancers., sentence: supplement beta caroten vitamin a provid benefici
+    effect consum high carotenoid food carrot fact supplement associ increas risk
+    certain cancer, tags: carrots}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
+  originalSentence: Non-organic carrots must be washed very thoroughly to remove pesticide
+    residue., sentence: non organ carrot must wash thorough remov pesticid residu,
+  tags: carrots}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
+  originalSentence: The original carrots were purple in color and purple carrots are
+    still available., sentence: the origin carrot purpl color purpl carrot still avail,
+  tags: carrots}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
+  originalSentence: Purple carrots contain beneficial anthocyanins in addition to
+    carotenoids., sentence: purpl carrot contain benefici anthocyanin addit carotenoid,
+  tags: carrots}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: carrots}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
+  originalSentence: 'For a list of studies that includes less recent research, please
+    click on carrots.', sentence: for list studi includ less recent research pleas
+    click carrot, tags: carrots}

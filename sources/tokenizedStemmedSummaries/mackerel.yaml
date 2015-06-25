@@ -1,4 +1,31 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/mackerel.yaml,
+  originalSentence: 'Like herring, mackerel is a good source of vitamin D, vitamin
+    B6, coenzyme Q10, selenium and omega-3 polyunsaturated fatty acids.', sentence: like
+    herring mackerel good sourc vitamin d vitamin b6 coenzym q10 selenium omega 3
+    polyunsatur fatti acid, tags: mackerel}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/mackerel.yaml,
+  originalSentence: 'Generally speaking, the benefits of consuming fatty fish are
+    thought to outweigh the potentially detrimental effects of the toxins from pollution
+    and other sources that tend to accumulate in their adipose tissue.', sentence: general
+    speak benefit consum fatti fish thought outweigh potenti detriment effect toxin
+    pollut sourc tend accumul adipos tissu, tags: mackerel}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/mackerel.yaml,
+  originalSentence: Consumption of fatty fish or fish oil has been found to reduce
+    the risk of coronary heart disease., sentence: consumpt fatti fish fish oil found
+    reduc risk coronari heart diseas, tags: mackerel}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/mackerel.yaml,
+  originalSentence: 'Consumption of dried mackerel was shown in one study to improve
+    the learning ability of laboratory mice, apparently by increasing the level of
+    the marine omega-3 fatty acid docosahexaenoic acid  in their brains.', sentence: consumpt
+    dri mackerel shown one studi improv learn abil laboratori mice appar increas level
+    marin omega 3 fatti acid docosahexaeno acid brain, tags: mackerel}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/mackerel.yaml,
+  originalSentence: 'Eating fatty fish such as mackerel has been found to be associated
+    with reduced risks of leukemia, multiple myeloma, and non-Hodgkin lymphoma, as
+    well as renal cell, endometrial and prostate cancer.', sentence: eat fatti fish
+    mackerel found associ reduc risk leukemia multipl myeloma non hodgkin lymphoma
+    well renal cell endometri prostat cancer, tags: mackerel}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/mackerel.yaml,
   originalSentence: 'Like other fatty fish, mackerel contains the marine fatty acids
     DHA and eicosapentaenoic acid, which have chemopreventive properties.', sentence: like
     fatti fish mackerel contain marin fatti acid dha eicosapentaeno acid chemoprevent
@@ -58,3 +85,37 @@
   originalSentence: Mackerel contains a fatty acid  that can induce resistance to
     a broad spectrum of chemotherapy drugs., sentence: mackerel contain fatti acid
     induc resist broad spectrum chemotherapi drug, tags: mackerel}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/mackerel.yaml,
+  originalSentence: Mackerel consumption should be reduced or eliminated by pregnant
+    and nursing mothers since toxins from pollution and other sources might reduce
+    birth weight and are secreted in breast milk., sentence: mackerel consumpt reduc
+    elimin pregnant nurs mother sinc toxin pollut sourc might reduc birth weight secret
+    breast milk, tags: mackerel}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/mackerel.yaml,
+  originalSentence: 'While mackerel is not generally considered a high mercury level
+    fish, king mackerel and other mackerel from the Gulf of Mexico have been found
+    to have high levels of mercury and should be avoided.', sentence: while mackerel
+    general consid high mercuri level fish king mackerel mackerel gulf mexico found
+    high level mercuri avoid, tags: mackerel}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/mackerel.yaml,
+  originalSentence: 'We recommend against consuming all but modest amounts of smoked
+    mackerel, dried mackerel, salted dried mackerel, or mackerel pt since such preserved
+    fish foods have been associated with increased risks of gastric, colorectal and
+    other cancers.', sentence: we recommend consum modest amount smoke mackerel dri
+    mackerel salt dri mackerel mackerel pt sinc preserv fish food associ increas risk
+    gastric colorect cancer, tags: mackerel}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/mackerel.yaml,
+  originalSentence: Pan frying mackerel has been shown to release carcinogenic heterocyclic
+    amines  in concentrations high enough to affect human health., sentence: pan fri
+    mackerel shown releas carcinogen heterocycl amin concentr high enough affect human
+    health, tags: mackerel}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/mackerel.yaml,
+  originalSentence: Population studies have found that consumption of fried fish is
+    associated with increased risk of breast cancer., sentence: popul studi found
+    consumpt fri fish associ increas risk breast cancer, tags: mackerel}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/mackerel.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: mackerel}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/mackerel.yaml,
+  originalSentence: 'For a more complete list of studies, please click on mackerel.',
+  sentence: for complet list studi pleas click mackerel, tags: mackerel}

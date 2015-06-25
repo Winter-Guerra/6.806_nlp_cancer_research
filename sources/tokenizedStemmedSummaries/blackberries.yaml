@@ -1,4 +1,9 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blackberries.yaml,
+  originalSentence: 'The evidence that blackberries could be beneficial in fighting
+    breast cancer is derived in part from studies of other berries, as well as of
+    blackberries in particular.', sentence: the evid blackberri could benefici fight
+    breast cancer deriv part studi berri well blackberri particular, tags: blackberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blackberries.yaml,
   originalSentence: 'Blackberries contain cyandin-3-glucoside, lignans, ellagic acid,
     the flavonoid myricetin and other potentially beneficial substances.', sentence: blackberri
     contain cyandin 3 glucosid lignan ellag acid flavonoid myricetin potenti benefici
@@ -22,3 +27,19 @@
   originalSentence: The combination of chemicals in blackberries may more effectively
     prevent cancer than any one of the component chemicals alone., sentence: the combin
     chemic blackberri may effect prevent cancer one compon chemic alon, tags: blackberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blackberries.yaml,
+  originalSentence: Blackberries contain relatively high levels of phytoestrogens  compared
+    to other berries., sentence: blackberri contain relat high level phytoestrogen
+    compar berri, tags: blackberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blackberries.yaml,
+  originalSentence: Marionberries are a type of blackberry., sentence: marionberri
+    type blackberri, tags: blackberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blackberries.yaml,
+  originalSentence: Loganberries are a hybrid cross between between a blackberry and
+    a raspberry., sentence: loganberri hybrid cross blackberri raspberri, tags: blackberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blackberries.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: blackberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blackberries.yaml,
+  originalSentence: 'For a more complete list of studies, please click on blackberry.',
+  sentence: for complet list studi pleas click blackberri, tags: blackberries}

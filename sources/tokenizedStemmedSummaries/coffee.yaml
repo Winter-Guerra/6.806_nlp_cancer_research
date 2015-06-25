@@ -1,4 +1,55 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'Drinking coffee, especially unfiltered coffee, can raise cholesterol
+    levels, including LDL.', sentence: drink coffe especi unfilt coffe rais cholesterol
+    level includ ldl, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'It also acts as a stimulant, increasing the production of cortisone
+    and adrenaline.', sentence: it also act stimul increas product cortison adrenalin,
+  tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Fertility may be impaired for coffee drinkers., sentence: fertil
+    may impair coffe drinker, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'However, coffee drinking appears to be protective against heart
+    disease on balance.', sentence: howev coffe drink appear protect heart diseas
+    balanc, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'It also has been shown to reduce the risks of type 2 diabetes,
+    Parkinsons disease, and gallstone development.', sentence: it also shown reduc
+    risk type 2 diabet parkinson diseas gallston develop, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Caffeine consumption has been associated with higher risks of
+    osteoporosis and benign fibrocystic breast disease., sentence: caffein consumpt
+    associ higher risk osteoporosi benign fibrocyst breast diseas, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Childhood malignant central nervous system tumors have been found
+    to be associated with maternal coffee drinking during pregnancy., sentence: childhood
+    malign central nervous system tumor found associ matern coffe drink pregnanc,
+  tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Drinking coffee also has been shown to be correlated with a marginally
+    increased risk of lung cancer in smokers., sentence: drink coffe also shown correl
+    margin increas risk lung cancer smoker, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'However, coffee is also associated with decreased risks of non-Hodgkin
+    lymphoma, as well as liver, kidney, and colorectal cancers.', sentence: howev
+    coffe also associ decreas risk non hodgkin lymphoma well liver kidney colorect
+    cancer, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: The coffee diterpenes kahweol and cafestol have been shown to
+    offer some protection against mutagenic damage by heterocylic amines and aflatoxin
+    B1 in laboratory rats; human consumption of these coffee components has been associated
+    with lower rates of colon tumors., sentence: the coffe diterpen kahweol cafestol
+    shown offer protect mutagen damag heterocyl amin aflatoxin b1 laboratori rat human
+    consumpt coffe compon associ lower rate colon tumor, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'Caffeine, caffeic acid, acrylamide, the phytoestrogen trigonelline,
+    hydroxyl hydroquinone, and various other polyphenols and volatile aroma and heterocyclic
+    substances are also thought to contribute to the cancer-related effects of coffee
+    consumption.', sentence: caffein caffeic acid acrylamid phytoestrogen trigonellin
+    hydroxyl hydroquinon various polyphenol volatil aroma heterocycl substanc also
+    thought contribut cancer relat effect coffe consumpt, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
   originalSentence: 'Coffee drinking has been reported to have either a small positive
     or negative association with breast cancer risk, or no association at all, in
     the general population.', sentence: coffe drink report either small posit negat
@@ -130,3 +181,44 @@
     the effectiveness of Taxol  and other taxane chemotherapy as a result of its caffeic
     acid content., sentence: there also preliminari evid coffe could reduc effect
     taxol taxan chemotherapi result caffeic acid content, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'Based on the available evidence, women with benign breast disease
+    should avoid coffee consumption.', sentence: base avail evid women benign breast
+    diseas avoid coffe consumpt, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'Moderate coffee consumption appears to be safe for most postmenopausal
+    women, including breast cancer survivors.', sentence: moder coffe consumpt appear
+    safe postmenopaus women includ breast cancer survivor, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Drinking coffee may be beneficial for those undergoing treatment
+    with tamoxifen., sentence: drink coffe may benefici undergo treatment tamoxifen,
+  tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: The potential risks of heavy coffee consumption appear to outweigh
+    the potential benefits for most premenopausal women and it would appear prudent
+    for them to limit coffee consumption., sentence: the potenti risk heavi coffe
+    consumpt appear outweigh potenti benefit premenopaus women would appear prudent
+    limit coffe consumpt, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Coffee should not be consumed during chemotherapy., sentence: coffe
+    consum chemotherapi, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: We present these tentative conclusions for the many coffee drinkers
+    who cannot wait until more definitive studies are published to decide whether
+    to drink coffee., sentence: we present tentat conclus mani coffe drinker wait
+    definit studi publish decid whether drink coffe, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'However, more research is needed to clarify the association between
+    coffee drinking and breast cancer risk and prognosis.', sentence: howev research
+    need clarifi associ coffe drink breast cancer risk prognosi, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Organic coffee is a better choice than non-organic coffee since
+    coffee is often grown using high levels of pesticides., sentence: organ coffe
+    better choic non organ coffe sinc coffe often grown use high level pesticid, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'For a more complete list, including less recent studies, please
+    click on coffee.', sentence: for complet list includ less recent studi pleas click
+    coffe, tags: coffee}

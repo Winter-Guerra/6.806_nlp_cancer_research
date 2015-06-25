@@ -1,4 +1,26 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
+  originalSentence: 'Artichokes, otherwise known as globe artichokes, are a member
+    of the thistle family.', sentence: artichok otherwis known globe artichok member
+    thistl famili, tags: artichokes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
+  originalSentence: 'Artichokes are a good dietary source of phosphorus, magnesium,
+    iron, niacin, vitamin B1 and vitamin B2, and also include some folate, manganese,
+    and zinc.', sentence: artichok good dietari sourc phosphorus magnesium iron niacin
+    vitamin b1 vitamin b2 also includ folat manganes zinc, tags: artichokes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
+  originalSentence: 'Artichokes also contain apigenin, luteolin, silibinin, chlorogenic
+    acid, cynarin, caffeic acid, ferulic acid, several anthocyanins, and oligofructose
+    compounds such as inulin, most of which have been reported to have anti-cancer
+    properties.', sentence: artichok also contain apigenin luteolin silibinin chlorogen
+    acid cynarin caffeic acid ferul acid sever anthocyanin oligofructos compound inulin
+    report anti cancer properti, tags: artichokes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
+  originalSentence: 'Artichokes have been shown to have antioxidant, antifungal, antigenotoxic,
+    liver-protective and hypoglycemic activities, as well as reducing cholesterol
+    and ameliorating indigestion and irritable bowel syndrome.', sentence: artichok
+    shown antioxid antifung antigenotox liver protect hypoglycem activ well reduc
+    cholesterol amelior indigest irrit bowel syndrom, tags: artichokes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
   originalSentence: Artichoke extract has been shown to inhibit proliferation and
     induce apoptosis  in triple negative  breast cancer cells in the laboratory.,
   sentence: artichok extract shown inhibit prolifer induc apoptosi tripl negat breast
@@ -28,3 +50,50 @@
   originalSentence: 'However, no population studies have specifically evaluated the
     impact of consuming artichokes on the risk of breast cancer.', sentence: howev
     popul studi specif evalu impact consum artichok risk breast cancer, tags: artichokes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
+  originalSentence: 'Milk thistle, a herb related to the artichoke, traditionally
+    has been used for its liver-protective properties, but increasingly is being used
+    by cancer patients.', sentence: milk thistl herb relat artichok tradit use liver
+    protect properti increas use cancer patient, tags: artichokes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
+  originalSentence: 'Milk thistle is the best known source of the compound flavonoid
+    silymarin, which contains silibinin, silybin, silicristin, silidianin and related
+    compounds.', sentence: milk thistl best known sourc compound flavonoid silymarin
+    contain silibinin silybin silicristin silidianin relat compound, tags: artichokes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
+  originalSentence: Silibinin is the most biologically active component of silymarin.,
+  sentence: silibinin biolog activ compon silymarin, tags: artichokes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
+  originalSentence: 'However, silybin has also been shown to inhibit growth and induce
+    apoptosis in human breast cancer cells and HER2/neu overexpressing mammary tumors
+    in a mouse model.', sentence: howev silybin also shown inhibit growth induc apoptosi
+    human breast cancer cell her2 neu overexpress mammari tumor mous model, tags: artichokes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
+  originalSentence: 'Silymarin has been shown to have a synergistic effect with Adriamycin,
+    increasing its treatment effects.', sentence: silymarin shown synergist effect
+    adriamycin increas treatment effect, tags: artichokes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
+  originalSentence: 'However, one study found that treatment of human breast cancer
+    tumor grafts in rodents with silymarin isolated from milk thistle stimulated tumor
+    growth.', sentence: howev one studi found treatment human breast cancer tumor
+    graft rodent silymarin isol milk thistl stimul tumor growth, tags: artichokes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
+  originalSentence: 'Therefore, we caution breast cancer patients, survivors and those
+    at high risk against taking concentrated milk thistle, artichoke or silymarin
+    supplements.', sentence: therefor caution breast cancer patient survivor high
+    risk take concentr milk thistl artichok silymarin supplement, tags: artichokes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
+  originalSentence: 'Cardoon, also known as artichoke thistle or wild artichoke, is
+    an edible thistle-like plant native to the Mediterranean.', sentence: cardoon
+    also known artichok thistl wild artichok edibl thistl like plant nativ mediterranean,
+  tags: artichokes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
+  originalSentence: Jerusalem artichokes  are part of the sunflower family and are
+    not related to artichokes., sentence: jerusalem artichok part sunflow famili relat
+    artichok, tags: artichokes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: artichokes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/artichokes.yaml,
+  originalSentence: 'For a more complete list of studies, please click on artichokes.',
+  sentence: for complet list studi pleas click artichok, tags: artichokes}

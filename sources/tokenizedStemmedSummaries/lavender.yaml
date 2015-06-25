@@ -1,4 +1,26 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lavender.yaml,
+  originalSentence: 'English lavender  essential oil has been used for centuries to
+    reduce pain, combat infection, reduce anxiety and promote relaxation.', sentence: english
+    lavend essenti oil use centuri reduc pain combat infect reduc anxieti promot relax,
+  tags: lavender}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lavender.yaml,
+  originalSentence: 'Like other essential oils, lavender essential oil is very concentrated;
+    at least 60 lbs of lavender flowers typically are used to make 16 fluid ounces
+    of the oil.', sentence: like essenti oil lavend essenti oil concentr least 60
+    lbs lavend flower typic use make 16 fluid ounc oil, tags: lavender}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lavender.yaml,
+  originalSentence: 'The oil is used in detergents, baked goods, candles, cosmetics,
+    body powder, massage oil, shampoo, soap, perfume, and tea.', sentence: the oil
+    use deterg bake good candl cosmet bodi powder massag oil shampoo soap perfum tea,
+  tags: lavender}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lavender.yaml,
+  originalSentence: It is also an ingredient in some breast enlargement pills and
+    creams., sentence: it also ingredi breast enlarg pill cream, tags: lavender}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lavender.yaml,
+  originalSentence: Some cancer patients are receiving aromatherapy massage using
+    lavender essential oil., sentence: some cancer patient receiv aromatherapi massag
+    use lavend essenti oil, tags: lavender}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lavender.yaml,
   originalSentence: 'Lavender essential oil has been shown to have a high antioxidant
     content and a component of lavender, perillyl alcohol, has been studied in cancer
     prevention.', sentence: lavend essenti oil shown high antioxid content compon
@@ -15,3 +37,20 @@
     creams or oils to the skin appears unwise.', sentence: while follow studi confirm
     estrogen effect lavend contain skin product appli lavend cream oil skin appear
     unwis, tags: lavender}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lavender.yaml,
+  originalSentence: Use of lavender products can trigger allergic contact dermatitis
+    and allergic reactions to lavender are not uncommon., sentence: use lavend product
+    trigger allerg contact dermat allerg reaction lavend uncommon, tags: lavender}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lavender.yaml,
+  originalSentence: 'For example, lavender flower satchels placed inside pillowcases
+    have been found to cause facial rashes in some individuals.', sentence: for exampl
+    lavend flower satchel place insid pillowcas found caus facial rash individu, tags: lavender}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lavender.yaml,
+  originalSentence: Lavender baby products probably should be avoided., sentence: lavend
+    babi product probabl avoid, tags: lavender}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lavender.yaml,
+  originalSentence: 'Note that while we are continually searching for new evidence
+    specifically concerning lavender, there is not much interest in it among breast
+    cancer researchers, so few studies are available.', sentence: note continu search
+    new evid specif concern lavend much interest among breast cancer research studi
+    avail, tags: lavender}

@@ -1,4 +1,45 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: 'Saffron  contains bioactive compounds that are responsible for
+    its color, flavor and aroma.', sentence: saffron contain bioactiv compound respons
+    color flavor aroma, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: 'Saffron contains numerous phytoactive components, including crocetin,
+    various crocins, kaempferol, beta-carotene, lycopene, zeaxanthin, and safranal.',
+  sentence: saffron contain numer phytoact compon includ crocetin various crocin kaempferol
+    beta caroten lycopen zeaxanthin safran, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: 'Saffron components have been shown to have strong antioxidant,
+    anti-inflammatory, radioprotective, anti-carcinogenic and anti-tumor properties,
+    as well as reducing blood pressure, anxiety and depression.', sentence: saffron
+    compon shown strong antioxid anti inflammatori radioprotect anti carcinogen anti
+    tumor properti well reduc blood pressur anxieti depress, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: 'Both saffron and crocin have been found to suppress DNA damage
+    in a dose dependent manner in the livers, lungs, kidneys, and spleens of laboratory
+    mice.', sentence: both saffron crocin found suppress dna damag dose depend manner
+    liver lung kidney spleen laboratori mice, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: Saffron has been shown to inhibit carcinogen-induced skin carcinoma
+    in mice and to have cytotoxic action against human leukemia cell lines., sentence: saffron
+    shown inhibit carcinogen induc skin carcinoma mice cytotox action human leukemia
+    cell line, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: Saffron also has been shown to cause cell death in HeLa and HepG2
+    liver cancer cells and TCC 5637 transitional cell carcinoma cells., sentence: saffron
+    also shown caus cell death hela hepg2 liver cancer cell tcc 5637 transit cell
+    carcinoma cell, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: 'Saffron extract and its constituent, crocin, have been shown
+    to significantly inhibit the growth of colorectal cancer cells while not harming
+    normal cells.', sentence: saffron extract constitu crocin shown signific inhibit
+    growth colorect cancer cell harm normal cell, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: 'Crocetin, a major carotenoid component of saffron, has been shown
+    to have significant antiproliferative and proapoptic effects in pancreatic cancer
+    cells in the laboratory and in laboratory mice.', sentence: crocetin major carotenoid
+    compon saffron shown signific antiprolif proapopt effect pancreat cancer cell
+    laboratori laboratori mice, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
   originalSentence: Saffron has been shown to have dose-dependent inhibitory effects
     on the proliferation of hormone receptor positive  and triple negative  breast
     cancer cells., sentence: saffron shown dose depend inhibitori effect prolifer
@@ -43,3 +84,40 @@
     doses and we recommend consuming saffron as a spice and not taking saffron tablets.,
   sentence: there evid saffron could toxic high dose recommend consum saffron spice
     take saffron tablet, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: 'Saffron is hand picked and hand processed, which is one reason
+    for its high market price.', sentence: saffron hand pick hand process one reason
+    high market price, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: 'Saffron is grown primarily in Iran, but it is also grown in Spain,
+    Portugal, Italy, Kashmir and some parts of North Africa.', sentence: saffron grown
+    primarili iran also grown spain portug itali kashmir part north africa, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: Much of the Iranian production is redistributed through Spain.,
+  sentence: much iranian product redistribut spain, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: Saffron grown in these regions generally is grown without using
+    pesticides., sentence: saffron grown region general grown without use pesticid,
+  tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: China is also beginning to produce saffron., sentence: china also
+    begin produc saffron, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: 'Meadow saffron, also known as wild saffron, Autumn crocus, or
+    colchicum, is an unrelated and poisonous plant that should not be confused with
+    saffron and is to be avoided.', sentence: meadow saffron also known wild saffron
+    autumn crocus colchicum unrel poison plant confus saffron avoid, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: 'It can cause thirst, pain, diarrhea, weakness, vomiting, kidney
+    failure, coma, and death from respiratory failure.', sentence: it caus thirst
+    pain diarrhea weak vomit kidney failur coma death respiratori failur, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: Diluted fractions of meadow saffron are sometimes used in herbal
+    remedies for gout and arthritis., sentence: dilut fraction meadow saffron sometim
+    use herbal remedi gout arthriti, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: 'For a more complete list of studies, please click on saffron.',
+  sentence: for complet list studi pleas click saffron, tags: saffron}

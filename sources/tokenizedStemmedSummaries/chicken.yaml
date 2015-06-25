@@ -1,4 +1,30 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'Chicken is an excellent dietary source of niacin, and vitamin
+    B6, and also contains vitamin B-12, vitamin D, iron, selenium and zinc.', sentence: chicken
+    excel dietari sourc niacin vitamin b6 also contain vitamin b 12 vitamin d iron
+    selenium zinc, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: Chicken is far lower in saturated fat and cholesterol than red
+    meat., sentence: chicken far lower satur fat cholesterol red meat, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: White chicken and turkey meat contains less fat and iron than
+    the dark meat of the legs and thighs., sentence: white chicken turkey meat contain
+    less fat iron dark meat leg thigh, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'Consumption of chicken and other poultry have been found to be
+    associated with reduced risks of head and neck, pancreatic, bladder, ovarian and
+    colorectal cancer.', sentence: consumpt chicken poultri found associ reduc risk
+    head neck pancreat bladder ovarian colorect cancer, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'In some of the studies, these inverse associations were found
+    to be stronger for consumption of skinless chicken or chicken that had not been
+    grilled or fried.', sentence: in studi invers associ found stronger consumpt skinless
+    chicken chicken grill fri, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'On the other hand, chicken and poultry consumption have also
+    been associated with increased risks of thyroid cancer.', sentence: on hand chicken
+    poultri consumpt also associ increas risk thyroid cancer, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
   originalSentence: 'Chicken and poultry consumption have been found in numerous studies
     to be associated with lower risk of breast cancer, although not all published
     research is consistent on this point.', sentence: chicken poultri consumpt found
@@ -44,3 +70,54 @@
     against breast cancer or at least not increase risk.', sentence: base avail evid
     organ skinless chicken char cook use high heat method may offer protect breast
     cancer least increas risk, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'To avoid potential food poisoning from contamination with E.
+    coli or salmonella, chicken should always be fully cooked.', sentence: to avoid
+    potenti food poison contamin e coli salmonella chicken alway fulli cook, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'Processed poultry meat such as smoked turkey, turkey bacon, and
+    chicken sausage containing sodium nitrite should be avoided.', sentence: process
+    poultri meat smoke turkey turkey bacon chicken sausag contain sodium nitrit avoid,
+  tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: Other processed chicken food products such as chicken nuggets
+    are also not recommended., sentence: other process chicken food product chicken
+    nugget also recommend, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: We recommend purchasing certified organic chicken and other poultry.,
+  sentence: we recommend purchas certifi organ chicken poultri, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: Chickens typically are raised in factory farms under extremely
+    confined and unsanitary conditions that require use of antibiotics and antimicrobial
+    drugs to maintain the health of the birds and maximize their growth., sentence: chicken
+    typic rais factori farm extrem confin unsanitari condit requir use antibiot antimicrobi
+    drug maintain health bird maxim growth, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'For example, some chicken producers use roxarsone, an arsenic
+    compound, to control parasites.', sentence: for exampl chicken produc use roxarson
+    arsenic compound control parasit, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'While the use of hormones to stimulate growth is not legal in
+    poultry, nonorganic chicken meat  has been found to contain relatively high levels
+    of estrogen, presumably from high protein feeds derived from soy.', sentence: while
+    use hormon stimul growth legal poultri nonorgan chicken meat found contain relat
+    high level estrogen presum high protein feed deriv soy, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'Factory farmed chickens typically are administered feed pellets,
+    which are less desirable than organic grain and food that chickens obtain themselves
+    when pastured.', sentence: factori farm chicken typic administ feed pellet less
+    desir organ grain food chicken obtain pastur, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'Certified Organic and Humane Raised & Handled chicken would be
+    the best choice for consumers who want to purchase meat from birds that are humanely
+    raised and free from antibiotics, insecticides, and other additives, as well as
+    animal byproducts in the feed.', sentence: certifi organ human rais handl chicken
+    would best choic consum want purchas meat bird human rais free antibiot insecticid
+    addit well anim byproduct feed, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'For a list of studies that includes less recent research, please
+    click on chicken.', sentence: for list studi includ less recent research pleas
+    click chicken, tags: chicken}

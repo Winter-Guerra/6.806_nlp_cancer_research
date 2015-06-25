@@ -1,4 +1,20 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/boysenberries.yaml,
+  originalSentence: The evidence that boysenberries could be beneficial in fighting
+    breast cancer is derived partly from studies of related berries., sentence: the
+    evid boysenberri could benefici fight breast cancer deriv part studi relat berri,
+  tags: boysenberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/boysenberries.yaml,
+  originalSentence: Boysenberries are a hybrid of blackberry and raspberry., sentence: boysenberri
+    hybrid blackberri raspberri, tags: boysenberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/boysenberries.yaml,
+  originalSentence: The fact that boysenberries contain substances that have been
+    shown to be antiproliferative and antioxidant is well established., sentence: the
+    fact boysenberri contain substanc shown antiprolif antioxid well establish, tags: boysenberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/boysenberries.yaml,
+  originalSentence: 'However, few studies have been performed that directly address
+    the effect of consuming boysenberries on cancer.', sentence: howev studi perform
+    direct address effect consum boysenberri cancer, tags: boysenberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/boysenberries.yaml,
   originalSentence: 'Boysenberries contain ellagic acid, which has been shown to inhibit
     cancer formation.', sentence: boysenberri contain ellag acid shown inhibit cancer
     format, tags: boysenberries}
@@ -10,3 +26,11 @@
   originalSentence: 'Berry anthocyanins have been shown to inhibit proliferation,
     apoptosis, inflammation and angiogenesis.', sentence: berri anthocyanin shown
     inhibit prolifer apoptosi inflamm angiogenesi, tags: boysenberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/boysenberries.yaml,
+  originalSentence: Loganberries are a hybrid cross between between a blackberry and
+    a raspberry., sentence: loganberri hybrid cross blackberri raspberri, tags: boysenberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/boysenberries.yaml,
+  originalSentence: 'Note that while we are continually searching for new evidence
+    concerning this food, there is not much interest in it among cancer researchers
+    so few recent studies are available.', sentence: note continu search new evid
+    concern food much interest among cancer research recent studi avail, tags: boysenberries}

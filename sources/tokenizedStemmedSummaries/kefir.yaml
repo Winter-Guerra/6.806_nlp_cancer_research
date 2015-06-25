@@ -1,4 +1,46 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/kefir.yaml,
+  originalSentence: 'Kefir is a fermented milk drink that is popular in the middle
+    east, parts of the Mediterranean, eastern Europe and Russia.', sentence: kefir
+    ferment milk drink popular middl east part mediterranean eastern europ russia,
+  tags: kefir}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/kefir.yaml,
+  originalSentence: It is prepared by inoculating milk  with kefir grains., sentence: it
+    prepar inocul milk kefir grain, tags: kefir}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/kefir.yaml,
+  originalSentence: Kefir grains consist of a complex living culture of yeasts and
+    bacteria., sentence: kefir grain consist complex live cultur yeast bacteria, tags: kefir}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/kefir.yaml,
+  originalSentence: The organisms have been shown to inhibit both salmonella and E.
+    Coli in the laboratory., sentence: the organ shown inhibit salmonella e coli laboratori,
+  tags: kefir}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/kefir.yaml,
+  originalSentence: Raw milk has traditionally been used to make kefir., sentence: raw
+    milk tradit use make kefir, tags: kefir}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/kefir.yaml,
+  originalSentence: 'Unless otherwise noted, the discussion below refers to kefir
+    and other fermented drinks made from cows milk.', sentence: unless otherwis note
+    discuss refer kefir ferment drink made cow milk, tags: kefir}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/kefir.yaml,
+  originalSentence: Fermented milk has been shown in one study to have a protective
+    effect against liver cancer in experimental mice., sentence: ferment milk shown
+    one studi protect effect liver cancer experiment mice, tags: kefir}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/kefir.yaml,
+  originalSentence: 'Similarly, lactobacilli strains common to fermented milk have
+    been shown to possess inhibitory and cytotoxic activity towards human bladder
+    cancer cells.', sentence: similar lactobacilli strain common ferment milk shown
+    possess inhibitori cytotox activ toward human bladder cancer cell, tags: kefir}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/kefir.yaml,
+  originalSentence: Lactic acid bacteria from fermented milk drink also have been
+    shown to have antiproliferative activity against colon cancer cells., sentence: lactic
+    acid bacteria ferment milk drink also shown antiprolif activ colon cancer cell,
+  tags: kefir}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/kefir.yaml,
+  originalSentence: 'However, one study found that kefir with a 3.5% fat content appeared
+    to stimulate chemically-induced colorectal tumors in experimental rats compared
+    to both 1.1% fat kefir and 1.1% fat sterilized milk.', sentence: howev one studi
+    found kefir 3 5 fat content appear stimul chemic induc colorect tumor experiment
+    rat compar 1 1 fat kefir 1 1 fat steril milk, tags: kefir}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/kefir.yaml,
   originalSentence: Kefir has been shown to have antiproliferative activity against
     hormone receptor positive  human breast cancer cells and this anticancer effect
     was observed at much lower concentrations than similar effects of yogurt., sentence: kefir
@@ -23,3 +65,16 @@
     fermented milk products was negatively associated with breast cancer risk., sentence: a
     swedish studi relationship various fat diet risk breast cancer women age least
     50 found fat ferment milk product negat associ breast cancer risk, tags: kefir}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/kefir.yaml,
+  originalSentence: 'Kefir should be avoided during radiation treatment because it
+    has been shown to protect cells against cell death caused by radiation damage,
+    raising the possibility that it will lessen the cytotoxic impact of radiation
+    on breast cancer cells.', sentence: kefir avoid radiat treatment shown protect
+    cell cell death caus radiat damag rais possibl lessen cytotox impact radiat breast
+    cancer cell, tags: kefir}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/kefir.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: kefir}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/kefir.yaml,
+  originalSentence: 'For a more complete list of studies, please click on kefir.',
+  sentence: for complet list studi pleas click kefir, tags: kefir}

@@ -1,4 +1,32 @@
 - {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'Beef is a very good dietary source of protein, iron, zinc, copper
+    and B-vitamins.', sentence: beef good dietari sourc protein iron zinc copper b
+    vitamin, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'Beef also contains conjugated linoleic acid and stearate, both
+    of which have been shown to induce cancer cell death, including breast cancer
+    apoptosis.', sentence: beef also contain conjug linol acid stearat shown induc
+    cancer cell death includ breast cancer apoptosi, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'However, the potentially favorable effects of CLA and stearate
+    appear to be overwhelmed by beefs high level of saturated fat and the carcinogenic
+    effects of naturally-occurring beef compounds, beef additives and beef preparation
+    methods.', sentence: howev potenti favor effect cla stearat appear overwhelm beef
+    high level satur fat carcinogen effect natur occur beef compound beef addit beef
+    prepar method, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'Diets high in beef or well done beef have been linked in multiple
+    population studies to higher risks of leukemia and cancers of the esophagus, lung,
+    stomach, pancreas, kidney, bladder, intestine, colon, rectum, endometrium, testis
+    and prostate.', sentence: diet high beef well done beef link multipl popul studi
+    higher risk leukemia cancer esophagus lung stomach pancrea kidney bladder intestin
+    colon rectum endometrium testi prostat, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'While beef fat may be responsible for some of these results,
+    restricting consumption to lean beef would not eliminate the increased risks of
+    most of these cancers.', sentence: while beef fat may respons result restrict
+    consumpt lean beef would elimin increas risk cancer, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
   originalSentence: Higher red meat consumption during adolescence by women in the
     Nurses Health Study II has been found to be associated with increased risk of
     premenopausal breast cancer in adulthood., sentence: higher red meat consumpt
@@ -126,3 +154,59 @@
   originalSentence: 'If beef or veal is to be consumed, it makes sense to buy organic
     beef to avoid irradiated and growth hormone-treated meat.', sentence: if beef
     veal consum make sens buy organ beef avoid irradi growth hormon treat meat, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: Well done or flame-broiled beef are the most to be avoided., sentence: well
+    done flame broil beef avoid, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: This includes all fast-food hamburgers., sentence: this includ
+    fast food hamburg, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'Although they are traditionally used as a base for gravies and
+    sauces, be aware that fat drippings and grill residue scrapings contain particularly
+    high levels of HCAs and ideally should be discarded.', sentence: although tradit
+    use base gravi sauc awar fat drip grill residu scrape contain particular high
+    level hcas ideal discard, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'Calfs liver  and beef liver contain especially high levels of
+    copper, which could contribute to angiogenesis and metastasis of breast cancer.',
+  sentence: calf liver beef liver contain especi high level copper could contribut
+    angiogenesi metastasi breast cancer, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'Although we do not recommend supplementation with CLA, we wish
+    to advise those who do to avoid the t10,c12-CLA isomer.', sentence: although recommend
+    supplement cla wish advis avoid t10 c12 cla isom, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'The t10,c12 CLA isomer was found to dramatically enhance mammary
+    tumor development in one mouse experiment.', sentence: the t10 c12 cla isom found
+    dramat enhanc mammari tumor develop one mous experi, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'The time by which 50% of the mice in the group developed a tumor
+    was shortened from 267 days for mice on a control diet to 169 days for mice fed
+    t10,c12-CLA.', sentence: the time 50 mice group develop tumor shorten 267 day
+    mice control diet 169 day mice fed t10 c12 cla, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'Choose products with only the c9,t11 isomer.', sentence: choos
+    product c9 t11 isom, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: The beef industry appears to take an active interest in academic
+    studies concerning the health benefits and drawbacks of beef., sentence: the beef
+    industri appear take activ interest academ studi concern health benefit drawback
+    beef, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'The Cattlemens Beef Board finances some cancer-related studies,
+    raising the question of objectivity.', sentence: the cattlemen beef board financ
+    cancer relat studi rais question object, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: The tone of non-U.S. studies can appear more forthright than the
+    constrained and cautious tone of some U.S. studies., sentence: the tone non u
+    s studi appear forthright constrain cautious tone u s studi, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: We have not come across this problem to the same degree in any
+    other food industry that we cover., sentence: we come across problem degre food
+    industri cover, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'For a more complete list of studies, please click on beef.',
+  sentence: for complet list studi pleas click beef, tags: beef}
