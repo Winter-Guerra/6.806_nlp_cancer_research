@@ -1,90 +1,27 @@
----
-- - honei
-  - found
-  - antioxid
-  - anti
-  - inflammatori
-  - antimutagen
-  - antimicrobi
-  - antiatherogen
-  - antithrombot
-  - effect
-  - wound
-  - heal
-  - properti
-- - honei
-  - compos
-  - primarili
-  - sugar
-  - levulos
-  - dextros
-  - maltos
-  - small
-  - fraction
-  - sucros
-  - wherea
-  - tabl
-  - sugar
-  - consist
-  - sucros
-- - honei
-  - contain
-  - chrysin
-  - galangin
-  - pinobanksin
-  - pinostrobin
-  - pinocembrin
-  - acacetin
-  - caffeic
-  - acid
-  - caffeic
-  - acid
-  - phenyl
-  - ester
-  - quercetin
-  - kaempferol
-  - apigenin
-  - known
-  - suspect
-  - anticanc
-  - activ
-- - In
-  - addit
-  - it
-  - benefici
-  - flavonol
-  - content
-  - honei
-  - consumpt
-  - shown
-  - slower
-  - uptak
-  - bloodstream
-  - make
-  - less
-  - like
-  - caus
-  - overstimul
-  - insulin
-  - product
-  - sugar
-  - result
-  - lower
-  - blood
-  - glucos
-  - triglycerid
-  - level
-  - sugar
-  - consumpt
-  - mai
-  - mean
-  - us
-  - honei
-  - sweeten
-  - instead
-  - tabl
-  - sugar
-  - benefici
-  - overal
-  - health
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/honey.yaml,
+  originalSentence: 'Honey has been found to have antioxidant, anti-inflammatory,
+    antimutagenic, antimicrobial, antiatherogenic, and antithrombotic effects, as
+    well as wound healing properties.', sentence: honey found antioxid anti inflammatori
+    antimutagen antimicrobi antiatherogen antithrombot effect well wound heal properti,
+  tags: honey}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/honey.yaml,
+  originalSentence: 'Honey is composed primarily of the sugars levulose, dextrose,
+    and maltose, with a small fraction of sucrose, whereas table sugar consists of
+    sucrose.', sentence: honey compos primarili sugar levulos dextros maltos small
+    fraction sucros wherea tabl sugar consist sucros, tags: honey}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/honey.yaml,
+  originalSentence: 'Honey also contains chrysin, galangin, pinobanksin, pinostrobin,
+    pinocembrin, acacetin, caffeic acid, caffeic acid phenyl esters, quercetin, kaempferol,
+    and apigenin, all of which have known or suspected anticancer activities.', sentence: honey
+    also contain chrysin galangin pinobanksin pinostrobin pinocembrin acacetin caffeic
+    acid caffeic acid phenyl ester quercetin kaempferol apigenin known suspect anticanc
+    activ, tags: honey}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/honey.yaml,
+  originalSentence: 'In addition to its beneficial flavonol content, honey consumption
+    has been shown to have slower uptake into the bloodstream  than sugar, and to
+    result in lower blood glucose and triglyceride levels than sugar consumption,
+    all of which may mean that using honey as a sweetener instead of table sugar could
+    be beneficial to overall health.', sentence: in addit benefici flavonol content
+    honey consumpt shown slower uptak bloodstream sugar result lower blood glucos
+    triglycerid level sugar consumpt may mean use honey sweeten instead tabl sugar
+    could benefici overal health, tags: honey}

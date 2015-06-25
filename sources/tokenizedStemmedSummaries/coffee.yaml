@@ -1,397 +1,132 @@
----
-- - coffe
-  - drink
-  - report
-  - either
-  - small
-  - posit
-  - neg
-  - associ
-  - breast
-  - cancer
-  - risk
-  - no
-  - associ
-  - gener
-  - popul
-- - howev
-  - bodi
-  - reaction
-  - coffe
-  - vari
-  - significantli
-  - differ
-  - women
-  - base
-  - genet
-  - differ
-  - factor
-- - larg
-  - popul
-  - studi
-  - tend
-  - mask
-  - individu
-  - differ
-  - combin
-  - result
-  - subgroup
-  - whom
-  - coffe
-  - drink
-  - mai
-  - reduc
-  - breast
-  - cancer
-  - risk
-  - subgroup
-  - whom
-  - coffe
-  - mai
-  - increas
-  - risk
-- - on
-  - studi
-  - found
-  - women
-  - benign
-  - breast
-  - diseas
-  - statist
-  - signific
-  - posit
-  - correl
-  - exist
-  - caffein
-  - consumpt
-  - hormon
-  - receptor
-  - neg
-  - ER
-  - PR
-  - diseas
-  - breast
-  - tumor
-  - greater
-  - cm
-  - size
-- - the
-  - implic
-  - coffe
-  - drink
-  - avoid
-  - women
-  - fibrocyst
-  - breast
-  - diseas
-- - sever
-  - studi
-  - found
-  - among
-  - women
-  - brca1
-  - brca2
-  - gene
-  - mutat
-  - heavi
-  - coffe
-  - consumpt
-  - associ
-  - significantli
-  - reduc
-  - breast
-  - cancer
-  - risk
-- - howev
-  - 2013
-  - studi
-  - report
-  - increas
-  - breast
-  - cancer
-  - risk
-  - found
-  - brca1
-  - mutat
-  - carrier
-  - heavi
-  - coffe
-  - drinker
-- - the
-  - effect
-  - coffe
-  - consumpt
-  - breast
-  - cancer
-  - risk
-  - depend
-  - part
-  - cyp1a2
-  - genotyp
-  - whether
-  - not
-  - she
-  - brca
-  - carrier
-- - the
-  - cyp1a2
-  - gene
-  - plai
-  - crucial
-  - role
-  - metabol
-  - estrogen
-  - coffe
-- - like
-  - brca1
-  - brca2
-  - mutat
-  - woman
-  - cyp1a2
-  - genotyp
-  - determin
-  - genet
-  - test
-  - test
-  - not
-  - normal
-  - perform
-- - regular
-  - heavi
-  - coffe
-  - consumpt
-  - increas
-  - express
-  - cyp1a2
-  - gene
-  - encod
-  - member
-  - cytochrom
-  - p450
-  - famili
-  - enzym
-- - coffe
-  - found
-  - protect
-  - C
-  - allel
-  - carrier
-  - against
-  - breast
-  - cancer
-  - reduc
-  - breast
-  - volum
-- - coffe
-  - consumpt
-  - shown
-  - slow
-  - growth
-  - ER
-  - tumor
-  - women
-  - cyp1a21f
-  - A
-  - A
-  - genotyp
-- - on
-  - swedish
-  - studi
-  - found
-  - coffe
-  - consumpt
-  - associ
-  - reduct
-  - risk
-  - breast
-  - cancer
-  - lean
-  - women
-  - wherea
-  - appear
-  - opposit
-  - effect
-  - heavi
-  - women
-- - studi
-  - attempt
-  - studi
-  - possibl
-  - influenc
-  - coffe
-  - consumpt
-  - risk
-  - breast
-  - cancer
-  - accord
-  - menopaus
-  - statu
-  - produc
-  - conflict
-  - result
-- - heavi
-  - coffe
-  - drink
-  - various
-  - report
-  - increas
-  - reduc
-  - no
-  - associ
-  - breast
-  - cancer
-  - risk
-  - among
-  - premenopaus
-  - women
-- - coffe
-  - link
-  - reduc
-  - breast
-  - cancer
-  - risk
-  - no
-  - associ
-  - risk
-  - postmenopaus
-  - women
-- - studi
-  - attempt
-  - studi
-  - possibl
-  - influenc
-  - coffe
-  - consumpt
-  - risk
-  - breast
-  - cancer
-  - accord
-  - hormon
-  - receptor
-  - statu
-  - produc
-  - inconsist
-  - result
-- - sever
-  - studi
-  - report
-  - result
-  - suggest
-  - possibl
-  - associ
-  - heavi
-  - coffe
-  - drink
-  - increas
-  - risk
-  - ER
-  - breast
-  - cancer
-  - premenopaus
-  - women
-- - howev
-  - sever
-  - studi
-  - report
-  - coffe
-  - drink
-  - associ
-  - reduc
-  - risk
-  - ER
-  - breast
-  - cancer
-  - postmenopaus
-  - women
-- - on
-  - swedish
-  - studi
-  - specif
-  - report
-  - coffe
-  - consumpt
-  - associ
-  - reduc
-  - risk
-  - ER
-  - PR
-  - diseas
-- - regularli
-  - consum
-  - least
-  - two
-  - cup
-  - coffe
-  - per
-  - dai
-  - increas
-  - effect
-  - tamoxifen
-  - treatment
-  - accord
-  - recent
-  - research
-- - acrylamid
-  - chemic
-  - contain
-  - coffe
-  - among
-  - food
-  - suspect
-  - carcinogen
-- - numer
-  - studi
-  - examin
-  - associ
-  - acrylamid
-  - breast
-  - cancer
-  - mostli
-  - inconclus
-  - neg
-  - result
-- - howev
-  - 2012
-  - danish
-  - studi
-  - report
-  - pre
-  - diagnost
-  - exposur
-  - acrylamid
-  - associ
-  - increas
-  - mortal
-  - among
-  - breast
-  - cancer
-  - patient
-  - ER
-  - breast
-  - cancer
-- - coffe
-  - reduc
-  - effect
-  - adriamycin
-  - doxorubicin
-  - anthracyclin
-  - chemotherapi
-  - it
-  - caffein
-  - content
-- - there
-  - preliminari
-  - evid
-  - coffe
-  - reduc
-  - effect
-  - taxol
-  - paclitaxel
-  - taxan
-  - chemotherapi
-  - result
-  - it
-  - caffeic
-  - acid
-  - content
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'Coffee drinking has been reported to have either a small positive
+    or negative association with breast cancer risk, or no association at all, in
+    the general population.', sentence: coffe drink report either small posit negat
+    associ breast cancer risk associ general popul, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'However, the bodys reaction to coffee can vary significantly
+    for different women based on genetic differences and other factors.', sentence: howev
+    bodi reaction coffe vari signific differ women base genet differ factor, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Large population studies tend to mask such individual differences
+    by combining results of subgroups for whom coffee drinking may reduce breast cancer
+    risk with subgroups for whom coffee may increase risk., sentence: larg popul studi
+    tend mask individu differ combin result subgroup coffe drink may reduc breast
+    cancer risk subgroup coffe may increas risk, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'One study found that, for women with benign breast disease, statistically
+    significant positive correlations existed between caffeine consumption and hormone
+    receptor negative  disease, as well as breast tumors greater than 2 cm in size.',
+  sentence: one studi found women benign breast diseas statist signific posit correl
+    exist caffein consumpt hormon receptor negat diseas well breast tumor greater
+    2 cm size, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: The implication is that coffee drinking should be avoided by women
+    with fibrocystic breast disease., sentence: the implic coffe drink avoid women
+    fibrocyst breast diseas, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'Several studies have found that among women with BRCA1 or BRCA2
+    gene mutations, heavy coffee consumption is associated with significantly reduced
+    breast cancer risk.', sentence: sever studi found among women brca1 brca2 gene
+    mutat heavi coffe consumpt associ signific reduc breast cancer risk, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'However, a 2013 study reported that increased breast cancer risk
+    was found for BRCA1 mutation carriers who were heavy coffee drinkers.', sentence: howev
+    2013 studi report increas breast cancer risk found brca1 mutat carrier heavi coffe
+    drinker, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'The effect of coffee consumption on breast cancer risk depends
+    in part on her CYP1A2 genotype, whether or not she is a BRCA carrier.', sentence: the
+    effect coffe consumpt breast cancer risk depend part cyp1a2 genotyp whether brca
+    carrier, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: The CYP1A2 gene plays a crucial role in the metabolism of both
+    estrogen and coffee., sentence: the cyp1a2 gene play crucial role metabol estrogen
+    coffe, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'Like BRCA1 and BRCA2 mutations, a womans CYP1A2 genotype can
+    only be determined through genetic testing and this testing is not normally performed.',
+  sentence: like brca1 brca2 mutat woman cyp1a2 genotyp determin genet test test normal
+    perform, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'Regular heavy coffee consumption increases the expression of
+    the CYP1A2 gene, which encodes a member of the cytochrome P450 family of enzymes.',
+  sentence: regular heavi coffe consumpt increas express cyp1a2 gene encod member
+    cytochrom p450 famili enzym, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Coffee has been found to protect C-allele carriers against breast
+    cancer by reducing breast volume., sentence: coffe found protect c allel carrier
+    breast cancer reduc breast volum, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Coffee consumption has also been shown to slow the growth of ER+
+    tumors in women with the CYP1A21F A/A genotype., sentence: coffe consumpt also
+    shown slow growth er tumor women cyp1a21f a a genotyp, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'One Swedish study found that coffee consumption was associated
+    with a reduction in the risk of breast cancer for lean women, whereas it appeared
+    to have the opposite effect in heavy women.', sentence: one swedish studi found
+    coffe consumpt associ reduct risk breast cancer lean women wherea appear opposit
+    effect heavi women, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Studies that have attempted to study the possible influence of
+    coffee consumption on risk of breast cancer according to menopausal status have
+    produced conflicting results., sentence: studi attempt studi possibl influenc
+    coffe consumpt risk breast cancer accord menopaus status produc conflict result,
+  tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'Heavy coffee drinking has variously been reported to increase,
+    reduce or have no association with breast cancer risk among premenopausal women.',
+  sentence: heavi coffe drink various report increas reduc associ breast cancer risk
+    among premenopaus women, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Coffee has been linked to reduced breast cancer risk or no association
+    with risk in postmenopausal women., sentence: coffe link reduc breast cancer risk
+    associ risk postmenopaus women, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Studies that have attempted to study the possible influence of
+    coffee consumption on risk of breast cancer according to hormone receptor status
+    have also produced inconsistent results., sentence: studi attempt studi possibl
+    influenc coffe consumpt risk breast cancer accord hormon receptor status also
+    produc inconsist result, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Several studies have reported results that are suggestive of a
+    possible association between heavy coffee drinking and increased risk of ER- breast
+    cancer in premenopausal women., sentence: sever studi report result suggest possibl
+    associ heavi coffe drink increas risk er breast cancer premenopaus women, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'However, several studies have reported that coffee drinking is
+    associated with reduced risk of ER- breast cancer in postmenopausal women.', sentence: howev
+    sever studi report coffe drink associ reduc risk er breast cancer postmenopaus
+    women, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: One Swedish study specifically reported that coffee consumption
+    is associated with reduced risk of ER+/PR- disease., sentence: one swedish studi
+    specif report coffe consumpt associ reduc risk er pr diseas, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'Regularly consuming at least two cups of coffee per day might
+    increase the effectiveness of tamoxifen treatment, according to recent research.',
+  sentence: regular consum least two cup coffe per day might increas effect tamoxifen
+    treatment accord recent research, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'Acrylamide, a chemical contained in coffee, among other foods,
+    is a suspected carcinogen.', sentence: acrylamid chemic contain coffe among food
+    suspect carcinogen, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'Numerous studies have examined the association between acrylamide
+    and breast cancer, with mostly inconclusive or negative results.', sentence: numer
+    studi examin associ acrylamid breast cancer most inconclus negat result, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: 'However, a 2012 Danish study reported that pre-diagnostic exposure
+    to acrylamide was associated with increased mortality among breast cancer patients
+    with ER+ breast cancer.', sentence: howev 2012 danish studi report pre diagnost
+    exposur acrylamid associ increas mortal among breast cancer patient er breast
+    cancer, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: Coffee might reduce the effectiveness of Adriamycin  and other
+    anthracycline chemotherapy because of its caffeine content., sentence: coffe might
+    reduc effect adriamycin anthracyclin chemotherapi caffein content, tags: coffee}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/coffee.yaml,
+  originalSentence: There is also some preliminary evidence that coffee could reduce
+    the effectiveness of Taxol  and other taxane chemotherapy as a result of its caffeic
+    acid content., sentence: there also preliminari evid coffe could reduc effect
+    taxol taxan chemotherapi result caffeic acid content, tags: coffee}

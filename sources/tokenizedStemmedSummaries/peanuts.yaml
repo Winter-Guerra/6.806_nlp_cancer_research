@@ -1,59 +1,21 @@
----
-- - peanut
-  - contain
-  - resveratrol
-  - excel
-  - sourc
-  - monounsatur
-  - fat
-- - consumpt
-  - peanut
-  - associ
-  - lower
-  - level
-  - inflammatori
-  - marker
-  - mai
-  - account
-  - invers
-  - relationship
-  - nut
-  - consumpt
-  - risk
-  - cardiovascular
-  - diseas
-  - type
-  - diabet
-- - peanut
-  - shown
-  - promot
-  - weight
-  - manag
-  - when
-  - consum
-  - part
-  - moder
-  - fat
-  - diet
-  - it
-  - satiat
-  - effect
-- - frequent
-  - peanut
-  - consumpt
-  - associ
-  - reduc
-  - risk
-  - gallston
-  - diseas
-  - men
-- - peanut
-  - extract
-  - shown
-  - suppress
-  - prolifer
-  - human
-  - prostat
-  - cancer
-  - cell
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/peanuts.yaml,
+  originalSentence: Peanuts contain resveratrol and are an excellent source of monounsaturated
+    fat., sentence: peanut contain resveratrol excel sourc monounsatur fat, tags: peanuts}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/peanuts.yaml,
+  originalSentence: 'Consumption of peanuts is associated with lower levels of inflammatory
+    markers, which may account for the inverse relationship between nut consumption
+    and risk of cardiovascular disease and type 2 diabetes.', sentence: consumpt peanut
+    associ lower level inflammatori marker may account invers relationship nut consumpt
+    risk cardiovascular diseas type 2 diabet, tags: peanuts}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/peanuts.yaml,
+  originalSentence: Peanuts have also been shown to promote weight management when
+    consumed as part of a moderate fat diet because of its satiating effect., sentence: peanut
+    also shown promot weight manag consum part moder fat diet satiat effect, tags: peanuts}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/peanuts.yaml,
+  originalSentence: Frequent peanut consumption is associated with a reduced risk
+    of gallstone disease in men., sentence: frequent peanut consumpt associ reduc
+    risk gallston diseas men, tags: peanuts}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/peanuts.yaml,
+  originalSentence: Peanut extracts have been shown to suppress the proliferation
+    of human prostate cancer cells., sentence: peanut extract shown suppress prolifer
+    human prostat cancer cell, tags: peanuts}

@@ -1,109 +1,34 @@
----
-- - on
-  - studi
-  - found
-  - six
-  - flavonoid
-  - coat
-  - black
-  - bean
-  - potent
-  - antiprolif
-  - activ
-  - against
-  - hormon
-  - receptor
-  - posit
-  - ER
-  - PR
-  - breast
-  - cancer
-  - cell
-- - anoth
-  - studi
-  - found
-  - tanin
-  - isol
-  - black
-  - bean
-  - inhibit
-  - angiogenesi
-- - sever
-  - studi
-  - found
-  - dry
-  - bean
-  - consumpt
-  - reduc
-  - mammari
-  - tumor
-  - incid
-  - number
-  - rat
-- - on
-  - studi
-  - examin
-  - cellular
-  - process
-  - tumor
-  - burden
-  - reduc
-  - report
-  - domin
-  - process
-  - induct
-  - apoptosi
-  - program
-  - cell
-  - death
-- - circul
-  - insulin
-  - insulin
-  - growth
-  - factor
-  - risk
-  - factor
-  - breast
-  - cancer
-  - reduc
-- - A
-  - studi
-  - diet
-  - 90
-  - 630
-  - women
-  - nurs
-  - health
-  - studi
-  - II
-  - found
-  - signific
-  - invers
-  - relationship
-  - breast
-  - cancer
-  - intak
-  - bean
-- - anoth
-  - studi
-  - found
-  - higher
-  - intak
-  - dry
-  - bean
-  - improv
-  - surviv
-  - among
-  - postmenopaus
-  - women
-  - breast
-  - cancer
-- - the
-  - author
-  - attribut
-  - surviv
-  - advantag
-  - lignan
-  - content
-  - bean
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/dry-beans.yaml,
+  originalSentence: One study found six flavonoids in the coats of black beans with
+    potent antiproliferative activities against hormone receptor positive  breast
+    cancer cells., sentence: one studi found six flavonoid coat black bean potent
+    antiprolif activ hormon receptor posit breast cancer cell, tags: dry-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/dry-beans.yaml,
+  originalSentence: Another study found that tanins isolated from black beans inhibited
+    angiogenesis., sentence: anoth studi found tanin isol black bean inhibit angiogenesi,
+  tags: dry-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/dry-beans.yaml,
+  originalSentence: Several studies have found that dry bean consumption reduces mammary
+    tumor incidence and number in rats., sentence: sever studi found dri bean consumpt
+    reduc mammari tumor incid number rat, tags: dry-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/dry-beans.yaml,
+  originalSentence: One study that examined the cellular processes by which tumor
+    burden was reduced reported that the dominant process was induction of apoptosis.,
+  sentence: one studi examin cellular process tumor burden reduc report domin process
+    induct apoptosi, tags: dry-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/dry-beans.yaml,
+  originalSentence: Circuling insulin and insulin-like growth factor-1  were also
+    reduced., sentence: circul insulin insulin like growth factor 1 also reduc, tags: dry-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/dry-beans.yaml,
+  originalSentence: 'A study of the diets of 90,630 women in the Nurses Health Study
+    II found a significant inverse relationship between breast cancer and the intake
+    of beans.', sentence: a studi diet 90 630 women nurs health studi ii found signific
+    invers relationship breast cancer intak bean, tags: dry-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/dry-beans.yaml,
+  originalSentence: Another study found that higher intake of dry beans improved survival
+    among postmenopausal women with breast cancer., sentence: anoth studi found higher
+    intak dri bean improv surviv among postmenopaus women breast cancer, tags: dry-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/dry-beans.yaml,
+  originalSentence: The authors attributed this survival advantage to the lignan content
+    of beans., sentence: the author attribut surviv advantag lignan content bean,
+  tags: dry-beans}

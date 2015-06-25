@@ -1,38 +1,13 @@
----
-- - carotenoid
-  - glycolipid
-  - isol
-  - spinach
-  - demonstr
-  - caus
-  - dose
-  - depend
-  - growth
-  - inhibit
-  - breast
-  - cancer
-  - cell
-- - sever
-  - popul
-  - studi
-  - found
-  - spinach
-  - consumpt
-  - associ
-  - lower
-  - risk
-  - breast
-  - cancer
-- - spinach
-  - consumpt
-  - mai
-  - help
-  - counteract
-  - cancer
-  - promot
-  - effect
-  - heme
-  - iron
-  - red
-  - meat
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/spinach.yaml,
+  originalSentence: Carotenoids and glycolipids isolated from spinach have been demonstrated
+    to cause dose-dependent growth inhibition in breast cancer cells., sentence: carotenoid
+    glycolipid isol spinach demonstr caus dose depend growth inhibit breast cancer
+    cell, tags: spinach}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/spinach.yaml,
+  originalSentence: Several population studies have found that spinach consumption
+    is associated with lower risk of breast cancer., sentence: sever popul studi found
+    spinach consumpt associ lower risk breast cancer, tags: spinach}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/spinach.yaml,
+  originalSentence: Spinach consumption may help counteract the cancer-promoting effects
+    of the heme iron in red meat., sentence: spinach consumpt may help counteract
+    cancer promot effect heme iron red meat, tags: spinach}

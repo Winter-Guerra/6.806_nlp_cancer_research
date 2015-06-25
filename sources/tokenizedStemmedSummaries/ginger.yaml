@@ -1,98 +1,33 @@
----
-- - ginger
-  - found
-  - significantli
-  - inhibit
-  - mammari
-  - tumorigenesi
-  - tumor
-  - growth
-  - laboratori
-  - mice
-  - when
-  - fed
-  - drink
-  - water
-- - ginger
-  - compon
-  - shogaol
-  - gingerol
-  - shown
-  - inhibit
-  - cell
-  - adhes
-  - invas
-  - motil
-  - hormon
-  - receptor
-  - posit
-  - ER
-  - PR
-  - tripl
-  - neg
-  - ER
-  - PR
-  - her2
-  - human
-  - breast
-  - cancer
-  - cell
-  - laboratori
-- - ginger
-  - found
-  - effect
-  - treat
-  - chemotherapi
-  - induc
-  - nausea
-  - vomit
-  - although
-  - not
-  - studi
-  - agre
-- - the
-  - kei
-  - appear
-  - ginger
-  - _before_
-  - undergo
-  - chemotherapi
-  - treatment
-  - afterward
-- - howev
-  - not
-  - determin
-  - whether
-  - reduct
-  - gastrointestin
-  - symptom
-  - accompani
-  - reduct
-  - effect
-  - chemotherapi
-- - until
-  - research
-  - establish
-  - safeti
-  - us
-  - ginger
-  - dure
-  - chemotherapi
-  - not
-  - recommend
-- - On
-  - hand
-  - ginger
-  - avoid
-  - dure
-  - radiat
-  - treatment
-  - shown
-  - help
-  - protect
-  - cell
-  - against
-  - cytotox
-  - effect
-  - radiat
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/ginger.yaml,
+  originalSentence: Ginger has been found to significantly inhibit mammary tumorigenesis
+    and tumor growth in laboratory mice when fed in drinking water., sentence: ginger
+    found signific inhibit mammari tumorigenesi tumor growth laboratori mice fed drink
+    water, tags: ginger}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/ginger.yaml,
+  originalSentence: 'Ginger components 6-Shogaol and -gingerol have been shown to
+    inhibit cell adhesion, invasion, and motility in both hormone receptor positive  and
+    triple negative  human breast cancer cells in the laboratory.', sentence: ginger
+    compon 6 shogaol gingerol shown inhibit cell adhes invas motil hormon receptor
+    posit tripl negat human breast cancer cell laboratori, tags: ginger}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/ginger.yaml,
+  originalSentence: 'Ginger has been found to be effective in treating chemotherapy-induced
+    nausea and vomiting, although not all studies agree.', sentence: ginger found
+    effect treat chemotherapi induc nausea vomit although studi agre, tags: ginger}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/ginger.yaml,
+  originalSentence: The key appears to be to take the ginger before undergoing a chemotherapy
+    treatment as well as afterwards., sentence: the key appear take ginger undergo
+    chemotherapi treatment well afterward, tags: ginger}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/ginger.yaml,
+  originalSentence: 'However, it has not been determined whether this reduction in
+    gastrointestinal symptoms is accompanied by a reduction in the effectiveness of
+    chemotherapy.', sentence: howev determin whether reduct gastrointestin symptom
+    accompani reduct effect chemotherapi, tags: ginger}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/ginger.yaml,
+  originalSentence: 'Until more research establishes the safety of using ginger during
+    chemotherapy, we do not recommend it.', sentence: until research establish safeti
+    use ginger chemotherapi recommend, tags: ginger}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/ginger.yaml,
+  originalSentence: 'On the other hand, ginger should be avoided during radiation
+    treatment since it has been shown to help protect cells against the cytotoxic
+    effects of radiation.', sentence: on hand ginger avoid radiat treatment sinc shown
+    help protect cell cytotox effect radiat, tags: ginger}

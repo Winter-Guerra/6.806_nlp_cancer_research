@@ -1,25 +1,12 @@
----
-- - boysenberri
-  - contain
-  - ellag
-  - acid
-  - shown
-  - inhibit
-  - cancer
-  - format
-- - boysenberri
-  - known
-  - high
-  - level
-  - anthocyanin
-  - potent
-  - antioxid
-- - berri
-  - anthocyanin
-  - shown
-  - inhibit
-  - prolifer
-  - apoptosi
-  - inflamm
-  - angiogenesi
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/boysenberries.yaml,
+  originalSentence: 'Boysenberries contain ellagic acid, which has been shown to inhibit
+    cancer formation.', sentence: boysenberri contain ellag acid shown inhibit cancer
+    format, tags: boysenberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/boysenberries.yaml,
+  originalSentence: 'Boysenberries are also known to have high levels of anthocyanins,
+    which are potent antioxidants.', sentence: boysenberri also known high level anthocyanin
+    potent antioxid, tags: boysenberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/boysenberries.yaml,
+  originalSentence: 'Berry anthocyanins have been shown to inhibit proliferation,
+    apoptosis, inflammation and angiogenesis.', sentence: berri anthocyanin shown
+    inhibit prolifer apoptosi inflamm angiogenesi, tags: boysenberries}

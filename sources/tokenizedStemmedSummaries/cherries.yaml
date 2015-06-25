@@ -1,57 +1,20 @@
----
-- - cherri
-  - contain
-  - rel
-  - high
-  - level
-  - anthocyanin
-  - flavonoid
-  - give
-  - intens
-  - color
-  - give
-  - antioxid
-  - anti
-  - inflammatori
-  - chemoprev
-  - properti
-- - cherri
-  - extract
-  - shown
-  - inhibit
-  - cancer
-  - cell
-  - prolifer
-- - gener
-  - speak
-  - sour
-  - cherri
-  - higher
-  - concentr
-  - anthocyanin
-  - sweet
-  - cherri
-- - tart
-  - sour
-  - cherri
-  - import
-  - sourc
-  - melatonin
-- - melatonin
-  - protect
-  - against
-  - breast
-  - cancer
-  - sever
-  - wai
-  - includ
-  - reduc
-  - aromatas
-  - activ
-  - within
-  - breast
-  - therebi
-  - reduc
-  - estrogen
-  - product
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cherries.yaml,
+  originalSentence: 'Cherries contain relatively high levels of anthocyanins, giving
+    them antioxidant, anti-inflammatory and chemopreventative properties.', sentence: cherri
+    contain relat high level anthocyanin give antioxid anti inflammatori chemoprev
+    properti, tags: cherries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cherries.yaml,
+  originalSentence: Cherry extracts have been shown to inhibit cancer cell proliferation.,
+  sentence: cherri extract shown inhibit cancer cell prolifer, tags: cherries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cherries.yaml,
+  originalSentence: 'Generally speaking, sour cherries have higher concentrations
+    of anthocyanins than sweet cherries.', sentence: general speak sour cherri higher
+    concentr anthocyanin sweet cherri, tags: cherries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cherries.yaml,
+  originalSentence: Tart or sour cherries are also an important source of melatonin.,
+  sentence: tart sour cherri also import sourc melatonin, tags: cherries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cherries.yaml,
+  originalSentence: 'Melatonin protects against breast cancer in several ways, including
+    by reducing aromatase activity within the breast, thereby reducing estrogen production.',
+  sentence: melatonin protect breast cancer sever way includ reduc aromatas activ
+    within breast therebi reduc estrogen product, tags: cherries}

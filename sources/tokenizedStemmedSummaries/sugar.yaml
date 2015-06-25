@@ -1,244 +1,68 @@
----
-- - sweeten
-  - soda
-  - consumpt
-  - shown
-  - increas
-  - level
-  - circul
-  - estradiol
-  - known
-  - risk
-  - factor
-  - breast
-  - cancer
-  - premenopaus
-  - women
-- - high
-  - sugar
-  - consumpt
-  - associ
-  - increas
-  - breast
-  - densiti
-  - power
-  - risk
-  - factor
-  - breast
-  - cancer
-- - on
-  - studi
-  - evalu
-  - carcinogen
-  - induc
-  - mammari
-  - tumor
-  - rat
-  - fed
-  - diet
-  - contain
-  - high
-  - level
-  - either
-  - sugar
-  - dextros
-  - sucros
-  - starch
-  - wheat
-  - rice
-  - potato
-  - starch
-- - rat
-  - fed
-  - sugar
-  - diet
-  - found
-  - develop
-  - significantli
-  - mammari
-  - tumor
-  - fed
-  - starch
-  - diet
-  - low
-  - high
-  - level
-  - dietari
-  - fat
-- - A
-  - U
-  - S
-  - case
-  - control
-  - studi
-  - found
-  - consumpt
-  - sweet
-  - particularli
-  - dessert
-  - associ
-  - increas
-  - risk
-  - breast
-  - cancer
-- - An
-  - italian
-  - case
-  - control
-  - studi
-  - found
-  - women
-  - highest
-  - intak
-  - dessert
-  - includ
-  - cooki
-  - brioch
-  - cake
-  - pastri
-  - puff
-  - ic
-  - cream
-  - sugar
-  - includ
-  - sugar
-  - honei
-  - jam
-  - marmalad
-  - chocol
-  - increas
-  - risk
-  - breast
-  - cancer
-- - the
-  - result
-  - held
-  - when
-  - adjust
-  - bodi
-  - mass
-  - index
-  - total
-  - calori
-  - intak
-- - A
-  - mexican
-  - case
-  - control
-  - studi
-  - found
-  - carbohydr
-  - intak
-  - posit
-  - associ
-  - risk
-  - breast
-  - cancer
-  - premenopaus
-  - postmenopaus
-  - women
-  - adjust
-  - total
-  - calori
-  - intak
-- - the
-  - strongest
-  - associ
-  - observ
-  - sucros
-  - fructos
-  - intak
-- - anoth
-  - italian
-  - case
-  - control
-  - studi
-  - found
-  - breast
-  - cancer
-  - risk
-  - increas
-  - increas
-  - consumpt
-  - bread
-  - pasta
-  - refin
-  - sugar
-- - A
-  - japanes
-  - case
-  - control
-  - studi
-  - found
-  - breast
-  - cancer
-  - risk
-  - posit
-  - associ
-  - higher
-  - intak
-  - bread
-  - cake
-  - soft
-  - drink
-  - sugar
-- - A
-  - canadian
-  - prospect
-  - studi
-  - found
-  - higher
-  - risk
-  - breast
-  - cancer
-  - among
-  - postmenopaus
-  - women
-  - consum
-  - high
-  - glycem
-  - index
-  - food
-  - associ
-  - not
-  - alter
-  - when
-  - adjust
-  - bodi
-  - mass
-- - On
-  - hand
-  - danish
-  - prospect
-  - studi
-  - found
-  - no
-  - associ
-  - intak
-  - glucos
-  - fructos
-  - sucros
-  - maltos
-  - lactos
-  - starch
-  - breast
-  - cancer
-  - risk
-- - howev
-  - borderlin
-  - signific
-  - posit
-  - associ
-  - high
-  - glycem
-  - index
-  - food
-  - estrogen
-  - receptor
-  - neg
-  - ER
-  - breast
-  - cancer
-  - found
-  - studi
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: 'Sweetened soda consumption has been shown to increase the level
+    of circulating estradiol, a known risk factor for breast cancer, in premenopausal
+    women.', sentence: sweeten soda consumpt shown increas level circul estradiol
+    known risk factor breast cancer premenopaus women, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: 'High sugar consumption is associated with increased breast density,
+    a powerful risk factor for breast cancer.', sentence: high sugar consumpt associ
+    increas breast densiti power risk factor breast cancer, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: One study evaluated carcinogen-induced mammary tumors in rats
+    fed diets containing high levels of either sugar  or starch., sentence: one studi
+    evalu carcinogen induc mammari tumor rat fed diet contain high level either sugar
+    starch, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: 'Rats fed sugar diets were found to develop significantly more
+    mammary tumors than those fed starch diets, at both low and high levels of dietary
+    fat.', sentence: rat fed sugar diet found develop signific mammari tumor fed starch
+    diet low high level dietari fat, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: 'A U.S. case-control study found that consumption of sweets, particularly
+    desserts, was associated with an increased risk of breast cancer.', sentence: a
+    u s case control studi found consumpt sweet particular dessert associ increas
+    risk breast cancer, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: An Italian case-control study found that women with the highest
+    intake of desserts  and sugars  had increased risk of breast cancer., sentence: an
+    italian case control studi found women highest intak dessert sugar increas risk
+    breast cancer, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: The results held when adjusted for body mass index and total calorie
+    intake., sentence: the result held adjust bodi mass index total calori intak,
+  tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: A Mexican case-control study found that carbohydrate intake was
+    positively associated with risk of breast cancer for both premenopausal and postmenopausal
+    women after adjusting for total calorie intake., sentence: a mexican case control
+    studi found carbohydr intak posit associ risk breast cancer premenopaus postmenopaus
+    women adjust total calori intak, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: The strongest associations were observed for sucrose and fructose
+    intake., sentence: the strongest associ observ sucros fructos intak, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: 'Another Italian case-control study found that breast cancer risk
+    increased with increasing consumption of bread, pasta and refined sugar.', sentence: anoth
+    italian case control studi found breast cancer risk increas increas consumpt bread
+    pasta refin sugar, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: 'A Japanese case-control study found that breast cancer risk was
+    positively associated with higher intakes of bread, cake, and soft drinks with
+    sugar.', sentence: a japanes case control studi found breast cancer risk posit
+    associ higher intak bread cake soft drink sugar, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: 'A Canadian prospective study found higher risk of breast cancer
+    among postmenopausal women consuming high glycemic index foods, an association
+    that was not altered when adjusted for body mass.', sentence: a canadian prospect
+    studi found higher risk breast cancer among postmenopaus women consum high glycem
+    index food associ alter adjust bodi mass, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: 'On the other hand, a Danish prospective study found no associations
+    between intake of glucose, fructose, sucrose, maltose, lactose, or starch and
+    breast cancer risk.', sentence: on hand danish prospect studi found associ intak
+    glucos fructos sucros maltos lactos starch breast cancer risk, tags: sugar}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sugar.yaml,
+  originalSentence: 'However, a borderline significant positive association between
+    high glycemic index foods and estrogen receptor negative  breast cancer was found
+    in this study.', sentence: howev borderlin signific posit associ high glycem index
+    food estrogen receptor negat breast cancer found studi, tags: sugar}

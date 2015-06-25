@@ -1,75 +1,25 @@
----
-- - red
-  - grape
-  - grape
-  - seed
-  - good
-  - sourc
-  - resveratrol
-  - abil
-  - suppress
-  - prolifer
-  - breast
-  - cancer
-  - cell
-  - promot
-  - cell
-  - death
-- - resveratrol
-  - inhibit
-  - aromatas
-  - synthesi
-  - estrogen
-  - androgen
-  - within
-  - bodi
-  - import
-  - reduc
-  - growth
-  - stimulatori
-  - effect
-  - estrogen
-  - depend
-  - breast
-  - cancer
-- - other
-  - grape
-  - polyphenol
-  - quercetin
-  - catechin
-  - shown
-  - chemoprevent
-  - effect
-  - appear
-  - act
-  - synergist
-  - resveratrol
-  - inhibit
-  - breast
-  - cancer
-  - growth
-- - sever
-  - popul
-  - studi
-  - report
-  - grape
-  - consumpt
-  - associ
-  - reduc
-  - risk
-  - breast
-  - cancer
-- - resveratrol
-  - shown
-  - increas
-  - effect
-  - radiat
-  - treatment
-  - chemotherapi
-  - drug
-  - taxol
-  - paclitaxel
-  - against
-  - breast
-  - cancer
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: 'Red grapes and grape seeds are a good source of resveratrol,
+    which has the ability to suppress proliferation of breast cancer cells and promote
+    cell death.', sentence: red grape grape seed good sourc resveratrol abil suppress
+    prolifer breast cancer cell promot cell death, tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: 'Resveratrol also can inhibit aromatase, which is important for
+    reducing growth-stimulatory effects in estrogen-dependent breast cancer.', sentence: resveratrol
+    also inhibit aromatas import reduc growth stimulatori effect estrogen depend breast
+    cancer, tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: Other grape polyphenols such as quercetin and catechin have also
+    been shown to have chemopreventive effects and appear to act synergistically with
+    resveratrol in inhibiting breast cancer growth., sentence: other grape polyphenol
+    quercetin catechin also shown chemoprevent effect appear act synergist resveratrol
+    inhibit breast cancer growth, tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: Several population studies have reported that grape consumption
+    is associated with reduced risk of breast cancer., sentence: sever popul studi
+    report grape consumpt associ reduc risk breast cancer, tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: Resveratrol has also been shown to increase the effects of radiation
+    treatment and the chemotherapy drug Taxol  against breast cancer., sentence: resveratrol
+    also shown increas effect radiat treatment chemotherapi drug taxol breast cancer,
+  tags: grapes}

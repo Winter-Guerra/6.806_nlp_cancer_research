@@ -1,169 +1,50 @@
----
-- - the
-  - interest
-  - escargot
-  - snail
-  - deriv
-  - part
-  - it
-  - uniqu
-  - lectin
-  - helix
-  - pomatia
-  - agglutinin
-  - hpa
-  - us
-  - prognost
-  - indic
-  - cancer
-  - includ
-  - breast
-  - cancer
-- - lectin
-  - group
-  - glycoprotein
-  - found
-  - anim
-  - plant
-  - cell
-  - us
-  - differenti
-  - marker
-  - studi
-  - cancer
-  - metastat
-  - cell
-  - line
-- - chang
-  - glycosyl
-  - cell
-  - membran
-  - plai
-  - import
-  - role
-  - metastat
-  - behavior
-  - tumor
-  - cell
-- - carbohydr
-  - residu
-  - membran
-  - glycoprotein
-  - detect
-  - us
-  - certain
-  - lectin
-  - due
-  - fact
-  - lectin
-  - bind
-  - specif
-  - carbohydr
-- - hpa
-  - recogn
-  - D
-  - N
-  - acetylgalactosamin
-  - contain
-  - epitop
-  - part
-  - macromolecul
-  - recogn
-  - immun
-  - system
-  - present
-  - cancer
-  - cell
-  - line
-  - have
-  - high
-  - likelihood
-  - undergo
-  - metastasi
-- - hpa
-  - fixat
-  - histolog
-  - prepar
-  - breast
-  - cancer
-  - tissu
-  - associ
-  - omin
-  - prognosi
-- - A
-  - 2015
-  - studi
-  - report
-  - hpa
-  - itself
-  - potenti
-  - promot
-  - breast
-  - cancer
-  - metastasi
-  - increas
-  - vascular
-  - invas
-  - lymph
-  - node
-  - involv
-- - A
-  - differ
-  - lectin
-  - giant
-  - african
-  - land
-  - snail
-  - achatina
-  - fulica
-  - found
-  - caus
-  - apoptosi
-  - program
-  - cell
-  - death
-  - human
-  - breast
-  - cancer
-  - cell
-- - howev
-  - evid
-  - concern
-  - giant
-  - african
-  - land
-  - snail
-  - fact
-  - compon
-  - escargot
-  - snail
-  - bind
-  - specif
-  - aggress
-  - breast
-  - cancer
-  - cell
-  - doe
-  - not
-  - mean
-  - consum
-  - escargot
-  - will
-  - help
-  - prevent
-  - breast
-  - cancer
-- - No
-  - popul
-  - studi
-  - perform
-  - test
-  - hypothesi
-  - consum
-  - escargot
-  - associ
-  - reduc
-  - breast
-  - cancer
-  - risk
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/escargot.yaml,
+  originalSentence: 'The interest in escargot snails derives in part from its unique
+    lectin, Helix pomatia agglutinin, that is used as a prognostic indicator for some
+    cancers, including breast cancer.', sentence: the interest escargot snail deriv
+    part uniqu lectin helix pomatia agglutinin use prognost indic cancer includ breast
+    cancer, tags: escargot}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/escargot.yaml,
+  originalSentence: 'Lectins, a group of glycoproteins found in animal as well as
+    plant cells, are used as differentiating markers to study cancers and metastatic
+    cell lines.', sentence: lectin group glycoprotein found anim well plant cell use
+    differenti marker studi cancer metastat cell line, tags: escargot}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/escargot.yaml,
+  originalSentence: Changes in glycosylation of cell membranes play an important role
+    in the metastatic behavior of tumor cells., sentence: chang glycosyl cell membran
+    play import role metastat behavior tumor cell, tags: escargot}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/escargot.yaml,
+  originalSentence: Carbohydrate residues of the membrane glycoproteins can be detected
+    using certain lectins due to the fact that the lectins bind specifically to these
+    carbohydrates., sentence: carbohydr residu membran glycoprotein detect use certain
+    lectin due fact lectin bind specif carbohydr, tags: escargot}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/escargot.yaml,
+  originalSentence: HPA recognizes -D-N-acetylgalactosamine-containing epitopes  which
+    are only present in cancer cell lines having a high likelihood to undergo metastasis.,
+  sentence: hpa recogn d n acetylgalactosamin contain epitop present cancer cell line
+    high likelihood undergo metastasi, tags: escargot}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/escargot.yaml,
+  originalSentence: HPA fixation on histological preparations of breast cancer tissues
+    is associated with an ominous prognosis., sentence: hpa fixat histolog prepar
+    breast cancer tissu associ omin prognosi, tags: escargot}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/escargot.yaml,
+  originalSentence: A 2015 study reported that HPA itself has the potential to promote
+    breast cancer metastasis through increased vascular invasion and lymph node involvement.,
+  sentence: a 2015 studi report hpa potenti promot breast cancer metastasi increas
+    vascular invas lymph node involv, tags: escargot}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/escargot.yaml,
+  originalSentence: A different lectin from the giant African land snail  has been
+    found to cause apoptosis  in human breast cancer cells., sentence: a differ lectin
+    giant african land snail found caus apoptosi human breast cancer cell, tags: escargot}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/escargot.yaml,
+  originalSentence: 'However, evidence concerning the giant African land snail and
+    the fact that a component of escargot snails binds specifically to aggressive
+    breast cancer cells does not mean that consuming escargot will help prevent breast
+    cancer.', sentence: howev evid concern giant african land snail fact compon escargot
+    snail bind specif aggress breast cancer cell mean consum escargot help prevent
+    breast cancer, tags: escargot}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/escargot.yaml,
+  originalSentence: No population studies have been performed to test the hypothesis
+    that consuming escargot is associated with reduced breast cancer risk., sentence: no
+    popul studi perform test hypothesi consum escargot associ reduc breast cancer
+    risk, tags: escargot}

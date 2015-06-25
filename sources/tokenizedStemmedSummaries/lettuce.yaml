@@ -1,41 +1,13 @@
----
-- - A
-  - japanes
-  - studi
-  - found
-  - frequent
-  - lettuc
-  - consumpt
-  - associ
-  - lower
-  - risk
-  - breast
-  - cancer
-- - on
-  - mexican
-  - studi
-  - found
-  - consumpt
-  - lettuc
-  - associ
-  - lower
-  - risk
-  - breast
-  - cancer
-  - premenopaus
-  - women
-- - A
-  - greek
-  - studi
-  - found
-  - women
-  - breast
-  - cancer
-  - consum
-  - significantli
-  - less
-  - lettuc
-  - without
-  - breast
-  - cancer
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lettuce.yaml,
+  originalSentence: A Japanese study found that frequent lettuce consumption was associated
+    with lower risk of breast cancer., sentence: a japanes studi found frequent lettuc
+    consumpt associ lower risk breast cancer, tags: lettuce}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lettuce.yaml,
+  originalSentence: One Mexican study found that consumption of lettuce was associated
+    with lower risk of breast cancer in premenopausal women., sentence: one mexican
+    studi found consumpt lettuc associ lower risk breast cancer premenopaus women,
+  tags: lettuce}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lettuce.yaml,
+  originalSentence: A Greek study found that women with breast cancer consumed significantly
+    less lettuce than those without breast cancer., sentence: a greek studi found
+    women breast cancer consum signific less lettuc without breast cancer, tags: lettuce}

@@ -1,134 +1,35 @@
----
-- - phytic
-  - acid
-  - found
-  - rice
-  - bran
-  - shown
-  - induc
-  - mark
-  - growth
-  - inhibit
-  - breast
-  - cancer
-  - cell
-  - without
-  - harm
-  - normal
-  - cell
-- - purpl
-  - rice
-  - bran
-  - extract
-  - reduc
-  - vascular
-  - endotheli
-  - growth
-  - factor
-  - vegf
-  - induc
-  - angiogenesi
-  - inhibit
-  - prolifer
-  - migrat
-  - on
-  - cell
-  - studi
-- - A
-  - studi
-  - examin
-  - anti
-  - cancer
-  - activ
-  - eight
-  - brown
-  - rice
-  - phenol
-  - protocatechu
-  - acid
-  - coumar
-  - acid
-  - caffeic
-  - acid
-  - ferul
-  - acid
-  - sinap
-  - acid
-  - vanil
-  - acid
-  - methoxycinnam
-  - acid
-  - tricin
-  - found
-  - caffeic
-  - acid
-  - ferul
-  - acid
-  - tricin
-  - effect
-  - reduc
-  - coloni
-  - form
-  - abil
-  - tripl
-  - neg
-  - breast
-  - cancer
-  - cell
-- - An
-  - anthocyanin
-  - rich
-  - extract
-  - black
-  - rice
-  - reduc
-  - viabil
-  - sever
-  - breast
-  - cancer
-  - cell
-  - line
-  - studi
-- - the
-  - studi
-  - found
-  - extract
-  - significantli
-  - suppress
-  - tumor
-  - growth
-  - angiogenesi
-  - mice
-  - implant
-  - her2
-  - neu
-  - overexpress
-  - her2
-  - tumor
-- - brown
-  - rice
-  - shown
-  - inhibit
-  - growth
-  - prolifer
-  - mous
-  - mammari
-  - tumor
-- - on
-  - studi
-  - report
-  - compound
-  - found
-  - rice
-  - bran
-  - sensit
-  - metastat
-  - hormon
-  - receptor
-  - posit
-  - breast
-  - cancer
-  - cell
-  - taxol
-  - paclitaxel
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/brown-rice.yaml,
+  originalSentence: Phytic acid  has been shown to induce marked growth inhibition
+    in breast cancer cells without harming normal cells., sentence: phytic acid shown
+    induc mark growth inhibit breast cancer cell without harm normal cell, tags: brown-rice}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/brown-rice.yaml,
+  originalSentence: Purple rice bran extract reduced vascular endothelial growth factor
+    -induced angiogenesis by inhibiting proliferation and migration in one cell study.,
+  sentence: purpl rice bran extract reduc vascular endotheli growth factor induc angiogenesi
+    inhibit prolifer migrat one cell studi, tags: brown-rice}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/brown-rice.yaml,
+  originalSentence: 'A study that examined the anti-cancer activity of eight brown
+    rice phenols  found that caffeic acid, ferulic acid, and tricin each were effective
+    in reducing the colony-forming ability of triple negative breast cancer cells.',
+  sentence: a studi examin anti cancer activ eight brown rice phenol found caffeic
+    acid ferul acid tricin effect reduc coloni form abil tripl negat breast cancer
+    cell, tags: brown-rice}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/brown-rice.yaml,
+  originalSentence: An anthocyanin-rich extract from black rice reduced the viability
+    of several breast cancer cell lines in another study., sentence: an anthocyanin
+    rich extract black rice reduc viabil sever breast cancer cell line anoth studi,
+  tags: brown-rice}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/brown-rice.yaml,
+  originalSentence: The same study found that the extract significantly suppressed
+    tumor growth and angiogenesis in mice implanted with HER2/neu overexpressing  tumors.,
+  sentence: the studi found extract signific suppress tumor growth angiogenesi mice
+    implant her2 neu overexpress tumor, tags: brown-rice}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/brown-rice.yaml,
+  originalSentence: Brown rice has been shown to inhibit the growth and proliferation
+    of mouse mammary tumors., sentence: brown rice shown inhibit growth prolifer mous
+    mammari tumor, tags: brown-rice}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/brown-rice.yaml,
+  originalSentence: One study reported that a compound found in rice bran sensitized
+    metastatic hormone receptor positive breast cancer cells to Taxol., sentence: one
+    studi report compound found rice bran sensit metastat hormon receptor posit breast
+    cancer cell taxol, tags: brown-rice}

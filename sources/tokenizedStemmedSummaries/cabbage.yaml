@@ -1,68 +1,22 @@
----
-- - cabbag
-  - found
-  - promot
-  - apoptosi
-  - suppress
-  - cell
-  - cycl
-  - progress
-  - inhibit
-  - angiogenesi
-  - human
-  - breast
-  - cancer
-  - cell
-- - furthermor
-  - cabbag
-  - protect
-  - against
-  - cell
-  - dna
-  - damag
-- - consumpt
-  - cabbag
-  - shown
-  - reduc
-  - estrogen
-  - metabolit
-  - 16alpha
-  - hydroxyestron
-  - breast
-  - cancer
-  - promot
-- - cabbag
-  - compon
-  - i3c
-  - sulforaphan
-  - shown
-  - increas
-  - anti
-  - cancer
-  - effect
-  - chemotherapi
-  - drug
-  - taxol
-  - paclitaxel
-- - on
-  - carefulli
-  - design
-  - studi
-  - chines
-  - women
-  - found
-  - brassica
-  - veget
-  - consumpt
-  - chines
-  - cabbag
-  - larg
-  - compon
-  - diet
-  - associ
-  - significantli
-  - reduc
-  - breast
-  - cancer
-  - risk
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cabbage.yaml,
+  originalSentence: 'Cabbage has been found to be promote apoptosis, suppress cell
+    cycle progression and inhibit angiogenesis of human breast cancer cells.', sentence: cabbag
+    found promot apoptosi suppress cell cycl progress inhibit angiogenesi human breast
+    cancer cell, tags: cabbage}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cabbage.yaml,
+  originalSentence: 'Furthermore, cabbage can protect against cell DNA damage.', sentence: furthermor
+    cabbag protect cell dna damag, tags: cabbage}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cabbage.yaml,
+  originalSentence: 'Consumption of cabbage has been shown to reduce the estrogen
+    metabolite 16alpha-hydroxyestrone, which is a breast cancer promoter.', sentence: consumpt
+    cabbag shown reduc estrogen metabolit 16alpha hydroxyestron breast cancer promot,
+  tags: cabbage}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cabbage.yaml,
+  originalSentence: Cabbage components I3C and sulforaphane have both been shown increase
+    the anti-cancer effects of the chemotherapy drug Taxol., sentence: cabbag compon
+    i3c sulforaphan shown increas anti cancer effect chemotherapi drug taxol, tags: cabbage}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cabbage.yaml,
+  originalSentence: One carefully designed study of Chinese women found that brassica
+    vegetable consumption  was associated with significantly reduced breast cancer
+    risk., sentence: one care design studi chines women found brassica veget consumpt
+    associ signific reduc breast cancer risk, tags: cabbage}

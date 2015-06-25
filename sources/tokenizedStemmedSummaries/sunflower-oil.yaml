@@ -1,213 +1,63 @@
----
-- - the
-  - relationship
-  - oil
-  - fat
-  - consumpt
-  - breast
-  - cancer
-  - complex
-  - appear
-  - depend
-  - specif
-  - attribut
-  - oil
-  - fat
-  - question
-- - It
-  - origin
-  - thought
-  - consumpt
-  - fat
-  - promot
-  - breast
-  - cancer
-  - regardless
-  - sourc
-  - fat
-- - the
-  - focu
-  - shift
-  - satur
-  - versu
-  - unsatur
-  - fat
-  - further
-  - refin
-  - concern
-  - monounsatur
-  - fatti
-  - acid
-  - mufa
-  - polyunsatur
-  - fatti
-  - acid
-  - pufa
-- - more
-  - recent
-  - emphasi
-  - shift
-  - balanc
-  - omega
-  - omega
-  - fatti
-  - acid
-  - diet
-- - the
-  - reason
-  - chang
-  - emphasi
-  - none
-  - theori
-  - found
-  - hold
-  - consist
-  - popul
-  - studi
-- - while
-  - theori
-  - cancer
-  - caus
-  - part
-  - excess
-  - omega
-  - fatti
-  - acid
-  - western
-  - diet
-  - appear
-  - valid
-  - not
-  - global
-  - explan
-  - relationship
-  - oil
-  - fat
-  - breast
-  - cancer
-- - for
-  - exampl
-  - doe
-  - not
-  - explain
-  - fact
-  - oliv
-  - oil
-  - doe
-  - not
-  - high
-  - omega
-  - content
-  - protect
-  - against
-  - breast
-  - cancer
-- - In
-  - case
-  - sunflow
-  - oil
-  - evid
-  - experi
-  - us
-  - either
-  - carcinogen
-  - induc
-  - transplant
-  - anim
-  - mammari
-  - tumor
-  - model
-  - vitro
-  - studi
-  - demonstr
-  - linol
-  - acid
-  - primari
-  - fatti
-  - acid
-  - sunflow
-  - oil
-  - promot
-  - mammari
-  - tumor
-  - develop
-- - on
-  - studi
-  - found
-  - women
-  - specif
-  - genotyp
-  - alox5ap
-  - 4900
-  - A
-  - G
-  - polymorph
-  - consum
-  - signific
-  - amount
-  - linol
-  - acid
-  - diet
-  - increas
-  - risk
-  - breast
-  - cancer
-- - anoth
-  - studi
-  - found
-  - increas
-  - breast
-  - cancer
-  - risk
-  - among
-  - women
-  - cook
-  - primarili
-  - veget
-  - corn
-  - oil
-  - compar
-  - women
-  - us
-  - oliv
-  - canola
-  - oil
-- - women
-  - breast
-  - cancer
-  - found
-  - higher
-  - level
-  - omega
-  - breast
-  - tissu
-  - similar
-  - women
-  - without
-  - breast
-  - cancer
-- - sever
-  - studi
-  - found
-  - lower
-  - dietari
-  - omega
-  - omega
-  - ratio
-  - associ
-  - reduc
-  - risk
-  - breast
-  - cancer
-- - consum
-  - sunflow
-  - oil
-  - tend
-  - increas
-  - ratio
-  - women
-  - it
-  - high
-  - omega
-  - content
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sunflower-oil.yaml,
+  originalSentence: The relationships between oil and fat consumption and breast cancer
+    are complex and appear to depend on the specific attributes of the oil or fat
+    in question., sentence: the relationship oil fat consumpt breast cancer complex
+    appear depend specif attribut oil fat question, tags: sunflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sunflower-oil.yaml,
+  originalSentence: 'It was originally thought that consumption of fat promoted breast
+    cancer, regardless of the source of the fat.', sentence: it origin thought consumpt
+    fat promot breast cancer regardless sourc fat, tags: sunflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sunflower-oil.yaml,
+  originalSentence: 'The focus then shifted to saturated versus unsaturated fat, with
+    further refinements concerning monounsaturated fatty acids  and polyunsaturated
+    fatty acids.', sentence: the focus shift satur versus unsatur fat refin concern
+    monounsatur fatti acid polyunsatur fatti acid, tags: sunflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sunflower-oil.yaml,
+  originalSentence: 'More recently, the emphasis has shifted to the balance between
+    omega-6 and omega-3 fatty acids in the diet.', sentence: more recent emphasi shift
+    balanc omega 6 omega 3 fatti acid diet, tags: sunflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sunflower-oil.yaml,
+  originalSentence: The reason for these changes in emphasis is that none of the theories
+    were found to hold consistently in population studies., sentence: the reason chang
+    emphasi none theori found hold consist popul studi, tags: sunflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sunflower-oil.yaml,
+  originalSentence: 'While the theory that cancer is caused in part by an excess of
+    omega-6 fatty acids in the Western diet appears to be valid, it is not a global
+    explanation for the relationship between oils and fats and breast cancer.', sentence: while
+    theori cancer caus part excess omega 6 fatti acid western diet appear valid global
+    explan relationship oil fat breast cancer, tags: sunflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sunflower-oil.yaml,
+  originalSentence: 'For example, it does not explain the fact that olive oil, which
+    does not have a high omega-3 content, is protective against breast cancer.', sentence: for
+    exampl explain fact oliv oil high omega 3 content protect breast cancer, tags: sunflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sunflower-oil.yaml,
+  originalSentence: 'In the case of sunflower oil, there is evidence from experiments
+    using either carcinogen-induced or transplanted animal mammary tumor models, as
+    well as in vitro studies, which demonstrates that linoleic acid, the primary fatty
+    acid in sunflower oil, promotes mammary tumor development.', sentence: in case
+    sunflow oil evid experi use either carcinogen induc transplant anim mammari tumor
+    model well vitro studi demonstr linol acid primari fatti acid sunflow oil promot
+    mammari tumor develop, tags: sunflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sunflower-oil.yaml,
+  originalSentence: One study found that women with a specific genotype  who consumed
+    a significant amount of linoleic acid in their diets had an increased risk of
+    breast cancer., sentence: one studi found women specif genotyp consum signific
+    amount linol acid diet increas risk breast cancer, tags: sunflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sunflower-oil.yaml,
+  originalSentence: Another study found increased breast cancer risk among women cooking
+    primarily with vegetable or corn oil compared to women using olive or canola oil.,
+  sentence: anoth studi found increas breast cancer risk among women cook primarili
+    veget corn oil compar women use oliv canola oil, tags: sunflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sunflower-oil.yaml,
+  originalSentence: Women with breast cancer have been found to have higher levels
+    of omega-6 in their breast tissue than similar women without breast cancer., sentence: women
+    breast cancer found higher level omega 6 breast tissu similar women without breast
+    cancer, tags: sunflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sunflower-oil.yaml,
+  originalSentence: Several studies have found that lower dietary omega-6/omega-3
+    ratios are associated with reduced risk of breast cancer., sentence: sever studi
+    found lower dietari omega 6 omega 3 ratio associ reduc risk breast cancer, tags: sunflower-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sunflower-oil.yaml,
+  originalSentence: Consuming sunflower oil would tend to increase the ratio for most
+    women because of its high omega-6 content., sentence: consum sunflow oil would
+    tend increas ratio women high omega 6 content, tags: sunflower-oil}

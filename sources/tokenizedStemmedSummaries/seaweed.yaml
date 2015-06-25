@@ -1,276 +1,68 @@
----
-- - the
-  - evid
-  - seawe
-  - consumpt
-  - reduc
-  - risk
-  - breast
-  - cancer
-  - base
-  - primarili
-  - studi
-  - brown
-  - seawe
-  - consumpt
-  - brown
-  - seawe
-  - shown
-  - favor
-  - alter
-  - estrogen
-  - metabol
-  - women
-- - extract
-  - common
-  - kelp
-  - shown
-  - inhibit
-  - bind
-  - estradiol
-  - estrogen
-  - receptor
-  - progesteron
-  - progesteron
-  - receptor
-- - bladderwrack
-  - type
-  - edibl
-  - kelp
-  - found
-  - exert
-  - anti
-  - estrogen
-  - effect
-  - pre
-  - menopaus
-  - women
-  - specif
-  - uniqu
-  - compon
-  - fucoidan
-  - fucoxanthin
-  - algin
-  - acid
-  - laminarin
-  - brown
-  - seawe
-  - shown
-  - inhibit
-  - cancer
-  - cell
-  - prolifer
-- - howev
-  - red
-  - seawe
-  - lack
-  - compound
-  - inhibit
-  - prolifer
-  - suggest
-  - compound
-  - found
-  - seawe
-  - mai
-  - import
-  - seawe
-  - asian
-  - diet
-  - mai
-  - enhanc
-  - intestin
-  - convers
-  - phytoestrogen
-  - particular
-  - product
-  - equol
-  - explain
-  - breast
-  - cancer
-  - protect
-  - effect
-  - dietari
-  - seawe
-  - soi
-  - the
-  - brown
-  - seawe
-  - wakam
-  - type
-  - kelp
-  - shown
-  - contain
-  - omega
-  - fat
-  - eicosapentaeno
-  - acid
-  - stearidon
-  - acid
-  - mai
-  - favor
-  - increas
-  - omega
-  - omega
-  - polyunsatur
-  - fatti
-  - acid
-  - ratio
-  - turn
-  - thought
-  - reduc
-  - breast
-  - cancer
-  - risk
-- - some
-  - type
-  - seawe
-  - found
-  - contain
-  - docosahexaeno
-  - acid
-  - marin
-  - omega
-  - fat
-  - wakam
-  - found
-  - reduc
-  - breast
-  - cancer
-  - prolifer
-  - rat
-  - on
-  - japanes
-  - studi
-  - mekabu
-  - wakam
-  - root
-  - extract
-  - shown
-  - induc
-  - cell
-  - death
-  - human
-  - hormon
-  - receptor
-  - neg
-  - ER
-  - PR
-  - breast
-  - cancer
-  - cell
-  - suppress
-  - mammari
-  - carcinogenesi
-  - rat
-  - when
-  - administ
-  - daili
-  - drink
-  - water
-  - without
-  - toxic
-  - variou
-  - type
-  - red
-  - brown
-  - green
-  - alga
-  - found
-  - good
-  - sourc
-  - melatonin
-- - melatonin
-  - protect
-  - against
-  - breast
-  - cancer
-  - sever
-  - wai
-  - includ
-  - reduc
-  - aromatas
-  - activ
-  - within
-  - breast
-  - therebi
-  - reduc
-  - estrogen
-  - product
-  - the
-  - rel
-  - high
-  - iodin
-  - content
-  - seawe
-  - mai
-  - contribut
-  - reduct
-  - risk
-  - breast
-  - cancer
-  - the
-  - rel
-  - high
-  - level
-  - calcium
-  - found
-  - seawe
-  - thought
-  - contribut
-  - seawe
-  - chemoprevent
-  - effect
-  - combin
-  - it
-  - compon
-- - We
-  - suggest
-  - consum
-  - seawe
-  - food
-  - rather
-  - fucoidan
-  - kelp
-  - seawe
-  - supplement
-  - outlin
-  - abov
-  - variou
-  - compon
-  - seawe
-  - addit
-  - fucoidan
-  - iodin
-  - mai
-  - respons
-  - seawe
-  - appar
-  - anti
-  - carcinogen
-  - effect
-  - compound
-  - miner
-  - fiber
-  - found
-  - seawe
-  - mai
-  - act
-  - synergist
-  - reduc
-  - cancer
-  - risk
-  - safe
-  - effect
-  - level
-  - fucoidan
-  - not
-  - establish
-  - supplement
-  - mai
-  - result
-  - increas
-  - blood
-  - thin
-  - depend
-  - formul
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/seaweed.yaml,
+  originalSentence: "The evidence that seaweed consumption could reduce the risk of
+    breast cancer is based primarily on studies of brown seaweeds:\n\n   Consumption
+    of brown seaweeds has been shown to favorably alter estrogen metabolism in women.",
+  sentence: the evid seawe consumpt could reduc risk breast cancer base primarili
+    studi brown seawe consumpt brown seawe shown favor alter estrogen metabol women,
+  tags: seaweed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/seaweed.yaml,
+  originalSentence: Extract of common kelp has been shown to inhibit the binding of
+    estradiol to estrogen receptors and progesterone to the progesterone receptor.,
+  sentence: extract common kelp shown inhibit bind estradiol estrogen receptor progesteron
+    progesteron receptor, tags: seaweed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/seaweed.yaml,
+  originalSentence: "Bladderwrack  has been found to exert anti-estrogenic effects
+    in pre-menopausal women\n   Specific unique components  of brown seaweeds have
+    been shown to inhibit cancer cell proliferation.", sentence: bladderwrack found
+    exert anti estrogen effect pre menopaus women specif uniqu compon brown seawe
+    shown inhibit cancer cell prolifer, tags: seaweed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/seaweed.yaml,
+  originalSentence: "However, red seaweeds, which lack these compounds, also inhibit
+    proliferation, suggesting that other compounds found in seaweed may also be important\n
+    \  Seaweed in the Asian diet may enhance intestinal conversion of phytoestrogens,
+    in particular the production of equol, which could explain some of the breast
+    cancer protective effects of dietary seaweed and soy\n   The brown seaweed wakame
+    \ has been shown to contain the omega-3 fats eicosapentaenoic acid and stearidonic
+    acid, which may favorably increase the omega-3/omega-6 polyunsaturated fatty acid
+    ratio.", sentence: howev red seawe lack compound also inhibit prolifer suggest
+    compound found seawe may also import seawe asian diet may enhanc intestin convers
+    phytoestrogen particular product equol could explain breast cancer protect effect
+    dietari seawe soy the brown seawe wakam shown contain omega 3 fat eicosapentaeno
+    acid stearidon acid may favor increas omega 3 omega 6 polyunsatur fatti acid ratio,
+  tags: seaweed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/seaweed.yaml,
+  originalSentence: "Some other types of seaweed have been found to contain docosahexaenoic
+    acid, another marine omega-3 fat\n   Wakame was also found to reduce breast cancer
+    proliferation in rats in one Japanese study\n   Mekabu  extract has been shown
+    to induce cell death in human hormone receptor negative  breast cancer cells and
+    to suppress mammary carcinogenesis in rats when administered in daily drinking
+    water, without toxicity\n   Various types of red, brown and green algae have been
+    found to be good sources of melatonin.", sentence: some type seawe found contain
+    docosahexaeno acid anoth marin omega 3 fat wakam also found reduc breast cancer
+    prolifer rat one japanes studi mekabu extract shown induc cell death human hormon
+    receptor negat breast cancer cell suppress mammari carcinogenesi rat administ
+    daili drink water without toxic various type red brown green alga found good sourc
+    melatonin, tags: seaweed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/seaweed.yaml,
+  originalSentence: "Melatonin protects against breast cancer in several ways, including
+    by reducing aromatase activity within the breast, thereby reducing estrogen production\n
+    \  The relatively high iodine content of seaweed may contribute to reduction in
+    risk of breast cancer\n   The relatively high levels of calcium found in seaweed
+    are also thought to contribute to seaweeds chemopreventive effects, in combination
+    with its other components.", sentence: melatonin protect breast cancer sever way
+    includ reduc aromatas activ within breast therebi reduc estrogen product the relat
+    high iodin content seawe may contribut reduct risk breast cancer the relat high
+    level calcium found seawe also thought contribut seawe chemoprevent effect combin
+    compon, tags: seaweed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/seaweed.yaml,
+  originalSentence: 'We suggest consuming seaweed as food rather than fucoidan, kelp
+    or other seaweed supplements since  as outlined above, various components of seaweed
+    in addition to fucoidan or iodine may be responsible for seaweeds apparent anti-carcinogenic
+    effects;  the compounds, minerals and fiber found in seaweed may act synergistically
+    to reduce cancer risk;  safe and effective levels of fucoidan have not been established;  supplementation
+    may result in increased blood thinning, depending on the formulation.', sentence: we
+    suggest consum seawe food rather fucoidan kelp seawe supplement sinc outlin various
+    compon seawe addit fucoidan iodin may respons seawe appar anti carcinogen effect
+    compound miner fiber found seawe may act synergist reduc cancer risk safe effect
+    level fucoidan establish supplement may result increas blood thin depend formul,
+  tags: seaweed}

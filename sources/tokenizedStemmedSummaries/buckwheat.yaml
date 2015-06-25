@@ -1,51 +1,18 @@
----
-- - An
-  - extract
-  - buckwheat
-  - hull
-  - shown
-  - cytotox
-  - effect
-  - human
-  - breast
-  - liver
-  - stomach
-  - cancer
-  - cell
-- - A
-  - peptid
-  - buckwheat
-  - seed
-  - found
-  - inhibit
-  - prolifer
-  - liver
-  - breast
-  - cancer
-  - cell
-  - leukemia
-  - cell
-- - tartari
-  - buckwheat
-  - similar
-  - buckwheat
-  - found
-  - antiprolif
-  - effect
-  - human
-  - breast
-  - cancer
-  - cell
-- - buckwheat
-  - shown
-  - inhibit
-  - carcinogen
-  - induc
-  - mammari
-  - tumor
-  - laboratori
-  - rat
-  - lower
-  - circul
-  - estrogen
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/buckwheat.yaml,
+  originalSentence: 'An extract of buckwheat hulls has been shown to have cytotoxic
+    effects in human breast, liver and stomach cancer cells.', sentence: an extract
+    buckwheat hull shown cytotox effect human breast liver stomach cancer cell, tags: buckwheat}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/buckwheat.yaml,
+  originalSentence: 'A peptide of buckwheat seeds has been found to inhibit proliferation
+    of liver and breast cancer cells, as well as leukemia cells.', sentence: a peptid
+    buckwheat seed found inhibit prolifer liver breast cancer cell well leukemia cell,
+  tags: buckwheat}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/buckwheat.yaml,
+  originalSentence: Tartary buckwheat  has been found to have antiproliferative effects
+    in human breast cancer cells., sentence: tartari buckwheat found antiprolif effect
+    human breast cancer cell, tags: buckwheat}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/buckwheat.yaml,
+  originalSentence: Buckwheat also has been shown to inhibit carcinogen-induced mammary
+    tumors in laboratory rats by lowering circulating estrogen., sentence: buckwheat
+    also shown inhibit carcinogen induc mammari tumor laboratori rat lower circul
+    estrogen, tags: buckwheat}

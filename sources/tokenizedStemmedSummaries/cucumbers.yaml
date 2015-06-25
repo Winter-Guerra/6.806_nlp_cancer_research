@@ -1,69 +1,21 @@
----
-- - caffeic
-  - acid
-  - shown
-  - antiprolif
-  - apoptot
-  - effect
-  - human
-  - breast
-  - cancer
-  - cell
-  - laboratori
-- - A
-  - korean
-  - case
-  - control
-  - studi
-  - compar
-  - diet
-  - breast
-  - cancer
-  - patient
-  - healthi
-  - control
-  - group
-  - women
-  - found
-  - breast
-  - cancer
-  - patient
-  - consum
-  - significantli
-  - lower
-  - quantiti
-  - veget
-  - includ
-  - cucumb
-  - control
-  - group
-- - A
-  - greek
-  - studi
-  - found
-  - women
-  - breast
-  - cancer
-  - consum
-  - significantli
-  - less
-  - cucumb
-  - without
-  - breast
-  - cancer
-- - A
-  - swiss
-  - studi
-  - found
-  - consumpt
-  - cucumb
-  - among
-  - fruit
-  - veget
-  - associ
-  - signific
-  - protect
-  - against
-  - breast
-  - cancer
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cucumbers.yaml,
+  originalSentence: Caffeic acid has been shown to have antiproliferative and apoptotic
+    effects on human breast cancer cells in the laboratory., sentence: caffeic acid
+    shown antiprolif apoptot effect human breast cancer cell laboratori, tags: cucumbers}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cucumbers.yaml,
+  originalSentence: 'A Korean case-control study comparing the diets of breast cancer
+    patients with a healthy control group of women found that the breast cancer patients
+    consumed a significantly lower quantity of vegetables, including cucumbers, than
+    the control group.', sentence: a korean case control studi compar diet breast
+    cancer patient healthi control group women found breast cancer patient consum
+    signific lower quantiti veget includ cucumb control group, tags: cucumbers}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cucumbers.yaml,
+  originalSentence: A Greek study also found that women with breast cancer consumed
+    significantly less cucumber than those without breast cancer., sentence: a greek
+    studi also found women breast cancer consum signific less cucumb without breast
+    cancer, tags: cucumbers}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cucumbers.yaml,
+  originalSentence: 'A Swiss study found that consumption of cucumbers, among other
+    fruits and vegetables, was associated with significant protection against breast
+    cancer.', sentence: a swiss studi found consumpt cucumb among fruit veget associ
+    signific protect breast cancer, tags: cucumbers}

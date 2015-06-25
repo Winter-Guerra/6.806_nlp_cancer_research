@@ -1,113 +1,36 @@
----
-- - our
-  - conclus
-  - eat
-  - tofu
-  - benefici
-  - base
-  - avail
-  - epidemiolog
-  - evid
-  - concern
-  - tofu
-  - consumpt
-  - breast
-  - cancer
-  - incid
-- - separ
-  - web
-  - page
-  - cover
-  - soybean
-  - past
-  - soybean
-  - oil
-  - soi
-  - protein
-  - isol
-  - soybean
-- - We
-  - attempt
-  - untangl
-  - conflict
-  - find
-  - concern
-  - soybean
-  - compon
-  - phytoestrogen
-  - breast
-  - cancer
-  - genistein
-  - daidzein
-  - web
-  - page
-- - popul
-  - studi
-  - found
-  - high
-  - tofu
-  - intak
-  - associ
-  - lower
-  - risk
-  - breast
-  - cancer
-  - especi
-  - pre
-  - menopaus
-  - women
-- - childhood
-  - consumpt
-  - tofu
-  - appear
-  - enhanc
-  - protect
-  - effect
-  - tofu
-  - premenopaus
-  - women
-- - most
-  - studi
-  - concern
-  - tofu
-  - consumpt
-  - risk
-  - breast
-  - cancer
-  - conduct
-  - among
-  - asian
-  - asian
-  - american
-  - women
-  - rais
-  - possibl
-  - tofu
-  - consumpt
-  - marker
-  - protect
-  - aspect
-  - asian
-  - diet
-  - lifestyl
-- - howev
-  - on
-  - north
-  - american
-  - studi
-  - not
-  - focus
-  - soyfood
-  - asian
-  - case
-  - found
-  - tofu
-  - consumpt
-  - associ
-  - lower
-  - risk
-  - premenopaus
-  - bilater
-  - breast
-  - cancer
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tofu.yaml,
+  originalSentence: Our conclusion that eating tofu could be beneficial is based on
+    the available epidemiological evidence concerning tofu consumption and breast
+    cancer incidence., sentence: our conclus eat tofu could benefici base avail epidemiolog
+    evid concern tofu consumpt breast cancer incid, tags: tofu}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tofu.yaml,
+  originalSentence: 'Separate web pages cover soybean paste, soybean oil, soy protein
+    isolate and soybeans.', sentence: separ web page cover soybean past soybean oil
+    soy protein isol soybean, tags: tofu}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tofu.yaml,
+  originalSentence: We attempt to untangle the conflicting findings concerning soybeans
+    and their component phytoestrogens and breast cancer in the genistein and daidzein
+    web page., sentence: we attempt untangl conflict find concern soybean compon phytoestrogen
+    breast cancer genistein daidzein web page, tags: tofu}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tofu.yaml,
+  originalSentence: 'Population studies have found that high tofu intake is associated
+    with lower risk of breast cancer, especially for pre-menopausal women.', sentence: popul
+    studi found high tofu intak associ lower risk breast cancer especi pre menopaus
+    women, tags: tofu}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tofu.yaml,
+  originalSentence: Childhood consumption of tofu appears to enhance the protective
+    effect of tofu in premenopausal women., sentence: childhood consumpt tofu appear
+    enhanc protect effect tofu premenopaus women, tags: tofu}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tofu.yaml,
+  originalSentence: 'Most of the studies concerning tofu consumption and risk of breast
+    cancer have been conducted among Asian or Asian-American women, raising the possibility
+    that tofu consumption is a marker for other protective aspects of Asian diets
+    or lifestyles.', sentence: most studi concern tofu consumpt risk breast cancer
+    conduct among asian asian american women rais possibl tofu consumpt marker protect
+    aspect asian diet lifestyl, tags: tofu}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tofu.yaml,
+  originalSentence: 'However, one North American study not focused on soyfoods or
+    Asian cases found tofu consumption to be associated with lower risk of premenopausal
+    bilateral breast cancer.', sentence: howev one north american studi focus soyfood
+    asian case found tofu consumpt associ lower risk premenopaus bilater breast cancer,
+  tags: tofu}

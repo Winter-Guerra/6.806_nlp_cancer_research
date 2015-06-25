@@ -1,94 +1,29 @@
----
-- - sage
-  - refer
-  - leav
-  - plant
-  - salvia
-  - officinali
-  - member
-  - mint
-  - famili
-- - sage
-  - found
-  - antisept
-  - antimicrobi
-  - astring
-  - antioxid
-  - anti
-  - inflammatori
-  - antifung
-  - antivir
-  - hypoglycem
-  - antiatherogen
-  - antimutagen
-  - properti
-- - sage
-  - contain
-  - numer
-  - biolog
-  - activ
-  - compound
-  - includ
-  - caffeic
-  - acid
-  - camphor
-  - carnosol
-  - carnos
-  - acid
-  - cineol
-  - epirosmanol
-  - galdosol
-  - genistein
-  - isorosmanol
-  - limonen
-  - luteolin
-  - rosmanol
-  - rosmarin
-  - acid
-  - thujon
-  - ursol
-  - acid
-- - sage
-  - found
-  - anti
-  - diabet
-  - effect
-  - reduc
-  - level
-  - serum
-  - glucos
-  - triglycerid
-  - total
-  - cholesterol
-  - increas
-  - plasma
-  - insulin
-  - diabet
-  - rat
-  - not
-  - normal
-  - rat
-- - sage
-  - shown
-  - improv
-  - memori
-  - retent
-  - alzheim
-  - patient
-  - colleg
-  - ag
-  - subject
-  - howev
-  - long
-  - term
-  - heavi
-  - us
-  - caus
-  - seizur
-  - neurolog
-  - symptom
-  - due
-  - sage
-  - thujon
-  - content
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sage.yaml,
+  originalSentence: 'Sage refers to the leaves of the plant Salvia officinalis, a
+    member of the mint family.', sentence: sage refer leav plant salvia officinali
+    member mint famili, tags: sage}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sage.yaml,
+  originalSentence: 'Sage has been found to have antiseptic, antimicrobial, astringent,
+    antioxidant, anti-inflammatory, antifungal, antiviral, hypoglycemic, antiatherogenic
+    and antimutagenic properties.', sentence: sage found antisept antimicrobi astring
+    antioxid anti inflammatori antifung antivir hypoglycem antiatherogen antimutagen
+    properti, tags: sage}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sage.yaml,
+  originalSentence: 'Sage contains numerous biologically active compounds, including
+    caffeic acid, camphor, carnosol, carnosic acid, cineol, epirosmanol, galdosol,
+    genistein, isorosmanol, limonene, luteolin, rosmanol, rosmarinic acid, thujone,
+    and ursolic acid.', sentence: sage contain numer biolog activ compound includ
+    caffeic acid camphor carnosol carnos acid cineol epirosmanol galdosol genistein
+    isorosmanol limonen luteolin rosmanol rosmarin acid thujon ursol acid, tags: sage}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sage.yaml,
+  originalSentence: 'Sage has been found to have anti-diabetic effects, reducing levels
+    of serum glucose, triglycerides, and total cholesterol, and increasing plasma
+    insulin in diabetic rats but not in normal rats.', sentence: sage found anti diabet
+    effect reduc level serum glucos triglycerid total cholesterol increas plasma insulin
+    diabet rat normal rat, tags: sage}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/sage.yaml,
+  originalSentence: 'Sage has been shown to improve memory retention in both Alzheimers
+    patients and college-age subjects, however long-term heavy use can cause seizures
+    or other neurological symptoms due to sages thujone content.', sentence: sage
+    shown improv memori retent alzheim patient colleg age subject howev long term
+    heavi use caus seizur neurolog symptom due sage thujon content, tags: sage}

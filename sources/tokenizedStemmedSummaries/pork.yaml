@@ -1,252 +1,77 @@
----
-- - breast
-  - cancer
-  - risk
-  - found
-  - increas
-  - increas
-  - consumpt
-  - pork
-  - sever
-  - popul
-  - studi
-- - In
-  - addit
-  - high
-  - red
-  - meat
-  - consumpt
-  - dure
-  - adolesc
-  - found
-  - associ
-  - increas
-  - risk
-  - premenopaus
-  - breast
-  - cancer
-- - A
-  - small
-  - brazilian
-  - studi
-  - found
-  - breast
-  - cancer
-  - risk
-  - sharpli
-  - higher
-  - women
-  - regularli
-  - consum
-  - lard
-  - render
-  - pig
-  - fat
-  - fatti
-  - red
-  - meat
-- - howev
-  - 2009
-  - swedish
-  - popul
-  - studi
-  - found
-  - no
-  - associ
-  - fresh
-  - red
-  - meat
-  - intak
-  - overal
-  - breast
-  - cancer
-  - risk
-  - suggest
-  - fri
-  - red
-  - meat
-  - intak
-  - mai
-  - increas
-  - risk
-  - estrogen
-  - receptor
-  - posit
-  - progesteron
-  - receptor
-  - neg
-  - ER
-  - PR
-  - breast
-  - cancer
-- - red
-  - meat
-  - intak
-  - shown
-  - reduc
-  - circul
-  - melatonin
-- - melatonin
-  - protect
-  - against
-  - breast
-  - cancer
-  - sever
-  - wai
-  - includ
-  - reduc
-  - aromatas
-  - activ
-  - within
-  - breast
-  - therebi
-  - reduc
-  - estrogen
-  - product
-- - rel
-  - high
-  - level
-  - heterocycl
-  - aromat
-  - amin
-  - hca
-  - found
-  - pork
-  - dish
-  - pork
-  - chop
-  - pan
-  - fri
-  - pork
-  - chines
-  - style
-  - western
-  - style
-  - roast
-  - pork
-  - pork
-  - rib
-  - barbecu
-  - pork
-  - pork
-  - drip
-- - hca
-  - shown
-  - associ
-  - develop
-  - variou
-  - cancer
-  - includ
-  - breast
-  - cancer
-- - two
-  - hca
-  - found
-  - pork
-  - cook
-  - us
-  - high
-  - temperatur
-  - method
-  - amino
-  - methylimidazo
-  - pyridin
-  - amino
-  - methyl
-  - phenylimidazo
-  - pyridin
-  - shown
-  - potent
-  - estrogen
-  - activ
-  - induc
-  - activ
-  - estrogen
-  - regul
-  - gene
-  - prolifer
-  - estrogen
-  - depend
-  - cell
-  - regul
-  - progesteron
-  - receptor
-- - while
-  - iron
-  - defici
-  - anemia
-  - seriou
-  - condit
-  - avoid
-  - contribut
-  - signific
-  - iron
-  - diet
-  - result
-  - regularli
-  - consum
-  - pork
-  - detriment
-  - women
-- - pork
-  - contain
-  - approxim
-  - 60
-  - percent
-  - iron
-  - beef
-- - iron
-  - deplet
-  - shown
-  - lead
-  - signific
-  - inhibit
-  - breast
-  - cancer
-  - cell
-  - growth
-  - laboratori
-- - rel
-  - high
-  - level
-  - iron
-  - benign
-  - breast
-  - tissu
-  - found
-  - on
-  - prospect
-  - studi
-  - associ
-  - increas
-  - risk
-  - subsequ
-  - breast
-  - cancer
-- - other
-  - studi
-  - found
-  - high
-  - level
-  - iron
-  - blood
-  - associ
-  - increas
-  - breast
-  - cancer
-  - risk
-- - high
-  - intak
-  - satur
-  - fat
-  - anim
-  - sourc
-  - includ
-  - pork
-  - found
-  - associ
-  - increas
-  - risk
-  - breast
-  - cancer
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: Breast cancer risk has been found to increase with increasing
+    consumption of pork in several population studies., sentence: breast cancer risk
+    found increas increas consumpt pork sever popul studi, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: 'In addition, high red meat consumption during adolescence has
+    been found to be associated with increased risk of premenopausal breast cancer.',
+  sentence: in addit high red meat consumpt adolesc found associ increas risk premenopaus
+    breast cancer, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: A small Brazilian study found that breast cancer risk was sharply
+    higher for women who regularly consumed lard  and fatty red meat., sentence: a
+    small brazilian studi found breast cancer risk sharpli higher women regular consum
+    lard fatti red meat, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: 'However, a 2009 Swedish population study found no association
+    between fresh red meat intake and overall breast cancer risk, while suggesting
+    that fried red meat intake may increase the risk of estrogen receptor-positive/progesterone
+    receptor-negative ER+/PR- breast cancer.', sentence: howev 2009 swedish popul
+    studi found associ fresh red meat intak overal breast cancer risk suggest fri
+    red meat intak may increas risk estrogen receptor posit progesteron receptor negat
+    er pr breast cancer, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: Red meat intake has been shown reduce circulating melatonin.,
+  sentence: red meat intak shown reduc circul melatonin, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: 'Melatonin protects against breast cancer in several ways, including
+    by reducing aromatase activity within the breast, thereby reducing estrogen production.',
+  sentence: melatonin protect breast cancer sever way includ reduc aromatas activ
+    within breast therebi reduc estrogen product, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: 'Relatively high levels of heterocyclic aromatic amines  have
+    been found in pork dishes such as pork chops and other pan-fried pork, Chinese-style
+    and Western-style roasted pork, pork ribs, and barbecued pork, as well as pork
+    drippings.', sentence: relat high level heterocycl aromat amin found pork dish
+    pork chop pan fri pork chines style western style roast pork pork rib barbecu
+    pork well pork drip, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: 'HCAs have been shown be associated with the development of various
+    cancers, including breast cancer.', sentence: hcas shown associ develop various
+    cancer includ breast cancer, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: 'Two of the HCAs found in pork cooked using high temperature methods,
+    2-amino-3-methylimidazopyridine and 2-amino-1-methyl-6-phenylimidazopyridine,
+    have also been shown to have potent estrogenic activity, inducing activation of
+    estrogen-regulated genes, proliferation of estrogen-dependent cells and up-regulation
+    of progesterone receptor.', sentence: two hcas found pork cook use high temperatur
+    method 2 amino 3 methylimidazopyridin 2 amino 1 methyl 6 phenylimidazopyridin
+    also shown potent estrogen activ induc activ estrogen regul gene prolifer estrogen
+    depend cell regul progesteron receptor, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: 'While iron deficiency anemia is a serious condition to be avoided,
+    the contribution of significant iron in the diet as a result of regularly consuming
+    pork could be detrimental for some women.', sentence: while iron defici anemia
+    serious condit avoid contribut signific iron diet result regular consum pork could
+    detriment women, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: Pork contains approximately 60 percent of the iron in beef., sentence: pork
+    contain approxim 60 percent iron beef, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: Iron depletion has been shown to lead to significant inhibition
+    of breast cancer cell growth in the laboratory., sentence: iron deplet shown lead
+    signific inhibit breast cancer cell growth laboratori, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: Relatively high levels of iron in benign breast tissue was found
+    in one prospective study to be associated with an increase in risk of subsequent
+    breast cancer., sentence: relat high level iron benign breast tissu found one
+    prospect studi associ increas risk subsequ breast cancer, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: Other studies have found high levels of iron in the blood to be
+    associated with increased breast cancer risk., sentence: other studi found high
+    level iron blood associ increas breast cancer risk, tags: pork}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pork.yaml,
+  originalSentence: High intake of saturated fat from animal sources including pork
+    has also been found to be associated with increased risk of breast cancer., sentence: high
+    intak satur fat anim sourc includ pork also found associ increas risk breast cancer,
+  tags: pork}

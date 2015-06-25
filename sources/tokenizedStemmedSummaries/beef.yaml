@@ -1,421 +1,128 @@
----
-- - higher
-  - red
-  - meat
-  - consumpt
-  - dure
-  - adolesc
-  - women
-  - nurs
-  - health
-  - studi
-  - II
-  - found
-  - associ
-  - increas
-  - risk
-  - premenopaus
-  - breast
-  - cancer
-  - adulthood
-- - A
-  - french
-  - popul
-  - studi
-  - found
-  - increas
-  - meat
-  - consumpt
-  - associ
-  - increas
-  - breast
-  - cancer
-  - risk
-- - A
-  - UK
-  - studi
-  - found
-  - pre
-  - postmenopaus
-  - women
-  - consum
-  - meat
-  - includ
-  - red
-  - meat
-  - highest
-  - risk
-  - breast
-  - cancer
-- - A
-  - german
-  - studi
-  - women
-  - 51
-  - year
-  - ag
-  - found
-  - breast
-  - cancer
-  - risk
-  - increas
-  - higher
-  - consumpt
-  - red
-  - meat
-  - women
-  - highest
-  - consumpt
-  - quartil
-  - 85
-  - elev
-  - breast
-  - cancer
-  - risk
-  - compar
-  - lowest
-  - quartil
-- - for
-  - premenopaus
-  - women
-  - associ
-  - meat
-  - especi
-  - beef
-  - intak
-  - breast
-  - cancer
-  - risk
-  - found
-  - even
-  - stronger
-  - studi
-- - A
-  - studi
-  - tissu
-  - remov
-  - healthi
-  - women
-  - undergo
-  - breast
-  - reduct
-  - surgeri
-  - found
-  - level
-  - dna
-  - adduct
-  - associ
-  - cancer
-  - develop
-  - breast
-  - tissu
-  - correl
-  - women
-  - consumpt
-  - fri
-  - meat
-  - beef
-  - process
-  - meat
-- - high
-  - intak
-  - anim
-  - fat
-  - link
-  - sever
-  - studi
-  - increas
-  - breast
-  - densiti
-  - risk
-  - factor
-  - breast
-  - cancer
-  - recurr
-- - A
-  - studi
-  - includ
-  - 52
-  - 158
-  - postmenopaus
-  - women
-  - report
-  - compar
-  - fifth
-  - first
-  - quintil
-  - red
-  - meat
-  - heterocycl
-  - amin
-  - hca
-  - amino
-  - dimethylimidazo
-  - quinoxalin
-  - dietari
-  - iron
-  - associ
-  - increas
-  - risk
-  - breast
-  - cancer
-- - women
-  - iowa
-  - women
-  - health
-  - studi
-  - consist
-  - at
-  - hamburg
-  - steak
-  - bacon
-  - done
-  - found
-  - 62
-  - time
-  - higher
-  - risk
-  - breast
-  - cancer
-  - women
-  - consum
-  - meat
-  - rare
-  - medium
-  - done
-- - howev
-  - not
-  - studi
-  - found
-  - associ
-  - meat
-  - consumpt
-  - breast
-  - cancer
-  - risk
-- - A
-  - number
-  - differ
-  - factor
-  - mechan
-  - propos
-  - account
-  - find
-  - increas
-  - breast
-  - cancer
-  - risk
-  - associ
-  - beef
-  - consumpt
-  - the
-  - U
-  - S
-  - beef
-  - veal
-  - industri
-  - us
-  - zeranol
-  - ralgro
-  - non
-  - steroid
-  - substanc
-  - estrogen
-  - activ
-  - growth
-  - promot
-- - zeranol
-  - found
-  - stimul
-  - human
-  - breast
-  - cancer
-  - cell
-  - growth
-  - prolifer
-- - other
-  - growth
-  - promot
-  - mostli
-  - hormon
-  - routin
-  - administ
-  - cattl
-  - suspect
-  - contribut
-  - breast
-  - cancer
-  - risk
-- - irradi
-  - beef
-  - widespread
-  - U
-  - S
-  - found
-  - result
-  - format
-  - alkylcyclobutanon
-  - shown
-  - mutagen
-  - tumor
-  - promot
-  - activ
-- - red
-  - meat
-  - intak
-  - shown
-  - reduc
-  - circul
-  - melatonin
-- - melatonin
-  - protect
-  - against
-  - breast
-  - cancer
-  - sever
-  - wai
-  - includ
-  - reduc
-  - aromatas
-  - activ
-  - within
-  - breast
-  - therebi
-  - reduc
-  - estrogen
-  - product
-- - bovin
-  - leukemia
-  - viru
-  - blv
-  - estim
-  - infect
-  - least
-  - 14
-  - U
-  - S
-  - beef
-  - herd
-  - thought
-  - observ
-  - capabl
-  - contribut
-  - human
-  - breast
-  - cancer
-- - mani
-  - women
-  - antibodi
-  - blv
-  - indic
-  - exposur
-  - viru
-- - some
-  - hca
-  - form
-  - done
-  - beef
-  - steak
-  - beef
-  - gravi
-  - known
-  - human
-  - carcinogen
-- - two
-  - hca
-  - amino
-  - methylimidazo
-  - pyridin
-  - amino
-  - methyl
-  - phenylimidazo
-  - pyridin
-  - shown
-  - potent
-  - estrogen
-  - activ
-  - induc
-  - activ
-  - estrogen
-  - regul
-  - gene
-  - prolifer
-  - estrogen
-  - depend
-  - cell
-  - regul
-  - progesteron
-  - receptor
-- - while
-  - iron
-  - defici
-  - anemia
-  - obvious
-  - avoid
-  - contribut
-  - signific
-  - heme
-  - iron
-  - diet
-  - result
-  - regularli
-  - consum
-  - beef
-  - detriment
-  - women
-- - iron
-  - deplet
-  - shown
-  - lead
-  - signific
-  - inhibit
-  - breast
-  - cancer
-  - cell
-  - growth
-  - laboratori
-- - rel
-  - high
-  - level
-  - iron
-  - benign
-  - breast
-  - tissu
-  - found
-  - on
-  - prospect
-  - studi
-  - associ
-  - increas
-  - risk
-  - subsequ
-  - breast
-  - cancer
-- - other
-  - studi
-  - found
-  - high
-  - level
-  - iron
-  - blood
-  - associ
-  - increas
-  - breast
-  - cancer
-  - risk
-- - If
-  - beef
-  - veal
-  - consum
-  - make
-  - sens
-  - bui
-  - organ
-  - beef
-  - avoid
-  - irradi
-  - growth
-  - hormon
-  - treat
-  - meat
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: Higher red meat consumption during adolescence by women in the
+    Nurses Health Study II has been found to be associated with increased risk of
+    premenopausal breast cancer in adulthood., sentence: higher red meat consumpt
+    adolesc women nurs health studi ii found associ increas risk premenopaus breast
+    cancer adulthood, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: A French population study found that increasing meat consumption
+    was associated with increasing breast cancer risk., sentence: a french popul studi
+    found increas meat consumpt associ increas breast cancer risk, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: A UK study found that both pre- and postmenopausal women who consumed
+    the most meat  had the highest risk of breast cancer., sentence: a uk studi found
+    pre postmenopaus women consum meat highest risk breast cancer, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: A German study of women under 51 years of age also found that
+    breast cancer risk was increased with higher consumption of red meat; women with
+    the highest consumption quartile had an 85% elevated breast cancer risk compared
+    to the lowest quartile., sentence: a german studi women 51 year age also found
+    breast cancer risk increas higher consumpt red meat women highest consumpt quartil
+    85 elev breast cancer risk compar lowest quartil, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'For premenopausal women, the association of meat  intake with
+    breast cancer risk was found to be even stronger in this study.', sentence: for
+    premenopaus women associ meat intak breast cancer risk found even stronger studi,
+  tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'A study of tissue removed from healthy women undergoing breast
+    reduction surgery found that the levels of DNA adducts  in the breast tissue was
+    correlated with the womens consumption of fried meat, beef and processed meat.',
+  sentence: a studi tissu remov healthi women undergo breast reduct surgeri found
+    level dna adduct breast tissu correl women consumpt fri meat beef process meat,
+  tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'High intake of animal fats has been linked in several studies
+    to increased breast density, a risk factor for breast cancer and recurrence.',
+  sentence: high intak anim fat link sever studi increas breast densiti risk factor
+    breast cancer recurr, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'A study that included 52,158 postmenopausal women reported that,
+    comparing the fifth to the first quintile, red meat, the heterocyclic amine  2-amino-3,8-dimethylimidazoquinoxaline,
+    and dietary iron each were associated with increased risk of breast cancer.',
+  sentence: a studi includ 52 158 postmenopaus women report compar fifth first quintil
+    red meat heterocycl amin 2 amino 3 8 dimethylimidazoquinoxalin dietari iron associ
+    increas risk breast cancer, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'Women in the Iowa Womens Health Study who consistently ate their
+    hamburgers, steak, and bacon very well done were found to have a 4.62 times higher
+    risk of breast cancer than women who consumed the meats rare or medium well done.',
+  sentence: women iowa women health studi consist ate hamburg steak bacon well done
+    found 4 62 time higher risk breast cancer women consum meat rare medium well done,
+  tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'However, not all studies have found an association between meat
+    consumption and breast cancer risk.', sentence: howev studi found associ meat
+    consumpt breast cancer risk, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: "A number of different factors and mechanisms have been proposed
+    to account for the findings of increased breast cancer risk associated with beef
+    consumption:\n\n   The U.S. beef and veal industry uses zeranol, a non-steroidal
+    substance with estrogenic activity, as a growth promoter.", sentence: a number
+    differ factor mechan propos account find increas breast cancer risk associ beef
+    consumpt the u s beef veal industri use zeranol non steroid substanc estrogen
+    activ growth promot, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: Zeranol has been found to stimulate human breast cancer cell growth
+    and proliferation., sentence: zeranol found stimul human breast cancer cell growth
+    prolifer, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: Other growth promoters  that are routinely administered to cattle
+    also are suspected to contribute to breast cancer risk., sentence: other growth
+    promot routin administ cattl also suspect contribut breast cancer risk, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'Irradiation of beef, which is widespread in the U.S., has been
+    found to result in the formation of alkylcyclobutanones, which have been shown
+    to have mutagenic and tumor promoting activities.', sentence: irradi beef widespread
+    u s found result format alkylcyclobutanon shown mutagen tumor promot activ, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: Red meat intake has been shown reduce circulating melatonin.,
+  sentence: red meat intak shown reduc circul melatonin, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'Melatonin protects against breast cancer in several ways, including
+    by reducing aromatase activity within the breast, thereby reducing estrogen production.',
+  sentence: melatonin protect breast cancer sever way includ reduc aromatas activ
+    within breast therebi reduc estrogen product, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'Bovine leukemia virus, which estimated to infect at least 14%
+    of U.S. beef herds, is thought by some observers to be capable of contributing
+    to human breast cancer.', sentence: bovin leukemia virus estim infect least 14
+    u s beef herd thought observ capabl contribut human breast cancer, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'Many women have antibodies to BLV, indicating exposure to the
+    virus.', sentence: mani women antibodi blv indic exposur virus, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'Some of the HCAs formed in very well done beef and steak, and
+    in beef gravy, are known human carcinogens.', sentence: some hcas form well done
+    beef steak beef gravi known human carcinogen, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'Two of the HCAs, 2-amino-3-methylimidazopyridine and 2-amino-1-methyl-6-phenylimidazopyridine,
+    have also been shown to have potent estrogenic activity, inducing activation of
+    estrogen-regulated genes, proliferation of estrogen-dependent cells and up-regulation
+    of progesterone receptor.', sentence: two hcas 2 amino 3 methylimidazopyridin
+    2 amino 1 methyl 6 phenylimidazopyridin also shown potent estrogen activ induc
+    activ estrogen regul gene prolifer estrogen depend cell regul progesteron receptor,
+  tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'While iron deficiency anemia obviously is to be avoided, the
+    contribution of significant heme iron in the diet as a result of regularly consuming
+    beef could be detrimental for some women.', sentence: while iron defici anemia
+    obvious avoid contribut signific heme iron diet result regular consum beef could
+    detriment women, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: Iron depletion has been shown to lead to significant inhibition
+    of breast cancer cell growth in the laboratory., sentence: iron deplet shown lead
+    signific inhibit breast cancer cell growth laboratori, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: Relatively high levels of iron in benign breast tissue was found
+    in one prospective study to be associated with an increase in risk of subsequent
+    breast cancer., sentence: relat high level iron benign breast tissu found one
+    prospect studi associ increas risk subsequ breast cancer, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: Other studies have found high levels of iron in the blood to be
+    associated with increased breast cancer risk., sentence: other studi found high
+    level iron blood associ increas breast cancer risk, tags: beef}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/beef.yaml,
+  originalSentence: 'If beef or veal is to be consumed, it makes sense to buy organic
+    beef to avoid irradiated and growth hormone-treated meat.', sentence: if beef
+    veal consum make sens buy organ beef avoid irradi growth hormon treat meat, tags: beef}

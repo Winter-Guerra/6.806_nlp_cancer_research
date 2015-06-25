@@ -1,27 +1,10 @@
----
-- - currant
-  - share
-  - properti
-  - blueberri
-  - cranberri
-  - therefor
-  - expect
-  - similar
-  - chemoprevent
-  - effect
-  - against
-  - breast
-  - cancer
-- - howev
-  - few
-  - popul
-  - studi
-  - undertaken
-  - includ
-  - currant
-  - not
-  - attempt
-  - isol
-  - effect
-  - berri
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/currants.yaml,
+  originalSentence: Currants share many of the properties of blueberries and cranberries
+    and therefore would be expected to have similar chemopreventive effects against
+    breast cancer., sentence: currant share mani properti blueberri cranberri therefor
+    would expect similar chemoprevent effect breast cancer, tags: currants}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/currants.yaml,
+  originalSentence: 'However, the few population studies that have been undertaken
+    which have included currants have not attempted to isolate the effects of this
+    berry.', sentence: howev popul studi undertaken includ currant attempt isol effect
+    berri, tags: currants}

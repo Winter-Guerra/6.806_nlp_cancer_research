@@ -1,41 +1,10 @@
----
-- - basil
-  - extract
-  - shown
-  - induc
-  - apoptosi
-  - program
-  - cell
-  - death
-  - hormon
-  - receptor
-  - posit
-  - ER
-  - PR
-  - tripl
-  - neg
-  - ER
-  - PR
-  - her2
-  - breast
-  - cancer
-  - cell
-- - linalool
-  - compon
-  - basil
-  - found
-  - increas
-  - adriamycin
-  - doxorubicin
-  - induc
-  - cytotox
-  - pro
-  - apoptot
-  - effect
-  - chemotherapi
-  - resist
-  - breast
-  - cancer
-  - cell
-  - line
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/basil.yaml,
+  originalSentence: Basil extract has been shown to induce apoptosis  in both hormone
+    receptor positive  and triple negative  breast cancer cells., sentence: basil
+    extract shown induc apoptosi hormon receptor posit tripl negat breast cancer cell,
+  tags: basil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/basil.yaml,
+  originalSentence: 'Linalool, a component of basil, has been found to increase Adriamycin  induced
+    cytotoxicity and pro-apoptotic effects in chemotherapy-resistant breast cancer
+    cell lines.', sentence: linalool compon basil found increas adriamycin induc cytotox
+    pro apoptot effect chemotherapi resist breast cancer cell line, tags: basil}

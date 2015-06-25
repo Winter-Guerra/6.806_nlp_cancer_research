@@ -1,221 +1,70 @@
----
-- - flaxse
-  - it
-  - compon
-  - shown
-  - reduc
-  - breast
-  - cancer
-  - cell
-  - growth
-  - enhanc
-  - breast
-  - cancer
-  - cell
-  - apoptosi
-- - these
-  - studi
-  - demonstr
-  - flaxse
-  - reduc
-  - growth
-  - prolifer
-  - ER
-  - ER
-  - breast
-  - cancer
-- - A
-  - meta
-  - analysi
-  - combin
-  - result
-  - seven
-  - studi
-  - found
-  - plant
-  - lignan
-  - consumpt
-  - associ
-  - reduc
-  - risk
-  - breast
-  - cancer
-  - postmenopaus
-  - women
-- - A
-  - major
-  - swedish
-  - prospect
-  - studi
-  - found
-  - reduct
-  - risk
-  - breast
-  - cancer
-  - postmenopaus
-  - women
-  - highest
-  - quartil
-  - plant
-  - lignan
-  - intak
-  - especi
-  - among
-  - hormon
-  - replac
-  - therapi
-  - user
-- - the
-  - reduct
-  - risk
-  - not
-  - vari
-  - ER
-  - PR
-  - statu
-  - tumor
-- - anoth
-  - studi
-  - report
-  - high
-  - circul
-  - level
-  - enterolacton
-  - reduc
-  - risk
-  - breast
-  - cancer
-  - recurr
-  - death
-  - among
-  - postmenopaus
-  - women
-  - especi
-  - estrogen
-  - receptor
-  - neg
-  - ER
-  - breast
-  - cancer
-- - As
-  - note
-  - abov
-  - flaxse
-  - good
-  - sourc
-  - melatonin
-- - melatonin
-  - protect
-  - against
-  - breast
-  - cancer
-  - sever
-  - wai
-  - includ
-  - reduc
-  - aromatas
-  - activ
-  - within
-  - breast
-  - therebi
-  - reduc
-  - estrogen
-  - product
-- - flaxse
-  - shown
-  - protect
-  - lung
-  - dure
-  - radiat
-  - lung
-  - cancer
-  - without
-  - reduc
-  - efficaci
-  - treatment
-- - flaxse
-  - shown
-  - enhanc
-  - effect
-  - tamoxifen
-  - herceptin
-- - flaxse
-  - shown
-  - counteract
-  - breast
-  - cancer
-  - promot
-  - effect
-  - soi
-  - isoflavon
-  - genistein
-  - ER
-  - breast
-  - cancer
-  - mice
-- - on
-  - studi
-  - compar
-  - flax
-  - seed
-  - sesam
-  - seed
-  - high
-  - lignan
-  - conclus
-  - breast
-  - cancer
-  - protect
-  - qualiti
-  - flaxse
-  - due
-  - it
-  - high
-  - linolen
-  - acid
-  - content
-  - it
-  - lignan
-  - content
-- - anoth
-  - studi
-  - conclud
-  - lignan
-  - compon
-  - flaxse
-  - appear
-  - benefici
-  - throughout
-  - promot
-  - phase
-  - carcinogenesi
-  - wherea
-  - oil
-  - compon
-  - effect
-  - stage
-  - when
-  - tumor
-  - alreadi
-  - establish
-- - both
-  - flaxse
-  - flaxse
-  - oil
-  - shown
-  - associ
-  - reduc
-  - risk
-  - breast
-  - cancer
-- - sinc
-  - flaxse
-  - contain
-  - lignan
-  - oil
-  - appear
-  - prefer
-  - balanc
-  - flaxse
-  - oil
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/flaxseed.yaml,
+  originalSentence: Flaxseed and its component have been shown to reduce breast cancer
+    cell growth and enhance breast cancer cell apoptosis., sentence: flaxse compon
+    shown reduc breast cancer cell growth enhanc breast cancer cell apoptosi, tags: flaxseed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/flaxseed.yaml,
+  originalSentence: These studies have demonstrated that flaxseed can reduce the growth
+    and proliferation of both ER- and ER+ breast cancers., sentence: these studi demonstr
+    flaxse reduc growth prolifer er er breast cancer, tags: flaxseed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/flaxseed.yaml,
+  originalSentence: A meta-analysis combining the results of seven studies found that
+    plant lignan consumption was associated with reduced risk of breast cancer in
+    postmenopausal women., sentence: a meta analysi combin result seven studi found
+    plant lignan consumpt associ reduc risk breast cancer postmenopaus women, tags: flaxseed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/flaxseed.yaml,
+  originalSentence: 'A major Swedish prospective study found a reduction in risk of
+    breast cancer in postmenopausal women for those in the highest quartile of plant
+    lignan intake, especially among hormone replacement therapy users.', sentence: a
+    major swedish prospect studi found reduct risk breast cancer postmenopaus women
+    highest quartil plant lignan intak especi among hormon replac therapi user, tags: flaxseed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/flaxseed.yaml,
+  originalSentence: The reduction in risk did not vary by ER or PR status of the tumors.,
+  sentence: the reduct risk vari er pr status tumor, tags: flaxseed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/flaxseed.yaml,
+  originalSentence: 'Another study reported that high circulating levels of enterolactone
+    reduce the risk of breast cancer recurrence and death among postmenopausal women,
+    especially those with estrogen receptor negative  breast cancer.', sentence: anoth
+    studi report high circul level enterolacton reduc risk breast cancer recurr death
+    among postmenopaus women especi estrogen receptor negat breast cancer, tags: flaxseed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/flaxseed.yaml,
+  originalSentence: 'As noted above, flaxseed is a good source of melatonin.', sentence: as
+    note flaxse good sourc melatonin, tags: flaxseed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/flaxseed.yaml,
+  originalSentence: 'Melatonin protects against breast cancer in several ways, including
+    by reducing aromatase activity within the breast, thereby reducing estrogen production.',
+  sentence: melatonin protect breast cancer sever way includ reduc aromatas activ
+    within breast therebi reduc estrogen product, tags: flaxseed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/flaxseed.yaml,
+  originalSentence: Flaxseed has been shown to protect the lungs during radiation
+    for lung cancer without reducing the efficacy of the treatment., sentence: flaxse
+    shown protect lung radiat lung cancer without reduc efficaci treatment, tags: flaxseed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/flaxseed.yaml,
+  originalSentence: Flaxseed has also been shown to enhance the effectiveness of both
+    tamoxifen and Herceptin., sentence: flaxse also shown enhanc effect tamoxifen
+    herceptin, tags: flaxseed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/flaxseed.yaml,
+  originalSentence: Flaxseed has been shown to counteract the breast cancer promoting
+    effects of the soy isoflavone genistein on ER+ breast cancer in mice., sentence: flaxse
+    shown counteract breast cancer promot effect soy isoflavon genistein er breast
+    cancer mice, tags: flaxseed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/flaxseed.yaml,
+  originalSentence: One study comparing flax seeds with sesame seeds  came to the
+    conclusion that the breast cancer protective qualities of flaxseed were due to
+    its high -linolenic acid content as much as its lignan content., sentence: one
+    studi compar flax seed sesam seed came conclus breast cancer protect qualiti flaxse
+    due high linolen acid content much lignan content, tags: flaxseed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/flaxseed.yaml,
+  originalSentence: Another study concluded that the lignan component of flaxseed
+    appears to be most beneficial throughout the promotional phase of carcinogenesis
+    whereas the oil component is more effective at the stage when tumors have already
+    been established., sentence: anoth studi conclud lignan compon flaxse appear benefici
+    throughout promot phase carcinogenesi wherea oil compon effect stage tumor alreadi
+    establish, tags: flaxseed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/flaxseed.yaml,
+  originalSentence: Both flaxseed and flaxseed oil have been shown to be associated
+    with reduced risk of breast cancer., sentence: both flaxse flaxse oil shown associ
+    reduc risk breast cancer, tags: flaxseed}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/flaxseed.yaml,
+  originalSentence: 'Since flaxseed contains both the lignans and the oil, it appears
+    preferable, on balance, to flaxseed oil.', sentence: sinc flaxse contain lignan
+    oil appear prefer balanc flaxse oil, tags: flaxseed}

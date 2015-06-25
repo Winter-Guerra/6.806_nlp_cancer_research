@@ -1,50 +1,15 @@
----
-- - cranberri
-  - shown
-  - antiprolif
-  - activ
-  - against
-  - cancer
-  - vitro
-  - vivo
-  - induc
-  - apoptosi
-- - when
-  - fed
-  - mice
-  - bear
-  - human
-  - breast
-  - cancer
-  - cell
-  - cranberri
-  - presscak
-  - materi
-  - remain
-  - squeez
-  - juic
-  - berri
-  - shown
-  - decreas
-  - growth
-  - metastasi
-  - tumor
-- - cranberri
-  - good
-  - sourc
-  - resveratrol
-  - shown
-  - increas
-  - effect
-  - radiat
-  - treatment
-  - aromatas
-  - inhibitor
-  - chemotherapi
-  - drug
-  - taxol
-  - paclitaxel
-  - against
-  - breast
-  - cancer
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cranberries.yaml,
+  originalSentence: Cranberries have been shown to have antiproliferative activity
+    against cancer in vitro and in vivo and to induce apoptosis., sentence: cranberri
+    shown antiprolif activ cancer vitro vivo induc apoptosi, tags: cranberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cranberries.yaml,
+  originalSentence: 'When fed to mice bearing human breast cancer cells, cranberry
+    presscake  has been shown to decrease the growth and metastasis of the tumors.',
+  sentence: when fed mice bear human breast cancer cell cranberri presscak shown decreas
+    growth metastasi tumor, tags: cranberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cranberries.yaml,
+  originalSentence: 'Cranberries are a good source of resveratrol, which has been
+    shown to increase the effects of radiation treatment, aromatase inhibitors and
+    the chemotherapy drug Taxol  against breast cancer.', sentence: cranberri good
+    sourc resveratrol shown increas effect radiat treatment aromatas inhibitor chemotherapi
+    drug taxol breast cancer, tags: cranberries}

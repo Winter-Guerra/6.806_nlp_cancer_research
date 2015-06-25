@@ -1,42 +1,13 @@
----
-- - benzyl
-  - isothiocyan
-  - found
-  - papaya
-  - flesh
-  - seed
-  - shown
-  - select
-  - induc
-  - apoptosi
-  - human
-  - breast
-  - cancer
-  - cell
-- - the
-  - high
-  - carotenoid
-  - level
-  - found
-  - papaya
-  - suggest
-  - consum
-  - fruit
-  - serv
-  - protect
-  - against
-  - breast
-  - cancer
-- - howev
-  - no
-  - popul
-  - studi
-  - perform
-  - directli
-  - assess
-  - effect
-  - papaya
-  - risk
-  - breast
-  - cancer
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'Benzyl isothiocyanate, found in papaya flesh and seeds, has been
+    shown to selectively induce apoptosis in human breast cancer cells.', sentence: benzyl
+    isothiocyan found papaya flesh seed shown select induc apoptosi human breast cancer
+    cell, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: The high carotenoid levels found in papayas suggest that consuming
+    the fruit could serve to protect against breast cancer., sentence: the high carotenoid
+    level found papaya suggest consum fruit could serv protect breast cancer, tags: papaya}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/papaya.yaml,
+  originalSentence: 'However, no population studies have been performed that directly
+    assess the effects of papaya on the risk of breast cancer.', sentence: howev popul
+    studi perform direct assess effect papaya risk breast cancer, tags: papaya}

@@ -1,64 +1,16 @@
----
-- - most
-  - popul
-  - base
-  - breast
-  - cancer
-  - studi
-  - perform
-  - date
-  - specif
-  - includ
-  - pumpkin
-  - conduct
-  - japan
-  - pumpkin
-  - consumpt
-  - higher
-  - U
-  - S
-  - europ
-- - on
-  - japanes
-  - studi
-  - found
-  - consum
-  - veget
-  - specif
-  - includ
-  - pumpkin
-  - reduc
-  - risk
-  - gastric
-  - breast
-  - lung
-  - colorect
-  - cancer
-  - regardless
-  - famili
-  - histori
-  - cancer
-- - anoth
-  - japanes
-  - studi
-  - found
-  - reduct
-  - breast
-  - cancer
-  - risk
-  - associ
-  - high
-  - intak
-  - green
-  - yellow
-  - veget
-  - green
-  - leafi
-  - veget
-  - carrot
-  - pumpkin
-  - among
-  - premenopaus
-  - postmenopaus
-  - women
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: Most of the population-based breast cancer studies performed to
+    date that specifically included pumpkins were conducted in Japan., sentence: most
+    popul base breast cancer studi perform date specif includ pumpkin conduct japan,
+  tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: 'One Japanese study found that consuming vegetables  reduced the
+    risk of gastric, breast, lung and colorectal cancer, regardless of the family
+    history of cancer.', sentence: one japanes studi found consum veget reduc risk
+    gastric breast lung colorect cancer regardless famili histori cancer, tags: pumpkins}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/pumpkins.yaml,
+  originalSentence: Another Japanese study found reductions in breast cancer risk
+    associated with high intakes of green-yellow vegetables  among both premenopausal
+    and postmenopausal women., sentence: anoth japanes studi found reduct breast cancer
+    risk associ high intak green yellow veget among premenopaus postmenopaus women,
+  tags: pumpkins}

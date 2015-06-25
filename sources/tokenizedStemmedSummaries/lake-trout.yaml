@@ -1,135 +1,40 @@
----
-- - like
-  - fatti
-  - fish
-  - lake
-  - trout
-  - signific
-  - sourc
-  - marin
-  - omega
-  - fatti
-  - acid
-  - eicosapentaeno
-  - acid
-  - epa
-  - docosahexaeno
-  - acid
-  - dha
-- - these
-  - fatti
-  - acid
-  - shown
-  - inhibit
-  - prolifer
-  - breast
-  - cancer
-  - cell
-  - laboratori
-- - fish
-  - protein
-  - hydrolys
-  - shown
-  - antiprolif
-  - activ
-  - against
-  - human
-  - breast
-  - cancer
-  - cell
-  - line
-- - most
-  - not
-  - epidemiolog
-  - studi
-  - found
-  - convinc
-  - evid
-  - neg
-  - associ
-  - dha
-  - epa
-  - intak
-  - fatti
-  - fish
-  - consumpt
-  - risk
-  - breast
-  - cancer
-- - In
-  - addit
-  - sever
-  - studi
-  - found
-  - higher
-  - dietari
-  - omega
-  - omega
-  - fatti
-  - acid
-  - intak
-  - associ
-  - reduc
-  - risk
-  - breast
-  - cancer
-  - consum
-  - lake
-  - trout
-  - tend
-  - improv
-  - ratio
-  - women
-- - marin
-  - fatti
-  - acid
-  - found
-  - enhanc
-  - therapeut
-  - effect
-  - tamoxifen
-  - chemotherapi
-  - drug
-  - adriamycin
-  - taxol
-- - howev
-  - note
-  - recent
-  - research
-  - suggest
-  - lake
-  - trout
-  - similar
-  - fish
-  - not
-  - consum
-  - dai
-  - dai
-  - chemotherapi
-  - treatment
-  - consum
-  - moder
-  - dure
-  - remain
-  - dai
-  - cycl
-- - fish
-  - similar
-  - lake
-  - trout
-  - shown
-  - incorpor
-  - fatti
-  - acid
-  - hexadeca
-  - 10
-  - 13
-  - tetraeno
-  - acid
-  - induc
-  - resist
-  - broad
-  - spectrum
-  - chemotherapi
-  - drug
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lake-trout.yaml,
+  originalSentence: 'Like other fatty fish, lake trout is a significant source of
+    the marine omega-3 fatty acids eicosapentaenoic acid  and docosahexaenoic acid.',
+  sentence: like fatti fish lake trout signific sourc marin omega 3 fatti acid eicosapentaeno
+    acid docosahexaeno acid, tags: lake-trout}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lake-trout.yaml,
+  originalSentence: These fatty acids have been shown to inhibit proliferation of
+    breast cancer cells in the laboratory., sentence: these fatti acid shown inhibit
+    prolifer breast cancer cell laboratori, tags: lake-trout}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lake-trout.yaml,
+  originalSentence: Fish protein hydrolysates also have been shown to have antiproliferative
+    activity against human breast cancer cell lines., sentence: fish protein hydrolys
+    also shown antiprolif activ human breast cancer cell line, tags: lake-trout}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lake-trout.yaml,
+  originalSentence: 'Most, but not all, epidemiological studies have found convincing
+    evidence of a negative association between DHA and EPA intake or fatty fish consumption
+    and the risk of breast cancer.', sentence: most epidemiolog studi found convinc
+    evid negat associ dha epa intak fatti fish consumpt risk breast cancer, tags: lake-trout}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lake-trout.yaml,
+  originalSentence: 'In addition, several studies have found that higher dietary omega-3
+    to omega-6 fatty acid intakes are associated with reduced risk of breast cancer;
+    consuming lake trout would tend to improve this ratio for most women.', sentence: in
+    addit sever studi found higher dietari omega 3 omega 6 fatti acid intak associ
+    reduc risk breast cancer consum lake trout would tend improv ratio women, tags: lake-trout}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lake-trout.yaml,
+  originalSentence: Marine fatty acids have also been found to enhance the therapeutic
+    effects of tamoxifen and chemotherapy drugs such as Adriamycin and Taxol., sentence: marin
+    fatti acid also found enhanc therapeut effect tamoxifen chemotherapi drug adriamycin
+    taxol, tags: lake-trout}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lake-trout.yaml,
+  originalSentence: 'However, note that recent research suggests that lake trout and
+    similar fish should not be consumed the day before through the day after a chemotherapy
+    treatment and consumed only in moderation during the remaining days of each cycle.',
+  sentence: howev note recent research suggest lake trout similar fish consum day
+    day chemotherapi treatment consum moder remain day cycl, tags: lake-trout}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lake-trout.yaml,
+  originalSentence: Fish similar to lake trout have been shown to incorporate a fatty
+    acid  that can induce resistance to a broad spectrum of chemotherapy drugs., sentence: fish
+    similar lake trout shown incorpor fatti acid induc resist broad spectrum chemotherapi
+    drug, tags: lake-trout}

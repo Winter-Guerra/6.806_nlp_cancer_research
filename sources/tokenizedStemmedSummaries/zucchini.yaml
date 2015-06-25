@@ -1,56 +1,17 @@
----
-- - numer
-  - studi
-  - found
-  - invers
-  - associ
-  - breast
-  - cancer
-  - risk
-  - high
-  - dietari
-  - level
-  - carotenoid
-  - beta
-  - caroten
-  - lutein
-  - zeaxanthin
-- - some
-  - not
-  - popul
-  - studi
-  - found
-  - consumpt
-  - lignan
-  - secoisolariciresinol
-  - associ
-  - lower
-  - risk
-  - breast
-  - cancer
-- - A
-  - korean
-  - case
-  - control
-  - studi
-  - compar
-  - diet
-  - breast
-  - cancer
-  - patient
-  - healthi
-  - control
-  - group
-  - found
-  - breast
-  - cancer
-  - patient
-  - consum
-  - significantli
-  - lower
-  - quantiti
-  - zucchini
-  - among
-  - food
-  - control
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/zucchini.yaml,
+  originalSentence: 'Numerous studies have found an inverse association between breast
+    cancer risk and high dietary levels of carotenoids such as beta-carotene, lutein
+    and zeaxanthin.', sentence: numer studi found invers associ breast cancer risk
+    high dietari level carotenoid beta caroten lutein zeaxanthin, tags: zucchini}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/zucchini.yaml,
+  originalSentence: 'Some, but not all, population studies have found that consumption
+    of the lignan secoisolariciresinol is associated with lower risk of breast cancer.',
+  sentence: some popul studi found consumpt lignan secoisolariciresinol associ lower
+    risk breast cancer, tags: zucchini}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/zucchini.yaml,
+  originalSentence: 'A Korean case-control study comparing the diets of breast cancer
+    patients with a healthy control group found that the breast cancer patients consumed
+    a significantly lower quantity of zucchini, among other foods, than the controls.',
+  sentence: a korean case control studi compar diet breast cancer patient healthi
+    control group found breast cancer patient consum signific lower quantiti zucchini
+    among food control, tags: zucchini}

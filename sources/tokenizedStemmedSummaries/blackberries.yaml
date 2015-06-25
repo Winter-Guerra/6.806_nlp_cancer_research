@@ -1,59 +1,24 @@
----
-- - blackberri
-  - contain
-  - cyandin
-  - glucosid
-  - lignan
-  - ellag
-  - acid
-  - flavonoid
-  - myricetin
-  - potenti
-  - benefici
-  - substanc
-- - cyandin
-  - glucosid
-  - shown
-  - possess
-  - chemo
-  - prevent
-  - chemotherapeut
-  - activ
-- - postmenopaus
-  - women
-  - breast
-  - cancer
-  - high
-  - intak
-  - plant
-  - lignan
-  - found
-  - less
-  - like
-  - die
-  - breast
-  - cancer
-  - low
-  - intak
-- - ellag
-  - acid
-  - shown
-  - inhibit
-  - cancer
-  - format
-- - myricetin
-  - antioxid
-  - properti
-- - the
-  - combin
-  - chemic
-  - blackberri
-  - mai
-  - effect
-  - prevent
-  - cancer
-  - on
-  - compon
-  - chemic
-  - alon
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blackberries.yaml,
+  originalSentence: 'Blackberries contain cyandin-3-glucoside, lignans, ellagic acid,
+    the flavonoid myricetin and other potentially beneficial substances.', sentence: blackberri
+    contain cyandin 3 glucosid lignan ellag acid flavonoid myricetin potenti benefici
+    substanc, tags: blackberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blackberries.yaml,
+  originalSentence: Cyandin-3-glucoside has been shown to possess both chemo preventive
+    and chemotherapeutic activity., sentence: cyandin 3 glucosid shown possess chemo
+    prevent chemotherapeut activ, tags: blackberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blackberries.yaml,
+  originalSentence: Postmenopausal women with breast cancer and a high intake of plant
+    lignans have been found to be less likely to die from their breast cancer than
+    those with a low intake., sentence: postmenopaus women breast cancer high intak
+    plant lignan found less like die breast cancer low intak, tags: blackberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blackberries.yaml,
+  originalSentence: Ellagic acid has been shown to inhibit cancer formation., sentence: ellag
+    acid shown inhibit cancer format, tags: blackberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blackberries.yaml,
+  originalSentence: Myricetin has antioxidant properties., sentence: myricetin antioxid
+    properti, tags: blackberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blackberries.yaml,
+  originalSentence: The combination of chemicals in blackberries may more effectively
+    prevent cancer than any one of the component chemicals alone., sentence: the combin
+    chemic blackberri may effect prevent cancer one compon chemic alon, tags: blackberries}

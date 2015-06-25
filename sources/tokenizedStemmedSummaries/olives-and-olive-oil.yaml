@@ -1,324 +1,91 @@
----
-- - A
-  - number
-  - studi
-  - found
-  - oliv
-  - oil
-  - consumpt
-  - monounsatur
-  - oil
-  - consumpt
-  - gener
-  - associ
-  - lower
-  - risk
-  - breast
-  - cancer
-- - for
-  - exampl
-  - prospect
-  - swedish
-  - studi
-  - found
-  - lower
-  - risk
-  - breast
-  - cancer
-  - women
-  - 50
-  - high
-  - intak
-  - monounsatur
-  - fat
-  - compar
-  - consumpt
-  - type
-  - fat
-- - A
-  - studi
-  - women
-  - canari
-  - island
-  - found
-  - lower
-  - risk
-  - breast
-  - cancer
-  - women
-  - highest
-  - quintil
-  - monounsatur
-  - fat
-  - consumpt
-  - even
-  - lower
-  - consum
-  - mostli
-  - oliv
-  - oil
-- - italian
-  - greek
-  - studi
-  - found
-  - oliv
-  - oil
-  - consumpt
-  - associ
-  - lower
-  - risk
-  - breast
-  - cancer
-- - A
-  - 2011
-  - meta
-  - analysi
-  - data
-  - 19
-  - previou
-  - case
-  - control
-  - studi
-  - found
-  - highest
-  - level
-  - oliv
-  - oil
-  - consumpt
-  - associ
-  - approxim
-  - half
-  - risk
-  - develop
-  - breast
-  - cancer
-  - compar
-  - lowest
-  - intak
-  - level
-  - intak
-- - On
-  - hand
-  - larg
-  - 2012
-  - prospect
-  - studi
-  - among
-  - women
-  - spain
-  - itali
-  - greec
-  - report
-  - women
-  - highest
-  - third
-  - oliv
-  - oil
-  - consumpt
-  - essenti
-  - risk
-  - breast
-  - cancer
-  - lowest
-  - third
-- - numer
-  - studi
-  - found
-  - extra
-  - virgin
-  - oliv
-  - oil
-  - inhibit
-  - prolifer
-  - induc
-  - apoptosi
-  - her2
-  - neu
-  - overexpress
-  - her2
-  - breast
-  - cancer
-  - cell
-- - these
-  - effect
-  - appear
-  - due
-  - oliv
-  - lignan
-  - secoiridoid
-  - rather
-  - oliv
-  - phenol
-  - phenol
-  - acid
-- - In
-  - fact
-  - observ
-  - conclud
-  - protect
-  - effect
-  - oliv
-  - oil
-  - against
-  - breast
-  - cancer
-  - mostli
-  - confin
-  - her2
-  - breast
-  - cancer
-  - subtyp
-  - no
-  - signific
-  - influenc
-  - occurr
-  - her2
-  - diseas
-- - consumpt
-  - oliv
-  - oil
-  - reduc
-  - aggress
-  - mammari
-  - tumor
-  - anim
-  - model
-  - breast
-  - cancer
-- - on
-  - studi
-  - compar
-  - induc
-  - tumor
-  - rat
-  - fed
-  - high
-  - fat
-  - diet
-  - either
-  - oliv
-  - oil
-  - corn
-  - oil
-- - the
-  - high
-  - corn
-  - oil
-  - diet
-  - clearli
-  - stimul
-  - cancer
-  - develop
-  - result
-  - earliest
-  - appear
-  - tumor
-  - highest
-  - tumor
-  - incid
-  - yield
-  - wherea
-  - high
-  - extra
-  - virgin
-  - oliv
-  - oil
-  - diet
-  - appear
-  - weak
-  - enhanc
-  - effect
-  - primarili
-  - increas
-  - tumor
-  - yield
-  - compar
-  - control
-  - anim
-  - fed
-  - low
-  - fat
-  - diet
-- - laboratori
-  - studi
-  - document
-  - specif
-  - oliv
-  - oil
-  - induc
-  - molecular
-  - chang
-  - cancer
-  - cell
-  - tumor
-  - includ
-  - chang
-  - composit
-  - cell
-  - membran
-  - signal
-  - protein
-  - gene
-  - express
-- - these
-  - chang
-  - like
-  - result
-  - lower
-  - prolifer
-  - apoptosi
-  - program
-  - cell
-  - death
-  - breast
-  - cancer
-  - cell
-  - enhanc
-  - protect
-  - against
-  - dna
-  - damag
-- - extra
-  - virgin
-  - oliv
-  - oil
-  - potenti
-  - effect
-  - aromatas
-  - inhibitor
-  - ER
-  - PR
-  - breast
-  - cancer
-  - cell
-  - increas
-  - program
-  - cell
-  - death
-- - oleic
-  - acid
-  - shown
-  - increas
-  - effect
-  - chemotherapi
-  - drug
-  - taxol
-  - paclitaxel
-  - against
-  - breast
-  - cancer
-- - oliv
-  - oil
-  - shown
-  - increas
-  - herceptin
-  - effect
-  - treat
-  - her2
-  - breast
-  - cancer
-  - mai
-  - counteract
-  - resist
-  - herceptin
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: A number of studies have found that olive oil consumption  is
+    associated with a lower risk of breast cancer., sentence: a number studi found
+    oliv oil consumpt associ lower risk breast cancer, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'For example, a prospective Swedish study found a lower risk of
+    breast cancer for women after 50 with a high intake of monounsaturated fat compared
+    to consumption of other types of fat.', sentence: for exampl prospect swedish
+    studi found lower risk breast cancer women 50 high intak monounsatur fat compar
+    consumpt type fat, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: A study of women in the Canary Islands found a lower risk of breast
+    cancer for women in the highest quintile of monounsaturated fat consumption and
+    even lower for those consuming mostly olive oil., sentence: a studi women canari
+    island found lower risk breast cancer women highest quintil monounsatur fat consumpt
+    even lower consum most oliv oil, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: Italian and Greek studies have also found that olive oil consumption
+    is associated with a lower risk of breast cancer., sentence: italian greek studi
+    also found oliv oil consumpt associ lower risk breast cancer, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: A 2011 meta-analysis of data from 19 previous case-control studies
+    found that the highest level of olive oil consumption was associated with approximately
+    half the risk of developing breast cancer compared with the lowest intake level
+    of intake., sentence: a 2011 meta analysi data 19 previous case control studi
+    found highest level oliv oil consumpt associ approxim half risk develop breast
+    cancer compar lowest intak level intak, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'On the other hand, a large 2012 prospective study among women
+    in Spain, Italy and Greece reported that women in the highest third of olive oil
+    consumption had essentially the same risk of breast cancer as those in the lowest
+    third.', sentence: on hand larg 2012 prospect studi among women spain itali greec
+    report women highest third oliv oil consumpt essenti risk breast cancer lowest
+    third, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: Numerous studies have found that extra virgin olive oil inhibits
+    proliferation of and induces apoptosis of HER2/neu overexpressing  breast cancer
+    cells., sentence: numer studi found extra virgin oliv oil inhibit prolifer induc
+    apoptosi her2 neu overexpress breast cancer cell, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: These effects appear to be due to olive lignans and secoiridoids
+    rather than olive phenols and phenolic acids., sentence: these effect appear due
+    oliv lignan secoiridoid rather oliv phenol phenol acid, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'In fact, some observers have concluded that the protective effect
+    of olive oil against breast cancer is mostly confined to the HER2+ breast cancer
+    subtype, with no significant influence on the occurrence of HER2- disease.', sentence: in
+    fact observ conclud protect effect oliv oil breast cancer most confin her2 breast
+    cancer subtyp signific influenc occurr her2 diseas, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: Consumption of olive oil reduces the aggressiveness of mammary
+    tumors in animal models of breast cancer., sentence: consumpt oliv oil reduc aggress
+    mammari tumor anim model breast cancer, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: One study compared induced tumors in rats that were fed high-fat
+    diets  either olive oil or corn oil., sentence: one studi compar induc tumor rat
+    fed high fat diet either oliv oil corn oil, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'The high corn oil diet clearly stimulated cancer development,
+    resulting in the earliest appearance of tumors and the highest tumor incidence
+    and yield, whereas the high extra-virgin olive oil diet appeared to have only
+    a weak enhancing effect, primarily by increasing tumor yield compared to control
+    animals fed a low-fat diet.', sentence: the high corn oil diet clear stimul cancer
+    develop result earliest appear tumor highest tumor incid yield wherea high extra
+    virgin oliv oil diet appear weak enhanc effect primarili increas tumor yield compar
+    control anim fed low fat diet, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'Laboratory studies have documented specific olive oil-induced
+    molecular changes in cancer cells and tumors, including changes in the composition
+    of cell membranes, signaling proteins and gene expression.', sentence: laboratori
+    studi document specif oliv oil induc molecular chang cancer cell tumor includ
+    chang composit cell membran signal protein gene express, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: 'These changes are likely to result in lower proliferation and
+    more apoptosis  of breast cancer cells, as well as enhanced protection against
+    DNA damage.', sentence: these chang like result lower prolifer apoptosi breast
+    cancer cell well enhanc protect dna damag, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: Extra-virgin olive oil potentiates the effects of aromatase inhibitors
+    in ER+/PR+ breast cancer cells by increasing programmed cell death., sentence: extra
+    virgin oliv oil potenti effect aromatas inhibitor er pr breast cancer cell increas
+    program cell death, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: Oleic acid has been shown to increase the effect of the chemotherapy
+    drug Taxol  against breast cancer., sentence: oleic acid shown increas effect
+    chemotherapi drug taxol breast cancer, tags: olives-and-olive-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/olives-and-olive-oil.yaml,
+  originalSentence: Olive oil has also been shown to increase Herceptins effectiveness
+    in treating HER2+ breast cancer and may counteract resistance to Herceptin., sentence: oliv
+    oil also shown increas herceptin effect treat her2 breast cancer may counteract
+    resist herceptin, tags: olives-and-olive-oil}

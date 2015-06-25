@@ -1,31 +1,10 @@
----
-- - ethanol
-  - extract
-  - adzuki
-  - bean
-  - found
-  - increas
-  - prolifer
-  - estrogen
-  - progesteron
-  - respons
-  - ER
-  - PR
-  - human
-  - breast
-  - cancer
-  - cell
-- - the
-  - estrogen
-  - effect
-  - adzuki
-  - bean
-  - appear
-  - uniqu
-  - characterist
-  - compar
-  - bean
-  - signific
-  - phytoestrogen
-  - content
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/adzuki-beans.yaml,
+  originalSentence: Ethanol extracts of adzuki beans have been found to increase proliferation
+    of estrogen and progesterone responsive  human breast cancer cells., sentence: ethanol
+    extract adzuki bean found increas prolifer estrogen progesteron respons human
+    breast cancer cell, tags: adzuki-beans}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/adzuki-beans.yaml,
+  originalSentence: The estrogenic effects of adzuki bean appears to have unique characteristics
+    compared to that of other beans with significant phytoestrogen content., sentence: the
+    estrogen effect adzuki bean appear uniqu characterist compar bean signific phytoestrogen
+    content, tags: adzuki-beans}

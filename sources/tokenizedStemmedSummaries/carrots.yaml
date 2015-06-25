@@ -1,48 +1,15 @@
----
-- - consumpt
-  - carrot
-  - found
-  - associ
-  - reduc
-  - risk
-  - breast
-  - cancer
-  - numer
-  - not
-  - popul
-  - studi
-- - thi
-  - protect
-  - effect
-  - appear
-  - due
-  - interact
-  - multipl
-  - compon
-  - carrot
-  - not
-  - just
-  - presenc
-  - alpha
-  - caroten
-  - beta
-  - caroten
-- - higher
-  - level
-  - carotenoid
-  - vitamin
-  - A
-  - retinol
-  - blood
-  - breast
-  - cancer
-  - survivor
-  - found
-  - associ
-  - greater
-  - likelihood
-  - breast
-  - cancer
-  - free
-  - surviv
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
+  originalSentence: Consumption of carrots has been found to be associated with reduced
+    risk of breast cancer in numerous  population studies., sentence: consumpt carrot
+    found associ reduc risk breast cancer numer popul studi, tags: carrots}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
+  originalSentence: 'This protective effect appears to be due to the interaction of
+    multiple components of carrots, not just the presence of alpha-carotene and beta-carotene.',
+  sentence: this protect effect appear due interact multipl compon carrot presenc
+    alpha caroten beta caroten, tags: carrots}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/carrots.yaml,
+  originalSentence: Higher levels of carotenoids and vitamin A  in the blood of breast
+    cancer survivors have both been found to be associated with greater likelihood
+    of breast cancer-free survival., sentence: higher level carotenoid vitamin a blood
+    breast cancer survivor found associ greater likelihood breast cancer free surviv,
+  tags: carrots}

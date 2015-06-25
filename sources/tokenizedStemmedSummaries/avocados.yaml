@@ -1,65 +1,20 @@
----
-- - on
-  - studi
-  - found
-  - diet
-  - high
-  - avocado
-  - oil
-  - promot
-  - format
-  - mammari
-  - tumor
-  - rat
-- - anoth
-  - studi
-  - postmenopaus
-  - U
-  - S
-  - latina
-  - women
-  - found
-  - consumpt
-  - avocado
-  - associ
-  - higher
-  - circul
-  - estrogen
-  - level
-- - On
-  - hand
-  - toxin
-  - avocado
-  - leav
-  - shown
-  - enhanc
-  - cytotox
-  - effect
-  - tamoxifen
-  - human
-  - breast
-  - cancer
-  - cell
-  - regardless
-  - estrogen
-  - receptor
-  - ER
-  - statu
-- - base
-  - avail
-  - evid
-  - breast
-  - cancer
-  - patient
-  - survivor
-  - high
-  - risk
-  - limit
-  - consumpt
-  - avocado
-  - until
-  - further
-  - studi
-  - clarifi
-  - find
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/avocados.yaml,
+  originalSentence: One study found that a diet high in avocado oil promoted the formation
+    of mammary tumors in rats., sentence: one studi found diet high avocado oil promot
+    format mammari tumor rat, tags: avocados}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/avocados.yaml,
+  originalSentence: Another study of postmenopausal U.S. Latina women found that consumption
+    of avocados was associated with higher circulating estrogen levels., sentence: anoth
+    studi postmenopaus u s latina women found consumpt avocado associ higher circul
+    estrogen level, tags: avocados}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/avocados.yaml,
+  originalSentence: 'On the other hand, a toxin in avocado leaves has been shown to
+    enhance the cytotoxic effects of tamoxifen on human breast cancer cells regardless
+    of their estrogen receptor  status.', sentence: on hand toxin avocado leav shown
+    enhanc cytotox effect tamoxifen human breast cancer cell regardless estrogen receptor
+    status, tags: avocados}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/avocados.yaml,
+  originalSentence: 'Based on the available evidence, breast cancer patients, survivors
+    and those at high risk should limit consumption of avocados until further studies
+    clarify these findings.', sentence: base avail evid breast cancer patient survivor
+    high risk limit consumpt avocado studi clarifi find, tags: avocados}

@@ -1,119 +1,34 @@
----
-- - A
-  - larg
-  - 2007
-  - U
-  - K
-  - studi
-  - found
-  - premenopaus
-  - postmenopaus
-  - women
-  - highest
-  - process
-  - meat
-  - intak
-  - highest
-  - risk
-  - breast
-  - cancer
-- - anoth
-  - studi
-  - found
-  - higher
-  - red
-  - meat
-  - consumpt
-  - dure
-  - adolesc
-  - associ
-  - increas
-  - risk
-  - premenopaus
-  - breast
-  - cancer
-  - adulthood
-- - A
-  - studi
-  - tissu
-  - remov
-  - healthi
-  - women
-  - undergo
-  - breast
-  - reduct
-  - surgeri
-  - found
-  - level
-  - dna
-  - adduct
-  - associ
-  - cancer
-  - develop
-  - breast
-  - tissu
-  - correl
-  - women
-  - consumpt
-  - fri
-  - meat
-  - beef
-  - process
-  - meat
-- - high
-  - intak
-  - anim
-  - fat
-  - link
-  - sever
-  - studi
-  - increas
-  - breast
-  - densiti
-  - risk
-  - factor
-  - breast
-  - cancer
-  - recurr
-- - anoth
-  - studi
-  - found
-  - consumpt
-  - done
-  - fri
-  - meat
-  - includ
-  - bacon
-  - appear
-  - increas
-  - risk
-  - breast
-  - cancer
-  - dose
-  - depend
-  - manner
-- - A
-  - studi
-  - examin
-  - risk
-  - recurr
-  - death
-  - follow
-  - diagnosi
-  - earli
-  - stage
-  - breast
-  - cancer
-  - found
-  - risk
-  - recurr
-  - risk
-  - death
-  - posit
-  - correl
-  - consumpt
-  - bacon
-  - especi
-  - premenopaus
-  - women
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/bacon.yaml,
+  originalSentence: A large 2007 U.K. study found that both premenopausal and postmenopausal
+    women with the highest processed meat intake had the highest risk of breast cancer.,
+  sentence: a larg 2007 u k studi found premenopaus postmenopaus women highest process
+    meat intak highest risk breast cancer, tags: bacon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/bacon.yaml,
+  originalSentence: Another study found that higher red meat consumption during adolescence
+    was associated with increased risk of premenopausal breast cancer in adulthood.,
+  sentence: anoth studi found higher red meat consumpt adolesc associ increas risk
+    premenopaus breast cancer adulthood, tags: bacon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/bacon.yaml,
+  originalSentence: 'A study of tissue removed from healthy women undergoing breast
+    reduction surgery found that the levels of DNA adducts  in the breast tissue was
+    correlated with the womens consumption of fried meat, beef and processed meat.',
+  sentence: a studi tissu remov healthi women undergo breast reduct surgeri found
+    level dna adduct breast tissu correl women consumpt fri meat beef process meat,
+  tags: bacon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/bacon.yaml,
+  originalSentence: 'High intake of animal fats has been linked in several studies
+    to increased breast density, a risk factor for breast cancer and recurrence.',
+  sentence: high intak anim fat link sever studi increas breast densiti risk factor
+    breast cancer recurr, tags: bacon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/bacon.yaml,
+  originalSentence: Another study found that consumption of well done or fried meat  appeared
+    to increase the risk of breast cancer in a dose-dependent manner., sentence: anoth
+    studi found consumpt well done fri meat appear increas risk breast cancer dose
+    depend manner, tags: bacon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/bacon.yaml,
+  originalSentence: 'A study that examined the risks of recurrence and death following
+    diagnosis with early-stage breast cancer found that both the risk of recurrence
+    and the risk of death were positively correlated with the consumption of bacon,
+    especially for premenopausal women.', sentence: a studi examin risk recurr death
+    follow diagnosi earli stage breast cancer found risk recurr risk death posit correl
+    consumpt bacon especi premenopaus women, tags: bacon}

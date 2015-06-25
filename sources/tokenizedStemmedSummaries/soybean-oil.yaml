@@ -1,370 +1,113 @@
----
-- - soybean
-  - oil
-  - mainli
-  - compris
-  - fat
-- - major
-  - fatti
-  - acid
-  - soybean
-  - oil
-  - includ
-  - linol
-  - acid
-  - 51
-  - oleic
-  - acid
-  - 23
-  - palmit
-  - acid
-  - 10
-  - alpha
-  - linolen
-  - acid
-  - stearic
-  - acid
-- - linol
-  - acid
-  - omega
-  - fatti
-  - acid
-  - preval
-  - polyunsatur
-  - fatti
-  - acid
-  - U
-  - S
-  - diet
-- - It
-  - found
-  - food
-  - eat
-  - includ
-  - meat
-  - dairi
-  - food
-  - veget
-  - veget
-  - oil
-  - fruit
-  - legum
-  - nut
-  - seed
-  - cereal
-  - bread
-- - sinc
-  - linol
-  - acid
-  - metabol
-  - precursor
-  - arachidon
-  - acid
-  - eicosanoid
-  - deriv
-  - arachidon
-  - acid
-  - concern
-  - rais
-  - dietari
-  - linol
-  - acid
-  - increas
-  - arachidon
-  - acid
-  - content
-  - eicosanoid
-  - format
-  - bodi
-  - therebi
-  - promot
-  - cancer
-  - cardiovascular
-  - diseas
-  - inflamm
-  - relat
-  - disord
-- - arachidon
-  - acid
-  - shown
-  - increas
-  - aromatas
-  - activ
-  - thu
-  - increas
-  - circul
-  - estrogen
-- - linol
-  - acid
-  - shown
-  - encourag
-  - growth
-  - mammari
-  - tumor
-  - mice
-- - oleic
-  - acid
-  - monounsatur
-  - fatti
-  - acid
-  - found
-  - oliv
-  - oil
-- - the
-  - evid
-  - mix
-  - regard
-  - oleic
-  - acid
-  - breast
-  - cancer
-  - oleic
-  - acid
-  - found
-  - promot
-  - inhibit
-  - breast
-  - cancer
-  - depend
-  - mixtur
-  - fatti
-  - acid
-  - compon
-  - food
-  - found
-- - alpha
-  - linolen
-  - acid
-  - omega
-  - fatti
-  - acid
-- - the
-  - protect
-  - effect
-  - breast
-  - cancer
-  - risk
-  - omega
-  - fatti
-  - acid
-  - depend
-  - part
-  - rel
-  - level
-  - omega
-  - fatti
-  - acid
-- - the
-  - ratio
-  - omega
-  - omega
-  - fatti
-  - acid
-  - soybean
-  - oil
-  - so
-  - consumpt
-  - like
-  - increas
-  - ratio
-  - direct
-  - consid
-  - harm
-- - although
-  - fatti
-  - acid
-  - profil
-  - soybean
-  - oil
-  - suggest
-  - unfavor
-  - impact
-  - breast
-  - cancer
-  - risk
-  - fatti
-  - acid
-  - analysi
-  - combin
-  - direct
-  - evid
-  - differ
-  - combin
-  - fatti
-  - acid
-  - differ
-  - effect
-- - studi
-  - evalu
-  - impact
-  - soybean
-  - oil
-  - breast
-  - cancer
-  - rare
-  - oil
-  - not
-  - suspect
-  - benefici
-  - effect
-- - where
-  - soybean
-  - oil
-  - us
-  - often
-  - compar
-  - promis
-  - oil
-- - on
-  - studi
-  - found
-  - unlik
-  - fish
-  - oil
-  - soybean
-  - oil
-  - not
-  - inhibit
-  - growth
-  - human
-  - breast
-  - cancer
-  - cell
-- - anoth
-  - studi
-  - found
-  - incid
-  - carcinogen
-  - induc
-  - mammari
-  - tumor
-  - higher
-  - rat
-  - diet
-  - supplement
-  - 10
-  - soybean
-  - oil
-  - 10
-  - perilla
-  - oil
-  - diet
-- - popul
-  - studi
-  - specif
-  - examin
-  - impact
-  - soybean
-  - oil
-  - risk
-  - breast
-  - cancer
-  - rel
-  - rare
-- - sever
-  - asian
-  - studi
-  - focus
-  - carcinogen
-  - effect
-  - fume
-  - smoke
-  - gener
-  - cook
-  - oil
-- - soybean
-  - oil
-  - found
-  - form
-  - hydroxi
-  - tran
-  - nonen
-  - mutagen
-  - cytotox
-  - product
-  - peroxid
-  - linol
-  - acid
-  - when
-  - heat
-  - 365
-  - degre
-  - fahrenheit
-  - suggest
-  - soybean
-  - oil
-  - not
-  - us
-  - deep
-  - fry
-- - anoth
-  - studi
-  - found
-  - soybean
-  - oil
-  - gener
-  - greater
-  - amount
-  - carcinogen
-  - polycycl
-  - aromat
-  - hydrocarbon
-  - smoke
-  - dure
-  - heat
-  - canola
-  - oil
-  - sunflow
-  - oil
-- - breath
-  - fume
-  - smoke
-  - cook
-  - oil
-  - found
-  - associ
-  - higher
-  - risk
-  - lung
-  - cancer
-  - sever
-  - chines
-  - studi
-- - on
-  - U
-  - S
-  - studi
-  - examin
-  - associ
-  - type
-  - fat
-  - us
-  - cook
-  - risk
-  - breast
-  - cancer
-  - found
-  - women
-  - cook
-  - primarili
-  - veget
-  - corn
-  - oil
-  - rich
-  - linol
-  - acid
-  - 30
-  - higher
-  - risk
-  - breast
-  - cancer
-  - women
-  - normal
-  - us
-  - oliv
-  - canola
-  - oil
-  - rich
-  - oleic
-  - acid
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Soybean oil is mainly comprised of fat., sentence: soybean oil
+    main compris fat, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'Major fatty acids in soybean oil include linoleic acid, oleic
+    acid, palmitic acid, alpha-linolenic acid, and stearic acid.', sentence: major
+    fatti acid soybean oil includ linol acid oleic acid palmit acid alpha linolen
+    acid stearic acid, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'Linoleic acid, an omega-6 fatty acid, is the most prevalent polyunsaturated
+    fatty acid in the U.S. diet.', sentence: linol acid omega 6 fatti acid preval
+    polyunsatur fatti acid u s diet, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'It is found in most foods we eat, including meats, dairy foods,
+    vegetables, vegetable oils, fruits, legumes, nuts, seeds, cereals and breads.',
+  sentence: it found food eat includ meat dairi food veget veget oil fruit legum nut
+    seed cereal bread, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'Since linoleic acid is the metabolic precursor of arachidonic
+    acid, concern has been raised that dietary linoleic acid could increase arachidonic
+    acid content and eicosanoid formation in the body and thereby promote cancers,
+    cardiovascular disease, inflammation, and related disorders.', sentence: sinc
+    linol acid metabol precursor arachidon acid concern rais dietari linol acid could
+    increas arachidon acid content eicosanoid format bodi therebi promot cancer cardiovascular
+    diseas inflamm relat disord, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'Arachidonic acid also has been shown to increase aromatase activity,
+    thus increasing circulating estrogen.', sentence: arachidon acid also shown increas
+    aromatas activ thus increas circul estrogen, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Linoleic acid has been shown to encourage the growth of mammary
+    tumors in mice., sentence: linol acid shown encourag growth mammari tumor mice,
+  tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Oleic acid is a monounsaturated fatty acid also found in olive
+    oil., sentence: oleic acid monounsatur fatti acid also found oliv oil, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'The evidence is mixed regarding oleic acid and breast cancer:
+    oleic acid has been found both to promote and to inhibit breast cancer, depending
+    on the mixture of other fatty acids and other components of the foods in which
+    it is found.', sentence: the evid mix regard oleic acid breast cancer oleic acid
+    found promot inhibit breast cancer depend mixtur fatti acid compon food found,
+  tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Alpha-linolenic acid is an omega-3 fatty acid., sentence: alpha
+    linolen acid omega 3 fatti acid, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: The protective effect on breast cancer risk of omega-3 fatty acids
+    depends in part on the relative level of omega-6 fatty acids., sentence: the protect
+    effect breast cancer risk omega 3 fatti acid depend part relat level omega 6 fatti
+    acid, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'The ratio of omega-6 to omega-3 fatty acids in soybean oil is
+    7-to-1, so that consumption is likely to increase the ratio in the direction considered
+    harmful.', sentence: the ratio omega 6 omega 3 fatti acid soybean oil 7 1 consumpt
+    like increas ratio direct consid harm, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'Although the fatty acid profile of soybean oil is suggestive
+    of an unfavorable impact on breast cancer risk, fatty acid analysis must be combined
+    with more direct evidence since different combinations of the same fatty acids
+    can have different effects.', sentence: although fatti acid profil soybean oil
+    suggest unfavor impact breast cancer risk fatti acid analysi must combin direct
+    evid sinc differ combin fatti acid differ effect, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Studies evaluating the impact of soybean oil on breast cancer
+    are rare since this oil is not suspected to have a beneficial effect., sentence: studi
+    evalu impact soybean oil breast cancer rare sinc oil suspect benefici effect,
+  tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'Where soybean oil is used, it is often compared another, more
+    promising oil.', sentence: where soybean oil use often compar anoth promis oil,
+  tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'One such study found that, unlike fish oil, soybean oil did not
+    inhibit the growth of human breast cancer cells.', sentence: one studi found unlik
+    fish oil soybean oil inhibit growth human breast cancer cell, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Another study found that the incidence of carcinogen-induced mammary
+    tumors was higher in rats on a diet supplemented with 10% soybean oil than those
+    on a 10% perilla oil diet., sentence: anoth studi found incid carcinogen induc
+    mammari tumor higher rat diet supplement 10 soybean oil 10 perilla oil diet, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Population studies specifically examining the impact of soybean
+    oil on risk of breast cancer are also relatively rare., sentence: popul studi
+    specif examin impact soybean oil risk breast cancer also relat rare, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Several Asian studies have focused on the carcinogenic effects
+    of the fumes and smoke generated by cooking oils., sentence: sever asian studi
+    focus carcinogen effect fume smoke generat cook oil, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: 'Soybean oil has been found to form 4-hydroxy-2-trans-nonenal,
+    a mutagenic and cytotoxic product of the peroxidation of linoleic acid, when heated
+    to 365 degrees Fahrenheit, suggesting that soybean oil should not be used for
+    deep frying.', sentence: soybean oil found form 4 hydroxi 2 tran nonen mutagen
+    cytotox product peroxid linol acid heat 365 degre fahrenheit suggest soybean oil
+    use deep fri, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Another study found that soybean oil generated a greater amount
+    of carcinogenic polycyclic aromatic hydrocarbons in the smoke during heating than
+    canola oil or sunflower oil., sentence: anoth studi found soybean oil generat
+    greater amount carcinogen polycycl aromat hydrocarbon smoke heat canola oil sunflow
+    oil, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: Breathing fumes and smoke from cooking oil has been found to be
+    associated with higher risk of lung cancer in several Chinese studies., sentence: breath
+    fume smoke cook oil found associ higher risk lung cancer sever chines studi, tags: soybean-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-oil.yaml,
+  originalSentence: One U.S. study that examined the association between the type
+    of fat used in cooking and the risk of breast cancer found that women cooking
+    primarily with vegetable/corn oil  had a 30% higher risk of breast cancer than
+    women normally using olive/canola oil., sentence: one u s studi examin associ
+    type fat use cook risk breast cancer found women cook primarili veget corn oil
+    30 higher risk breast cancer women normal use oliv canola oil, tags: soybean-oil}

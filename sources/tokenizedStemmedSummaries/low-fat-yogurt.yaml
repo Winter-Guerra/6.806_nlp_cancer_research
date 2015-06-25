@@ -1,30 +1,9 @@
----
-- - yogurt
-  - good
-  - sourc
-  - conjug
-  - linol
-  - acid
-  - cla
-  - shown
-  - inhibit
-  - growth
-  - migrat
-  - breast
-  - cancer
-  - cell
-- - case
-  - control
-  - studi
-  - conduct
-  - franc
-  - uruguai
-  - found
-  - yogurt
-  - consumpt
-  - associ
-  - reduct
-  - risk
-  - breast
-  - cancer
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/low-fat-yogurt.yaml,
+  originalSentence: 'Yogurt is a good source of conjugated linoleic acid, which has
+    been shown to inhibit the growth and migration of breast cancer cells.', sentence: yogurt
+    good sourc conjug linol acid shown inhibit growth migrat breast cancer cell, tags: low-fat-yogurt}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/low-fat-yogurt.yaml,
+  originalSentence: Case-control studies conducted in France and Uruguay have found
+    that yogurt consumption is associated with a reduction in the risk of breast cancer.,
+  sentence: case control studi conduct franc uruguay found yogurt consumpt associ
+    reduct risk breast cancer, tags: low-fat-yogurt}

@@ -1,87 +1,31 @@
----
-- - the
-  - black
-  - pepper
-  - compound
-  - piperin
-  - caryophyllen
-  - oxid
-  - shown
-  - reduc
-  - breast
-  - cancer
-  - cell
-  - prolifer
-  - angiogenesi
-  - metastasi
-  - laboratori
-- - caryophyllen
-  - oxid
-  - interfer
-  - multipl
-  - signal
-  - cascad
-  - involv
-  - tumorigenesi
-- - piperin
-  - reduc
-  - growth
-  - breast
-  - cancer
-  - cell
-  - without
-  - affect
-  - growth
-  - normal
-  - breast
-  - cell
-- - piperin
-  - shown
-  - inhibit
-  - growth
-  - motil
-  - tripl
-  - neg
-  - breast
-  - cancer
-  - cell
-- - piperin
-  - shown
-  - enhanc
-  - breast
-  - stem
-  - cell
-  - sensit
-  - curcumin
-  - compon
-  - spice
-  - turmer
-- - curcumin
-  - mai
-  - decreas
-  - breast
-  - cancer
-  - risk
-  - part
-  - reduc
-  - breast
-  - stem
-  - cell
-  - self
-  - renew
-  - enhanc
-  - differenti
-  - breast
-  - stem
-  - cell
-- - piperin
-  - mai
-  - enhanc
-  - effect
-  - adriamycin
-  - doxorubicin
-  - taxol
-  - paclitaxel
-  - FU
-  - chemotherapi
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/black-pepper.yaml,
+  originalSentence: 'The black pepper compounds piperine and -caryophyllene oxide
+    have been shown to reduce breast cancer cell proliferation, angiogenesis, and
+    metastasis in the laboratory.', sentence: the black pepper compound piperin caryophyllen
+    oxid shown reduc breast cancer cell prolifer angiogenesi metastasi laboratori,
+  tags: black-pepper}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/black-pepper.yaml,
+  originalSentence: -caryophyllene oxide interferes with multiple signaling cascades
+    involved in tumorigenesis., sentence: caryophyllen oxid interfer multipl signal
+    cascad involv tumorigenesi, tags: black-pepper}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/black-pepper.yaml,
+  originalSentence: Piperine reduces the growth of breast cancer cells without affecting
+    the growth of normal breast cells., sentence: piperin reduc growth breast cancer
+    cell without affect growth normal breast cell, tags: black-pepper}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/black-pepper.yaml,
+  originalSentence: Piperine has been shown to inhibit the growth and motility of
+    triple negative breast cancer cells., sentence: piperin shown inhibit growth motil
+    tripl negat breast cancer cell, tags: black-pepper}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/black-pepper.yaml,
+  originalSentence: 'Piperine has been shown to enhance breast stem cell sensitivity
+    to curcumin, a component of the spice turmeric.', sentence: piperin shown enhanc
+    breast stem cell sensit curcumin compon spice turmer, tags: black-pepper}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/black-pepper.yaml,
+  originalSentence: Curcumin may decrease breast cancer risk in part by reducing breast
+    stem cell self-renewal and enhancing differentiation of breast stem cells., sentence: curcumin
+    may decreas breast cancer risk part reduc breast stem cell self renew enhanc differenti
+    breast stem cell, tags: black-pepper}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/black-pepper.yaml,
+  originalSentence: 'Piperine may enhance the effectiveness of Adriamycin, Taxol  and
+    5-FU chemotherapy.', sentence: piperin may enhanc effect adriamycin taxol 5 fu
+    chemotherapi, tags: black-pepper}

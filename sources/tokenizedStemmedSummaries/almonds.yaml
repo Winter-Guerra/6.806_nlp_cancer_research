@@ -1,81 +1,28 @@
----
-- - By
-  - almond
-  - mean
-  - nut
-  - sweet
-  - almond
-  - tree
-  - prunu
-  - amygdalu
-  - dulci
-  - not
-  - bitter
-  - almond
-  - nut
-  - prunu
-  - amygdalu
-  - amara
-- - almond
-  - good
-  - dietari
-  - sourc
-  - vitamin
-  - E
-  - magnesium
-  - copper
-  - chromium
-  - manganes
-  - phosphoru
-  - riboflavin
-  - melatonin
-  - solubl
-  - fiber
-  - monounsatur
-  - fat
-- - almond
-  - contain
-  - numer
-  - phytochem
-  - includ
-  - quercetin
-  - quercitrin
-  - isorhamnetin
-  - naringenin
-  - catechin
-  - epicatechin
-  - morin
-- - almond
-  - compon
-  - shown
-  - high
-  - antioxid
-  - anti
-  - inflammatori
-  - properti
-- - consumpt
-  - almond
-  - shown
-  - numer
-  - studi
-  - help
-  - lower
-  - cholesterol
-  - reduc
-  - blood
-  - sugar
-  - reduc
-  - risk
-  - cardiovascular
-  - diseas
-- - habitu
-  - almond
-  - consumpt
-  - doe
-  - not
-  - itself
-  - appear
-  - lead
-  - weight
-  - gain
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/almonds.yaml,
+  originalSentence: 'By almond, we mean the nut of the sweet almond tree, not the
+    bitter almond nut.', sentence: by almond mean nut sweet almond tree bitter almond
+    nut, tags: almonds}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/almonds.yaml,
+  originalSentence: 'Almonds are a good dietary source of vitamin E, magnesium, copper,
+    chromium, manganese, phosphorus, riboflavin and melatonin, as well as soluble
+    fiber and monounsaturated fats.', sentence: almond good dietari sourc vitamin
+    e magnesium copper chromium manganes phosphorus riboflavin melatonin well solubl
+    fiber monounsatur fat, tags: almonds}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/almonds.yaml,
+  originalSentence: 'Almonds contain numerous phytochemicals, including quercetin,
+    quercitrin, isorhamnetin, naringenin, catechin, epicatechin, and morin.', sentence: almond
+    contain numer phytochem includ quercetin quercitrin isorhamnetin naringenin catechin
+    epicatechin morin, tags: almonds}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/almonds.yaml,
+  originalSentence: Almond components have been shown to have high antioxidant and
+    anti-inflammatory properties., sentence: almond compon shown high antioxid anti
+    inflammatori properti, tags: almonds}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/almonds.yaml,
+  originalSentence: 'Consumption of almonds has been shown in numerous studies to
+    help lower cholesterol, reduce blood sugar, and reduce the risk of cardiovascular
+    disease.', sentence: consumpt almond shown numer studi help lower cholesterol
+    reduc blood sugar reduc risk cardiovascular diseas, tags: almonds}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/almonds.yaml,
+  originalSentence: Habitual almond consumption does not in and of itself appear to
+    lead to weight gain., sentence: habitu almond consumpt appear lead weight gain,
+  tags: almonds}

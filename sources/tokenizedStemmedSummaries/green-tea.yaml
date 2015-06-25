@@ -1,217 +1,67 @@
----
-- - green
-  - tea
-  - contain
-  - catechin
-  - polyphenol
-  - thought
-  - respons
-  - it
-  - anti
-  - cancer
-  - properti
-- - import
-  - green
-  - tea
-  - polyphenol
-  - includ
-  - epigallocatechin
-  - gallat
-  - egcg
-  - epicatechin
-  - epigallocatechin
-  - epicatechin
-  - gallat
-- - egcg
-  - shown
-  - inhibit
-  - tumor
-  - growth
-  - angiogenesi
-  - estrogen
-  - receptor
-  - posit
-  - ER
-  - breast
-  - cancer
-  - mice
-  - without
-  - affect
-  - normal
-  - tissu
-  - growth
-- - egcg
-  - found
-  - inhibit
-  - growth
-  - induc
-  - apoptosi
-  - her2
-  - neu
-  - overexpress
-  - her2
-  - breast
-  - cancer
-  - cell
-  - includ
-  - resist
-  - herceptin
-- - green
-  - tea
-  - polyphenol
-  - found
-  - inhibit
-  - transform
-  - normal
-  - breast
-  - cell
-  - breast
-  - cancer
-  - cell
-  - laboratori
-  - model
-  - carcinogenesi
-  - induc
-  - long
-  - term
-  - exposur
-  - low
-  - level
-  - environment
-  - carcinogen
-- - In
-  - addit
-  - egcg
-  - shown
-  - reduc
-  - growth
-  - induc
-  - apoptosi
-  - stem
-  - inflammatori
-  - breast
-  - cancer
-  - ibc
-  - cell
-- - egcg
-  - shown
-  - synergist
-  - enhanc
-  - growth
-  - inhibit
-  - ER
-  - cell
-  - tamoxifen
-  - taxol
-  - paclitaxel
-  - therebi
-  - increas
-  - effect
-  - therapi
-- - In
-  - addit
-  - green
-  - tea
-  - extract
-  - found
-  - protect
-  - against
-  - tamoxifen
-  - induc
-  - liver
-  - injuri
-  - rat
-- - green
-  - tea
-  - intak
-  - found
-  - enhanc
-  - inhibitori
-  - effect
-  - adriamycin
-  - doxorubicin
-  - ehrlich
-  - ascit
-  - carcinoma
-  - tumor
-  - bear
-  - mice
-  - ovarian
-  - cancer
-  - cell
-- - green
-  - tea
-  - polyphenol
-  - shown
-  - potenti
-  - effect
-  - cisplatin
-  - chemotherapi
-  - mous
-  - cervic
-  - cancer
-  - model
-  - cisplatin
-  - sometim
-  - us
-  - treat
-  - tripl
-  - neg
-  - ER
-  - PR
-  - her2
-  - breast
-  - cancer
-- - the
-  - kaempferol
-  - content
-  - green
-  - tea
-  - help
-  - protect
-  - against
-  - adriamycin
-  - induc
-  - heart
-  - damag
-- - howev
-  - green
-  - tea
-  - reduc
-  - effect
-  - adriamycin
-  - anthracyclin
-  - chemotherapi
-  - due
-  - it
-  - caffein
-  - content
-- - numer
-  - popul
-  - studi
-  - found
-  - heavi
-  - green
-  - tea
-  - consumpt
-  - associ
-  - lower
-  - risk
-  - breast
-  - cancer
-- - there
-  - evid
-  - green
-  - tea
-  - consumpt
-  - help
-  - prevent
-  - recurr
-  - earli
-  - stage
-  - stage
-  - I
-  - II
-  - breast
-  - cancer
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: Green tea contains catechins and other polyphenols that are thought
+    to be responsible for its anti-cancer properties., sentence: green tea contain
+    catechin polyphenol thought respons anti cancer properti, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'Important green tea polyphenols include epigallocatechin-3-gallate,
+    epicatechin, epigallocatechin, and epicatechin-3-gallate.', sentence: import green
+    tea polyphenol includ epigallocatechin 3 gallat epicatechin epigallocatechin epicatechin
+    3 gallat, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: EGCG has been shown to inhibit tumor growth and angiogenesis of
+    estrogen receptor positive  breast cancer in mice without affecting normal tissue
+    growth., sentence: egcg shown inhibit tumor growth angiogenesi estrogen receptor
+    posit breast cancer mice without affect normal tissu growth, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'EGCG also has been found to inhibit growth and induce apoptosis
+    of HER2/neu overexpressing  breast cancer cells, including those resistant to
+    Herceptin.', sentence: egcg also found inhibit growth induc apoptosi her2 neu
+    overexpress breast cancer cell includ resist herceptin, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: Green tea polyphenols have been found to inhibit the transformation
+    of normal breast cells into breast cancer cells in a laboratory model of carcinogenesis
+    induced by long-term exposure to low levels of environmental carcinogens., sentence: green
+    tea polyphenol found inhibit transform normal breast cell breast cancer cell laboratori
+    model carcinogenesi induc long term exposur low level environment carcinogen,
+  tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'In addition, EGCG has been shown to reduce the growth and induce
+    apoptosis of the stem-like inflammatory breast cancer  cells.', sentence: in addit
+    egcg shown reduc growth induc apoptosi stem like inflammatori breast cancer cell,
+  tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'EGCG has been shown to synergistically enhance the growth inhibition
+    of ER+ cells by tamoxifen and Taxol, thereby increasing the effectiveness of such
+    therapy.', sentence: egcg shown synergist enhanc growth inhibit er cell tamoxifen
+    taxol therebi increas effect therapi, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'In addition, green tea extract has been found to protect against
+    tamoxifen-induced liver injury in rats.', sentence: in addit green tea extract
+    found protect tamoxifen induc liver injuri rat, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: Green tea intake has been found to enhance the inhibitory effects
+    of Adriamycin  in Ehrlich ascites carcinoma tumor-bearing mice and in ovarian
+    cancer cells., sentence: green tea intak found enhanc inhibitori effect adriamycin
+    ehrlich ascit carcinoma tumor bear mice ovarian cancer cell, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: Green tea polyphenols have been shown to have potentiating effect
+    on cisplatin chemotherapy in a mouse cervical cancer model  breast cancer)., sentence: green
+    tea polyphenol shown potenti effect cisplatin chemotherapi mous cervic cancer
+    model breast cancer, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: The kaempferol content of green tea might help protect against
+    Adriamycin-induced heart damage., sentence: the kaempferol content green tea might
+    help protect adriamycin induc heart damag, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: 'However, green tea might reduce the effectiveness of Adriamycin
+    and other anthracycline chemotherapy due to its caffeine content.', sentence: howev
+    green tea might reduc effect adriamycin anthracyclin chemotherapi due caffein
+    content, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: Numerous population studies have found that heavy green tea consumption
+    is associated with lower risk of breast cancer., sentence: numer popul studi found
+    heavi green tea consumpt associ lower risk breast cancer, tags: green-tea}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/green-tea.yaml,
+  originalSentence: There is also some evidence that green tea consumption might help
+    prevent recurrence in early stage  breast cancers., sentence: there also evid
+    green tea consumpt might help prevent recurr earli stage breast cancer, tags: green-tea}

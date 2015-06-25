@@ -1,131 +1,45 @@
----
-- - saffron
-  - shown
-  - dose
-  - depend
-  - inhibitori
-  - effect
-  - prolifer
-  - hormon
-  - receptor
-  - posit
-  - ER
-  - PR
-  - tripl
-  - neg
-  - ER
-  - PR
-  - her2
-  - breast
-  - cancer
-  - cell
-- - saffron
-  - shown
-  - reduc
-  - angiogenesi
-  - new
-  - blood
-  - vessel
-  - format
-  - ER
-  - PR
-  - breast
-  - cancer
-  - cell
-- - saffron
-  - found
-  - greatli
-  - inhibit
-  - cellular
-  - dna
-  - damag
-  - includ
-  - adriamycin
-  - induc
-  - heart
-  - damag
-- - howev
-  - not
-  - recommend
-  - dure
-  - adriamycin
-  - base
-  - chemotherapi
-  - protect
-  - cancer
-  - cell
-  - treatment
-- - on
-  - studi
-  - report
-  - concurr
-  - us
-  - cyclophosphamid
-  - saffron
-  - extract
-  - reduc
-  - toxic
-  - effect
-  - cyclophosphamid
-  - caus
-  - estrogen
-  - produc
-- - anoth
-  - studi
-  - report
-  - pre
-  - treatment
-  - saffron
-  - significantli
-  - inhibit
-  - cellular
-  - dna
-  - damag
-  - caus
-  - cisplatin
-- - On
-  - hand
-  - extract
-  - saffron
-  - shown
-  - consider
-  - increas
-  - cytotox
-  - breast
-  - cancer
-  - cell
-  - induc
-  - taxol
-  - paclitaxel
-- - base
-  - avail
-  - evid
-  - saffron
-  - limit
-  - avoid
-  - dure
-  - chemotherapi
-- - saffron
-  - radioprotect
-  - properti
-  - indic
-  - not
-  - us
-  - dure
-  - radiat
-  - treatment
-- - there
-  - evid
-  - saffron
-  - toxic
-  - high
-  - dose
-  - recommend
-  - consum
-  - saffron
-  - spice
-  - not
-  - take
-  - saffron
-  - tablet
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: Saffron has been shown to have dose-dependent inhibitory effects
+    on the proliferation of hormone receptor positive  and triple negative  breast
+    cancer cells., sentence: saffron shown dose depend inhibitori effect prolifer
+    hormon receptor posit tripl negat breast cancer cell, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: Saffron has also been shown to reduce angiogenesis  in ER+/PR+
+    breast cancer cells., sentence: saffron also shown reduc angiogenesi er pr breast
+    cancer cell, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: 'Saffron has been found to greatly inhibit cellular DNA damage,
+    including Adriamycin-induced heart damage.', sentence: saffron found great inhibit
+    cellular dna damag includ adriamycin induc heart damag, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: 'However, we do not recommend it during Adriamycin-based chemotherapy
+    since it might also protect cancer cells from the treatment.', sentence: howev
+    recommend adriamycin base chemotherapi sinc might also protect cancer cell treatment,
+  tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: One study reported that concurrent use of cyclophosphamide and
+    saffron extract reduced toxic effect of cyclophosphamide and caused estrogen to
+    be produced., sentence: one studi report concurr use cyclophosphamid saffron extract
+    reduc toxic effect cyclophosphamid caus estrogen produc, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: Another study reported that pre-treatment with saffron significantly
+    inhibited cellular DNA damage caused by cisplatin., sentence: anoth studi report
+    pre treatment saffron signific inhibit cellular dna damag caus cisplatin, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: 'On the other hand, extracts of saffron have been shown to considerably
+    increase the cytotoxicity in breast cancer cells induced by Taxol.', sentence: on
+    hand extract saffron shown consider increas cytotox breast cancer cell induc taxol,
+  tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: 'Based on the available evidence, saffron should be limited or
+    avoided during chemotherapy.', sentence: base avail evid saffron limit avoid chemotherapi,
+  tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: Saffrons radioprotective properties indicate that it should not
+    be used during radiation treatment., sentence: saffron radioprotect properti indic
+    use radiat treatment, tags: saffron}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/saffron.yaml,
+  originalSentence: There is some evidence that saffron could be toxic at very high
+    doses and we recommend consuming saffron as a spice and not taking saffron tablets.,
+  sentence: there evid saffron could toxic high dose recommend consum saffron spice
+    take saffron tablet, tags: saffron}

@@ -132,7 +132,21 @@ def aggregateAndStemCorpus():
 
 	# Save the tokenized corpus
 	with open('./sources/stemmedCorpus.yaml', 'w') as _f:
+		output = yaml.dump(fileData, Dumper=Dumper)
+		_f.write(output)
+
+@task
+def stemSummaries():
+
+	for f in glob.glob("./sources/tokenizedSummaries/*.yaml"):
+		sentences = stemDocuments([f])
+
+		# Output the newly tokenized file
+		newFileName = f.replace('tokenizedSummaries','tokenizedStemmedSummaries')
+
+		with open(newFileName, 'w') as _f:
 			output = yaml.dump(fileData, Dumper=Dumper)
 			_f.write(output)
+
 
 

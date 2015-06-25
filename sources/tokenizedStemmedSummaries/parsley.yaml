@@ -1,129 +1,42 @@
----
-- - parslei
-  - contain
-  - flavon
-  - apigenin
-  - luteolin
-  - chrysoeriol
-  - flavonol
-  - quercetin
-  - myricetin
-  - isorhamnetin
-  - isoflavon
-  - genistein
-- - parslei
-  - good
-  - dietari
-  - sourc
-  - apigenin
-  - shown
-  - induc
-  - apoptosi
-  - human
-  - skin
-  - thyroid
-  - gastric
-  - liver
-  - colon
-  - cervic
-  - prostat
-  - cancer
-  - cell
-  - inhibit
-  - migrat
-  - invas
-  - ovarian
-  - cancer
-  - cell
-- - apigenin
-  - shown
-  - exhibit
-  - potent
-  - growth
-  - inhibitori
-  - effect
-  - her2
-  - neu
-  - overexpress
-  - breast
-  - cancer
-  - cell
-- - the
-  - growth
-  - inhibitori
-  - effect
-  - apigenin
-  - less
-  - power
-  - cell
-  - express
-  - normal
-  - level
-  - her2
-  - neu
-- - luteolin
-  - shown
-  - induc
-  - apoptosi
-  - oral
-  - cancer
-  - call
-  - promot
-  - cell
-  - cycl
-  - arrest
-  - apoptosi
-  - colon
-  - cancer
-  - cell
-  - inhibit
-  - insulin
-  - growth
-  - factor
-  - igf
-  - receptor
-  - signal
-  - prostat
-  - cancer
-  - cell
-- - luteolin
-  - shown
-  - increas
-  - anti
-  - cancer
-  - effect
-  - chemotherapi
-  - drug
-  - taxol
-  - paclitaxel
-- - quercetin
-  - shown
-  - inhibit
-  - prolifer
-  - estrogen
-  - receptor
-  - neg
-  - ER
-  - breast
-  - cancer
-  - cell
-- - A
-  - major
-  - italian
-  - popul
-  - studi
-  - includ
-  - 569
-  - women
-  - breast
-  - cancer
-  - found
-  - risk
-  - breast
-  - cancer
-  - reduc
-  - increas
-  - intak
-  - flavon
-  - flavonol
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/parsley.yaml,
+  originalSentence: 'Parsley contains the flavones apigenin, luteolin, chrysoeriol,
+    the flavonols quercetin, myricetin and isorhamnetin, and the isoflavone genistein.',
+  sentence: parsley contain flavon apigenin luteolin chrysoeriol flavonol quercetin
+    myricetin isorhamnetin isoflavon genistein, tags: parsley}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/parsley.yaml,
+  originalSentence: 'Parsley is a good dietary source of apigenin, which has been
+    shown to induce apoptosis in human skin, thyroid, gastric, liver, colon, cervical,
+    and prostate cancer cells, and to inhibit migration and invasion of ovarian cancer
+    cells.', sentence: parsley good dietari sourc apigenin shown induc apoptosi human
+    skin thyroid gastric liver colon cervic prostat cancer cell inhibit migrat invas
+    ovarian cancer cell, tags: parsley}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/parsley.yaml,
+  originalSentence: Apigenin has also been shown to exhibit potent growth-inhibitory
+    effects in HER2/neu overexpressing breast cancer cells., sentence: apigenin also
+    shown exhibit potent growth inhibitori effect her2 neu overexpress breast cancer
+    cell, tags: parsley}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/parsley.yaml,
+  originalSentence: The growth-inhibitory effects of apigenin are less powerful for
+    those cells expressing normal levels of HER2/neu., sentence: the growth inhibitori
+    effect apigenin less power cell express normal level her2 neu, tags: parsley}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/parsley.yaml,
+  originalSentence: 'Luteolin has been shown to induce apoptosis in oral cancer calls,
+    to promote cell cycle arrest and apoptosis in colon cancer cells, and to inhibit
+    insulin-like growth factor 1  receptor signaling in prostate cancer cells.', sentence: luteolin
+    shown induc apoptosi oral cancer call promot cell cycl arrest apoptosi colon cancer
+    cell inhibit insulin like growth factor 1 receptor signal prostat cancer cell,
+  tags: parsley}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/parsley.yaml,
+  originalSentence: Luteolin has also been shown increase the anti-cancer effects
+    of the chemotherapy drug Taxol., sentence: luteolin also shown increas anti cancer
+    effect chemotherapi drug taxol, tags: parsley}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/parsley.yaml,
+  originalSentence: Quercetin has been shown to inhibit proliferation of estrogen
+    receptor negative  breast cancer cells., sentence: quercetin shown inhibit prolifer
+    estrogen receptor negat breast cancer cell, tags: parsley}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/parsley.yaml,
+  originalSentence: 'A major Italian population study including 2,569 women with breast
+    cancer found that the risk of breast cancer was reduced for increasing intake
+    of flavones and flavonols.', sentence: a major italian popul studi includ 2 569
+    women breast cancer found risk breast cancer reduc increas intak flavon flavonol,
+  tags: parsley}

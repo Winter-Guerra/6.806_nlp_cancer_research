@@ -1,28 +1,11 @@
----
-- - the
-  - page
-  - request
-  - not
-  - found
-- - pleas
-  - check
-  - url
-  - try
-  - again
-- - breast
-  - cancer
-  - resourc
-  - definit
-  - select
-  - supplement
-  - vitamin
-  - privaci
-  - polici
-  - search
-  - disclaim
-  - us
-  - free
-  - newslett
-  - donat
-  - sitemap
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/yerba-mate.yaml,
+  originalSentence: The page you requested could not be found., sentence: the page
+    request could found, tags: yerba-mate}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/yerba-mate.yaml,
+  originalSentence: Please check the url and try again., sentence: pleas check url
+    tri, tags: yerba-mate}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/yerba-mate.yaml,
+  originalSentence: Breast cancer resources | Definitions | Selected supplements and
+    vitamins | Privacy policy | Search | Disclaimer/about us | Free newsletter/Donate
+    | Sitemap, sentence: breast cancer resourc definit select supplement vitamin privaci
+    polici search disclaim us free newslett donat sitemap, tags: yerba-mate}

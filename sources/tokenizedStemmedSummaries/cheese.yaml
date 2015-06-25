@@ -1,275 +1,83 @@
----
-- - compon
-  - chees
-  - includ
-  - calcium
-  - vitamin
-  - D
-  - stearat
-  - cla
-  - found
-  - induc
-  - apoptosi
-  - breast
-  - cancer
-  - cell
-  - reduc
-  - mammari
-  - tumor
-  - size
-  - incid
-  - laboratori
-- - howev
-  - no
-  - mean
-  - popul
-  - studi
-  - found
-  - chees
-  - consumpt
-  - associ
-  - increas
-  - risk
-  - breast
-  - cancer
-- - the
-  - factor
-  - mai
-  - contribut
-  - increas
-  - risk
-  - includ
-  - fact
-  - milk
-  - drink
-  - todai
-  - produc
-  - pregnant
-  - cow
-  - estrogen
-  - progesteron
-  - level
-  - markedli
-  - elev
-  - presenc
-  - satur
-  - fat
-  - recombin
-  - bovin
-  - growth
-  - hormon
-  - variou
-  - environment
-  - contamin
-  - chees
-- - high
-  - intak
-  - anim
-  - fat
-  - link
-  - sever
-  - studi
-  - increas
-  - breast
-  - densiti
-  - risk
-  - factor
-  - breast
-  - cancer
-  - recurr
-- - On
-  - hand
-  - ferment
-  - milk
-  - product
-  - consumpt
-  - low
-  - fat
-  - non
-  - fat
-  - chees
-  - mai
-  - protect
-  - against
-  - breast
-  - cancer
-- - cla
-  - found
-  - inhibit
-  - breast
-  - cancer
-  - laboratori
-  - concentr
-  - close
-  - human
-  - consumpt
-  - level
-- - sever
-  - popul
-  - studi
-  - perform
-  - specif
-  - evalu
-  - possibl
-  - associ
-  - consumpt
-  - cla
-  - chees
-  - dairi
-  - product
-  - risk
-  - breast
-  - cancer
-- - the
-  - studi
-  - result
-  - contradictori
-- - A
-  - larg
-  - prospect
-  - netherland
-  - popul
-  - studi
-  - found
-  - weak
-  - posit
-  - associ
-  - cla
-  - intak
-  - risk
-  - breast
-  - cancer
-  - associ
-  - opposit
-  - direct
-  - expect
-  - cla
-  - protect
-  - conclud
-  - appar
-  - anticarcinogen
-  - properti
-  - cla
-  - anim
-  - tissu
-  - cultur
-  - model
-  - not
-  - confirm
-  - human
-- - howev
-  - earlier
-  - finnish
-  - studi
-  - women
-  - alreadi
-  - breast
-  - cancer
-  - found
-  - dietari
-  - cla
-  - level
-  - cla
-  - blood
-  - significantli
-  - lower
-  - postmenopaus
-  - breast
-  - cancer
-  - case
-  - postmenopaus
-  - control
-  - without
-  - cancer
-- - recombin
-  - bovin
-  - growth
-  - hormon
-  - synthet
-  - version
-  - bovin
-  - growth
-  - hormon
-  - occur
-  - natur
-  - cow
-  - administ
-  - cow
-  - increas
-  - milk
-  - product
-  - suggest
-  - increas
-  - breast
-  - cancer
-  - risk
-- - the
-  - hormon
-  - itself
-  - thought
-  - biolog
-  - inact
-  - human
-- - howev
-  - caus
-  - cow
-  - liver
-  - produc
-  - insulin
-  - growth
-  - factor
-  - igf
-  - enter
-  - blood
-  - milk
-- - the
-  - bovin
-  - form
-  - igf
-  - ident
-  - human
-  - form
-- - igf
-  - requir
-  - mammari
-  - develop
-  - puberti
-  - implic
-  - increas
-  - risk
-  - breast
-  - cancer
-- - sever
-  - studi
-  - found
-  - modest
-  - posit
-  - associ
-  - circul
-  - igf
-  - I
-  - level
-  - breast
-  - cancer
-  - risk
-  - among
-  - premenopaus
-  - women
-- - In
-  - fact
-  - substanc
-  - inhibit
-  - igf
-  - I
-  - action
-  - mammari
-  - gland
-  - develop
-  - hope
-  - eventu
-  - plai
-  - role
-  - breast
-  - cancer
-  - chemoprevent
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'Components of cheese, including calcium, vitamin D, stearate,
+    and CLA have been found to induce apoptosis of breast cancer cells or reduce mammary
+    tumor size and incidence in the laboratory.', sentence: compon chees includ calcium
+    vitamin d stearat cla found induc apoptosi breast cancer cell reduc mammari tumor
+    size incid laboratori, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'However, many  population studies have found that cheese consumption
+    is associated with an increased risk of breast cancer.', sentence: howev mani
+    popul studi found chees consumpt associ increas risk breast cancer, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'The factors that may contribute to this increased risk include
+    the fact that much of the milk we drink today is produced from pregnant cows,
+    as well as the presence of saturated fat, recombinant bovine growth hormone, and
+    various environmental contaminants in cheese.', sentence: the factor may contribut
+    increas risk includ fact much milk drink today produc pregnant cow well presenc
+    satur fat recombin bovin growth hormon various environment contamin chees, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'High intake of animal fats has been linked in several studies
+    to increased breast density, a risk factor for breast cancer and recurrence.',
+  sentence: high intak anim fat link sever studi increas breast densiti risk factor
+    breast cancer recurr, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'On the other hand, like fermented milk products, consumption
+    of low-fat or non-fat cheese may be protective against breast cancer.', sentence: on
+    hand like ferment milk product consumpt low fat non fat chees may protect breast
+    cancer, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: CLA has been found to inhibit breast cancer in the laboratory
+    at concentrations close to human consumption levels., sentence: cla found inhibit
+    breast cancer laboratori concentr close human consumpt level, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: Several population studies have been performed specifically to
+    evaluate the possible association between consumption of CLA in cheese and other
+    dairy products and the risk of breast cancer., sentence: sever popul studi perform
+    specif evalu possibl associ consumpt cla chees dairi product risk breast cancer,
+  tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: The study results have been contradictory., sentence: the studi
+    result contradictori, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: A large prospective Netherlands population study found a weak
+    positive association between CLA intake and the risk breast cancer  and concluded
+    that the apparent anticarcinogenic properties of CLA in animal and tissue culture
+    models had not been confirmed in humans., sentence: a larg prospect netherland
+    popul studi found weak posit associ cla intak risk breast cancer conclud appar
+    anticarcinogen properti cla anim tissu cultur model confirm human, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'However, an earlier Finnish study of women who already had breast
+    cancer found that dietary CLA and levels of CLA in the blood were significantly
+    lower in the postmenopausal breast cancer cases than in the postmenopausal controls
+    without cancer.', sentence: howev earlier finnish studi women alreadi breast cancer
+    found dietari cla level cla blood signific lower postmenopaus breast cancer case
+    postmenopaus control without cancer, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'Recombinant bovine growth hormone, which is administered to cows
+    to increase milk production, has been suggested to increase breast cancer risk.',
+  sentence: recombin bovin growth hormon administ cow increas milk product suggest
+    increas breast cancer risk, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: The hormone itself is thought to be biologically inactive in humans.,
+  sentence: the hormon thought biolog inact human, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'However, it causes the cow liver to produce insulin-like growth
+    factor 1, which enters the blood and milk as well.', sentence: howev caus cow
+    liver produc insulin like growth factor 1 enter blood milk well, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: The bovine form of IGF-1 is identical to the human form., sentence: the
+    bovin form igf 1 ident human form, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: IGF-1 is required for mammary development at puberty and has been
+    implicated in increased risk of breast cancer., sentence: igf 1 requir mammari
+    develop puberti implic increas risk breast cancer, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: Several studies have found a modest positive association between
+    circulating IGF-I levels and breast cancer risk among premenopausal women., sentence: sever
+    studi found modest posit associ circul igf i level breast cancer risk among premenopaus
+    women, tags: cheese}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cheese.yaml,
+  originalSentence: 'In fact, substances that inhibit IGF-I action in the mammary
+    gland are being developed in the hope that they can eventually play a role in
+    breast cancer chemoprevention.', sentence: in fact substanc inhibit igf i action
+    mammari gland develop hope eventu play role breast cancer chemoprevent, tags: cheese}

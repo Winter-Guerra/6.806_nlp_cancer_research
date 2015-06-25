@@ -1,166 +1,49 @@
----
-- - like
-  - fatti
-  - fish
-  - salmon
-  - contain
-  - marin
-  - fatti
-  - acid
-  - docosahexaeno
-  - acid
-  - dha
-  - eicosapentaeno
-  - acid
-  - epa
-  - chemoprevent
-  - properti
-- - these
-  - marin
-  - fatti
-  - acid
-  - shown
-  - inhibit
-  - prolifer
-  - breast
-  - cancer
-  - cell
-  - laboratori
-- - rel
-  - high
-  - fatti
-  - fish
-  - intak
-  - shown
-  - associ
-  - reduc
-  - risk
-  - breast
-  - cancer
-  - improv
-  - surviv
-- - In
-  - on
-  - experi
-  - higher
-  - omega
-  - omega
-  - fatti
-  - acid
-  - diet
-  - reduc
-  - mammari
-  - gland
-  - densiti
-  - mice
-  - turn
-  - reduc
-  - carcinogen
-  - induc
-  - mammari
-  - tumor
-  - develop
-- - fish
-  - oil
-  - shown
-  - inhibit
-  - earli
-  - stage
-  - mammari
-  - tumor
-  - develop
-  - mous
-  - model
-  - her
-  - neu
-  - overexpress
-  - her2
-  - breast
-  - cancer
-- - dha
-  - demonstr
-  - reduc
-  - bone
-  - metastasi
-  - mous
-  - model
-  - breast
-  - cancer
-- - anoth
-  - studi
-  - found
-  - docosahexaeno
-  - acid
-  - increas
-  - survial
-  - time
-  - almost
-  - half
-  - group
-  - stage
-  - IV
-  - breast
-  - cancer
-  - patient
-  - fec
-  - FU
-  - epirubicin
-  - cyclophosphamid
-  - chemotherapi
-- - fish
-  - protein
-  - hydrolys
-  - shown
-  - antiprolif
-  - activ
-  - against
-  - human
-  - breast
-  - cancer
-  - cell
-  - line
-  - vitro
-- - mani
-  - epidemiolog
-  - studi
-  - found
-  - convinc
-  - evid
-  - neg
-  - associ
-  - dha
-  - epa
-  - intak
-  - fatti
-  - fish
-  - consumpt
-  - risk
-  - breast
-  - cancer
-  - although
-  - not
-  - agreement
-- - In
-  - addit
-  - sever
-  - studi
-  - found
-  - higher
-  - omega
-  - omega
-  - fatti
-  - acid
-  - intak
-  - associ
-  - reduc
-  - risk
-  - breast
-  - cancer
-  - consum
-  - wild
-  - salmon
-  - tend
-  - improv
-  - ratio
-  - women
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salmon.yaml,
+  originalSentence: 'Like other fatty fish, salmon contains the marine fatty acids
+    docosahexaenoic acid  and eicosapentaenoic acid, which have chemopreventive properties.',
+  sentence: like fatti fish salmon contain marin fatti acid docosahexaeno acid eicosapentaeno
+    acid chemoprevent properti, tags: salmon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salmon.yaml,
+  originalSentence: These marine fatty acids have been shown to inhibit proliferation
+    of breast cancer cells in the laboratory., sentence: these marin fatti acid shown
+    inhibit prolifer breast cancer cell laboratori, tags: salmon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salmon.yaml,
+  originalSentence: Relatively high fatty fish intake has been shown to be associated
+    with reduced risk of breast cancer and improved survival., sentence: relat high
+    fatti fish intak shown associ reduc risk breast cancer improv surviv, tags: salmon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salmon.yaml,
+  originalSentence: 'In one experiment, higher omega-3 to omega-6 fatty acid diets
+    reduced mammary gland density in mice, which in turn reduced carcinogen-induced
+    mammary tumor development.', sentence: in one experi higher omega 3 omega 6 fatti
+    acid diet reduc mammari gland densiti mice turn reduc carcinogen induc mammari
+    tumor develop, tags: salmon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salmon.yaml,
+  originalSentence: Fish oil has been shown to inhibit early stages of mammary tumor
+    development in a mouse model of HER-2/neu overexpressing  breast cancer., sentence: fish
+    oil shown inhibit earli stage mammari tumor develop mous model her 2 neu overexpress
+    breast cancer, tags: salmon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salmon.yaml,
+  originalSentence: DHA has been demonstrated to reduce bone metastasis in a mouse
+    model of breast cancer., sentence: dha demonstr reduc bone metastasi mous model
+    breast cancer, tags: salmon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salmon.yaml,
+  originalSentence: Another study found that docosahexaenoic acid increased survial
+    times for almost half of a group of stage IV breast cancer patients on FEC  chemotherapy.,
+  sentence: anoth studi found docosahexaeno acid increas survial time almost half
+    group stage iv breast cancer patient fec chemotherapi, tags: salmon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salmon.yaml,
+  originalSentence: Fish protein hydrolysates also have been shown to have antiproliferative
+    activity against human breast cancer cell lines in vitro., sentence: fish protein
+    hydrolys also shown antiprolif activ human breast cancer cell line vitro, tags: salmon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salmon.yaml,
+  originalSentence: 'Many epidemiological studies have found convincing evidence of
+    a negative association between DHA and EPA intake or fatty fish consumption and
+    the risk of breast cancer, although not all are in agreement.', sentence: mani
+    epidemiolog studi found convinc evid negat associ dha epa intak fatti fish consumpt
+    risk breast cancer although agreement, tags: salmon}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/salmon.yaml,
+  originalSentence: 'In addition, several studies have found that higher omega-3 to
+    omega-6 fatty acid intakes are associated with reduced risk of breast cancer;
+    consuming wild salmon would tend to improve this ratio for most women.', sentence: in
+    addit sever studi found higher omega 3 omega 6 fatti acid intak associ reduc risk
+    breast cancer consum wild salmon would tend improv ratio women, tags: salmon}

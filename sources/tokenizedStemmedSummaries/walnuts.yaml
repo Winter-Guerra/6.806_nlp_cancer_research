@@ -1,73 +1,22 @@
----
-- - consumpt
-  - alpha
-  - linolen
-  - acid
-  - associ
-  - reduc
-  - breast
-  - cancer
-  - risk
-- - walnut
-  - best
-  - sourc
-  - plant
-  - deriv
-  - omega
-  - fatti
-  - acid
-- - walnut
-  - consumpt
-  - shown
-  - sever
-  - studi
-  - significantli
-  - reduc
-  - breast
-  - tumor
-  - incid
-  - size
-  - laboratori
-  - mice
-- - for
-  - exampl
-  - on
-  - studi
-  - report
-  - diet
-  - includ
-  - walnut
-  - reduc
-  - tumor
-  - size
-  - produc
-  - tripl
-  - neg
-  - ER
-  - PR
-  - her2
-  - breast
-  - cancer
-  - cell
-  - inject
-  - mice
-- - the
-  - melatonin
-  - walnut
-  - protect
-  - against
-  - breast
-  - cancer
-  - sever
-  - wai
-  - includ
-  - reduc
-  - aromatas
-  - activ
-  - within
-  - breast
-  - therebi
-  - reduc
-  - estrogen
-  - product
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/walnuts.yaml,
+  originalSentence: Consumption of alpha-linolenic acid is associated with reduced
+    breast cancer risk., sentence: consumpt alpha linolen acid associ reduc breast
+    cancer risk, tags: walnuts}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/walnuts.yaml,
+  originalSentence: Walnuts are the best source of this plant-derived omega-3 fatty
+    acid., sentence: walnut best sourc plant deriv omega 3 fatti acid, tags: walnuts}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/walnuts.yaml,
+  originalSentence: Walnut consumption has been shown in several studies to significantly
+    reduce breast tumor incidence and size in laboratory mice., sentence: walnut consumpt
+    shown sever studi signific reduc breast tumor incid size laboratori mice, tags: walnuts}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/walnuts.yaml,
+  originalSentence: 'For example, one study reported that a diet including walnuts
+    reduced the tumor size produced by triple negative  breast cancer cells injected
+    into mice.', sentence: for exampl one studi report diet includ walnut reduc tumor
+    size produc tripl negat breast cancer cell inject mice, tags: walnuts}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/walnuts.yaml,
+  originalSentence: 'The melatonin in walnuts protects against breast cancer in several
+    ways, including by reducing aromatase activity within the breast, thereby reducing
+    estrogen production.', sentence: the melatonin walnut protect breast cancer sever
+    way includ reduc aromatas activ within breast therebi reduc estrogen product,
+  tags: walnuts}

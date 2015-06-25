@@ -1,145 +1,48 @@
----
-- - on
-  - studi
-  - korean
-  - 12
-  - year
-  - old
-  - girl
-  - found
-  - breast
-  - develop
-  - significantli
-  - posit
-  - associ
-  - consumpt
-  - shellfish
-  - process
-  - meat
-- - yessotoxin
-  - algal
-  - toxin
-  - accumul
-  - edibl
-  - mollusk
-  - shown
-  - interfer
-  - tumor
-  - suppress
-  - function
-  - E
-  - cadherin
-  - breast
-  - cancer
-  - cancer
-  - cell
-- - the
-  - heavi
-  - metal
-  - cadmium
-  - found
-  - frequent
-  - shellfish
-  - shown
-  - increas
-  - risk
-  - breast
-  - cancer
-- - shellfish
-  - particularli
-  - oyster
-  - lobster
-  - contain
-  - high
-  - level
-  - copper
-  - contribut
-  - angiogenesi
-  - metastasi
-  - breast
-  - cancer
-- - while
-  - individu
-  - compon
-  - shellfish
-  - omega
-  - fatti
-  - acid
-  - shown
-  - prevent
-  - against
-  - breast
-  - cancer
-  - shellfish
-  - consumpt
-  - like
-  - increas
-  - risk
-  - breast
-  - cancer
-  - cancer
-  - especi
-  - digest
-  - cancer
-  - protect
-- - health
-  - risk
-  - deriv
-  - combin
-  - natur
-  - toxin
-  - algal
-  - bloom
-  - infect
-  - pathogen
-  - bacteria
-  - heavi
-  - metal
-  - contamin
-  - deriv
-  - agricultur
-  - industri
-  - pollut
-  - coastal
-  - region
-  - variou
-  - unhealth
-  - condit
-  - shellfish
-  - typic
-  - farm
-- - gener
-  - speak
-  - continu
-  - monitor
-  - water
-  - condit
-  - shellfish
-  - health
-  - rare
-  - even
-  - U
-  - S
-- - when
-  - unsaf
-  - level
-  - toxin
-  - unhealth
-  - condit
-  - suspect
-  - first
-  - studi
-  - possibl
-  - amelior
-- - thi
-  - process
-  - sever
-  - year
-  - dure
-  - time
-  - consum
-  - often
-  - not
-  - awar
-  - problem
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/shellfish.yaml,
+  originalSentence: One study of Korean 9 to 12 year old girls found that breast development
+    was significantly positively associated with consumption of shellfish and processed
+    meat., sentence: one studi korean 9 12 year old girl found breast develop signific
+    posit associ consumpt shellfish process meat, tags: shellfish}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/shellfish.yaml,
+  originalSentence: 'Yessotoxin, an algal toxin that can accumulate in edible mollusks,
+    has been shown to interfere with the tumor suppressive functions of E-cadherin
+    in breast cancer and other cancer cells.', sentence: yessotoxin algal toxin accumul
+    edibl mollusk shown interfer tumor suppress function e cadherin breast cancer
+    cancer cell, tags: shellfish}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/shellfish.yaml,
+  originalSentence: 'The heavy metal cadmium, which is found frequently in shellfish,
+    has been shown to increase the risk of breast cancer.', sentence: the heavi metal
+    cadmium found frequent shellfish shown increas risk breast cancer, tags: shellfish}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/shellfish.yaml,
+  originalSentence: 'Shellfish, particularly oysters and lobster, can also contain
+    high levels of copper, which could contribute to angiogenesis and metastasis of
+    breast cancer.', sentence: shellfish particular oyster lobster also contain high
+    level copper could contribut angiogenesi metastasi breast cancer, tags: shellfish}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/shellfish.yaml,
+  originalSentence: 'While individual components of shellfish, such as omega 3 fatty
+    acids, have been shown to be preventative against breast cancer, shellfish consumption
+    is more likely to increase the risk of breast cancer and other cancers  than to
+    be protective.', sentence: while individu compon shellfish omega 3 fatti acid
+    shown prevent breast cancer shellfish consumpt like increas risk breast cancer
+    cancer protect, tags: shellfish}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/shellfish.yaml,
+  originalSentence: 'Health risks are derived from a combination of natural toxins
+    from algal blooms, infection with pathogenic bacteria, heavy metals and other
+    contaminates derived from agricultural and industrial pollution of coastal regions,
+    and various unhealthful conditions under which shellfish typically are farmed.',
+  sentence: health risk deriv combin natur toxin algal bloom infect pathogen bacteria
+    heavi metal contamin deriv agricultur industri pollut coastal region various unhealth
+    condit shellfish typic farm, tags: shellfish}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/shellfish.yaml,
+  originalSentence: 'Generally speaking, continuous monitoring of water conditions
+    and shellfish health is rare, even in the U.S.', sentence: general speak continu
+    monitor water condit shellfish health rare even u s, tags: shellfish}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/shellfish.yaml,
+  originalSentence: 'When unsafe levels of toxins or other unhealthful conditions
+    are suspected, they first must be studied and then, if possible, ameliorated.',
+  sentence: when unsaf level toxin unhealth condit suspect first must studi possibl
+    amelior, tags: shellfish}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/shellfish.yaml,
+  originalSentence: 'This process can take several years, during which time consumers
+    often are not aware of any problem.', sentence: this process take sever year time
+    consum often awar problem, tags: shellfish}

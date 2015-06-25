@@ -1,59 +1,19 @@
----
-- - cauliflow
-  - it
-  - compon
-  - molecul
-  - found
-  - promot
-  - apoptosi
-  - suppress
-  - cell
-  - cycl
-  - progress
-  - inhibit
-  - angiogenesi
-  - human
-  - breast
-  - cancer
-  - cell
-- - furthermor
-  - cauliflow
-  - protect
-  - against
-  - cell
-  - dna
-  - damag
-- - consumpt
-  - brassica
-  - veget
-  - shown
-  - reduc
-  - estrogen
-  - metabolit
-  - 16alpha
-  - hydroxyestron
-  - breast
-  - cancer
-  - promot
-  - margin
-  - invers
-  - associ
-  - breast
-  - cancer
-  - risk
-  - popul
-  - premenopaus
-  - women
-- - cauliflow
-  - compon
-  - i3c
-  - shown
-  - increas
-  - anti
-  - cancer
-  - effect
-  - chemotherapi
-  - drug
-  - taxol
-  - paclitaxel
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cauliflower.yaml,
+  originalSentence: 'Cauliflower and its component molecules have been found to be
+    promote apoptosis, suppress cell cycle progression and inhibit angiogenesis of
+    human breast cancer cells.', sentence: cauliflow compon molecul found promot apoptosi
+    suppress cell cycl progress inhibit angiogenesi human breast cancer cell, tags: cauliflower}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cauliflower.yaml,
+  originalSentence: 'Furthermore, cauliflower can protect against cell DNA damage.',
+  sentence: furthermor cauliflow protect cell dna damag, tags: cauliflower}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cauliflower.yaml,
+  originalSentence: 'Consumption of brassica vegetables has been shown to reduce the
+    estrogen metabolite 16alpha-hydroxyestrone, which is a breast cancer promoter,
+    and to be marginally inversely associated with breast cancer risk in a population
+    of premenopausal women.', sentence: consumpt brassica veget shown reduc estrogen
+    metabolit 16alpha hydroxyestron breast cancer promot margin invers associ breast
+    cancer risk popul premenopaus women, tags: cauliflower}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/cauliflower.yaml,
+  originalSentence: Cauliflower component I3C has been shown increase the anti-cancer
+    effects of the chemotherapy drug Taxol., sentence: cauliflow compon i3c shown
+    increas anti cancer effect chemotherapi drug taxol, tags: cauliflower}

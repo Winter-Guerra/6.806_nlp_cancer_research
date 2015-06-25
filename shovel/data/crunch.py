@@ -18,13 +18,14 @@ import glob
 import matplotlib.pyplot as plt
 
 class Document():
-	def __init__(self, relationMatrix, indexOffset):
+	def __init__(self, relationMatrix, indexOffset, corpus):
 		# This will create a document.
 		self.relationMatrix = relationMatrix.flatten()
 		self.indexOffset = indexOffset
+		self.corpus = corpus
 
 	def getOriginalSentence(self, i):
-		return corpus[i+self.indexOffset]['originalSentence']
+		return self.corpus[i+self.indexOffset]['originalSentence']
 
 	def getWeighting(self, i):
 		return repr(self.relationMatrix[i])
@@ -34,7 +35,8 @@ class Document():
 		matrix = self.relationMatrix
 		k = min(len(matrix), k)
 
-		ind = numpy.argpartition(matrix, -k)[-k:] # This will make an array of k indices. Unsorted, but will be the largest K.
+		# This will make an array of k indices. Unsorted, but will be the largest K.
+		ind = numpy.argpartition(matrix, -k)[-k:]
 
 		# Now, sort the list and return the indices
 		indexofindex = numpy.argsort(matrix[ind])
@@ -43,236 +45,245 @@ class Document():
 		# print(result)
 		return result
 
+class Analyzer():
+	def __init__(self):
 
-def getTfidf():
+		# Init files
+		print("Loading corpus file")
 
-	# print(len(pathHashes))
+		with open("./sources/stemmedCorpus.yaml") as f: 
+			self.corpus = yaml.load(f, Loader=Loader)
 
-	# print(sentences)
+		print("Loading hash dictionary")
+		with open("./sources/dedupedPathIndexedHashTable.yaml") as f: 
+			self.pathIndexedHashTable = yaml.load(f, Loader=Loader)
 
-	print("Finding bigrams")
-	# Convert sentence to bigram
-	bigram_vectorizer = CountVectorizer(ngram_range=(1, 1), token_pattern=r'\b\w+\b', min_df=10, stop_words="english")
+		print("Extracting sentences")
+		self.sentences = [ str(element['sentence']) for element in self.corpus]
+		self.pathHashes = [ str(element['pathHash']) for element in self.corpus]
+		self.tags = [ str(element['tags']) for element in self.corpus]
+		self.originalSentences = [ str(element['originalSentence']) for element in self.corpus]
 
-	print("Finding count vector")
-	# Get our count vector of bigram occurances
-	X = bigram_vectorizer.fit_transform(sentences)
 
-	# print(X.shape)
+	def getTfidf(self):
 
-	# Now, let us make tf-idf vectors from this.
+		print("Finding bigrams")
+		# Convert sentence to bigram
 
-	idftransformer = TfidfTransformer()
+		n = len(self.sentences)
+		# Let us discount words that are not present in 10% of articles
+		mindf = int(0.1*n)
+		# Let us discount words that appear in almost all articles
+		maxdf = int(0.9*n)
 
-	print("Finding tf-idf")
-	tfidf = idftransformer.fit_transform(X)
+		self.bigram_vectorizer = CountVectorizer(ngram_range=(1, 2), analyzer=str.split)
 
-	# print(tfidf.shape)
+		print("Finding count vector")
+		# Get our count vector of bigram occurances
+		X = self.bigram_vectorizer.fit_transform(self.sentences)
 
-	return (tfidf, idftransformer, bigram_vectorizer, pathHashes)
+		# print(X.shape)
 
-# This should use a pathhash to look up what tag a hash belongs to:
-def belongsToTag(hsh, tag):
-	correctTags = pathIndexedHashTable.get(hsh, {'tags':[]})['tags']
-	return (tag in correctTags)
+		# Now, let us make tf-idf vectors from this.
 
-# This function is useful for matrix ops
-def indexBelongsToTag(index, pathHashes, tag):
-	# get the hash
+		self.idftransformer = TfidfTransformer()
 
-	# print(index)
-	# print(len(pathHashes))
-	hsh = pathHashes[index]
-	return belongsToTag(hsh, tag)
+		print("Finding tf-idf")
+		self.tfidf = self.idftransformer.fit_transform(X)
+
+
+	# This should use a pathhash to look up what tag a hash belongs to:
+	def belongsToTag(self, hsh, tag):
+		correctTags = self.pathIndexedHashTable.get(hsh, {'tags':[]})['tags']
+		return (tag in correctTags)
+
+	# This function is useful for matrix ops
+	def indexBelongsToTag(self, index, tag):
+		# get the hash
+
+		# print(index)
+		# print(len(pathHashes))
+		hsh = self.pathHashes[index]
+		return self.belongsToTag(hsh, tag)
 
 
 # This function should load all summaries by tag
-def analyzeSummaries(tfidf, idftransformer, bigram_vectorizer, pathHashes):
+	def analyzeSummaries(self):
 
-	print("Reading summaries")
+		print("Reading summaries")
+		# Find the filenames of the summaries
+		files = glob.glob("./sources/tokenizedStemmedSummaries/*.yaml")
+		# print(files)
 
-	rootDir = "/Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources"
-	os.chdir(rootDir)
+		totalAccuracy = 0
+		totalLinkedSentences = 0
+		totalSentences = 0
+		totalDocsWithSummaries = {}
 
-	# Find the filenames of the summaries
-	files = glob.glob("tokenizedStemmedSummaries/*.yaml")
-	# print(files)
+		numSummaries = len(files)
 
-	totalAccuracy = 0
-	totalLinkedSentences = 0
-	totalSentences = 0
-	totalDocsWithSummaries = {}
+		outputRelationMatrix = None
 
-	numSummaries = len(files)
+		for f in files:
 
-	outputRelationMatrix = None
-
-	for f in files:
-		# Find tag
-		filePath = os.path.join(rootDir, f)
-
-		basename = os.path.basename(filePath)
-		filename = os.path.splitext(basename)[0]
-		tag = filename
-
-		# Load the summary file to get the set of sentences that we need to check against our corpus
-		_sentenceList = []
-		with open(f) as _f: 
-			_sentenceList = yaml.load(_f, Loader=Loader)
+			# Load the summary file
+			fileData = []
+			with open(f) as _f: 
+				fileData = yaml.load(_f, Loader=Loader)
 
 
-		# Force all of array to be string elements
-		_sentenceList = [map(str, sentence) for sentence in _sentenceList]
+			# Get the sentences and make sure that it is a string
+			sentenceList = [element['sentence'] for element in fileData]
 
-		# Turn the tokenized sentence we loaded into a string
-		sentenceList = [" ".join(sentence) for sentence in _sentenceList]
+			# Get the tag
+			tag = fileData[0]['tags']
 
-		# Find the dimensions of the arrays we will be using
-		s = len(sentenceList)
-		(n,d) = tfidf.shape
+			# Find the dimensions of the arrays we will be using
+			s = len(sentenceList)
+			(n,d) = self.tfidf.shape
 
-		# print(sentenceList) #works!
+			# print(sentenceList) #works!
 
-		# Now, turn each sentence into tfidf vector
-		countMatrix = bigram_vectorizer.transform(sentenceList)
-		summaryTfidf = idftransformer.transform(countMatrix)
+			# Now, turn each sentence into tfidf vector
+			countMatrix = self.bigram_vectorizer.transform(sentenceList)
+			summaryTfidf = self.idftransformer.transform(countMatrix)
 
-		# print(summaryTfidf.shape)
+			# print(summaryTfidf.shape)
 
-		# Now, dot product the feature vectors to get a matrix that is (sxn). I.E. connecting every summary sentence with every other sentence.
+			# Now, dot product the feature vectors to get a matrix that is (sxn). I.E. connecting every summary sentence with every other sentence.
 
-		# print("Multiplication: ", summaryTfidf.shape, tfidf.transpose().shape)
-		# This is the cosine similarity step
-		relationMatrix = summaryTfidf.dot( tfidf.transpose())
+			# print("Multiplication: ", summaryTfidf.shape, tfidf.transpose().shape)
+			# This is the cosine similarity step
+			relationMatrix = summaryTfidf.dot( self.tfidf.transpose())
 
-		# Normalize the relation matrix such that it becomes a probability distribution
-		relationMatrix = scipy.sparse.csr_matrix( relationMatrix/relationMatrix.sum(axis=1) )
+			# Normalize the relation matrix such that it becomes a probability distribution
+			relationMatrix = scipy.sparse.csr_matrix( relationMatrix/relationMatrix.sum(axis=1) )
 
-		# print(relationMatrix.shape)
+			# print(relationMatrix.shape)
 
-		# Now, reduce the matrix such that the index of the highest column for each row is output into a (sx1) matrix.
+			# Now, reduce the matrix such that the index of the highest column for each row is output into a (sx1) matrix.
 
-		resultVector = numpy.argmax(relationMatrix.toarray(), axis=1) # sx1
-		# print(resultVector)
+			resultVector = numpy.argmax(relationMatrix.toarray(), axis=1) # sx1
+			# print(resultVector)
 
-		# Now, figure out if each element is correct in classification or not.
-		classify = numpy.vectorize(lambda x: indexBelongsToTag(x, pathHashes, tag) )
-		binaryClassification = classify(resultVector).reshape(s,1)
+			# Now, figure out if each element is correct in classification or not.
+			classify = numpy.vectorize(lambda x: tag in self.tags[x] )
+			binaryClassification = classify(resultVector).reshape(s,1)
 
-		# Now, figure out what the error is
-		accuracy = numpy.sum(binaryClassification, axis=0)/s
+			# Now, figure out what the error is
+			accuracy = numpy.sum(binaryClassification, axis=0)/s
 
-		# Now, update the total accuracy
-		totalAccuracy += accuracy
+			# Now, update the total accuracy
+			totalAccuracy += accuracy
 
-		# We should check how many linked sentences we have from the summaries.
-		totalLinkedSentences += numpy.sum(binaryClassification, axis=0)
-		totalSentences += s
+			# We should check how many linked sentences we have from the summaries.
+			totalLinkedSentences += numpy.sum(binaryClassification, axis=0)
+			totalSentences += s
 
-		# We should keep track of how many documents have at least 1 sentence strongly associated with them.
-		def addDocument(x):
-			# print(x)
-			if indexBelongsToTag(x, pathHashes, tag): 
-				totalDocsWithSummaries[x] = 1 
+			# We should keep track of how many documents have at least 1 sentence strongly associated with them.
+			def addDocument(x):
+				# print(x)
+				if tag in self.tags[x]: 
+					totalDocsWithSummaries[x] = 1 
 
 
-		logDocuments = numpy.vectorize(addDocument)
-		logDocuments(resultVector)
+			logDocuments = numpy.vectorize(addDocument)
+			logDocuments(resultVector)
 
-		# print("Acc", accuracy, "Linked sentences", totalLinkedSentences, "totalSentences",totalSentences, "docs with summaries", len(totalDocsWithSummaries))
+			# print("Acc", accuracy, "Linked sentences", totalLinkedSentences, "totalSentences",totalSentences, "docs with summaries", len(totalDocsWithSummaries))
 
-		# Update the overall relation matrix
-		if outputRelationMatrix is not None:
-			outputRelationMatrix = scipy.sparse.vstack([outputRelationMatrix, relationMatrix])
-		else:
-			outputRelationMatrix = relationMatrix
+			# Update the overall relation matrix
+			if outputRelationMatrix is not None:
+				outputRelationMatrix = scipy.sparse.vstack([outputRelationMatrix, relationMatrix])
+			else:
+				outputRelationMatrix = relationMatrix
 
-	# Calculate the total accuracy
-	print("Total accuracy", totalLinkedSentences/totalSentences)
+		# Calculate the total accuracy
+		print("Total accuracy", totalLinkedSentences/totalSentences)
 
-	os.chdir('../')
-	return outputRelationMatrix
+		self.relationMatrix = outputRelationMatrix
 
 
 # This will take a (s,n) document and output a (1,w) document where w=number of documents in our corpus.
-def splitRelationMatrixByDocument(relationMatrix, pathHashes, debug=False):
-	'''
-	>>> x = [1,1,1,3,4,5,5]
-	>>> splitRelationMatrixByDocument(x,x, True)
-	Making list of relation matrices for each document
-	[(3, 1), (4, 3), (5, 4), (7, 5)]
-	'''
+	def splitRelationMatrixByDocument(self, debug=False):
+		'''
+		>>> x = [1,1,1,3,4,5,5]
+		>>> Analyzer().splitRelationMatrixByDocument(x)
+		Making list of relation matrices for each document
+		[(3, 1), (4, 3), (5, 4), (7, 5)]
+		'''
 
-	print("Making list of relation matrices for each document")
-	
-	if debug:
-		pathHashes = relationMatrix
-
-	# print(pathHashes)
-
-	transitions = []
-	for i in range(1, len(pathHashes)):
-		if pathHashes[i-1] != pathHashes[i]:
-			transitions.append( (i, pathHashes[i-1]) )
-
-	transitions.append( (len(pathHashes), pathHashes[-1]) )
-
-	if debug:
-		return transitions
-
-	# Now, we must squash the matrix into (1,n)
-	relationMatrix = relationMatrix.sum(axis=0) # This will be in dense format
-
-	outputMatrixDict = {}
-
-	leftBound = 0
-	for lastIndexOfDocument, hsh in transitions:
+		print("Making list of relation matrices for each document")
 		
-		slicedMatrix = relationMatrix[0,leftBound:lastIndexOfDocument]
-		# Normalize the new matrix
-		subMatrix = numpy.array(slicedMatrix/slicedMatrix.sum())
+		if debug:
+			self.pathHashes = debug
 
-		# Make the document
-		doc = Document(subMatrix, leftBound)
+		# print(pathHashes)
 
-		outputMatrixDict[hsh] = doc
+		transitions = []
+		for i in range(1, len(self.pathHashes)):
+			if self.pathHashes[i-1] != self.pathHashes[i]:
+				transitions.append( (i, self.pathHashes[i-1]) )
+
+		transitions.append( (len(self.pathHashes), self.pathHashes[-1]) )
+
+		if debug:
+			print(transitions)
+			return
+
+		# Now, we must squash the matrix into (1,n)
+		relationMatrix = self.relationMatrix.sum(axis=0) # This will be in dense format
+
+		outputMatrixDict = {}
+
+		leftBound = 0
+		for lastIndexOfDocument, hsh in transitions:
+			
+			slicedMatrix = relationMatrix[0,leftBound:lastIndexOfDocument]
+			# Normalize the new matrix
+			subMatrix = numpy.array(slicedMatrix/slicedMatrix.sum())
+
+			# Make the document
+			doc = Document(subMatrix, leftBound, self.corpus)
+
+			outputMatrixDict[hsh] = doc
 
 
-		leftBound = lastIndexOfDocument
+			leftBound = lastIndexOfDocument
 
-	# Now, output the new list of matrices
-	return outputMatrixDict
-
-
-def prettyPrintRelationMatrixList(documentDict):
-	k = 5
-
-	print("Printing summary of results")
-
-	# Let us go through each document and output its top results.
-	for hsh, doc in pathIndexedHashTable.items():
-		print("--------------------------------------------")
-		print("Path Hash:", hsh)
-		print("File:", doc['filePath'])
-		print("Bucket:", doc['tags'])
+		# Now, output the new list of matrices
+		self.documentDict = outputMatrixDict
+		return 
 
 
-		# Get the relation matrix
-		# index = indexLookupTable[hsh]
-		document = documentDict[hsh]
-		# print( relationMatrix.shape)
+	def prettyPrintRelationMatrixList(self):
+		k = 5
 
-		# Now, get the top 5 index results of sentences for the matrix (1,n[x])
+		print("Printing summary of results")
 
-		indices = document.getKImportantSentences(k)
+		# Let us go through each document and output its top results.
+		for hsh, doc in self.pathIndexedHashTable.items():
+			print("--------------------------------------------")
+			print("Path Hash:", hsh)
+			print("File:", doc['filePath'])
+			print("Bucket:", doc['tags'])
 
-		# Package the sentence data that correspond to these indices
-		# print(relationMatrix[0])
-		sentenceList = [ {'sentence': document.getOriginalSentence(i), 'weighting': document.getWeighting(i)} for i in reversed(indices)]
 
-		# Print the results to stdio
-		outputData = yaml.dump(sentenceList, Dumper=Dumper)
-		print(outputData)
+			# Get the relation matrix
+			# index = indexLookupTable[hsh]
+			document = self.documentDict[hsh]
+			# print( relationMatrix.shape)
+
+			# Now, get the top 5 index results of sentences for the matrix (1,n[x])
+			indices = document.getKImportantSentences(k)
+
+			# Package the sentence data that correspond to these indices
+			# print(relationMatrix[0])
+			sentenceList = [ {'sentence': document.getOriginalSentence(i), 'weighting': document.getWeighting(i)} for i in reversed(indices)]
+
+			# Print the results to stdio
+			outputData = yaml.dump(sentenceList, Dumper=Dumper)
+			print(outputData)
 
 @task
 def runDoctest():
@@ -281,34 +292,20 @@ def runDoctest():
 
 
 @task
-def crunchData():
+def run():
 
-	# Init files
-	print("Loading corpus file")
-
-	corpus = []
-	with open("./sources/stemmedCorpus.yaml") as f: 
-		corpus = yaml.load(f, Loader=Loader)
-
-	print("Loading hash dictionary")
-	pathIndexedHashTable = {}
-	with open("./sources/dedupedPathIndexedHashTable.yaml") as f: 
-		pathIndexedHashTable = yaml.load(f, Loader=Loader)
-
-	print("Extracting sentences")
-	sentences = [ str(element['sentence']) for element in corpus]
-	pathHashes = [ str(element['pathHash']) for element in corpus]
+	analyzer = Analyzer()
 
 	# REAL PROG STARTS HERE
+	analyzer.getTfidf()
 
-	(tfidf, transformer, bigram_vectorizer, pathHashes) = getTfidf()
-	relationMatrix = analyzeSummaries(tfidf, transformer, bigram_vectorizer, pathHashes)
+	analyzer.analyzeSummaries()
 
 	# Now, let's try to process the resulting sentence distribution for each document
-	outputMatrixList = splitRelationMatrixByDocument(relationMatrix, pathHashes=pathHashes)
+	analyzer.splitRelationMatrixByDocument()
 
 	# Let's prettyprint the file data
-	prettyPrintRelationMatrixList(outputMatrixList)
+	analyzer.prettyPrintRelationMatrixList()
 
 
 

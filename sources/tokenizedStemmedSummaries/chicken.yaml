@@ -1,151 +1,46 @@
----
-- - chicken
-  - poultri
-  - consumpt
-  - found
-  - numer
-  - studi
-  - associ
-  - lower
-  - risk
-  - breast
-  - cancer
-  - although
-  - not
-  - publish
-  - research
-  - consist
-  - point
-- - consumpt
-  - white
-  - meat
-  - associ
-  - lower
-  - breast
-  - densiti
-  - strong
-  - breast
-  - cancer
-  - risk
-  - factor
-  - on
-  - studi
-- - anoth
-  - larg
-  - prospect
-  - studi
-  - report
-  - adolesc
-  - poultri
-  - intak
-  - associ
-  - lower
-  - risk
-  - breast
-  - cancer
-  - adulthood
-- - the
-  - associ
-  - result
-  - food
-  - substitut
-  - eat
-  - chicken
-  - rather
-  - red
-  - meat
-  - reduc
-  - proport
-  - red
-  - meat
-  - diet
-- - for
-  - eat
-  - meat
-  - organ
-  - chicken
-  - better
-  - choic
-  - beef
-  - pork
-  - process
-  - meat
-- - the
-  - method
-  - prepar
-  - appear
-  - import
-  - done
-  - barbecu
-  - chicken
-  - deep
-  - fri
-  - chicken
-  - grill
-  - done
-  - chicken
-  - skin
-  - pan
-  - fri
-  - chicken
-  - found
-  - contain
-  - unaccept
-  - high
-  - level
-  - heterocycl
-  - amin
-  - hca
-  - benzo
-  - pyren
-  - bap
-  - known
-  - carcinogen
-- - chicken
-  - gravi
-  - made
-  - pan
-  - drip
-  - not
-  - recommend
-- - popul
-  - studi
-  - examin
-  - cook
-  - method
-  - found
-  - consumpt
-  - deep
-  - fri
-  - chicken
-  - chicken
-  - skin
-  - associ
-  - increas
-  - breast
-  - cancer
-  - risk
-- - base
-  - avail
-  - evid
-  - organ
-  - skinless
-  - chicken
-  - not
-  - char
-  - cook
-  - us
-  - high
-  - heat
-  - method
-  - mai
-  - offer
-  - protect
-  - against
-  - breast
-  - cancer
-  - least
-  - not
-  - increas
-  - risk
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'Chicken and poultry consumption have been found in numerous studies
+    to be associated with lower risk of breast cancer, although not all published
+    research is consistent on this point.', sentence: chicken poultri consumpt found
+    numer studi associ lower risk breast cancer although publish research consist
+    point, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'Consumption of white meat was associated with lower breast density,
+    a strong breast cancer risk factor, in one study.', sentence: consumpt white meat
+    associ lower breast densiti strong breast cancer risk factor one studi, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: Another large prospective study reported that adolescent poultry
+    intake was associated with lower risk of breast cancer in adulthood., sentence: anoth
+    larg prospect studi report adolesc poultri intak associ lower risk breast cancer
+    adulthood, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: The associations might be a result of food substitution  eating
+    chicken rather than red meat reduces the proportion of red meat in the diet.,
+  sentence: the associ might result food substitut eat chicken rather red meat reduc
+    proport red meat diet, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'For those who eat meat, organic chicken is a much better choice
+    than beef, pork or processed meat.', sentence: for eat meat organ chicken much
+    better choic beef pork process meat, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'The method of preparation appears to be important; very well
+    done barbecued chicken, deep fried chicken, grilled well done chicken with skin,
+    and pan-fried chicken all have been found to contain unacceptably high levels
+    of heterocyclic amines  and benzopyrene, which are known carcinogens.', sentence: the
+    method prepar appear import well done barbecu chicken deep fri chicken grill well
+    done chicken skin pan fri chicken found contain unaccept high level heterocycl
+    amin benzopyren known carcinogen, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: Chicken gravy made with pan drippings is also not recommended.,
+  sentence: chicken gravi made pan drip also recommend, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: Population studies that examined cooking methods have found consumption
+    of deep fried chicken and chicken with skin to be associated with increased breast
+    cancer risk., sentence: popul studi examin cook method found consumpt deep fri
+    chicken chicken skin associ increas breast cancer risk, tags: chicken}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/chicken.yaml,
+  originalSentence: 'Based on the available evidence, organic skinless chicken that
+    has not been charred or cooked using a high-heat method may offer some protection
+    against breast cancer or at least not increase risk.', sentence: base avail evid
+    organ skinless chicken char cook use high heat method may offer protect breast
+    cancer least increas risk, tags: chicken}

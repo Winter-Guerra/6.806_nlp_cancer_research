@@ -1,167 +1,54 @@
----
-- - blueberri
-  - found
-  - inhibit
-  - mammari
-  - cancer
-  - cell
-  - prolifer
-  - mice
-  - rat
-  - inhibit
-  - cultur
-  - cancer
-  - cell
-  - growth
-  - laboratori
-  - blood
-  - vessel
-  - tumor
-  - rat
-- - pterostilben
-  - shown
-  - inhibit
-  - obes
-  - relat
-  - breast
-  - cancer
-  - growth
-  - prolifer
-  - laboratori
-  - addit
-  - treatment
-  - effect
-  - when
-  - combin
-  - tamoxifen
-  - estrogen
-  - receptor
-  - posit
-  - ER
-  - breast
-  - cancer
-  - cell
-- - pterostilben
-  - shown
-  - reduc
-  - format
-  - breast
-  - cancer
-  - stem
-  - cell
-  - inhibit
-  - metastat
-  - activ
-- - blueberri
-  - good
-  - sourc
-  - resveratrol
-  - shown
-  - increas
-  - effect
-  - radiat
-  - aromatas
-  - inhibitor
-  - chemotherapi
-  - drug
-  - taxol
-  - paclitaxel
-  - against
-  - breast
-  - cancer
-- - blueberri
-  - extract
-  - shown
-  - exhibit
-  - antitumor
-  - activ
-  - against
-  - mda
-  - MB
-  - 231
-  - tripl
-  - neg
-  - breast
-  - cancer
-  - cell
-  - reduc
-  - metastat
-  - potenti
-- - blueberri
-  - found
-  - inhibit
-  - cell
-  - prolifer
-  - tripl
-  - neg
-  - cell
-  - no
-  - effect
-  - normal
-  - breast
-  - cell
-  - on
-  - studi
-- - blueberri
-  - reduc
-  - metastat
-  - potenti
-  - tripl
-  - neg
-  - cell
-  - inhibit
-  - cell
-  - motil
-- - In
-  - anim
-  - studi
-  - dietari
-  - blueberri
-  - shown
-  - reduc
-  - tripl
-  - neg
-  - tumor
-  - volum
-  - femal
-  - mice
-- - blueberri
-  - diet
-  - reduc
-  - tripl
-  - neg
-  - prolifer
-  - measur
-  - Ki
-  - 67
-  - increas
-  - cell
-  - death
-- - In
-  - addit
-  - blueberri
-  - diet
-  - inhibit
-  - tripl
-  - neg
-  - tumor
-  - metastasi
-  - mous
-  - studi
-- - analysi
-  - tumor
-  - tissu
-  - demonstr
-  - blueberri
-  - fed
-  - mice
-  - tumor
-  - significantli
-  - alter
-  - express
-  - gene
-  - import
-  - inflamm
-  - cancer
-  - metastasi
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blueberries.yaml,
+  originalSentence: 'Blueberries have been found to inhibit mammary cancer cell proliferation
+    in mice and rats, as well as inhibiting cultured cancer cell growth in the laboratory
+    and blood vessel tumors in rats.', sentence: blueberri found inhibit mammari cancer
+    cell prolifer mice rat well inhibit cultur cancer cell growth laboratori blood
+    vessel tumor rat, tags: blueberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blueberries.yaml,
+  originalSentence: Pterostilbene has been shown to inhibit obesity-related breast
+    cancer growth and proliferation in the laboratory and to have additive treatment
+    effects when combined with tamoxifen in estrogen receptor positive  breast cancer
+    cells., sentence: pterostilben shown inhibit obes relat breast cancer growth prolifer
+    laboratori addit treatment effect combin tamoxifen estrogen receptor posit breast
+    cancer cell, tags: blueberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blueberries.yaml,
+  originalSentence: Pterostilbene also has been shown to reduce the formation of breast
+    cancer stem cells and inhibit their metastatic activities., sentence: pterostilben
+    also shown reduc format breast cancer stem cell inhibit metastat activ, tags: blueberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blueberries.yaml,
+  originalSentence: 'Blueberries are a good source of resveratrol, which has been
+    shown to increase the effects of radiation, aromatase inhibitors and the chemotherapy
+    drug Taxol  against breast cancer.', sentence: blueberri good sourc resveratrol
+    shown increas effect radiat aromatas inhibitor chemotherapi drug taxol breast
+    cancer, tags: blueberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blueberries.yaml,
+  originalSentence: Blueberry extract has been shown to exhibit antitumor activity
+    against MDA-MB-231 triple negative breast cancer cells and reduce their metastatic
+    potential., sentence: blueberri extract shown exhibit antitumor activ mda mb 231
+    tripl negat breast cancer cell reduc metastat potenti, tags: blueberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blueberries.yaml,
+  originalSentence: Blueberry was found to inhibit cell proliferation in triple negative
+    cells with no effect on normal breast cells in one study., sentence: blueberri
+    found inhibit cell prolifer tripl negat cell effect normal breast cell one studi,
+  tags: blueberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blueberries.yaml,
+  originalSentence: Blueberry also reduced the metastatic potential of triple negative
+    cells through inhibition of cell motility., sentence: blueberri also reduc metastat
+    potenti tripl negat cell inhibit cell motil, tags: blueberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blueberries.yaml,
+  originalSentence: 'In animal studies, dietary blueberry has been shown to reduce
+    triple negative tumor volume in female mice.', sentence: in anim studi dietari
+    blueberri shown reduc tripl negat tumor volum femal mice, tags: blueberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blueberries.yaml,
+  originalSentence: Blueberry diets reduced triple negative proliferation  and increased
+    cell death., sentence: blueberri diet reduc tripl negat prolifer increas cell
+    death, tags: blueberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blueberries.yaml,
+  originalSentence: 'In addition, a blueberry diet inhibited triple negative tumor
+    metastasis in another mouse study.', sentence: in addit blueberri diet inhibit
+    tripl negat tumor metastasi anoth mous studi, tags: blueberries}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/blueberries.yaml,
+  originalSentence: 'Analysis of tumor tissues has demonstrated that blueberry-fed
+    mice tumors have significantly altered expression of genes important to inflammation,
+    cancer, and metastasis.', sentence: analysi tumor tissu demonstr blueberri fed
+    mice tumor signific alter express gene import inflamm cancer metastasi, tags: blueberries}

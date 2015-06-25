@@ -1,30 +1,13 @@
----
-- - rhubarb
-  - good
-  - sourc
-  - vitamin
-  - C
-  - calcium
-  - magnesium
-  - dietari
-  - fiber
-- - rhubarb
-  - contain
-  - carotenoid
-  - lutein
-  - zeaxanthin
-  - shown
-  - anticanc
-  - activ
-- - rhubarb
-  - shown
-  - anti
-  - inflammatori
-  - anti
-  - atherosclerosi
-  - plaqu
-  - stabil
-  - action
-  - laboratori
-  - anim
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/rhubarb.yaml,
+  originalSentence: 'Rhubarb is a good source of vitamin C, calcium, magnesium and
+    dietary fiber.', sentence: rhubarb good sourc vitamin c calcium magnesium dietari
+    fiber, tags: rhubarb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/rhubarb.yaml,
+  originalSentence: 'Rhubarb contains the carotenoids lutein and zeaxanthin, which
+    have been shown to have some anticancer activities.', sentence: rhubarb contain
+    carotenoid lutein zeaxanthin shown anticanc activ, tags: rhubarb}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/rhubarb.yaml,
+  originalSentence: 'Rhubarb has also been shown to have anti-inflammatory, anti-atherosclerosis
+    and plaque-stabilizing actions in laboratory animals.', sentence: rhubarb also
+    shown anti inflammatori anti atherosclerosi plaqu stabil action laboratori anim,
+  tags: rhubarb}

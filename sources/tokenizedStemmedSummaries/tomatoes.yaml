@@ -1,216 +1,59 @@
----
-- - A
-  - number
-  - studi
-  - found
-  - invers
-  - associ
-  - breast
-  - cancer
-  - risk
-  - increas
-  - consumpt
-  - tomato
-  - compon
-  - tomato
-  - veget
-  - high
-  - level
-  - carotenoid
-  - includ
-  - tomato
-- - for
-  - exampl
-  - on
-  - studi
-  - compris
-  - 84
-  - 805
-  - postmenopaus
-  - women
-  - women
-  - health
-  - initi
-  - observ
-  - studi
-  - found
-  - dietari
-  - caroten
-  - caroten
-  - lycopen
-  - found
-  - invers
-  - associ
-  - risk
-  - ER
-  - PR
-  - breast
-  - cancer
-- - anoth
-  - studi
-  - found
-  - dietari
-  - carotenoid
-  - inhibit
-  - cancer
-  - promot
-  - effect
-  - estradiol
-  - genistein
-  - phytoestrogen
-  - found
-  - soi
-  - therebi
-  - reduc
-  - harm
-  - effect
-  - hormon
-  - depend
-  - breast
-  - cancer
-- - studi
-  - naringenin
-  - tomato
-  - flavanon
-  - shown
-  - inhibit
-  - ER
-  - breast
-  - cancer
-  - cell
-  - growth
-  - migrat
-  - presenc
-  - estradiol
-- - delphinidin
-  - anthocyanin
-  - found
-  - tomato
-  - shown
-  - block
-  - epiderm
-  - growth
-  - factor
-  - receptor
-  - egfr
-  - signal
-  - breast
-  - cancer
-  - cell
-  - egfr
-  - express
-  - high
-  - level
-  - least
-  - 30
-  - breast
-  - cancer
-  - associ
-  - poor
-  - prognosi
-- - howev
-  - on
-  - larg
-  - studi
-  - found
-  - no
-  - associ
-  - dietari
-  - plasma
-  - lycopen
-  - level
-  - risk
-  - breast
-  - cancer
-  - middl
-  - ag
-  - older
-  - women
-- - sever
-  - studi
-  - earli
-  - stage
-  - breast
-  - cancer
-  - survivor
-  - found
-  - higher
-  - level
-  - cartenoid
-  - blood
-  - associ
-  - lower
-  - risk
-  - break
-  - cancer
-  - recurr
-  - lower
-  - risk
-  - new
-  - primari
-  - breast
-  - tumor
-- - anoth
-  - studi
-  - found
-  - plasma
-  - level
-  - retinol
-  - form
-  - vitamin
-  - A
-  - product
-  - caroten
-  - bodi
-  - posit
-  - associ
-  - breast
-  - cancer
-  - surviv
-  - postmenopaus
-  - women
-- - As
-  - note
-  - abov
-  - tomato
-  - good
-  - dietari
-  - sourc
-  - melatonin
-- - melatonin
-  - protect
-  - against
-  - breast
-  - cancer
-  - sever
-  - wai
-  - includ
-  - reduc
-  - aromatas
-  - activ
-  - within
-  - breast
-  - therebi
-  - reduc
-  - estrogen
-  - product
-- - sever
-  - studi
-  - shown
-  - cardioprotect
-  - effect
-  - tomato
-  - lycopen
-  - extend
-  - reduc
-  - impact
-  - myocardi
-  - toxic
-  - adriamycin
-  - doxorubicin
-  - chemotherapi
-  - amelior
-  - cardiac
-  - cell
-  - injuri
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'A number of studies have found an inverse association between
+    breast cancer risk and increasing consumption of tomatoes, components of tomatoes,
+    or vegetables that have high levels of carotenoids.', sentence: a number studi
+    found invers associ breast cancer risk increas consumpt tomato compon tomato veget
+    high level carotenoid, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'For example, one study comprising 84,805 postmenopausal women
+    in the Womens Health Initiative Observational Study found that dietary -carotene,
+    -carotene, and lycopene were each found to be inversely associated with the risk
+    of ER+/PR+ breast cancer.', sentence: for exampl one studi compris 84 805 postmenopaus
+    women women health initi observ studi found dietari caroten caroten lycopen found
+    invers associ risk er pr breast cancer, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'Another study found that dietary carotenoids inhibit the cancer-promoting
+    effects of both estradiol and genistein, thereby reducing their harmful effect
+    in hormone-dependent breast cancer.', sentence: anoth studi found dietari carotenoid
+    inhibit cancer promot effect estradiol genistein therebi reduc harm effect hormon
+    depend breast cancer, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'Studies of naringenin, a tomato flavanone, have shown that it
+    also inhibits ER+ breast cancer cell growth and migration in the presence of estradiol.',
+  sentence: studi naringenin tomato flavanon shown also inhibit er breast cancer cell
+    growth migrat presenc estradiol, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'Delphinidin, an anthocyanin found in tomatoes, has been shown
+    to block epidermal growth factor receptor  signaling in breast cancer cells.',
+  sentence: delphinidin anthocyanin found tomato shown block epiderm growth factor
+    receptor signal breast cancer cell, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'However, one large study found no association between dietary
+    or plasma lycopene levels and the risk of breast cancer in middle-aged and older
+    women.', sentence: howev one larg studi found associ dietari plasma lycopen level
+    risk breast cancer middl age older women, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: Several studies of early-stage breast cancer survivors have found
+    that higher levels of cartenoids in the blood are associated with both lower risk
+    of break cancer recurrence and lower risk of a new primary breast tumor., sentence: sever
+    studi earli stage breast cancer survivor found higher level cartenoid blood associ
+    lower risk break cancer recurr lower risk new primari breast tumor, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: Another study found that plasma levels of retinol  also are positively
+    associated with breast cancer survival in postmenopausal women., sentence: anoth
+    studi found plasma level retinol also posit associ breast cancer surviv postmenopaus
+    women, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'As noted above, tomatoes are a good dietary source of melatonin.',
+  sentence: as note tomato good dietari sourc melatonin, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: 'Melatonin protects against breast cancer in several ways, including
+    by reducing aromatase activity within the breast, thereby reducing estrogen production.',
+  sentence: melatonin protect breast cancer sever way includ reduc aromatas activ
+    within breast therebi reduc estrogen product, tags: tomatoes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/tomatoes.yaml,
+  originalSentence: Several studies have shown that the cardioprotective effect of
+    tomatoes and lycopene extends to reducing the impact of myocardial toxicity from
+    Adriamycin  chemotherapy by ameliorating cardiac cell injury., sentence: sever
+    studi shown cardioprotect effect tomato lycopen extend reduc impact myocardi toxic
+    adriamycin chemotherapi amelior cardiac cell injuri, tags: tomatoes}

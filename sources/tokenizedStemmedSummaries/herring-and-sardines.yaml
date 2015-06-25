@@ -1,238 +1,70 @@
----
-- - like
-  - fatti
-  - fish
-  - her
-  - contain
-  - marin
-  - fatti
-  - acid
-  - docosahexaeno
-  - acid
-  - dha
-  - eicosapentaeno
-  - acid
-  - epa
-  - chemoprevent
-  - properti
-- - these
-  - marin
-  - fatti
-  - acid
-  - shown
-  - inhibit
-  - prolifer
-  - breast
-  - cancer
-  - cell
-  - laboratori
-- - rel
-  - high
-  - fatti
-  - fish
-  - intak
-  - shown
-  - associ
-  - reduc
-  - risk
-  - breast
-  - cancer
-  - improv
-  - surviv
-- - In
-  - on
-  - experi
-  - diet
-  - incorpor
-  - higher
-  - omega
-  - omega
-  - fatti
-  - acid
-  - ratio
-  - reduc
-  - mammari
-  - gland
-  - densiti
-  - mice
-  - turn
-  - reduc
-  - carcinogen
-  - induc
-  - mammari
-  - tumor
-  - develop
-- - fish
-  - oil
-  - shown
-  - inhibit
-  - earli
-  - stage
-  - mammari
-  - tumor
-  - develop
-  - mous
-  - model
-  - her
-  - neu
-  - overexpress
-  - her2
-  - breast
-  - cancer
-- - dha
-  - demonstr
-  - reduc
-  - bone
-  - metastasi
-  - mous
-  - model
-  - breast
-  - cancer
-- - mani
-  - epidemiolog
-  - studi
-  - found
-  - convinc
-  - evid
-  - neg
-  - associ
-  - dha
-  - epa
-  - intak
-  - fatti
-  - fish
-  - consumpt
-  - risk
-  - breast
-  - cancer
-  - not
-  - agreement
-- - A
-  - studi
-  - finnish
-  - fishermen
-  - wive
-  - found
-  - high
-  - fish
-  - consumpt
-  - appear
-  - reduc
-  - mortal
-  - overal
-  - despit
-  - high
-  - intak
-  - environment
-  - contamin
-  - fish
-  - not
-  - reduc
-  - mortal
-  - cancer
-  - women
-- - A
-  - swedish
-  - studi
-  - compar
-  - breast
-  - cancer
-  - rate
-  - two
-  - larg
-  - group
-  - fishermen
-  - wive
-  - found
-  - lower
-  - risk
-  - breast
-  - cancer
-  - resid
-  - west
-  - coast
-  - sweden
-  - compar
-  - east
-  - baltic
-  - coast
-  - fish
-  - known
-  - contamin
-  - organochlorin
-  - compound
-- - sever
-  - studi
-  - found
-  - higher
-  - omega
-  - omega
-  - polyunsatur
-  - fatti
-  - acid
-  - ratio
-  - associ
-  - reduc
-  - risk
-  - breast
-  - cancer
-  - consum
-  - her
-  - similar
-  - fish
-  - tend
-  - improv
-  - ratio
-  - women
-- - marin
-  - fatti
-  - acid
-  - found
-  - enhanc
-  - therapeut
-  - effect
-  - tamoxifen
-  - chemotherapi
-  - drug
-  - adriamycin
-  - taxol
-- - howev
-  - note
-  - recent
-  - research
-  - suggest
-  - her
-  - sardin
-  - similar
-  - fish
-  - anchovi
-  - not
-  - consum
-  - dai
-  - dai
-  - chemotherapi
-  - treatment
-  - consum
-  - moder
-  - dure
-  - remain
-  - dai
-  - cycl
-- - her
-  - similar
-  - fish
-  - contain
-  - fatti
-  - acid
-  - hexadeca
-  - 10
-  - 13
-  - tetraeno
-  - acid
-  - induc
-  - resist
-  - broad
-  - spectrum
-  - chemotherapi
-  - drug
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/herring-and-sardines.yaml,
+  originalSentence: 'Like other fatty fish, herring contains the marine fatty acids
+    docosahexaenoic acid  and eicosapentaenoic acid, which have chemopreventive properties.',
+  sentence: like fatti fish herring contain marin fatti acid docosahexaeno acid eicosapentaeno
+    acid chemoprevent properti, tags: herring-and-sardines}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/herring-and-sardines.yaml,
+  originalSentence: These marine fatty acids have been shown to inhibit proliferation
+    of breast cancer cells in the laboratory., sentence: these marin fatti acid shown
+    inhibit prolifer breast cancer cell laboratori, tags: herring-and-sardines}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/herring-and-sardines.yaml,
+  originalSentence: Relatively high fatty fish intake has been shown to be associated
+    with reduced risk of breast cancer and improved survival., sentence: relat high
+    fatti fish intak shown associ reduc risk breast cancer improv surviv, tags: herring-and-sardines}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/herring-and-sardines.yaml,
+  originalSentence: 'In one experiment, diets incorporating higher omega-3 to omega-6
+    fatty acid ratios reduced mammary gland density in mice, which in turn reduced
+    carcinogen-induced mammary tumor development.', sentence: in one experi diet incorpor
+    higher omega 3 omega 6 fatti acid ratio reduc mammari gland densiti mice turn
+    reduc carcinogen induc mammari tumor develop, tags: herring-and-sardines}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/herring-and-sardines.yaml,
+  originalSentence: Fish oil has been shown to inhibit early stages of mammary tumor
+    development in a mouse model of HER-2/neu overexpressing  breast cancer., sentence: fish
+    oil shown inhibit earli stage mammari tumor develop mous model her 2 neu overexpress
+    breast cancer, tags: herring-and-sardines}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/herring-and-sardines.yaml,
+  originalSentence: DHA has been demonstrated to reduce bone metastasis in a mouse
+    model of breast cancer., sentence: dha demonstr reduc bone metastasi mous model
+    breast cancer, tags: herring-and-sardines}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/herring-and-sardines.yaml,
+  originalSentence: 'Many epidemiological studies have found convincing evidence of
+    a negative association between DHA and EPA intake or fatty fish consumption and
+    the risk of breast cancer, but not all are in agreement.', sentence: mani epidemiolog
+    studi found convinc evid negat associ dha epa intak fatti fish consumpt risk breast
+    cancer agreement, tags: herring-and-sardines}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/herring-and-sardines.yaml,
+  originalSentence: 'A study of Finnish fishermen and their wives found that while
+    their high fish consumption appeared to reduce mortality overall, it did not reduce
+    mortality from cancer in the women.', sentence: a studi finnish fishermen wive
+    found high fish consumpt appear reduc mortal overal reduc mortal cancer women,
+  tags: herring-and-sardines}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/herring-and-sardines.yaml,
+  originalSentence: 'A Swedish study comparing the breast cancer rates of two large
+    groups of fishermens wives found a lower risk of breast cancer for those residing
+    on the west coast of Sweden compared to the east  coast, where the fish are known
+    to be contaminated with more organochlorine compounds.', sentence: a swedish studi
+    compar breast cancer rate two larg group fishermen wive found lower risk breast
+    cancer resid west coast sweden compar east coast fish known contamin organochlorin
+    compound, tags: herring-and-sardines}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/herring-and-sardines.yaml,
+  originalSentence: Several studies have found that higher omega-3/omega-6 polyunsaturated
+    fatty acid ratios are associated with reduced risk of breast cancer and consuming
+    herring or similar fish would tend to improve this ratio for most women., sentence: sever
+    studi found higher omega 3 omega 6 polyunsatur fatti acid ratio associ reduc risk
+    breast cancer consum herring similar fish would tend improv ratio women, tags: herring-and-sardines}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/herring-and-sardines.yaml,
+  originalSentence: Marine fatty acids have also been found to enhance the therapeutic
+    effects of tamoxifen and chemotherapy drugs such as Adriamycin and Taxol., sentence: marin
+    fatti acid also found enhanc therapeut effect tamoxifen chemotherapi drug adriamycin
+    taxol, tags: herring-and-sardines}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/herring-and-sardines.yaml,
+  originalSentence: 'However, note that recent research suggests that herring, sardines
+    and similar fish such as anchovies should not be consumed the day before through
+    the day after a chemotherapy treatment and consumed only in moderation during
+    the remaining days of each cycle.', sentence: howev note recent research suggest
+    herring sardin similar fish anchovi consum day day chemotherapi treatment consum
+    moder remain day cycl, tags: herring-and-sardines}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/herring-and-sardines.yaml,
+  originalSentence: Herring and similar fish contain a fatty acid  that can induce
+    resistance to a broad spectrum of chemotherapy drugs., sentence: herring similar
+    fish contain fatti acid induc resist broad spectrum chemotherapi drug, tags: herring-and-sardines}

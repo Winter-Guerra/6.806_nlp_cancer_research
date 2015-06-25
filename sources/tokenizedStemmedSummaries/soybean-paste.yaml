@@ -1,95 +1,35 @@
----
-- - soybean
-  - past
-  - type
-  - ferment
-  - bean
-  - past
-  - wide
-  - us
-  - asian
-  - cuisin
-- - soybean
-  - past
-  - normal
-  - salti
-  - mai
-  - spici
-- - the
-  - soybean
-  - mai
-  - roast
-  - ag
-  - ground
-  - past
-  - variou
-  - ingredi
-  - wheat
-  - flour
-  - sugar
-  - hot
-  - pepper
-  - past
-  - mai
-  - incorpor
-  - past
-- - the
-  - condit
-  - ferment
-  - microflora
-  - us
-  - product
-  - affect
-  - flavor
-- - soybean
-  - past
-  - us
-  - condiment
-  - flavor
-  - dish
-  - stir
-  - fri
-  - soup
-- - miso
-  - ferment
-  - soybean
-  - past
-  - wide
-  - us
-  - japan
-  - soup
-  - base
-  - season
-- - thi
-  - web
-  - page
-  - focus
-  - soybean
-  - past
-  - tofu
-  - soybean
-  - oil
-  - soi
-  - protein
-  - isol
-  - soybean
-  - cover
-  - separ
-  - web
-  - page
-- - We
-  - attempt
-  - untangl
-  - conflict
-  - find
-  - regard
-  - breast
-  - cancer
-  - risk
-  - soybean
-  - isoflavon
-  - genistein
-  - daidzein
-  - web
-  - page
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-paste.yaml,
+  originalSentence: Soybean paste is a type of fermented bean paste widely used in
+    Asian cuisine., sentence: soybean past type ferment bean past wide use asian cuisin,
+  tags: soybean-paste}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-paste.yaml,
+  originalSentence: Soybean paste normally is salty and may also be spicy., sentence: soybean
+    past normal salti may also spici, tags: soybean-paste}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-paste.yaml,
+  originalSentence: 'The soybeans may be roasted or aged before being ground to make
+    the paste and various other ingredients such as wheat flour, sugar or hot pepper
+    paste may be incorporated into the paste.', sentence: the soybean may roast age
+    ground make past various ingredi wheat flour sugar hot pepper past may incorpor
+    past, tags: soybean-paste}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-paste.yaml,
+  originalSentence: The conditions of fermentation and microflora used in production
+    also affect the flavor., sentence: the condit ferment microflora use product also
+    affect flavor, tags: soybean-paste}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-paste.yaml,
+  originalSentence: Soybean paste is used as a condiment to flavor dishes such as
+    stir-fries and soups., sentence: soybean past use condiment flavor dish stir fri
+    soup, tags: soybean-paste}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-paste.yaml,
+  originalSentence: Miso is a fermented soybean paste widely used in Japan as a soup
+    base or for seasoning., sentence: miso ferment soybean past wide use japan soup
+    base season, tags: soybean-paste}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-paste.yaml,
+  originalSentence: 'This web page focuses on soybean paste; tofu, soybean oil, soy
+    protein isolate and soybeans are covered in separate web pages.', sentence: this
+    web page focus soybean past tofu soybean oil soy protein isol soybean cover separ
+    web page, tags: soybean-paste}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/soybean-paste.yaml,
+  originalSentence: We attempt to untangle the conflicting findings regarding breast
+    cancer risk and soybean isoflavones in the genistein and daidzein web page., sentence: we
+    attempt untangl conflict find regard breast cancer risk soybean isoflavon genistein
+    daidzein web page, tags: soybean-paste}

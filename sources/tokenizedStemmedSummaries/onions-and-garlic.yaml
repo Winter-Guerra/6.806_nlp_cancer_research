@@ -1,101 +1,31 @@
----
-- - numer
-  - studi
-  - shown
-  - onion
-  - garlic
-  - compon
-  - inhibit
-  - prolifer
-  - reduc
-  - migrat
-  - invas
-  - induc
-  - apoptosi
-  - cultur
-  - human
-  - breast
-  - cancer
-  - cell
-- - on
-  - larg
-  - european
-  - studi
-  - found
-  - eat
-  - onion
-  - garlic
-  - associ
-  - lower
-  - risk
-  - breast
-  - cancer
-- - anoth
-  - larg
-  - italian
-  - popul
-  - base
-  - studi
-  - found
-  - relationship
-  - consumpt
-  - increas
-  - intak
-  - flavon
-  - flavonol
-  - found
-  - allium
-  - veget
-  - reduct
-  - risk
-  - breast
-  - cancer
-- - A
-  - studi
-  - women
-  - mexico
-  - citi
-  - found
-  - consum
-  - on
-  - slice
-  - onion
-  - per
-  - dai
-  - associ
-  - reduc
-  - risk
-  - breast
-  - cancer
-- - A
-  - korean
-  - studi
-  - found
-  - associ
-  - onion
-  - garlic
-  - consumpt
-  - lower
-  - incid
-  - breast
-  - cancer
-- - howev
-  - no
-  - clear
-  - associ
-  - found
-  - breast
-  - cancer
-  - risk
-  - consumpt
-  - onion
-  - individu
-  - flavonol
-  - studi
-  - premenopaus
-  - women
-  - nurs
-  - health
-  - studi
-  - II
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/onions-and-garlic.yaml,
+  originalSentence: 'Numerous studies have shown that onions, garlic and their components
+    inhibit proliferation, reduces migration and invasiveness, and induces apoptosis
+    of cultured human breast cancer cells.', sentence: numer studi shown onion garlic
+    compon inhibit prolifer reduc migrat invas induc apoptosi cultur human breast
+    cancer cell, tags: onions-and-garlic}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/onions-and-garlic.yaml,
+  originalSentence: One large European study found that eating onions and garlic was
+    associated with lower risk of breast cancer., sentence: one larg european studi
+    found eat onion garlic associ lower risk breast cancer, tags: onions-and-garlic}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/onions-and-garlic.yaml,
+  originalSentence: Another large Italian population-based study found a relationship
+    between the consumption of increasing intake of flavones and flavonols found in
+    allium vegetables and a reduction in the risk of breast cancer., sentence: anoth
+    larg italian popul base studi found relationship consumpt increas intak flavon
+    flavonol found allium veget reduct risk breast cancer, tags: onions-and-garlic}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/onions-and-garlic.yaml,
+  originalSentence: A study of women in Mexico City found that consuming more than
+    one slice of onion per day was associated with reduced risk of breast cancer.,
+  sentence: a studi women mexico citi found consum one slice onion per day associ
+    reduc risk breast cancer, tags: onions-and-garlic}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/onions-and-garlic.yaml,
+  originalSentence: A Korean study found an association between onion and garlic consumption
+    and lower incidence of breast cancer., sentence: a korean studi found associ onion
+    garlic consumpt lower incid breast cancer, tags: onions-and-garlic}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/onions-and-garlic.yaml,
+  originalSentence: 'However, there were no clear associations found between breast
+    cancer risk and the consumption of onions or of individual flavonols in a study
+    of premenopausal women in the Nurses Health Study II.', sentence: howev clear
+    associ found breast cancer risk consumpt onion individu flavonol studi premenopaus
+    women nurs health studi ii, tags: onions-and-garlic}

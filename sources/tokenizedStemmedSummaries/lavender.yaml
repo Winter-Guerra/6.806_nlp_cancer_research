@@ -1,62 +1,17 @@
----
-- - lavend
-  - essenti
-  - oil
-  - shown
-  - high
-  - antioxid
-  - content
-  - compon
-  - lavend
-  - perillyl
-  - alcohol
-  - studi
-  - cancer
-  - prevent
-- - howev
-  - lavend
-  - essenti
-  - oil
-  - concentr
-  - found
-  - commerci
-  - hair
-  - care
-  - bodi
-  - cream
-  - product
-  - report
-  - caus
-  - breast
-  - enlarg
-  - otherwis
-  - healthi
-  - normal
-  - boi
-  - on
-  - known
-  - 2007
-  - new
-  - england
-  - journal
-  - medicin
-  - articl
-- - while
-  - not
-  - follow
-  - studi
-  - confirm
-  - estrogen
-  - effect
-  - lavend
-  - contain
-  - skin
-  - product
-  - appli
-  - lavend
-  - cream
-  - oil
-  - skin
-  - appear
-  - unwis
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lavender.yaml,
+  originalSentence: 'Lavender essential oil has been shown to have a high antioxidant
+    content and a component of lavender, perillyl alcohol, has been studied in cancer
+    prevention.', sentence: lavend essenti oil shown high antioxid content compon
+    lavend perillyl alcohol studi cancer prevent, tags: lavender}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lavender.yaml,
+  originalSentence: 'However, lavender essential oil  was reported to cause breast
+    enlargement in otherwise healthy and normal boys in one well known 2007 New England
+    Journal of Medicine article.', sentence: howev lavend essenti oil report caus
+    breast enlarg otherwis healthi normal boy one well known 2007 new england journal
+    medicin articl, tags: lavender}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/lavender.yaml,
+  originalSentence: 'While there have not been any follow up studies that confirmed
+    the estrogenic effects of lavender-containing skin products, applying lavender
+    creams or oils to the skin appears unwise.', sentence: while follow studi confirm
+    estrogen effect lavend contain skin product appli lavend cream oil skin appear
+    unwis, tags: lavender}

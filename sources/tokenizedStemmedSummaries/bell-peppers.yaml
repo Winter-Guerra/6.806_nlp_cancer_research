@@ -1,51 +1,14 @@
----
-- - apigenin
-  - flavonoid
-  - compon
-  - bell
-  - pepper
-  - shown
-  - exhibit
-  - potent
-  - growth
-  - inhibitori
-  - effect
-  - her2
-  - neu
-  - overexpress
-  - breast
-  - cancer
-  - cell
-- - sever
-  - korean
-  - studi
-  - found
-  - associ
-  - bell
-  - pepper
-  - consumpt
-  - lower
-  - incid
-  - breast
-  - cancer
-- - On
-  - hand
-  - no
-  - signific
-  - invers
-  - associ
-  - breast
-  - cancer
-  - intak
-  - green
-  - pepper
-  - found
-  - 2004
-  - studi
-  - base
-  - nurs
-  - health
-  - studi
-  - II
-  - cohort
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/bell-peppers.yaml,
+  originalSentence: 'Apigenin, a flavonoid component of bell peppers, has been shown
+    to exhibit potent growth-inhibitory effects in HER2/neu-overexpressing breast
+    cancer cells.', sentence: apigenin flavonoid compon bell pepper shown exhibit
+    potent growth inhibitori effect her2 neu overexpress breast cancer cell, tags: bell-peppers}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/bell-peppers.yaml,
+  originalSentence: Several Korean studies have found an association between bell
+    pepper consumption and lower incidence of breast cancer., sentence: sever korean
+    studi found associ bell pepper consumpt lower incid breast cancer, tags: bell-peppers}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/bell-peppers.yaml,
+  originalSentence: 'On the other hand, no significant inverse association of breast
+    cancer with intake of green peppers was found in a 2004 study based on the Nurses
+    Health Study II cohort.', sentence: on hand signific invers associ breast cancer
+    intak green pepper found 2004 studi base nurs health studi ii cohort, tags: bell-peppers}

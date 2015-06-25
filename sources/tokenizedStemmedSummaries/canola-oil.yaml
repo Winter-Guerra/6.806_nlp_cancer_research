@@ -1,94 +1,25 @@
----
-- - canola
-  - oil
-  - shown
-  - inhibit
-  - growth
-  - induc
-  - apoptosi
-  - estrogen
-  - posit
-  - ER
-  - estrogen
-  - neg
-  - ER
-  - human
-  - breast
-  - cancer
-  - cell
-- - femal
-  - mammari
-  - gland
-  - cancer
-  - prone
-  - rat
-  - consum
-  - canola
-  - oil
-  - dure
-  - pregnanc
-  - found
-  - produc
-  - offspr
-  - lower
-  - tumor
-  - number
-  - lower
-  - tumor
-  - volum
-  - lower
-  - percentag
-  - mice
-  - tumor
-  - offspr
-  - mother
-  - diet
-  - equival
-  - amount
-  - corn
-  - oil
-- - sever
-  - studi
-  - found
-  - higher
-  - omega
-  - omega
-  - fatti
-  - acid
-  - ratio
-  - associ
-  - reduc
-  - risk
-  - breast
-  - cancer
-  - us
-  - canola
-  - oil
-  - tend
-  - improv
-  - ratio
-  - women
-- - A
-  - 2008
-  - san
-  - francisco
-  - popul
-  - studi
-  - found
-  - women
-  - cook
-  - mainli
-  - oliv
-  - canola
-  - oil
-  - lower
-  - risk
-  - breast
-  - cancer
-  - cook
-  - veget
-  - corn
-  - oil
-  - hydrogen
-  - fat
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/canola-oil.yaml,
+  originalSentence: Canola oil has been shown to inhibit growth and induce apoptosis
+    in both estrogen positive  and estrogen negative  human breast cancer cells.,
+  sentence: canola oil shown inhibit growth induc apoptosi estrogen posit estrogen
+    negat human breast cancer cell, tags: canola-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/canola-oil.yaml,
+  originalSentence: 'Female mammary gland cancer-prone rats consuming canola oil during
+    pregnancy have been found to produce offspring with lower tumor numbers, lower
+    tumor volume and lower percentage of mice with tumors than the offspring of mothers
+    on a diet with equivalent amounts of corn oil.', sentence: femal mammari gland
+    cancer prone rat consum canola oil pregnanc found produc offspr lower tumor number
+    lower tumor volum lower percentag mice tumor offspr mother diet equival amount
+    corn oil, tags: canola-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/canola-oil.yaml,
+  originalSentence: Several studies have found that higher omega-3/omega-6 fatty acid
+    ratios are associated with reduced risk of breast cancer; using canola oil would
+    tend to improve the ratio for most women., sentence: sever studi found higher
+    omega 3 omega 6 fatti acid ratio associ reduc risk breast cancer use canola oil
+    would tend improv ratio women, tags: canola-oil}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/canola-oil.yaml,
+  originalSentence: A 2008 San Francisco population study found that women cooking
+    mainly with olive/canola oil have a lower risk of breast cancer than those cooking
+    with vegetable/corn oil or hydrogenated fats., sentence: a 2008 san francisco
+    popul studi found women cook main oliv canola oil lower risk breast cancer cook
+    veget corn oil hydrogen fat, tags: canola-oil}

@@ -1,95 +1,28 @@
----
-- - on
-  - studi
-  - found
-  - consumpt
-  - appl
-  - invers
-  - relat
-  - risk
-  - breast
-  - cancer
-  - when
-  - result
-  - adjust
-  - factor
-  - ag
-  - educ
-  - bodi
-  - mass
-  - index
-  - bmi
-  - alcohol
-  - consumpt
-  - total
-  - energi
-  - intak
-  - veget
-  - consumpt
-  - physic
-  - activ
-- - appl
-  - shown
-  - shrink
-  - size
-  - mammari
-  - tumor
-  - rat
-  - induc
-  - breast
-  - cancer
-  - cell
-  - apoptosi
-- - appl
-  - peel
-  - contain
-  - chemic
-  - mai
-  - import
-  - effect
-- - on
-  - studi
-  - report
-  - appl
-  - peel
-  - diet
-  - significantli
-  - inhibit
-  - growth
-  - mammari
-  - tumor
-  - mous
-  - model
-  - breast
-  - cancer
-- - the
-  - studi
-  - report
-  - triterpenoid
-  - found
-  - appl
-  - peel
-  - induc
-  - apoptosi
-  - program
-  - cell
-  - death
-  - tripl
-  - neg
-  - breast
-  - cancer
-  - cell
-- - the
-  - appl
-  - flavonoid
-  - phloretin
-  - shown
-  - increas
-  - anti
-  - cancer
-  - effect
-  - chemotherapi
-  - drug
-  - taxol
-  - paclitaxel
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
+  originalSentence: 'One study found that the consumption of apples was inversely
+    related to the risk of breast cancer when the results were adjusted for factors
+    such as age, education, body mass index, alcohol consumption, total energy intake,
+    vegetable consumption and physical activity.', sentence: one studi found consumpt
+    appl invers relat risk breast cancer result adjust factor age educ bodi mass index
+    alcohol consumpt total energi intak veget consumpt physic activ, tags: apples}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
+  originalSentence: Apples have been shown to shrink the size of mammary tumors in
+    rats and to induce breast cancer cell apoptosis., sentence: appl shown shrink
+    size mammari tumor rat induc breast cancer cell apoptosi, tags: apples}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
+  originalSentence: Apple peel contains chemicals that may be important for this effect.,
+  sentence: appl peel contain chemic may import effect, tags: apples}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
+  originalSentence: One study reported that an apple peel diet significantly inhibited
+    the growth of mammary tumors in a mouse model of breast cancer., sentence: one
+    studi report appl peel diet signific inhibit growth mammari tumor mous model breast
+    cancer, tags: apples}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
+  originalSentence: The same study reported that a triterpenoid found in apple peel
+    induced apoptosis  in triple negative breast cancer cells., sentence: the studi
+    report triterpenoid found appl peel induc apoptosi tripl negat breast cancer cell,
+  tags: apples}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/apples.yaml,
+  originalSentence: The apple flavonoid phloretin has been shown to increase the anti-cancer
+    effects of the chemotherapy drug Taxol., sentence: the appl flavonoid phloretin
+    shown increas anti cancer effect chemotherapi drug taxol, tags: apples}

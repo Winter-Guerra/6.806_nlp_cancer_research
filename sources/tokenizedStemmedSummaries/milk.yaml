@@ -1,216 +1,67 @@
----
-- - mani
-  - studi
-  - conduct
-  - try
-  - determin
-  - effect
-  - milk
-  - consumpt
-  - risk
-  - breast
-  - cancer
-  - breast
-  - cancer
-  - develop
-  - result
-  - appear
-  - contradictori
-  - presum
-  - milk
-  - benefici
-  - harm
-  - compon
-- - compon
-  - milk
-  - includ
-  - calcium
-  - vitamin
-  - D
-  - stearat
-  - lactaptin
-  - conjug
-  - linol
-  - acid
-  - cla
-  - bovin
-  - lactoferricin
-  - found
-  - induc
-  - apoptosi
-  - breast
-  - cancer
-  - cell
-  - reduc
-  - mammari
-  - tumor
-  - size
-  - incid
-  - laboratori
-- - In
-  - fact
-  - milk
-  - found
-  - somewhat
-  - protect
-  - against
-  - breast
-  - cancer
-  - when
-  - consum
-  - infanc
-  - childhood
-- - some
-  - popul
-  - base
-  - studi
-  - found
-  - milk
-  - consumpt
-  - not
-  - associ
-  - risk
-  - breast
-  - cancer
-- - howev
-  - case
-  - against
-  - consum
-  - milk
-  - adulthood
-  - appear
-  - compel
-- - on
-  - studi
-  - rat
-  - carcinogen
-  - induc
-  - mammari
-  - tumor
-  - found
-  - remov
-  - ovari
-  - rat
-  - reduc
-  - number
-  - size
-  - tumor
-  - feed
-  - milk
-  - similar
-  - ovariectom
-  - rat
-  - led
-  - increas
-  - mammari
-  - tumor
-  - incid
-  - tumor
-  - number
-  - tumor
-  - volum
-- - consumpt
-  - nonfat
-  - whole
-  - milk
-  - found
-  - increas
-  - incid
-  - volum
-  - tumor
-  - experiment
-  - rat
-  - carcinogen
-  - induc
-  - mammari
-  - tumor
-- - sever
-  - major
-  - popul
-  - base
-  - studi
-  - found
-  - milk
-  - consumpt
-  - posit
-  - associ
-  - risk
-  - breast
-  - cancer
-- - high
-  - intak
-  - anim
-  - fat
-  - link
-  - sever
-  - studi
-  - increas
-  - breast
-  - densiti
-  - risk
-  - factor
-  - breast
-  - cancer
-  - recurr
-- - on
-  - studi
-  - found
-  - bovin
-  - leukemia
-  - viru
-  - preval
-  - U
-  - S
-  - dairi
-  - herd
-  - contribut
-  - human
-  - breast
-  - cancer
-- - some
-  - observ
-  - note
-  - milk
-  - drink
-  - todai
-  - produc
-  - pregnant
-  - cow
-  - estrogen
-  - progesteron
-  - level
-  - markedli
-  - elev
-- - other
-  - compon
-  - milk
-  - suspect
-  - breast
-  - cancer
-  - promot
-  - includ
-  - satur
-  - fat
-  - recombin
-  - bovin
-  - growth
-  - hormon
-  - rbgh
-  - insulin
-  - growth
-  - factor
-  - igf
-  - pesticid
-  - polychlorin
-  - biphenyl
-  - pcb
-- - sinc
-  - cream
-  - concentr
-  - potenti
-  - harm
-  - substanc
-  - found
-  - milk
-  - avoid
-...
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/milk.yaml,
+  originalSentence: 'Many studies have been conducted to try to determine the effects
+    of milk consumption on the risk of breast cancer and on breast cancer development,
+    but the results appear contradictory, presumably because milk has both beneficial
+    and harmful components.', sentence: mani studi conduct tri determin effect milk
+    consumpt risk breast cancer breast cancer develop result appear contradictori
+    presum milk benefici harm compon, tags: milk}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/milk.yaml,
+  originalSentence: 'Components of milk, including calcium, vitamin D, stearate, lactaptin,
+    conjugated linoleic acid, and bovine lactoferricin, have been found to induce
+    apoptosis of breast cancer cells or reduce mammary tumor size and incidence in
+    the laboratory.', sentence: compon milk includ calcium vitamin d stearat lactaptin
+    conjug linol acid bovin lactoferricin found induc apoptosi breast cancer cell
+    reduc mammari tumor size incid laboratori, tags: milk}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/milk.yaml,
+  originalSentence: 'In fact, milk has been found to be somewhat protective against
+    breast cancer when consumed in infancy and childhood.', sentence: in fact milk
+    found somewhat protect breast cancer consum infanc childhood, tags: milk}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/milk.yaml,
+  originalSentence: Some population-based studies have found that milk consumption
+    is not associated with risk of breast cancer., sentence: some popul base studi
+    found milk consumpt associ risk breast cancer, tags: milk}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/milk.yaml,
+  originalSentence: 'However, the case against consuming milk in adulthood appears
+    to be compelling.', sentence: howev case consum milk adulthood appear compel,
+  tags: milk}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/milk.yaml,
+  originalSentence: 'One study of rats with carcinogen-induced mammary tumors found
+    that while removing the ovaries of rats reduced the number and size of the tumors,
+    feeding milk to similar ovariectomized rats led to increases in mammary tumor
+    incidence, tumor number and tumor volume.', sentence: one studi rat carcinogen
+    induc mammari tumor found remov ovari rat reduc number size tumor feed milk similar
+    ovariectom rat led increas mammari tumor incid tumor number tumor volum, tags: milk}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/milk.yaml,
+  originalSentence: Consumption of both nonfat and whole milk also has been found
+    to increase the incidence and volume of tumors in experimental rats with carcinogen-induced
+    mammary tumors., sentence: consumpt nonfat whole milk also found increas incid
+    volum tumor experiment rat carcinogen induc mammari tumor, tags: milk}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/milk.yaml,
+  originalSentence: Several major population-based studies have found that milk consumption
+    is positively associated with the risk of breast cancer., sentence: sever major
+    popul base studi found milk consumpt posit associ risk breast cancer, tags: milk}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/milk.yaml,
+  originalSentence: 'High intake of animal fats has been linked in several studies
+    to increased breast density, a risk factor for breast cancer and recurrence.',
+  sentence: high intak anim fat link sever studi increas breast densiti risk factor
+    breast cancer recurr, tags: milk}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/milk.yaml,
+  originalSentence: 'One study found that bovine leukemia virus, which is prevalent
+    in U.S. dairy herds, could contribute to human breast cancer.', sentence: one
+    studi found bovin leukemia virus preval u s dairi herd could contribut human breast
+    cancer, tags: milk}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/milk.yaml,
+  originalSentence: 'Some observers have noted that much of the milk we drink today
+    is produced from pregnant cows, in which estrogen and progesterone levels are
+    markedly elevated.', sentence: some observ note much milk drink today produc pregnant
+    cow estrogen progesteron level mark elev, tags: milk}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/milk.yaml,
+  originalSentence: 'Other components of milk that are suspected to be breast cancer
+    promoting include saturated fat, recombinant bovine growth hormone, insulin-like
+    growth factor, pesticides, and polychlorinated biphenyls.', sentence: other compon
+    milk suspect breast cancer promot includ satur fat recombin bovin growth hormon
+    insulin like growth factor pesticid polychlorin biphenyl, tags: milk}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/milk.yaml,
+  originalSentence: 'Since cream concentrates some of the potentially harmful substances
+    found in milk, it is also to be avoided.', sentence: sinc cream concentr potenti
+    harm substanc found milk also avoid, tags: milk}
