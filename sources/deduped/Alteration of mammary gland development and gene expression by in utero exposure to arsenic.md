@@ -1,5 +1,0 @@
-# Alteration of mammary gland development and gene expression by in utero exposure to arsenic
-
-## Abstract
-
-Early life exposure to estrogens and estrogen like contaminants in the environment is thought to contribute to the early onset of puberty and consequently increases the risk of developing breast cancer in the exposed female. The results of this study show that _in utero_ exposure to the metalloestrogen arsenite altered mammary gland development prior to its effect on puberty onset. In the prepubertal gland, _in utero_ exposure resulted in an increase in the number of mammosphere-forming cells and an increase in branching, epithelial cells, and density. In the postpubertal gland, _in utero_ exposure resulted in the overexpression of estrogen receptor-alpha (ERÎ±) that was due to the increased and altered response of the ERÎ± transcripts derived from exons O and OT to estradiol. These results suggest that, in addition to advancing puberty onset, _in utero_ exposure to arsenite alters the pre- and postpubertal development of the mammary gland and possibly, the risk of developing breast cancer.

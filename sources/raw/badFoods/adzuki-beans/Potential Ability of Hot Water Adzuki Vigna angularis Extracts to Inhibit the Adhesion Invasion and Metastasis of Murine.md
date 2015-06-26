@@ -1,5 +1,0 @@
-# Potential Ability of Hot Water Adzuki (Vigna angularis) Extracts to Inhibit the Adhesion, Invasion, and Metastasis of Murine B16 Melanoma Cells
-
-### Abstract
-
-The 40% ethanol eluent of the fraction of hot-water extract from adzuki beans (EtEx.40) adsorbed onto DIAION HP-20 resin has many biological activities, for example, antioxidant, antitumorigenesis, and intestinal alpha-glucosidase suppressing activities. This study examined the inhibitory effect of EtEx.40 on experimental lung metastasis and the invasion of B16-BL6 melanoma cells. EtEx.40 was found significantly to reduce the number of tumor colonies. It also inhibited the adhesion and migration of B16-BL6 melanoma cells into extracellular matrix components and their invasion into reconstituted basement membrane (matrigel) without affecting cell proliferation in vitro. These in vivo data suggest that EtEx.40 possesses a strong antimetastatic ability, which might be a lead compound in functional food development.

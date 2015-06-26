@@ -1,5 +1,0 @@
-# Simultaneous determination of three curcuminoids in Curcuma longa L. by high performance liquid chromatography coupled with electrochemical detection
-
-## Abstract
-
-A novel method for analysis of three active components curcumin, demethoxycurcumin and bisdemethoxycurcumin in _Curcuma longa L._ was developed by HPLC coupled with electrochemical detection. Three curcuminoids were well separated on a C18 column and detected with high sensitivity. A mobile phase containing acetonitrile and 10 mM Na2HPO4-H3PO4 (pH 5.0) (50:50, v/v) was used. Good linearity was obtained in the range of 0.208-41.6, 0.197-39.4, and 0.227-114 Î¼M for curcumin, demethoxycurcumin and bisdemethoxycurcumin respectively. The limit of detection reached up to 10−8 M, which was lower than that by UV detection. The relative standard deviations (RSDs) ranged from 1.06% to 1.88% for intra-day precision and from 4.30% to 5.79% for inter-day precision, respectively. The proposed method has been applied in real herb sample and recoveries ranging from 86.3% to 111% were obtained.

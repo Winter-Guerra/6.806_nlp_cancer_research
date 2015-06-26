@@ -1,5 +1,0 @@
-# Pre-diagnostic acrylamide exposure and survival after breast cancer among postmenopausal Danish women
-
-## Abstract
-
-Acrylamide is a probable human carcinogen, with industrial contact, tobacco smoking and foods processed at high temperatures as the main routes of exposure. In animal studies oral intake of acrylamide has been related to cancer development, with indications that the increased cancer occurrence especially regards endocrine related tumors. In human epidemiological studies, dietary exposure to acrylamide has also been suggested related to higher risk of endocrine related tumors, like estrogen sensitive breast cancer. The aim of the present study was to evaluate if pre-diagnostic acrylamide exposure, measured by acrylamide and glycidamide hemoglobin adducts (AA-Hb and GA-Hb), were associated to mortality in breast cancer cases. Among 24,697 postmenopausal women included into a Danish cohort between 1993 and 1997, 420 developed breast cancer before 2001 and 110 died before 2009. AA-Hb and GA-Hb concentrations measured in blood samples were related to mortality by Cox proportional hazard models. Estimates are given per 25 pmol/g globin higher levels.

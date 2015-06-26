@@ -1,5 +1,0 @@
-# Anticancer Activities of an Anthocyanin-Rich Extract From Black Rice Against Breast Cancer Cells In Vitro and In Vivo
-
-## Abstract
-
-Anthocyanins widely present in human diet and have a variety of health effects. This study investigates the anticancer effects of an anthocyanin-rich extract from black rice (AEBR) on breast cancer cells in vitro and in vivo. AEBR reduced the viability of breast cancer cell lines MCF-7 (ER+, HER2/neu−), MDA-MB-231 (ER−, HER2/neu−), and MDA-MB-453 (ER−, HER2/neu+) and induced apoptosis in MDA-MB-453 cells via the intrinsic pathway in vitro by activating caspase cascade, cleaving poly (ADP-ribose) polymerase (PARP), depolarizing mitochondrial membrane potential, and releasing cytochrome C. Oral administration of AEBR (100 mg/kg/day) to BALB/c nude mice bearing MDA-MB-453 cell xenografts significantly suppressed tumor growth and angiogenesis by suppressing the expression of angiogenesis factors MMP-9, MMP-2, and uPA in tumor tissue. Altogether, this study suggests the anticancer effects of AEBR against human breast cancer cells in vitro and in vivo by inducing apoptosis and suppressing angiogenesis.

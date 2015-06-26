@@ -1,5 +1,0 @@
-# Anticarcinogenic Effects of the Essential Oils from Cumin, Poppy and Basil
-
-### Abstract
-
-The chemopreventive potential of three essential oils, cumin, poppy and basil were studied by assessing their effects on the carcinogen detoxifying enzyme, glutathione-S-transferase, and on 3,4-benzo(a)pyrene induced neoplasia in Swiss mice. Cumin, poppy and basil oils significantly increased glutathione-S-transferase activity by more than 78% in the stomach, liver and oesophagus of Swiss mice--high enough to be considered as protective agents against carcinogenesis. Glutathione levels were also significantly elevated in these three tissues. The essential oils from cumin seeds, poppy seeds and basil leaves significantly inhibited benzo(a)pyrene induced squamous cell carcinoma in the stomach of Swiss mice. These three oils therefore show great promise as chemopreventive agents.

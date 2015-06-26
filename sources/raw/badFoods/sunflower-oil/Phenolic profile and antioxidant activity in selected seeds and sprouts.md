@@ -1,5 +1,0 @@
-# Phenolic profile and antioxidant activity in selected seeds and sprouts
-
-## Abstract
-
-The aim of this study was to investigate the effect of germination on the phenolic acids and flavonoids profile, as well as antioxidant activity (AA), in selected edible seeds of mung beans, radish, broccoli and sunflower. Germination increased the total phenolic (TP) and flavonoid (TF) levels, as well as the AA of the seeds, and influenced the profile of free and bound phenolic compounds. Among the samples, mung bean was characterised by lowest levels of TP and TF, as well as AA, evaluated using ABTS, DPPH and FRAP assays. Sunflower and radish sprouts were the most rich in phenolic compounds. Insignificant amounts of free phenolic acids were found in the free phenolic acid fraction; alkaline hydrolysis of the seeds and sprouts extracts provided the majority of the phenolic acids. The amounts of free and bound flavonoids were inconsiderable both for seeds and sprouts.

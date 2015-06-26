@@ -1,5 +1,0 @@
-# Antioxidant activity and profiles of common fruits in Singapore
-
-## Abstract
-
-Thirty-eight types of fruits commonly consumed in Singapore were systematically analysed for their hydrophilic oxygen radical absorbance capacity (H-ORAC), total phenolic content (TPC), ascorbic acid (AA) and various lipophilic antioxidants. Antioxidant composition and concentration varied widely across different fruits. Many of the tropical fruits tested were high in antioxidants. Amongst all fruits tested, sapodilla (_Manilkara zapota_) had the highest H-ORAC and TPC whilst guava had the highest AA per gram fresh weight. Papaya, red watermelon and cantaloupe had the highest Î²-cryptoxanthin, lycopene and Î²-carotene per gram fresh weight, respectively. On the other hand, durian and mangosteen were high in tocopherols and tocotrienols, respectively. Based on consumption data, Chinese Singaporeans appear to have a higher intake of carotenoids and tocopherols rich fruits compared to the US population. As fruits are a rich source of diverse antioxidants, efforts to promote consumption of a variety of fruits should be continued for public health benefits.
