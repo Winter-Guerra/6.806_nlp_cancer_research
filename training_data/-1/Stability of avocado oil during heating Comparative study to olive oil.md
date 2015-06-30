@@ -1,5 +1,0 @@
-# Stability of avocado oil during heating: Comparative study to olive oil
-
-## Abstract
-
-The stability of the saponifiable and unsaponifiable fractions of avocado oil, under a drastic heating treatment, was studied and compared to that of olive oil. Avocado and olive oil were characterised and compared at time 0 h and after different times of heating process (180 °C). PUFA/SFA (0.61 at _t_ = 0) and Ï-6/Ï-3 (14.05 at _t_ = 0) were higher in avocado oil than in olive oil during the whole experiment. Avocado oil was richer than olive oil in total phytosterols at time 0 h (339.64; 228.27 mg/100 g) and at 9 h (270.44; 210.30 mg/100 g) of heating. TBARs was higher in olive oil after 3 h, reaching the maximum values in both oils at 6 h of heating treatment. Vitamin E was higher in olive oil (35.52 vs. 24.5 mg/100 g) and it disappeared earlier in avocado oil (at 4 vs. 5 h). The stability of avocado oil was similar to that of olive oil.
