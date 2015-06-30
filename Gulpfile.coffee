@@ -56,15 +56,45 @@ removeTitle = lazypipe()
 gulp.task 'separateData', () ->
 
 
-	gulp.src(['/Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/datamining foodforbreastcancer/sources/raw/badFoods/**/*.md'])
-	.pipe(flatten())
-	.pipe(dedupe())
-	.pipe(gulp.dest('./training_data/-1/'))
+	# gulp.src(['/Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/datamining foodforbreastcancer/sources/raw/badFoods/**/*.md'])
+	# .pipe(flatten())
+	# .pipe(dedupe())
+	# .pipe(gulp.dest('./training_data/-1/'))
 
 
 	gulp.src(['/Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/datamining foodforbreastcancer/sources/raw/recommendedFoods/**/*.md'])
 	.pipe(flatten())
 	.pipe(dedupe())
 	.pipe(gulp.dest('./training_data/+1/'))
+
+gulp.task 'pruneOutNegatives', (cb) ->
+
+	# Make dictionary
+	dict = {}
+
+	stream = gulp.src(['/Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/training_data/-1/*.md', '/Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/training_data/0/*.md'])
+	.pipe(
+		tap (file) ->
+			# Get the file contents
+			dict[file.contents.toString()] = true
+		)
+
+	.on 'end', () ->
+		# Now, start the second stream
+		gulp.src(['/Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/training_data/+1/*.md'])
+		.pipe(
+			tap (file) ->
+				if not dict[file.contents.toString()]?
+					# console.log file.contents.toString()
+					return file
+				else
+					console.log "None!"
+					fs.unlinkSync(file.path)
+					# return null
+			)
+		.pipe(gulp.dest('/Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/training_data/+1_sorted/'))
+		.on 'end', cb
+
+	return
 
 

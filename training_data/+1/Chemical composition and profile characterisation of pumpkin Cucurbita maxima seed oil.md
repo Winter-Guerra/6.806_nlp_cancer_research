@@ -1,5 +1,0 @@
-# Chemical composition and profile characterisation of pumpkin (Cucurbita maxima) seed oil
-
-## Abstract
-
-Seeds of a Tunisian variety (Bejaoui) of pumpkin (_Cucurbita maxima_) were analysed for their main chemical composition and for their oil properties. Expressed on dry weight basis, seed moisture was 8.46%, whereas contents of proteins, fibre, ash, fat, and total sugars established at 33.92%, 3.97%, 21.97%, 31.57%, and 0.11% respectively. Gas chromatography revealed that the major fatty acids were oleic, linoleic, and palmitic acids (44.11%, 34.77%, and 15.97% respectively). Seed oil was also found to be rich in tocopherols with a predominance of Î´-tocopherol (42.27%). The sterol marker Î²-sisosterol accounted for 39.6% of total sterols contained in seed oil of this variety. Six phenolic acids (protocatechuic, caffeic, syringic, vanillic, p-coumaric and ferulic) were detected, the syringic acid being predominant (7.96 mg/100 g). As a whole, based on its seed oil features, pumpkin may be considered as a valuable source for new multi-purpose products for industrial, cosmetic, and pharmaceutical utilisation.

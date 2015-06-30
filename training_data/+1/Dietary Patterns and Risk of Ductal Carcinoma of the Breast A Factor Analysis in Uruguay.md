@@ -1,5 +1,0 @@
-# Dietary Patterns and Risk of Ductal Carcinoma of the Breast: A Factor Analysis in Uruguay
-
-### Abstract
-
-Breast cancer (BC) shows very high incidence rates in Uruguayan women. The present factor analysis of ductal carcinoma of the breast, the most frequent histological type of this malignancy both in Uruguay and in the World, was conducted at a prepaid hospital of Montevideo, Uruguay. We identified 111 cases with ductal BC and 222 controls with normal mammograms. A factor analysis was conducted using 39 food groups, allowing retention of six factors analyzed through logistic regression in order to obtain odds ratios (OR) associated with ductal BC. The low fat and non-alcoholic beverage patterns were inversely associated (OR=0.30 and OR=0.45, respectively) with risk. Conversely, the fatty cheese pattern was positively associated (OR=4.17) as well as the fried white meat (OR=2.28) and Western patterns (OR 2.13). Ductal BC shared similar dietary risk patterns as those identified by studies not discriminating between histologic type of breast cancer.
