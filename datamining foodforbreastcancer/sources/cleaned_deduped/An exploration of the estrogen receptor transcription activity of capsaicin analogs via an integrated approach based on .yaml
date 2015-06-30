@@ -1,0 +1,31 @@
+---
+title: An exploration of the estrogen receptor transcription activity of capsaicin
+  analogs via an integrated approach based on in silico prediction and in vitro assays
+pathHash: 6f8e57c6be8f31c89785eae0623e7e84
+tags:
+- hot-peppers
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/An
+  exploration of the estrogen receptor transcription activity of capsaicin analogs
+  via an integrated approach based on .md
+text: '
+
+
+  Capsaicin has been considered as an alternative template of dichlorodiphenyl trichloroethane  in
+  antifouling paint. However, information regarding the estrogenic activity of capsaicin
+  analogues is rather limited in comparison to that of DDT analogues and their metabolites.
+  We here explore the ER transcription activity of selected capsaicin analogues via
+  an integrated approach based on in silico prediction and in vitro assays. Molecular
+  simulation and the agonist/antagonist differential-docking screening identified
+  6-iodonordihydrocapsaicin  as a weak ER agonist, while anti-estrogenicity was expected
+  for N-arachidonoyldopamine, capsazepine, dihydrocapsaicin, trichostatin A, and capsaicin.
+  On the contrary, the large volume of analogues, such as phorbol 12-phenylacetate
+  13-acetate 20-homovanillate and phorbol 12,13-dinonanoate 20-homovanillate, cannot
+  fit well with the ER cavity. The result of MVLN assay was in accord with the in
+  silico prediction. 6-I-CPS was demonstrated to induce luciferase gene expression,
+  while the other analogues of relatively small molecular volume reduced luciferase
+  gene expression in MVLN cells, both in the absence and presence of estradiol. This
+  finding suggested that the ER transcription activity of capsaicin analogues is generated
+  at least partly through the ER-mediated pathway. Moreover, receptor polymorphism
+  analysis indicated that capsaicin analogues may exhibit diverse species selectivity
+  for human beings and marine species.'
+...

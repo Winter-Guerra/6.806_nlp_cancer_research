@@ -1,0 +1,439 @@
+---
+title: Trans-10, cis 12-Conjugated Linoleic Acid-Induced Milk Fat Depression Is Associated
+  with Inhibition of PPAR Signaling and Inflammation in Murine Mammary Tissue
+pathHash: 9a5978c299a0600ce64e8d2770c247d0
+tags:
+- milk
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Trans-10
+  cis 12-Conjugated Linoleic Acid-Induced Milk Fat Depression Is Associated with Inhibition
+  of PPAR Signaling and Inflammation in Murine Mammary Tissue.md
+text: "\n\nExogenous trans-10, cis-12-CLA  reduces lipid synthesis in murine adipose
+  and mammary  tissues. However, genomewide alterations in MG and liver  associated
+  with dietary CLA during lactation remain unknown. We fed mice  control or control
+  + trans-10, cis-12-CLA  between d 6 and d 10 postpartum. The 35,302 annotated murine
+  exonic evidence-based oligo  microarray and quantitative RT-PCR were used for transcript
+  profiling. Milk fat concentration was 44% lower on d 10 versus d 6 due to CLA. The
+  CLA diet resulted in differential expression of 1,496 genes. Bioinformatics analyses
+  underscored that a major effect of CLA on MG encompassed alterations in cellular
+  signaling pathways and phospholipid species biosynthesis. Dietary CLA induced genes
+  related to ER stress, apoptosis, and inflammation. It also induced marked inhibition
+  of PPAR signaling, including downregulation of Pparg and Srebf1 and several lipogenic
+  target genes. In LIV, CLA induced hepatic steatosis probably through perturbations
+  in the mitochondrial functions and induction of ER stress. Overall, results from
+  this study underscored the role of PPAR signaling on mammary lipogenic target regulation.
+  The proinflammatory effect due to CLA could be related to inhibition of PPAR signaling.\n\nDietary
+  nutrients influence the quantity and composition of milk during lactation. Specifically,
+  dietary lipids regulate milk lipid synthesis and milk fatty acid composition in
+  different species of animals. Recently we showed that trans fatty acids  and, in
+  particular, trans-containing conjugated linoleic acid  isomers regulate murine mammary
+  lipid metabolism to different extents. CLA isomers are the positional and geometric
+  isomers of linoleic acid, an 18-carbon FA with two double bonds. The conjugated
+  double bonds in the CLA are responsible for their biological and biochemical activities.
+  Of the different CLA isomers, the role of trans-10, cis-12-CLA in decreasing milk
+  fat synthesis is well established.\n\nThe effects of dietary trans-10, cis-12-CLA
+  on lipid metabolism in adipose and liver have been examined previously. Gene expression
+  profiling studies in rodent adipose, liver, and macrophages  have been conducted
+  to help elucidate the molecular mechanisms elicited by trans-10, cis-12-CLA. In
+  adipose and liver, trans-10, cis-12-CLA reduces adipogenesis, increases hepatic
+  steatosis, and leads to insulin resistance, hyperinsulinemia, and inflammation.
+  Studies on the effects of trans-10, cis-12-CLA in the mammary tissue of rodents
+  and cows have largely focused on the changes pertaining to lipid metabolism. However,
+  in vitro cell culture and in vivo studies have reported induction of mammary epithelial
+  cell apoptosis at supraphysiological doses of CLA.\n\nWe hypothesized that the effects
+  of trans-10, cis-12-CLA in mammary tissue are not limited to lipid metabolism pathways
+  and may involve other functional networks as has been observed in adipose tissue.
+  The specific objective of this study was to use microarrays and bioinformatics to
+  characterize mammary and liver gene networks that are sensitive to supplemental
+  trans-10, cis-12-CLA during lactation in mice.\n\nThe experimental procedures were
+  approved by the Institutional Animal Care and Use Committee of the University of
+  Maryland. The mammary and liver samples harvested from a previous experiment  were
+  used in the present study. The details about the animals, diets, fatty acid composition
+  of the diets, experimental design, and sample collection are described earlier.
+  Briefly, C57BL/6J mice fed the control diet from day 2 postpartum were randomly
+  allotted to either control or a CLA-supplemented diet on day 6 postpartum. The control
+  diet consisted of sucrose 590 g/kg, vitamin-free casein 200 g/kg, alphacel 50 g/kg,
+  fat 100 g/kg, AIN 76 mineral mixture 40 g/kg, AIN 76 vitamin mixture 15 g/kg, DL-methionine
+  3 g/kg, and choline bitartrate 2 g/kg. Oleic acid was replaced at 30%  by trans-10,
+  cis-12-CLA in the CLA treatment. Oleic acid is incorporated into milk FA, but it
+  was chosen because it has little effect on mammary lipid metabolism. Litter size
+  was adjusted to 6 or 7 pups to maintain uniform milk synthesis among mice. Lactating
+  mice were fed the experimental diets from day 6 to day 10 postpartum. Milk samples
+  were collected on day 6 and day 10 postpartum. On day 10 postpartum, the mice were
+  sacrificed using isoflurane, and individual liver and mammary tissues were collected
+  from dams, fast-frozen in liquid nitrogen, and stored at 80C until RNA or lipid
+  extraction.\n\nThe details of RNA extraction, microarrays, quantitative real time
+  Reverse Transcription Polymerase Chain Reaction, and primer design and testing are
+  presented in the Supplementary Material. Protocols for RNA extraction, RT-qPCR,
+  and primer design and testing were as described previously. Primer sequences for
+  Gpam, Insig1, Pparg, Scap, Scd, and Fasn were published previously. Table 1 contains
+  information on additional target genes. The Mouse Exonic Evidence-Based Oligonucleotide
+  \ platform containing 38,467 single-spotted oligonucleotides targeting 35,302 genes
+  was used for transcript profiling. Methods for aminoallyl labeling of cDNA, microarray
+  hybridizations, and scanning were as described earlier.\n\nTable 1: Accession number,
+  gene symbol, and primer sequences of target genes. Underlined are exon-exon junctions.\n\nData
+  from 40 microarrays  used for analysis were initially normalized for dye effects
+  using the median of control elements on the microarray. Subsequently, the log2 normalized
+  ratios of mammary versus reference  signal intensities were adjusted for global
+  dye and microarray effects and normalized by Lowess. The data were analyzed using
+  MIXED procedure. The fixed effects of the model included tissue and dye while the
+  random effects were mouse and microarray. Raw  values for the tissue effect were
+  adjusted using Benjamini and Hochbergs False Discovery Rate. Differences in relative
+  expression between CLA and control were considered significant at an FDR-adjusted.
+  For a more stringent characterization of differentially expressed genes, a 1.5-fold
+  difference in mRNA expression was set as threshold. We used a more liberal cutoff
+  for the liver data set as very few genes met the criterion used for the mammary
+  tissue. The liver data were assessed using a  without an FDR adjustment but with
+  a threshold of 1.4-fold difference to determine affected genes. Visualization of
+  within-group variance for DEG in mammary gland tissue and for the entire set of
+  transcripts in liver tissue was performed via hierarchical clustering and box-plot
+  analysis using GeneSpring GX. Data from qPCR after normalization with internal control
+  genes  were analyzed using MIXED procedure. The complete dataset files have been
+  deposited at the MIAME database.\n\nFigure 1: Hierarchical clustering analysis of
+  DEG  in mammary tissue from individual lactating mice fed trans-10, cis-12-CLA  or
+  the control diet. The colors of the heat map represent the expression of each DEG
+  in mammary tissue versus reference, with red, green, and the various hues denoting
+  greater  to lower  relative expression. The average Pearson correlation across animals
+  in the CLA group was 0.38 and for those in the CTR 0.41. The numbers represent an
+  individual mouse within the CLA or CTR group. The clustering by gene is denoted
+  by the pink tree on the left of the figure.\n\nFigure 2: Top ten affected KEGG pathways/terms
+  by trans-10, cis-12-CLA in mammary tissue. The horizontal bars denote the impact
+  of DEG on the KEGG pathways. The larger the horizontal bar, the greater the impact.
+  The direction of the impact is indicated under flux, green  inhibition and red  activation.
+  The intensity of the color indicates the extent of inhibition  or activation ; that
+  is, darker the color, the greater the effect on the pathway.\n\nFigure 3: Top ten
+  affected GO terms  by trans-10, cis-12-CLA in mammary tissue. The horizontal bars
+  denote the impact of DEG on the GO terms. The larger the horizontal bar, the greater
+  the impact. The direction of the impact is indicated under flux, green  inhibition
+  and red  activation. The intensity of the color indicates the extent of inhibition
+  \ or activation ; that is, darker the color, the greater the effect on the GO terms.
+  BP: biological processes; CC: cellular components; MF: molecular functions.\n\nBioinformatics
+  was conducted using the Dynamic Impact Approach  according to Bionaz et al.. Briefly,
+  this analysis relied on the publicly available resources Kyoto Encyclopedia of Genes
+  and Genomes  database and the Database for Annotation, Visualization and Integrated
+  Discovery. Entrez gene IDs were used to identify individual sequences. The KEGG
+  resource has pathway information associated with each gene ID in Mus musculus. There
+  are six major pathway categories, namely, metabolism, genetic information processing,
+  environmental information processing, cellular processes, organismal systems, and
+  human diseases. In addition, we used Ingenuity Pathways Analysis  relying on the
+  entire microarray data set with associated statistical  values. The DAVID resource
+  provides typical batch annotation and gene-GO term enrichment analysis to highlight
+  the most relevant GO terms associated with a given gene list. The latest version
+  provides extended annotation content coverage including GO terms, protein-protein
+  interactions, protein functional domains, disease associations, biological pathways,
+  sequence general features, homologies, gene functional summaries, and tissue gene
+  expression.\n\nThe ToppGene suite  was used for functional enrichment analysis of
+  data from liver tissue at an uncorrected  and a threshold of 1.4-fold in CLA versus
+  control. ToppGene suite is a web-based portal that provides 17 categories of annotations,
+  including GO-molecular function, GO-biological process, GO-cellular component, human
+  phenotype, mouse phenotype, protein domains, pathways, pubMed cocitations, protein-protein
+  interactions, cytoband, transcription factor binding sites, gene family coexpression,
+  computational expression correlations, micro-RNA targets, drug, and disease. The
+  database details for each category of annotations are presented in the ToppGene
+  web portal.\n\nWe have previously reported the effect of trans-10, cis-12-CLA on
+  milk production, milk fat content, milk fatty acid composition, liver weight, and
+  liver FA composition. Briefly, compared with the control, CLA decreased milk fat
+  percentage by 44% and reduced the proportion of de novo synthesized FA  while increasing
+  20:4n-6. The trans-10, cis-12-CLA was preferentially taken up by the mammary tissue
+  \ compared with liver. However, the liver weight increased by 32% in mice fed CLA
+  as a consequence of increased lipid content  compared with control. Furthermore,
+  the proportions of FA 18:0, 18:3, and 20:4n-6 decreased  in the liver of mice fed
+  CLA diet.\n\nTable 2: Effect of trans-10, cis-12-CLA diet on milk production, milk
+  lipid content, milk fatty acid profile, liver weight, and liver fatty acid profile.\n\nIn
+  the mammary tissue, IPA identified 27,566 of 35,302 sequences on the MEEBO platform.
+  The CLA diet resulted in a differential expression of 1,496 genes  of which 143
+  genes differed from control more than 1.5-fold. Hierarchical clustering of the 1,496
+  DEG  revealed a high-degree of consistency among animals in the response to CLA
+  or control. This analysis also allowed visualization of two obvious groups of genes
+  that were downregulated or upregulated by CLA compared with controls. The IPA analysis
+  \ revealed that trans-10, cis-12-CLA caused a marked effect in mammary tissue on
+  genes associated with acute-phase response signaling, regulation of actin-based
+  motility by rho, glycosphingolipid biosynthesis, RAR, and LXR/RXR activation.\n\nTable
+  3: Top canonical pathways  from IPA analysis of DEG in mammary tissue of lactating
+  mice fed trans-10, cis-12-CLA.\n\nThe top upregulated genes were defensin beta,
+  hypoxanthine phosphoribosyl transferase 1, orosomucoid 1, sphingosine kinase, kinesin
+  family member 26b, ceruloplasmin, and serum amyloid A2. The top down-regulated genes
+  were Major urinary protein 4, Major urinary protein 2, Carbonic anhydrase III, Adiponectin,
+  TATA box binding protein, Stearoyl-CoA desaturase 1, ELOVL family member 5, elongation
+  of long chain fatty acids, and tubulin.\n\nTable 4: Fold change in expression among
+  the most up- and downregulated DEG in mammary tissue of lactating mice fed trans-10,
+  cis-12-CLA.\n\nA total of 217 pathways in the KEGG database  contained 30% or more
+  genes represented on the microarray platform; these were deemed appropriately to
+  be covered for further analysis. Among the most-impacted pathways ) that were affected
+  due to feeding CLA versus control were biosynthesis of unsaturated fatty acids,
+  PPAR signaling pathway, adipocytokine signaling pathway, and nitrogen metabolism.
+  Overall, those pathways were inhibited due to dietary CLA. Pathways are considered
+  moderately affected by feeding CLA ) and with clear activation included glycosphingolipid
+  biosynthesis and vasopressin-regulated water reabsorption. Other pathways are considered
+  modestly affected by feeding CLA ) including riboflavin metabolism, fatty acid elongation
+  in mitochondria, ErbB signaling, and pentose and glucuronate interconversions, which
+  were activated.\n\nThe DAVID categories biological process, molecular function,
+  and cellular component  are shown in Figure 3. Within biological processes are biological
+  goals such as regulation of gluconeogenesis which is accomplished by ordered assemblies
+  of molecular functions. Molecular Function describes the tasks performed by individual
+  gene products, for example, calcium channel inhibitory activity. The cellular component
+  classification type involves subcellular structures, localization, and macromolecular
+  complexes, for example, Golgi cisterna.\n\nThe top 10 GO terms from our analysis
+  are shown in Figure 3, and the approach for calculating impact and flux within each
+  GO category has been described previously. Briefly, the length of the impact bar
+  denotes the relative biological significance of the gene identifiers in each category;
+  that is, a bigger bar reflects a more important biological term based on DEG. Similarly,
+  the relative direction of the flux  is denoted by the intensity of color as reported
+  in Bionaz et al.. Results using DIA indicated that, within biological processes,
+  only 2 of the top 10 most-impacted categories were inhibited, that is, negative
+  regulation of gluconeogenesis and selenium metabolic process, whereas protein refolding
+  and regulation of cytotoxic T cell differentiation were highly impacted and activated.
+  Interestingly, the GO terms within cellular component were the least impacted among
+  the three GO categories and mostly seemed to be inhibited in response to feeding
+  CLA, for example, golgi cis cisterna and beta-catenin destruction complex. Within
+  molecular functions, feeding CLA led to an activation of calcium channel inhibitor
+  activity, myosin head/neck binding, and ATP dependent protein binding, whereas it
+  inhibited retinol transporter activity and nicotinamide phosphoribosyltransferase
+  activity.\n\nThe microarray results were verified by quantitative real time RT-PCR
+  assays for genes regulating lipid metabolism, apoptosis, inflammation, acute-phase
+  response signaling, and transcription regulation. Of the 21 genes tested, 17 genes
+  were similar to those of microarray and four were false-positives.\n\nThe effect
+  of trans-10, cis-12-CLA on the liver transcriptome was modest at the same criterion
+  used for selecting DEG of mammary tissue. Hierarchical clustering  across individual
+  animals and the box-plot analysis  revealed a high-degree of animal variation in
+  response to CLA or control, which is not unexpected based on previous studies with
+  lactating mice. We were unable to cluster by gene due to the large size of the dataset
+  ; that is, there were no statistically significant genes in liver at the stringent
+  cutoff used with mammary data. There were 170 DEGs when the selection criteria were
+  relaxed  with 72 upregulated and 98 down-regulated. The CLA diet did not affect
+  genes related to FA synthesis  even though there was increase lipid accumulation
+  in the liver. Some of the genes related to FA oxidation  were down-regulated. Among
+  the genes related to FA transport, CD36, Fabp1, and Fabp2 were upregulated while
+  Fabp4 was down-regulated.\n\nFeeding CLA increased liver mass and altered hepatic
+  FA composition. The greater liver mass was due in part to lipid accumulation and
+  was associated with several alterations in gene expression. For instance, the mouse
+  phenotype feature of the ToppGene suite used for the gene enrichment analysis identified
+  hepatic steatosis, abnormal Kupffer cell morphology, abnormal liver sinusoid morphology,
+  abnormal mononuclear phagocyte, abnormal circulating creatinine level, and abnormal
+  circulating amino acid level as the top terms affected by CLA feeding. The most
+  impacted pathways by CLA were electron transport chain, glucose regulation of insulin,
+  glyoxylate cycle, biosynthesis of unsaturated FA, alanine and aspartate metabolic
+  pathway, erythrocytes differentiation pathway, and tyrosine degradation. The finding
+  of an overall upregulation of the unsaturated FA biosynthesis pathway was due to
+  the fact that the pathway includes several upregulated genes  as identified by ToppGene.\n\nTable
+  6: Top terms associated with the mouse phenotype and disease functions in the liver
+  of mice fed trans-10, cis-12-CLA using the ToppGene suite application.\n\nTable
+  7: Top pathways affected in the liver of mice fed trans-10, cis-12-CLA determined
+  by gene enrichment analysis using the ToppGene suite application. \n\nThe GO categories
+  GO: molecular function, GO: biological process, and GO: cellular component are presented
+  in Table 8. Feeding CLA activated molecular functions related to oxidoreductase
+  activity, chaperone binding, unfolded protein binding, pyrophosphatase activity,
+  but inhibited cofactor binding, pyridoxal phosphate binding, and vitamin B6 binding.
+  CLA feeding upregulated the biological processes related to oxoacid-, carboxylic
+  acid-, organic acid-, and ketone-metabolic processes in addition to cellular catabolic
+  process. Mitochondrion was identified as the most-impacted cellular component in
+  the liver of mice fed CLA.\n\nTable 8: Top terms associated with GO functions in
+  the liver of mice fed trans-10, cis-12-CLA using the ToppGene suite application.\n\nWe
+  observed contrasting effects of trans-10, cis-12-CLA on liver and mammary tissue,
+  two predominantly lipid-synthesizing tissues in lactating mice. In the mammary tissue,
+  the reduction in milk lipid content was characterized by lower concentrations of
+  de novo synthesized fatty acids  as a consequence of inhibition of several genes
+  related to lipid synthesis. Lipid metabolism was the main cellular function affected
+  by trans-10, cis-12-CLA, and the large impact and inhibition of biosynthesis of
+  unsaturated fatty acids KEGG pathway confirmed such effect. The bioinformatics analyses
+  underscored that a major effect of trans-10, cis-12-CLA on mammary tissue encompassed
+  alterations in signaling pathways and phospholipid species biosynthesis.\n\nSubstantial
+  regulation of milk lipid synthesis in lactating mice occurs at the mRNA level, and
+  there is evidence suggesting that part of the pathway is regulated by SREBP1. The
+  lower expression of Srebp1 and its downstream genes in previous studies provided
+  evidence of its role in murine milk lipid synthesis. However, the effect of trans-10,
+  cis-12-CLA on SREBP1 is indirect as FA cannot bind to this transcription factor.
+  In contrast, FA are natural ligands of the nuclear receptor PPAR which is known
+  to regulate lipogenesis in some cell types. The overall inhibition of PPAR signaling
+  KEGG pathway, the reduction in Pparexpression and its downstream genes regulating
+  FA uptake, FA synthesis, FA desaturation, and lipid droplet formation  due to trans-10,
+  cis-12-CLA, all support a role for PPAR in murine mammary lipid metabolism.\n\nWe
+  have previously shown that activation of PPAR could upregulate mammary lipogenic
+  gene networks in bovine mammary epithelial cells. CLA has also been shown to act
+  as a PPAR activator in some cell types. However, an important consideration in the
+  context of PPAR regulation of murine mammary lipid synthesis is the fact that the
+  mammary gland of this species contains a substantial amount of adipocytes which
+  may in fact be an important source of PPAR and also adipocytokine mRNA expression.\n\nGlycosphingolipid
+  biosynthesis-ganglio series was the most activated KEGG pathway in addition to being
+  one of the most-impacted pathways by trans-10, cis-12-CLA. Glycosphingolipids are
+  key components of the apical plasma membrane and subcellular components including
+  vesicles. Glycosphingolipids are involved in molecular functions such as differentiation,
+  apoptosis, and cell-cell interaction. In murine mammary tissue, ganglioside GD1
+  is specifically increased during lactation and is highly concentrated in the milk
+  fat globule membranes and helps prevent aggregation of milk fat globules. We have
+  previously observed a shift in the lipid globule distribution towards an increase
+  in the number of smaller lipid droplets in the secreted milk as well as intracellular
+  mammary epithelium in mice fed trans-10, cis-12-CLA, and this could be due to altered
+  glycosphingolipid biosynthesis in addition to reduced lipogenesis.\n\nBased on microarray
+  data from murine mammary tissue Rudolph et al.  suggested that gluconeogenesis per
+  se is not an important function in murine mammary epithelium. However, the enzyme
+  PCK1 which is a key component of this pathway in liver also is central for the generation
+  of glycerol-phosphate for esterification during the process of glyceroneogenesis.
+  Thus, it is not surprising that the top most-impacted GO biological process due
+  to dietary CLA was inhibition of negative regulation of gluconeogenesis; that is,
+  supply of glucose to mammary gland might have been decreased with a consequent increase
+  in use of other carbon sources  to generate glycerol-phosphate.\n\nIn addition to
+  its effects on lipid metabolism, in the IPA analysis trans-10, cis-12-CLA affected
+  cellular processes related to cell cycle progression, cell-cell interactions, and
+  cell assembly and organization. These effects of CLA were probably through signaling
+  pathways regulating ErbB receptors and the actin cytoskeleton. ErbB signaling was
+  identified as one of the top 10 impacted KEGG pathways in our study. The ErbB signaling
+  pathway in murine mammary gland is involved in the control of cell survival, cell-cell
+  interaction and cellular differentiation, cell cycle progression, and morphogenesis.
+  Activation of the ErbB pathway is considered beneficial for cellular proliferation
+  in damaged tissue ; thus, it could be possible that the activation of this pathway
+  in our study was a compensatory response due to CLA. Proliferation of mammary epithelium
+  and ductal hyperplasia has also been observed in CLA-fed mice independent of alterations
+  of ErbB expression. Ovariectomized mice fed CLA experienced an estrogen-independent
+  allosteric mammary growth characterized by ductal elongation due to enlarged proliferative
+  terminal end buds. In addition, CLA feeding was associated with increased incidence
+  of tumor development and progression.\n\nRegulation of actin-based motility by rho
+  was one of the top 5 canonical pathways identified by IPA analysis. Dietary CLA
+  upregulated expression of actin B  and actin G, which play an important role in
+  formation of stress fibers connecting extracellular matrix to the intracellular
+  medium. Profilin  is involved in actin filament polymerization. Rho proteins regulate
+  Actb, Actg, and Pfn  and can affect actin polymerization which can actively drive
+  vesicle movement in cells. The ras homolog D, which is involved in endosomal dynamics
+  and rearrangement of actin cytoskeleton, was also upregulated by CLA in this study.
+  RhoD is involved in the regulation of both membrane traffic and cytoskeleton in
+  the cell. Overexpression of RhoD induced remodeling of actin cytoskeleton accompanied
+  by increased endosomal fission and scattering of vesicles in the cells. Thus, our
+  results suggested that CLA either directly or indirectly caused a substantial remodeling
+  of cellular structures. It could be possible that such effects were partly due to
+  changes in unsaturated FA availability, for example, for cellular membrane formation.\n\nTrans-10,
+  cis-12-CLA causes marked dilation of endoplasmic reticulum  in the mammary epithelial
+  cells and upregulates x-box binding protein 1  expression. In addition, CLA is also
+  known to induce the ER stress response by increasing splicing of XBP1 mRNA and activation
+  of c-Jun N-terminal kinase  signaling. In our study, a greater expression of Xbp1
+  and Jnk1, genes coding key proteins in the ER stress response, due to CLA suggested
+  the induction of an unfolded protein response  in the ER. That idea is supported
+  by the downregulation of calnexin, a molecular chaperone which mediates the proper
+  folding of nascent proteins in ER, coupled with upregulation of BiP and HSP90AA1
+  which bind to misfolded proteins. Thus, the activation of UPR with CLA might have
+  been associated with greater ER stress and underscored a marked derangement in posttranslational
+  modification of proteins. A key feature of the UPR is cellular inflammation, and
+  the activation of cytotoxic T cell differentiation along with several acute-phase
+  proteins in our study seems to confirm that CLA exerted a proinflammatory state
+  in mammary cells. In this context, the inhibition of golgi cis cisterna, beta-catenin
+  destruction complex, and nuclear exosome could have been a response to ER stress
+  and inflammation.\n\nFigure 4: Acute-phase response signaling pathway  expression
+  in the mammary tissue of lactating mice fed trans-10, cis-12-CLA. Green indicates
+  downregulation while red indicates upregulation.\n\nTrans-10, cis-12-CLA inhibits
+  cellular proliferation and induces apoptosis in primary mammary epithelial cells.
+  Different mechanisms have been proposed for the induction of apoptosis by CLA:  p53-dependent
+  ;  mitochondrial pathway targeting Bcl2 ; and  ER response involving induction of
+  Xbp1, phosphorylation of eIF2, induction of CHOP, and the cleavage of caspase 12.
+  In this study, in addition to the induction of ER stress response, a gene related
+  with the mitochondrial pathway, for example, Bcl2, was also affected. The Bcl protein
+  decreases the activation of caspase 3 involved in apoptosis, and a mouse Bcl2-mutant
+  strain has greater rates of apoptosis in cells.\n\nThe acute-phase response signaling
+  was the major canonical pathway affected by trans-10, cis-12-CLA in the mammary
+  tissue. The top three upregulated genes Orm1, Cp, Saa2, in addition to C4b, Orm2,
+  and Saa1  are classified as acute-phase proteins. Some of the top down-regulated
+  genes Mup4, Mup2, and Rbp4  are well-established negative regulators of acute-phase
+  proteins. Acute-phase proteins are induced in response to tissue injury leading
+  to robust inflammatory responses. In addition to acute-phase proteins Defb, involved
+  in antimicrobial immune response, increases during chronic wounds to promote healing,
+  and Sphk1  enhances proinflammatory cytokines.\n\nThe murine mammary tissue is characterized
+  by an upregulation of acute-phase proteins during the initial phase of involution,
+  but the exact role of such response has not been determined. In our study, a proinflammatory
+  effect induced by CLA on mammary tissue could have led to decreased milk synthesis
+  capacity of the epithelial cells and a subsequent effect on the growth of pups nursing
+  mice fed trans-10, cis-12-CLA. The marked accumulation of 20:4n-6 in milk of CLA-fed
+  mice might have played a role in the proinflammatory response observed, for example,
+  by enhancing the production of oxidized lipid products. The accumulation of 20:4n-6,
+  however, contrasts with the marked decrease in its concentration in milk of lactating
+  dairy cows receiving an exogenous infusion of CLA that reduced milk fat synthesis.\n\nThe
+  acute-phase response proteins are closely regulated at the transcriptional level
+  by STAT3 and NFkB. ER stress can induce upregulation of acute-phase proteins through
+  NFkB activation. None of these transcriptional regulators was upregulated with CLA.
+  However, there was upregulation of the proinflammatory cytokines IL6 and TNF. IL6
+  is known to exert its action through increasing STAT3. During the acute-phase response,
+  TNF decreases the expression of nuclear receptors PPAR, PPAR, RXR, and LXR  which
+  in turn could affect the lipid-synthesizing transcriptome. In addition to its effects
+  on lipid metabolism, PPAR dampens inflammation via transrepression of proinflammatory
+  molecules. For instance, PPAR inhibits inflammation by direct interaction with AP1
+  and NFkB, thus, preventing their binding to response elements on inflammatory genes.
+  Activation of PPAR by synthetic PPAR agonists reduces the expression of inflammatory
+  cytokines and chemokines in bovine mammary epithelial cells. While FA are considered
+  as natural ligands of PPAR, the lower PPAR expression and greater acute-phase protein
+  expression, which confirmed the existence of a marked degree of inflammation, suggested
+  that trans-10, cis-12-CLA antagonizes PPAR.\n\nFurther work is needed to determine
+  if the ability of PPAR to repress proinflammatory molecules is diminished due to
+  its interaction  with trans-10, cis-12-CLA. Overt inflammation might reduce transcription
+  of anti-inflammatory nuclear receptors  leading to negative effects on cellular
+  mechanisms including lipid synthesis and secretion. In lactating mouse mammary tissue
+  targeted deletion of Ppar resulted in greater concentration of proinflammatory lipids
+  in milk leading to reduced pup growth and induction of inflammation. Those results
+  highlighted the importance of PPAR signalling during lactation. Some of the effects
+  of trans-10, cis-12-CLA in our study might have been regulated through its effects
+  on PPAR.\n\nThe effect of trans-10, cis-12-CLA on liver was dramatic as CLA caused
+  accumulation of lipid in the span of four days. The associated increase in liver
+  mass due to TAG accumulation suggested induction of hepatic steatosis in CLA-fed
+  animals. This was confirmed with the gene functional analysis as hepatic steatosis
+  was one of the top terms associated with the mouse phenotype category. Primary biliary
+  cirrhosis and liver cirrhosis were the top terms in the disease category suggesting
+  that trans-10, cis-12-CLA feeding predisposed the mice to these conditions. The
+  onset of hepatic steatosis could predispose liver to inflammation and oxidative
+  stress leading to steatohepatitis and eventually to liver cirrhosis. The development
+  of hepatic steatosis is specific for trans-10, cis-12-CLA feeding but not to other
+  CLA isomers. Hepatic steatosis has been previously reported in growing mice after
+  14 days of trans-10, cis-12-CLA feeding.\n\nPotential mechanisms involved in the
+  onset of hepatic steatosis due to trans-10, cis-12-CLA have been reviewed recently,
+  but it is important to recognize that all those previous studies have been conducted
+  with nonlactating animals. The reduction in FA oxidation coupled with increased
+  uptake of FA may be one of the reasons for hepatic lipid accumulation. Decreased
+  FA oxidation could lead to accumulation of intracellular diacylglycerol concentration
+  which is implicated in hepatic insulin resistance through activation of protein
+  kinase C. In a recent study, CLA-induced hepatic steatosis was associated with an
+  increase in diacylglycerol content and membrane associated protein kinase C  suggesting
+  that CLA feeding could potentially lead to hepatic insulin resistance.\n\nIn this
+  study, mitochondria, the primary organelle involved in FA oxidation, were the most-impacted
+  cellular component followed by ER and peroxisomes. Mitochondrial dysfunction causes
+  hepatic steatosis and has been implicated in the progression from nonalcoholic fatty
+  liver disease  to non-alcoholic steatohepatitis. The top affected pathways, molecular
+  functions, biological processes, and diseases  are related to mitochondria further
+  confirming that trans-10, cis-12-CLA feeding affected hepatic mitochondrial functions.\n\nThe
+  ER was the second most affected cellular organelle in the liver of trans-10, cis-12-CLA-fed
+  mice. The activation of molecular functions such as chaperone binding and unfolded
+  protein binding suggests induction of ER stress response in hepatic tissue. Induction
+  of ER stress could further deteriorate the steatotic condition by augmenting hepatic
+  lipogenesis via activating proteolytic cleavage of SREBP1, decreasing hepatic secretion
+  of TAG by reducing apoB secretion  and upregulation of Xbp1. The transcriptional
+  regulator Xbp1, a known regulator of the unfolded protein response, regulates the
+  expression of lipogenic genes Scd1, acetyl-CoA carboxylase beta, and diacylglycerol
+  acetyltransferase 2, independent of SREBP1 and ChREBP. Also, a shift in hepatic
+  FA composition towards saturated FA disrupts ER homeostasis and promotes ER stress.
+  An increased ratio of saturated to unsaturated FA is considered as a secondary hit
+  in the progression of steatosis to steatohepatitis. Trans-10, cis-12-CLA-fed mice
+  in our study had greater hepatic palmitate concentration  thereby increasing the
+  ratio of saturated FA. Thus, those data confirm previous reports that the induction
+  of ER stress could be caused in part by altered hepatic FA profile.\n\nAs indicated
+  above, the presence of adipocytes in the mammary tissue used for transcriptomics
+  is an important consideration when interpreting our data, particularly as it relates
+  to PPAR and adipocytokine signaling. Adipose tissue constitutes ca. 20% of the lactating
+  murine mammary tissue in early lactation  and in rodents is indispensable for the
+  normal function of the mammary epithelium. It has been suggested that the gene expression
+  changes in a complex tissue like rodent mammary could be a function of changes in
+  the gene expression within a particular cell type  or the proportion of the given
+  cell type. This could be an important factor during different stages of mammary
+  function and development when the abundance of the two cell types varies substantially.
+  Our study was conducted during peak lactation when the adipose content is at its
+  lowest, but further studies are needed to delineate more closely the impact of trans-10,
+  cis-12-CLA on the relative abundance of mammary and adipose cell types in the rodent
+  mammary gland during peak lactation.\n\nDuring lactation the effect of CLA on the
+  liver was similar to those observed previously in growing mice. The hepatic gene
+  enrichment functional analysis revealed induction of hepatic steatosis, perturbations
+  in the mitochondrial functions, and induction of ER stress. The major effect of
+  CLA on mammary tissue encompassed alterations in cellular signaling pathways, phospholipid
+  species biosynthesis, and a marked degree of inflammation and ER stress. Such responses
+  might be associated with enhanced cellular apoptosis and precocious involution of
+  the mammary gland. Inhibition of PPAR signaling was associated with decreased milk
+  fat synthesis and uncontrolled inflammation.\n\nThe authors acknowledge the help
+  from Dr. Massimo Bionaz and Dr. Peng Ji during analysis of RT-qPCR data, and Dr.
+  Bruce Aronow  for conducting the ToppGene analysis. Financial support for the animal
+  studies were by the Maryland Agriculture Experiment Station, Competitive Grants,
+  University of Maryland, College Park, MD, USA, and Pennfield Graduate Research Award
+  by Pennfield Corporation, Lancaster, PA, USA. Financial support for the microarray
+  and RT-qPCR was given in part by the Cooperative State Research, Education and Extension
+  Service, USDA, under Hatch Projects ILLU-538-307 and ILLU-538-391.\n"
+...

@@ -1,0 +1,5 @@
+# Effect of different types of sugars in a marinating formulation on the formation of heterocyclic amines in grilled chicken
+
+## Abstract
+
+The aim of the study was to determine the effect of different types of sugar on the formation of heterocyclic amines (HCA) in marinated grilled chicken. Chicken breast samples were marinated with table sugar, brown sugar, and honey for 24 h at 4 °C. The internal temperature, weight loss, free amino acids, sugars, and HCA were determined. The concentrations of all types of HCA (except IQx) in samples that were marinated with table sugar were significantly higher (_p &lt; _0.006) than brown sugar; whereas those were marinated with honey had the lowest HCA concentrations. A substantial reduction in the concentration of MeIQ, PhIP, DiMeIQx, IQ, IQx, and norharman was achieved in chicken marinated with honey. A correlation study indicated that adding honey into the recipe retarded the formation of most HCA (MeIQ, DiMeIQx, IQ, IQx, norharman, and harman), whereas table sugars enhanced the formation of all HCA except norharman, harman, and AÎ±C.

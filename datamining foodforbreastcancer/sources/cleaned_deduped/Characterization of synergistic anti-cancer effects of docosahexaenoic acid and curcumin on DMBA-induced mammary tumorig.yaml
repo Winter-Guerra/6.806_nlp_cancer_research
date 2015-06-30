@@ -1,0 +1,485 @@
+---
+title: Characterization of synergistic anti-cancer effects of docosahexaenoic acid
+  and curcumin on DMBA-induced mammary tumorigenesis in mice
+pathHash: 22c47008c02ad91ccfb77dc79b947a0a
+tags:
+- herring-and-sardines
+- mackerel
+- turmeric
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Characterization
+  of synergistic anti-cancer effects of docosahexaenoic acid and curcumin on DMBA-induced
+  mammary tumorig.md
+text: "\n\nThe major obstacles to the successful use of individual nutritional compounds
+  as preventive or therapeutic agents are their efficacy and bioavailability. One
+  approach to overcoming this problem is to use combinations of nutrients to induce
+  synergistic effects. The objective of this research was to investigate the synergistic
+  effects of two dietary components: docosahexaenoic acid, an omega-3 fatty acid present
+  in cold-water fish, and curcumin, an herbal nutrient present in turmeric, in an
+  in vivo model of DMBA-induced mammary tumorigenesis in mice. \n\nWe used the carcinogen
+  DMBA to induce breast tumors in SENCAR mice on control, CCM, DHA, or DHA + CCM diets.
+  Appearance and tumor progression were monitored daily. The tumors were harvested
+  15 days following their first appearance for morphological and immunohistological
+  analysis. Western analysis was performed to determine expression of maspin and survivin
+  in the tumor tissues. Characterization of tumor growth was analyzed using appropriate
+  statistical methods. Otherwise all other results are reported as mean  SD and analyzed
+  with one-way ANOVA and Tukeys post hoc procedure. \n\nAnalysis of gene microarray
+  data indicates that combined treatment with DHA + CCM altered the profile of PAM50
+  genes in the SK-BR-3 cell line from an ER-/Her-2+ to that resembling a normal-like
+  phenotype. The in vivo studies demonstrated that DHA + CCM treatment reduced the
+  incidence of breast tumors, delayed tumor initiation, and reduced progression of
+  tumor growth. Dietary treatment had no effect on breast size development, but tumors
+  from mice on a control diet  were less differentiated than tumors from mice fed
+  CCM or DHA + CCM diets. The synergistic effects also led to increased expression
+  of the pro-apoptotic protein, maspin, but reduced expression of the anti-apoptotic
+  protein, survivin. \n\nThe SK-BR-3 cells and DMBA-induced tumors, both with an ER-
+  and Her-2+ phenotype, were affected by the synergistic interaction of DHA and CCM.
+  This suggests that the specific breast cancer phenotype is an important factor for
+  predicting efficacy of these nutraceuticals. The combination of DHA and CCM is potentially
+  a dietary supplemental treatment for some breast cancers, likely dependent upon
+  the molecular phenotype of the cancer. \n\nIn vivo studies; Cancer cell differentiation;
+  Breast cancer; Tumor incidence; Tumor growth; Maspin; Survivin\n\nThe idea that
+  dietary changes or diet supplementation may improve the health of cancer patients
+  or enhance the effectiveness of existing treatments is compelling motivation for
+  exploring the activities of dietary compounds. Although natural products are a promising
+  addition to current toxic anti-cancer drugs, major obstacles exist to the successful
+  use of individual nutritional compounds as preventive or therapeutic agents: efficacy
+  and bioavailability. One approach to overcoming these problems is to use combinations
+  of nutrients with synergistic effects. Given that the human diet consists of multiple
+  nutrients, it is likely that nutrients in the diet act synergistically to provide
+  health benefits. In fact, human diets can routinely encompass many biologically
+  active small molecules, and evidence for synergy between dietary compounds is emerging.
+  The translational benefit for such molecules derives from a relative lack of toxic
+  side effects and source material that is inexpensive and easily accessible relative
+  to synthetic pharmaceuticals. The objective of the present research is to establish
+  synergistic interaction with a combination of Docosahexaenoic acid, an omega-3 PUFA
+  found in fish oil, and curcumin, a phenolic molecule found in turmeric, on breast
+  cancer growth. \n\nDocosahexaenoic acid  is the most unsaturated of the fatty acids
+  commonly found in biological systems. Early epidemiological evidence strongly links
+  fish oil  with a low incidence of several types of cancer, including breast cancer.
+  In addition to strong epidemiological studies, dietary studies have also substantiated
+  DHAs role as an anti-cancer agent for breast cancer. Curcumin  has been frequently
+  used in South Asian medicine since the second millennium BCE. Coincidently, a recent
+  study reported that breast cancer rates in India were significantly lower than in
+  Western countries, including the US. Preclinical studies have revealed growth-inhibitory
+  potential of curcumin in several cancers, including colon, duodenal, stomach, prostate,
+  and breast. \n\nBreast cancer is a myriad of diseases with multiple phenotypes.
+  Clinically, breast cancers are subdivided according to estrogen receptor  and oncogenic
+  Her-2 status. Progesterone receptor  is another molecular marker that is also used
+  to predict a lack of response to hormone therapy. More recent studies using global
+  gene expression profiling with widely available microarray techniques describe distinct
+  molecular subtypes of breast cancer, each defined by a large number of genes. These
+  include basal-like, Her2-enriched, normal-like, luminal A, and luminal B subtypes.
+  This classification has been further refined and now utilizes a set of 50 representative
+  genes known as PAM50 genes. Those classifications also parallel the established
+  clinical- and histological-based classifications, with basal-like representing ER-/Her2-cancers,
+  Her-2 enriched representing ER-/Her2+, and normal-like and luminal A/B subtypes
+  representing ER+. With this diverse classification, it would be expected that a
+  particular therapeutic agent or dietary supplement might not be effective for all
+  malignant subtypes. Although there is a debate about the advantage of molecular
+  signature classification over existing surface receptor classification, the molecular
+  signature may provide more in-depth knowledge about the progression of disease or
+  response to treatment. \n\nIn a previous study, we used 5 breast cell lines covering
+  distinct receptor expression phenotypes: MDA-MB-231, SK-BR-3, MCF7, MDA-MB-361,
+  and MCF10AT. Across these cell lines, the synergistic anti-proliferative effects
+  of CCM, DHA, and a DHA + CCM combination were assessed quantitatively as described
+  by Tallarida. Our data demonstrated that the combination of DHA + CCM, when less
+  than 50 M, exerted a synergistic effect only in the SK-BR-3 breast cancer cell line.
+  Detection of anti-proliferation synergy for DHA + CCM within the SK-BR-3 cell line
+  was followed by transcript analysis using the Agilent Whole Human Genome Microarray
+  444K platform. The microarray data and corresponding step-by-step analysis is posted
+  as supplementary data on the BMC-Cancer web site. The data demonstrate that the
+  expression of genes involved in apoptosis, inhibition of metastasis, and cell adhesion
+  were upregulated, whereas genes involved in cancer development and progression,
+  metastasis, and cell cycle progression were downregulated. Furthermore, a significant
+  20- to 100-fold increase in CYP450 class-1, a nearly 20-fold upregulation of SERPINB5,
+  and a 60% downregulation of BIRC5 gene expression are of special functional interest.
+  CYP450 proteins are involved in the metabolism of estrogen, activation/inactivation
+  of carcinogens, and enhancement of the anti-proliferative effects of polyphenols.
+  SERPINB5 protein  is a pro-apoptotic tumor suppressor that is completely suppressed
+  in most breast cancers but is re-expressed on anti-cancer treatment, whereas the
+  BIRC5 protein, belongs to the Inhibitors of Apoptosis Protein  family, which is
+  mostly absent from well-differentiated, normal adult tissues, but is over-expressed
+  in nearly all human cancers. The fact that only the SK-BR-3 cell line was synergistically
+  affected by DHA and CCM suggests that specific breast cancer phenotype is an important
+  factor for predicting efficacy. \n\nWe used the microarray data to further analyze
+  and understand the response of dietary treatments on PAM50 genes. We made initial
+  attempts to test the synergism between DHA and CCM in a xenograft model of the SK-BR-3
+  cell line; however, we were not able to grow the SK-BR-3 xenograft in nude mice
+  because of low tumorigenic potential of SK-BR-3 cells. Therefore, in the present
+  study we present results from an in vivo study on DMBA-induced ER-negative/Her-2
+  positive breast tumors to validate the DHA and CCM synergistic effects in a similar
+  phenotypic breast cancer. \n\nSK-BR-3 cells were obtained from the American Type
+  Culture Collections  and maintained in McCoys 5A medium  supplemented with penicillin,
+  streptomycin, and 10% FBS. McCoys 5A medium, penicillin, streptomycin, and glutamine
+  were from Invitrogen Corporation. Fetal bovine serum was from BioWhittaker. DHA
+  \ was diluted in 100% ethanol to make 50 mM stock solutions. CCM  was dissolved
+  in DMSO to make 50 mM stock solutions. The fatty acid standards for gas chromatography
+  \ were from Nu-Chek Prep, Inc.. Docosahexaenoic acid single cell oil  was a generous
+  gift from DSM Nutrition. Methanol, chloroform, petroleum ether, diethyl ether, acetic
+  acid, hexane, and ethanol were from Fisher Scientific. Anti mouse ER, Her-2 and
+  PR antibodies were from Santa Cruz Biotechnology Inc.. H &amp; E stain and all other
+  reagents were from Sigma Chemical Co.. \n\nOne week after receiving the animals,
+  SENCAR  mice  were randomly divided into 4 groups and fed ad libitum diets containing
+  corn oil, corn oil with CCM, DHASCO, or DHASCO with CCM   for 3 weeks prior to tumor
+  induction. Mice continued feeding on the corresponding diets and were weighed every
+  week throughout the study. The diets contained similar quantities of protein, carbohydrates,
+  lipids, vitamins, and minerals as described in Table 1. They only differed in the
+  types of lipids  and their fatty acids composition as described in Table 2. At six
+  weeks of age, the mice were gavaged with 200 l of DMBA  one time per week for six
+  weeks. Mice were examined daily for the appearance of tumor by palpation, and the
+  first day of tumor detection was recorded. Mice were anesthetized using Isoflurane
+  15 days after the first appearance of tumor. A blood specimen was collected by cardiac
+  puncture, and the tumor was dissected out, measured, and weighed. Blood and tumor
+  specimens were stored at 70C. A portion of the tumor tissues was embedded in OCT
+  \ compound for immunohistology for ER, PR, and Her-2 expression and histological
+  evaluation by hematoxylin and eosin  stain. The protocol for these studies was approved
+  \ by the Methodist Research Institutes Animal Research Committee  and strictly followed
+  Guide for the care and use of laboratory animals.\n\nThe entire intact lower abdominal
+  mammary gland  was dissected out and spread on a glass slide for measuring the size
+  and histological evaluation as described. The gland was air dried briefly and then
+  fixed in Carnoys fixative  overnight. The mount was rehydrated in increasing dilutions
+  of ethanol in distilled water  and then stained by placing the slide in Carmine
+  Alum stain over night. The excess stain was removed by washing with increasing concentrations
+  of ethanol, and then the slides were placed in xylene solutions for at least 2 days
+  until the fats were sufficiently cleared from the gland. The mammary tissue was
+  mounted using Fluoromount and a glass cover slip. Images were recorded using a dissecting
+  microscope, and photographs were captured with a digital camera. \n\nTransverse
+  serial sections of tumor tissues  were prepared using a cryostat. The analysis of
+  tissue histology was performed by staining sections with H &amp; E stain. Slides
+  were examined by Dr. Yava Jones in the Department of Comparative Pathobiology at
+  Purdue University. The tumors were classified based on their morphological features
+  as described by Dunn. For detecting ER, PR, and Her-2 expression, immunohistology
+  was performed by the pathological laboratory services of Indiana University Health
+  \ using mouse specific anti-estrogen receptor, progesterone receptor, and Her-2
+  receptor antibodies. Slides were scanned and the expression of ER, PR, and Her-2
+  was quantified using Aperio ImageScope software. The positive stained area and total
+  scanned area were measured with precise calibration, and the percent of the positive
+  stained area was determined. The total scanned area excludes the uneven tissue edges
+  and void regions without cells. Expressions of antigens in CCM, DHA, and DHA + CCM
+  are reported as fold changes compared to control. \n\nThe tumor tissues were homogenized
+  in a homogenizing buffer  using a polytron homogenizer. The homogenate was solubilized
+  in 2 lysis buffer  for 10 minutes on ice. The detergent solubilized extracts were
+  centrifuged to remove insoluble matter. After evaluating the protein content using
+  a BCA  Protein Assay Kit, 15 g of protein solubilized in Laemmli sample-loading
+  buffer was loaded onto each lane of a 4-12% gradient SDS-polyacrylamide gel and
+  transferred onto nitrocellulose membranes. Membranes were blocked for 30 minutes
+  at room temperature in 10% Roche western blocking reagent in Tris buffered saline
+  supplemented with 0.1% Triton X-100. Blots were probed with primary antibodies  according
+  to the manufacturers recommendations. Secondary antibodies were peroxidase-conjugated
+  for protein detection using an enhanced chemiluminescence  system. Nitrocellulose
+  membranes were stripped in 62.5 mM TrisHCl  buffer containing 2% SDS and 100 mM
+  -mercaptoethanol for 30 minutes at 50C. Stripped blots were washed 6 times in TBST,
+  blocked, and reprobed with an alternative antibody. \n\nData is presented as mean
+  \ SD unless reported otherwise. The progression of tumor development in different
+  dietary groups was compared using the Chi-square test, whereas the number of tumors
+  formed/animal in each group was compared between groups using one-way ANOVA with
+  Scheffe post hoc test. Data for time to initial tumor appearance are summarized
+  as median  and compared between groups using log-rank test. All other comparisons
+  were made by one-way ANOVA with Tukeys post hoc test using IBM SPSS statistics 20
+  software. \n\nWe used the microarray data from the SK-BR-3 cell line to examine
+  the signature profile of PAM50 genes and determine if the combined treatment with
+  DHA and CCM influenced the expression of the gene signature profile. The data presented
+  by Creighton  and Hoadley  represents a modified gene signature profile for breast
+  cancer sub-classification. We selected the same genes from our microarray data  and
+  arranged them in a similar manner, as described by Creighton. We found that the
+  gene signature of SK-BR-3 cell lines resembled the ER-/Her-2+ tumor profile, further
+  confirming our SK-BR-3 cell characterization. DHA alone had very little effect,
+  but CCM treatment changed the expression of a number of genes. DHA, however, appears
+  to be acting as a modulator of the effects of CCM, and it is very intriguing to
+  observe that the combined DHA + CCM treatment has altered the SK-BR-3 profile from
+  an ER-/Her-2+  phenotype to resemble a normal-like phenotype. Furthermore, as shown
+  in Table 3, DHA or CCM alone has no significant effect on ER, Her-2, and PR expression;
+  however, the DHA and CCM combination caused a nearly 3-fold increase  in ER expression,
+  whereas DHA or CCM alone had no effect. This observation was further validated in
+  our in vivo experiments presented below. \n\nFigure 1. The signature profile of
+  PAM50 gene expression in SK-BR-3 cells. The expression profile of PAM50 genes  from
+  microarray data  in SK-BR-3 cells treated with vehicle, DHA, CCM or DHA + CCM were
+  used to compare the signature profile of 41 genes represented on the U133A array
+  system, as reported by Creighton, to classify tumors into basal-like, Her-2-enriched,
+  luminal A, luminal B, and normal-like. The expression profile of untreated cells
+  \ resembled the ER-, Her-2-enriched profile, whereas the expression profile of cells
+  treated with DHA + CCM more closely resembled the normal-like profile. \n\nTable
+  3. Changes in estrogen receptor, progesterone receptor and her-2 oncogenes in SK-BR-3
+  cell and DMBA-induced tumors\n\nThe data presented in Figure 2 demonstrate that
+  a DHA or CCM diet alone did not reduce the incidence of tumor occurrence in mice,
+  whereas the combined DHA diet with CCM significantly delayed tumor initiation and
+  also significantly reduced the incidence of breast tumor in mice. The data presented
+  in Table 4 indicate that about 73% of mice on the corn oil and corn oil + CCM diets
+  developed tumors, and mice on the DHA diet yielded a tumor incidence of 67%. However,
+  only 27%  of animals developed tumors when on the DHA + CCM diet. There was no statistical
+  difference in the number of tumors per animal within corn oil, CCM, and DHA groups;
+  however, there were significantly fewer breast tumors per animal when treatment
+  with DHA and CCM was combined. In addition, the average tumor mass  in the DHA +
+  CCM group was also significantly less  compared to other groups. Furthermore, the
+  length of time for the initial tumor to appear in animals fed DHA + CCM was significantly
+  longer  than that of animals fed control, DHA, or CCM diets. The DHA, CCM, or DHA
+  + CCM treatment was non-toxic, based on the lack of significant differences in body
+  weights between groups. \n\nFigure 2. Effect of DHA, CCM, and DHA + CCM on DMBA-induced
+  breast tumor development. After an acclimation period, SENCAR mice  were divided
+  into 4 groups. Each group was fed a different diet for 3 weeks prior to tumor induction:
+  1) 18% corn oil ; 2) 15% DHASCO  + 3% corn oil ; 3) 18% corn oil + 0.2% curcumin
+  ; or 4) 15% DHASCO + 3% corn oil + 0.2% curcumin. Doses of DHA and CCM were selected
+  based on published data. Mice continued to be fed the corresponding diet during
+  the entire course of the experiment. Each mouse was gavaged with 200 l DMBA  once
+  every week for 6 weeks to induce breast tumors. The appearance of palpable tumors
+  was monitored daily beginning with the first DMBA gavage. The statistical analysis
+  and characterization of the effects of different diets on DMBA-induced breast tumors
+  are shown in Table 4. \n\nTable 4. Characteristics of DMBA-induced tumors in SENCAR
+  mice on different dietary treatment\n\nFigure 3. Size and location of DMBA-induced
+  tumors in different dietary groups. The details of animals and tumor induction are
+  given in the legend of Figure 2. Sites of tumor development in animals fed a corn
+  oil-diet, CCM-diet, DHA-diet  or DHA + CCM-diet  are shown by red arrows. Red circles
+  indicate relative tumor sizes. \n\nWe further investigated if the carcinogen or
+  diet had any influence on normal mouse breast development by preparing breast whole
+  mounts. The total length of breast tissue per gram body weight did not differ significantly
+  among the dietary groups with or without DMBA-induced tumors. The total width of
+  breast tissue per gram body weight was not significantly different within DMBA-induced
+  or non-DMBA treated animals. However, the total width of breast tissue per gram
+  body weight was significantly reduced in animals with CCM  or DHA + CCM  treatment
+  only in the DMBA-tumor group, whereas the total width of breast tissue per gram
+  body weight was not different on these treatments in non-DMBA induced animals. We
+  also looked at the morphological features of the whole breast mount from animals
+  on different dietary groups. The mammary ducts in control animals  with DMBA-induced
+  tumors exhibited less differentiation of the gland with substantial reduction in
+  the density of terminal end buds  compared to animals fed the other diets. Animals
+  on CCM or DHA diets also had some reduction in TEB density compared to control non-tumor-bearing
+  animals, whereas animals on DHA + CCM diets had well differentiated breast tissues
+  and the TEB density was similar to that of control, non-DMBA-induced animals. In
+  addition, we also looked for the presence of proliferative regions where the alveolar
+  buds showed extensive staining. Data presented in Figure 5 show that control animals
+  had an average of 1.3 proliferative lesions per breast. DHA treatment did not affect
+  the number of the proliferative lesions. Although non-significant, the CCM diet
+  reduced proliferative lesions to 40%, and a DHA + CCM diet substantially reduced
+  proliferative lesions to 20%. However, the total tumor burden, estimated by adding
+  the palpable tumor and proliferative lesion in each breast tissue  showed a significant
+  50% reduction  in breast tissue from animals fed a DHA + CCM diet compared to the
+  control group. \n\nFigure 4. Effect of diets on DMBA-induced tumors in SENCAR mice.
+  The total length  and width  were measured as indicated in the total breast mount
+  picture. The total length and width were compared between non-tumor-bearing and
+  DMB-induced tumor groups, whereas as total tumor burden was calculated by adding
+  the number of palpable tumors  and number of proliferative regions  in each animal
+  within a dietary group. Data is analyzed by oneway ANOVA and Tukey post-hoc test.
+  \n\nFigure 5. Effect of diet on the breast tissues morphology. The details of animals
+  and tumor induction are given in the legend of Figure 2. Breast tissues were isolated
+  from the abdominal region on day 15 after the first appearance of the tumor. Breast
+  tissues from non-tumor-bearing  mice with a similar age group were used for comparison.
+  The whole breast mounting was performed as described in the experimental section.
+  The tissues were observed under a dissecting microscope  at 20 magnification and
+  the hyper-proliferative regions  in the entire breast tissue were recorded. \n\nThe
+  basic morphological features of tumors were evaluated using H&amp;E stain. The data
+  presented in Figure 6 indicate that control animals on a corn oil diet largely developed
+  adenosquamous  and ductal  carcinomas, with few tumors showing adenocarcinoma type
+  A. Animals fed a curcumin diet developed mostly ductal carcinoma  and carcinosarcoma,
+  with some tumor showing features of adenocarcinoma type A, whereas only few tumors
+  were adenosquamous carcinoma or mixed carcinoma type. Interestingly, animals fed
+  either a DHA or DHA + CCM diet mostly formed adenosquamous type carcinoma  with
+  marked central keratinization. \n\nFigure 6. Histological characterization of DMBA-induced
+  tumors. The breast tumors were isolated on day 15 after the first appearance of
+  tumor and embedded in OCT. Transverse serial sections of tumor tissues  were prepared
+  using a cryostat  and the sections were subjected to H &amp; E stain. The tumors
+  were classified based on their morphological features as described by Dunn. \n\nHistological
+  analysis of the tumors indicates that the DMBA tumors were largely ER-, HER-2+ and
+  PR-. However, when animals were treated with CCM or DHA + CCM, these tumors changed
+  their behavior and were ER+, Her-2+ and PR-/+. The quantitative analysis of ER,
+  Her-2 and PR proteins in immunohistological slides is shown in Table 3, which indicates
+  that DHA + CCM treatment caused a significant 7.5-fold increase  in the expression
+  of ER in tumors, whereas none of the other treatments had any effect on the expression
+  of ER, Her-2, or PR. \n\nFigure 7. Effect of diets on the estrogen receptor, Her-2
+  oncogene, and progesterone receptor expression in DMBA-induced tumors. Tumors were
+  isolated and tissue sections were prepared as described in the legend of Figure
+  6. Expression of estrogen receptor, Her-2 oncogene, and progesterone receptor  were
+  detected using specific anti-mouse antibodies. Slides were observed under an Olympus
+  microscope at 50  magnification. The quantitative analysis antigen expression is
+  described in Table 3. \n\nAs mentioned above, our micro array data indicated a 20-fold
+  increase in SERPINB5 expression and a 60% reduction in BIRC5 genes in SK-BR-3 cells
+  treated with DHA + CCM compared to the control cells. We, therefore, analyzed the
+  expression of maspin  and survivin  in tumors from different dietary treatments.
+  As demonstrated in Figure 8 using two representative tumors, maspin was absent or
+  expressed at a very low level in a majority of tumors in animals fed either a control
+  \ or DHA diet; however, a substantial amount of maspin was expressed in tumors from
+  mice fed a CCM diet, and its expression was further stimulated in tumors from DHA
+  + CCM fed animals. In contrast, considerable survivin expression was observed in
+  tumors from animals fed a control diet, a DHA-enriched diet, or a CCM-enriched diet.
+  However, DHA + CCM treatment caused nearly a 50% reduction in survivin expression
+  in the tumors. \n\nFigure 8. Effect of diets on expression of maspin and survivin
+  in DMBA-induced tumors. Frozen tumor tissues were used to extract proteins as described
+  in the text. Expression of maspin and survivin was detected using specific anti-maspin
+  and anti-survivin antibodies. Blots were probed with -actin antibodies for monitoring
+  sample loading. Blots represent two representative tumors from each group. \n\nAbout
+  41% of all newly approved drugs are estimated to have a nutritional/natural product
+  origin, and about 60% of these are anti-cancer drugs. However, it is becoming apparent
+  that the major obstacles to the successful use of individual nutritional compounds
+  as preventive or therapeutic agents are their efficacy and bioavailability. One
+  approach to overcoming this problem is to use combinations of nutrients to induce
+  synergistic effects. Traditionally, nutritional compounds in folk medicine are used
+  in unmodified form, as concentrated extracts. Given that the human diet consists
+  of multiple nutrients, dietary nutrients likely act synergistically to provide health
+  benefits. Centuries ago Hippocrates stated, Let food be thy medicine, and let thy
+  medicine be food. DHA and CCM are natural non-toxic nutrients that have anti-cancer
+  properties; however, their use as individual compounds is not very efficacious.
+  Therefore, we tested the possibility that they could act synergistically. In our
+  previously published in vitro studies, we used 5 breast cell lines covering distinct
+  receptor expression phenotypes: MDA-MB-231, SK-BR-3, MCF7, MDA-MB-361, and MCF10AT.
+  We found that SK-BR-3, an ER-/Her-2+ cell line, responded synergistically to the
+  DHA + CCM combined treatment. We further demonstrated that the synergistic effects
+  of DHA and CCM were mediated through the activation of NFB and the expression of
+  PPAR. As outlined in the introduction, our gene microarray data showed that expression
+  of genes involved in apoptosis, inhibition of metastasis, and cell adhesion were
+  upregulated, whereas genes involved in cancer development and progression, metastasis,
+  and cell cycle progression were downregulated on the combined DHA + CCM treatment.
+  Those data suggested that this differential gene expression by the combined treatment
+  could be effective in limiting growth of cancerous cells. \n\nIn addition, we further
+  analyzed the PAM50 subset of genes to validate the breast cancer signature profile
+  of SK-BR-3 cell lines and to determine if this signature profile changes in response
+  to the combined DHA + CCM treatment. As expected, the untreated SK-BR-3 cells showed
+  a signature pattern for ER-, Her-2+ tumors. Importantly, we found that DHA + CCM
+  treatment transformed the PAM50 gene signature profile towards a normal-like profile
+  \ with significant ER expression. This observation indicates that these compounds
+  act synergistically to transform a highly undifferentiated tumor into a differentiated
+  form. We speculate that this concept of chemically changing the gene profile of
+  tumor into normal-like tissue will open new avenues to identify the key target genes
+  that may transform a neoplastic cell into a normal cell. The concept of changing
+  cellular structure and function has been published when a differentiated cell was
+  transformed into a stem cell by introducing 4 key genes. It is possible that a reverse
+  approach may have high potential for the treatment of tumors. \n\nIn our previous
+  studies on SK-BR-3 cells, we realized that treating breast cancer cells in vitro
+  with a combination of DHA + CCM may reflect a similar response in vivo. We, therefore,
+  further extended our studies in an in vivo model of breast cancer. We initially
+  used a xenograft model of SK-BR-3 tumors in nude mice. Because of the low tumorigenic
+  potential of SK-BR-3 cells, these studies could not be completed. We, therefore,
+  used a DMBA-inducible breast cancer model to determine the effects of DHA, CCM,
+  and DHA + CCM. Interestingly, the DMBA-induced breast cancer model in SENCAR  mice
+  has been shown by others  and validated by us, to exhibit a phenotype  similar to
+  that of SK-BR-3 cells. Therefore, our in vivo model closely resembled our in vitro
+  breast cancer cell model. \n\nThe data presented in Figure 2 demonstrate that DHA
+  in combination with CCM delays tumor initiation and reduces the incidence of breast
+  tumors in mice. Morphologically, breast tumors in the DHA + CCM group appeared to
+  be more differentiated then control tumors. Additionally, the single treatment with
+  either DHA or CCM did not alter the TEB, which were similar to the non-tumor control.
+  No apparent difference was found in the size  of normal breast tissue in any dietary
+  group, indicating that diet itself has no effect on the development of breast. In
+  contrast, breast tissue width was significantly reduced in DMBA-induced animals
+  fed a CCM or DHA + CCM diet. This indicates a possible interaction of DMBA with
+  CCM, but it is not clear if this reduction in breast width has any pathological
+  implications. \n\nBoth DMBA and CCM are metabolized to their active metabolites
+  by cytochrome P450  class 1 enzymes. The expression of these enzymes is directly
+  regulated by the activation of Aryl hydrocarbon receptor. Both CCM and DMBA bind
+  to AhR to induce expression of CYP40-class-1 enzymes. It is, therefore, possible
+  that CCM and DMBA may have interacted at the AhR-CYP450-1 axis and that agonist
+  vs antagonist effects of DMBA and CCM may have some growth inhibitory effects on
+  breast development. The role of CCM and DMBA on AhR activation and the metabolism
+  of CCM and DMBA clearly require further investigation. \n\nHistological examination
+  of the breast tumors allowed us to subclassify them into multiple types. The most
+  common tumor type in control- or CCM-treated animals was ductal carcinoma ; however,
+  the tumors that developed on a DHA or DHA + CCM diet appeared to be largely an adenosquamous
+  type with marked central keratinization. The expression of keratin is a differentiation
+  marker of epithelial cells and plays an essential role in the malignant behavior
+  of breast tumors. Nearly 80% of breast carcinomas exhibit a loss of the differentiation-associated
+  keratin 8 and 18 have generally been associated with a worse prognosis. Breast cancer
+  cells become more aggressive and malignant with the loss of keratin as these proteins
+  are replaced with vimentin, the intermediate filaments-protein of mesenchymal cells.
+  Experiments by Buhler demonstrated that highly invasive MDA-MB-231 breast cancer
+  cells became less invasive and lacked tumorigenicity in nude mice with overexpression
+  of keratin 18. It is, therefore, possible that DHA or DHA + CCM treatment may have
+  transformed DMBA-induced tumors toward a more differentiated, less aggressive subtype.
+  Furthermore, immune histological analysis of tumor tissues indicates that the DMBA-induced
+  tumors were ER-negative and Her-2 positive, further validating the reported observations.
+  We observed that DHA + CCM treatment caused a significant expression of ER in DMBA-induced
+  tumors, further validating our observation of microarray data in SK-BR-3 cells.
+  Reversal of the estrogen negative to the estrogen positive phenotype has previously
+  been described. This observation also suggests that the combined treatment has induced
+  differentiation in breast tumors. We have not been able to further characterize
+  keratin or ER levels in these tumors due to scarcity of the tissue; however, these
+  observations also need further investigation. \n\nOne of the observations from our
+  microarray data was the approximately 20-fold upregulation of SERPINB5 and almost
+  60% downregulation of BIRC5 genes. SERPINB5 produces maspin, a tumor suppressor
+  protein present in high concentrations in normal mammary epithelium and myoepithelium
+  cells; maspin expression is reduced in primary breast cancers and is completely
+  absent in invasive and metastatic tumor cells. Data shown in Figure 8 indicate that
+  maspin was absent or expressed at low levels in the tumors of control or DHA-fed
+  animals. CCM treatment caused reexpression of maspin, and this expression appears
+  to be further enhanced by the combined DHA + CCM diet. Reexpression of maspin in
+  response to curcumin has previously been shown in breast cancer cells by Parsad
+  et al.. Maspin is a key regulatory molecule for the normal mammary gland and embryonic
+  development. The expression of SERPINB5 is regulated at the transcriptional level
+  through elements in the maspin promoter, particularly by p53. Maspin is present
+  in the cytoplasm, but it translocates to the mitochondria and inhibits tumor progression
+  through the mitochondrial apoptosis pathway. Analysis of the microarray data for
+  caspase-mediated downstream processes in SK-BR-3 cells, as shown in Figure 9, indicates
+  that maspin expression was linked to the activation of a number of caspases involved
+  in apoptosis. Additionally, maspin has also been shown to induce cell differentiation,
+  which further contributes to its anti-cancer effects. Furthermore, PPAR induced
+  mammary cell differentiation, which is also accompanied by enhanced maspin expression
+  ; however, it is not known if PPAR directly regulates maspin expression in cancer
+  cells. \n\nFigure 9. Analysis of microarray data from SK-BR-3 cell line for interaction
+  of maspin up- and down-stream mediators. The microarray data from SK-BR-3 cell treatment
+  with DHA, CCM, and DHA + CCM was used to determine the interaction of maspin with
+  up- and down-regulatory mediators using MetaCoreTM version 6.3. The interactions
+  indicate maspin is regulated upstream by p53, whereas maspin is linked to activation
+  of a number of caspase activities downstream for its prominent role in the induction
+  of apoptosis. \n\nBIRC5 produces survivin, the smallest member  of the inhibitor
+  of the apoptosis protein  family, which acts not only to inhibit apoptosis but also
+  to control cell cycle progression. Survivin is largely expressed in developing embryos
+  and proliferating hematopoietic, epithelial, and gonadal cells. It is mostly absent
+  from well differentiated normal adult tissues, but hyperplasic regions of normal
+  tissues often show some expression; however, survivin overexpression has been reported
+  in nearly all human cancers, including breast cancer. Data presented in Figure 8
+  indicate that DMBA-induced tumors expressed substantial levels of survivin. These
+  levels were not affected by DHA or CCM treatment, but a combined treatment  caused
+  almost a 50% reduction in survivin expression. Disrupting survivin expression or
+  function in cancer cells has been shown to decrease cell proliferation by enhancing
+  apoptosis. Survivin has been considered an effective target for anticancer strategies
+  in several preclinical and early-phase clinical trials. \n\nFactors that are involved
+  in regulating maspin re-expression are also involved in regulating survivin expression.
+  For example, nuclear factor kappaB  upregulates survivin expression, whereas p53
+  and retinoblastoma protein  are required to repress survivin transcription. More
+  recently, Verhagen et al. reported that mutations of the p53 gene in breast carcinoma
+  significantly correlate with an enhanced expression of survivin. In addition, PPAR
+  reduces levels of survivin in different cancer types, including breast cancer. \n\nPreviously,
+  we demonstrated that DHA and CCM synergistically cause activation of p53 and upregulation
+  of PPAR expression. Based on these observations, it is possible that the effects
+  of CCM + DHA on p53 activation and/or PPAR expression cause suppression of the anti-apoptotic
+  protein, survivin, with increased expression of maspin, a tumor suppressor protein.
+  This effect would lead to the inhibition of cell cycle progression and to the induction
+  of apoptosis, thereby inhibiting tumor progression. Clearly, additional experiments
+  are needed to confirm a role of p53 and/or PPAR on maspin re-expression and survivin
+  suppression. \n\nFigure 10. The proposed signaling pathways for the synergistic
+  effects of DHA and CCM on progression. One possible mechanism for the effects of
+  CCM, DHA or CCM + DHA on p53 activation and/or PPAR expression is to suppress the
+  anti-apoptotic protein, survivin, while increasing the expression of maspin, a tumor-suppressor
+  protein. This situation could lead to the induction of apoptosis, thereby inhibiting
+  tumor progression. \n\nOne limitation of this study is the low levels of linoleic
+  acid in DHA and DHA + CCM diets. High levels of linoleic acid have been shown to
+  stimulate breast cancer. It is unlikely that low levels of linoleic acid have any
+  effect on the growth or number of breast tumors since the DHA diet itself was not
+  very effective. However, it is possible that reduced linoleic acid with CCM may
+  have played a role in the synergistic effect of the DHA + CMM diet on breast tumor
+  formation. Clearly, further investigation is required to determine the combined
+  effect of a reduced level of linoleic and CCM on breast cancer growth. \n\nThe data
+  from this in vitro study is consistent with our previously published study. The
+  results of this study further demonstrated that the synergistic effects of DHA +
+  CCM were evident both under in vitro and in vivo conditions. SK-BR-3 cells and DMBA-induced
+  tumors, both with ER- and Her-2+ characteristics, were synergistically affected
+  by DHA and CCM, which suggests that the specific breast cancer phenotype is an important
+  factor for predicting efficacy. One possible mechanism for the synergistic effects
+  of DHA + CCM on ER-/Her-2+ breast tumors involves the re-expression of maspin and
+  the suppression of survivin. \n\nBIRC5: Baculoviral inhibitor of apoptosis repeat-containing
+  5; CCM: Curcumin; CYP450: Cytochrome P450; DHA: Docosahexaenoic acid; DHASCO: Docosahexaenoic
+  acid single cell oil; DMBA: 7,12-Dimethylbenz anthracene; ER: Estrogen receptor;
+  ESR-1: Estrogen receptor  gene; Her-2: Human epidermal, growth factor receptor 2;
+  ERBB2: Her-2 gene; PR: Progresterone receptor; PGR: Progresterone receptor gene;
+  SERPINB5: Serpin peptidase inhibitor, clade B, member 5. \n\nRAS, planned the study,
+  supervised experiments, analyzed data and wrote manuscript; KH, participated in
+  designing the experiments and analyzed tumor tissue samples; CW, performed in vivo
+  study for tumor induction; JA, performed experiments for microarray analysis and
+  designed in vivo experiments; ZX, analyzed diets and tissue samples on GC; CT, performed
+  statistical analysis of data; IG, helped in establishing DMBA-induced in vivo model;
+  YJ, performed histological analysis; CM, participated in designing the experiments,
+  analyzing, evaluating and discussing data, and preparation of manuscript. All authors
+  read and approved the final mauscript. \n\nThe work was supported from a grant  to
+  RAS from the National Cancer Institute, NIH, Bethesda, MD. The authors would like
+  to express their thanks to Ms. Elaine M. Bammerlin for help in the preparation of
+  this manuscript, Mr. Samuel Arregui for help in breast mount prep, Mr. Sajid Jaffery
+  for help with the heatmap plot, and Mr. Kevin Hadley from DSM for the generous donation
+  of DHASCO for this research. \n"
+...

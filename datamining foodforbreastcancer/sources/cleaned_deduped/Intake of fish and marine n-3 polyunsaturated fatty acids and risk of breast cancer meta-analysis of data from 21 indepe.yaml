@@ -1,0 +1,349 @@
+---
+title: 'Intake of fish and marine n-3 polyunsaturated fatty acids and risk of breast
+  cancer: meta-analysis of data from 21 independent prospective cohort studies'
+pathHash: 3a4130cd6517bcb1e0f91083a8f6aaa6
+tags:
+- herring-and-sardines
+- mackerel
+- shellfish
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Intake
+  of fish and marine n-3 polyunsaturated fatty acids and risk of breast cancer meta-analysis
+  of data from 21 indepe.md
+text: "\n\nObjectives To investigate the association between intake of fish and n-3
+  polyunsaturated fatty acids  and the risk of breast cancer and to evaluate the potential
+  dose-response relation.\n\nData sources PubMed and Embase up to December 2012 and
+  references of retrieved relevant articles.\n\nEligibility criteria for selecting
+  studies Prospective cohort studies with relative risk and 95% confidence intervals
+  for breast cancer according to fish intake, n-3 PUFA intake, or tissue biomarkers.\n\nResults
+  Twenty six publications, including 20 905 cases of breast cancer and 883 585 participants
+  from 21 independent prospective cohort studies were eligible. Eleven articles  investigated
+  fish intake, 17 articles investigated marine n-3 PUFA, and 12 articles investigated
+  alpha linolenic acid. Marine n-3 PUFA was associated with 14% reduction of risk
+  of breast cancer, I2=54), and the relative risk remained similar whether marine
+  n-3 PUFA was measured as dietary intake  or as tissue biomarkers. Subgroup analyses
+  also indicated that the inverse association between marine n-3 PUFA and risk was
+  more evident in studies that did not adjust for body mass index   than in studies
+  that did adjust for BMI. Dose-response analysis indicated that risk of breast cancer
+  was reduced by 5% per 0.1g/day  or 0.1% energy/day  increment of dietary marine
+  n-3 PUFA intake. No significant association was observed for fish intake or exposure
+  to alpha linolenic acid.\n\nConclusions Higher consumption of dietary marine n-3
+  PUFA is associated with a lower risk of breast cancer. The associations of fish
+  and alpha linolenic acid intake with risk warrant further investigation of prospective
+  cohort studies. These findings could have public health implications with regard
+  to prevention of breast cancer through dietary and lifestyle interventions.\n\nBreast
+  cancer is one of the most common cancers and the leading cause of death from cancer
+  among women, accounting for 23% of the total cancer cases and 14% of cancer deaths
+  in 2008.1 For the past few decades, epidemiological studies2 3 have suggested that
+  a healthy diet and lifestyle is critical for the prevention of breast cancer, and
+  dietary fat is one of the most intensively studied dietary factors closely related
+  with risk.4 5 6 7 8 Among subtypes of dietary fat, n-3 polyunsaturated fatty acids
+  \ are the most promising types to inhibit or curtail carcinogenesis and reduce risk,
+  as shown in rodent models9 10 and with in vitro cell studies.11 Results from observational
+  studies in humans, however, are inconsistent. Several large prospective cohort studies,
+  such as the Singapore Chinese Health Study12 and the Japan Collaborative Cohort
+  Study,5 have suggested an inverse association between dietary n-3 PUFA intake and
+  risk. Furthermore, several case-control studies have indicated that n-3 PUFA, measured
+  as either dietary intake or with tissue biomarkers, is inversely associated with
+  risk.13 14 15 16 Most of the other cohort or case-control studies, however, found
+  no association between n-3 PUFA and risk.8 17 18 19 20 21 22 23 24 25 26 27 Moreover,
+  accumulating prospective studies suggest that fish, the richest source of marine
+  n-3 PUFA, shows inverse,12 28 29 null,5 20 21 30 31 or even positive32 33 associations
+  with risk. It is therefore important and interesting to quantitatively assess the
+  association between intake of n-3 PUFA and fish and the risk of breast cancer from
+  the available evidence.\n\nWe used meta-analysis to summarise the associations between
+  dietary intake of fish and n-3 PUFA with incident breast cancer based on prospective
+  cohort studies. We pooled risk estimates for the highest versus lowest category
+  of intake  across identified prospective cohort studies to examine the overall association.
+  We conducted a dose-response analysis for the trend estimation and a stratified
+  analysis to examine the sources of heterogeneity.\n\nWe followed the criteria for
+  conducting and reporting meta-analysis of observational studies.34 A systematic
+  search was conducted in two databasesPubMed and Embaseup to December 2012. We used
+  the following key words treated as title/abstract for the literature search:  AND.
+  Full details of the search strategy are in appendix 1. Our search was restricted
+  to studies in humans and studies published in English. The references of retrieved
+  relevant articles were reviewed to identify potential publications. We did not contact
+  authors for the detailed information of primary studies.\n\nTwo investigators  independently
+  conducted the literature search, identified potential studies, and extracted detailed
+  information from each included article. Discrepancies were resolved through group
+  discussion with the third investigator. Inclusion criteria were prospective study
+  design ; the exposure of interest was any type of dietary n-3 PUFA or fish consumption
+  or tissue n-3 PUFA concentrations; the endpoint of interest was incident breast
+  cancer in women; and the risk estimate with corresponding 95% confidence intervals
+  of breast cancer was reported for n-3 PUFA exposure or fish intake. We excluded
+  retrospective or cross sectional studies, studies in animals, non-original research,
+  abstracts, unpublished studies, and duplicated studies.\n\nFrom each identified
+  article, we extracted the first authors name, study population and region, study
+  design, duration of follow-up, age of participants, number of cases and non-cases,
+  person years for the population and for each exposure category, risk estimates and
+  corresponding 95% confidence intervals for each category of n-3 PUFA or fish intake,
+  menopausal status, method of n-3 PUFA measurement, and covariates. We extracted
+  risk estimates with the most adjustment.\n\nQuality assessment was conducted according
+  to the Newcastle-Ottawa criteria35 for non-randomised studies. A maximum of 9 points
+  was assigned to each study: 4 for selection, 2 for comparability, and 3 for assessment
+  of outcomes  or exposures. We regarded scores of 0-3, 4-6, and 7-9 as low, moderate,
+  and high quality, respectively.\n\nWe used relative risk for risk estimates, and
+  hazard ratios in cohort studies and odds ratios in nested case-control studies were
+  treated as relative risks directly. We used log transformed relative risk and its
+  corresponding 95% confidence interval from each eligible study for the meta-analysis.
+  As different studies might use different assessment methods  and report different
+  exposure categories, we used the study specific relative risk for the highest versus
+  lowest category of fish consumption or n-3 PUFA exposure for the meta-analysis.
+  We then combined the relative risk from each study, weighted by the inverse of their
+  variance, for the meta-analysis with the DerSimonian and Laird random effects model,
+  which takes variation both within and between studies into consideration.36 Studies
+  that reported relative risk of breast cancer separately for postmenopausal and premenopausal
+  women12 19 30 31 were considered as independent studies for the meta-analysis. Women
+  in one study were reported as either premenopausal or perimenopausal,17 and thus
+  we classed them all as premenopausal. One study in which only 10% of women with
+  breast cancer were premenopausal20 was treated as a postmenopausal study. Most of
+  the women with breast cancer in another study were postmenopausal,23 and we treated
+  this study as a postmenopausal study.\n\nWe conducted meta-analysis for different
+  types of n-3 PUFA separately. Firstly, we estimated the pooled relative risk between
+  the highest versus lowest category of fish intake, total marine n-3 PUFA, alpha
+  linolenic acid, and total n-3 PUFA, respectively. For studies that did not report
+  a relative risk for total marine n-3 PUFA but that reported risks for eicosapentaenoic
+  acid, docosahexaenoic acid, and docosapentaenoic acid  separately,8 17 18 19 24
+  37 38 we pooled these relative risks to represent the relative risk of total marine
+  n-3 PUFA exposure. One study reported relative risks for intake of dried and non-dried
+  fish separately,29 and we pooled the two relative risks with a fixed effects model
+  to get a summary relative risk for total fish intake in this study for further meta-analysis.
+  Secondly, for marine n-3 PUFA, we conducted meta-analysis for EPA, DHA, and EPA
+  separately.\n\nWe carried out a dose-response analysis for the trend estimation
+  using generalised least squares regression.39 For a study without information on
+  the number of cases, number of healthy controls, or person years for exposure categories,
+  we used variance weighted least squares regression for the dose-response estimation.
+  Studies with fewer than three exposure categories were excluded from trend estimation.
+  Dose-response analysis was conducted only in studies that reported dietary intake
+  of n-3 PUFA or fish intake because the results of tissue n-3 PUFA compositions varied
+  according to different tissues  and units used and were not appropriate for standardisation.
+  For fish intake, all the different units were transformed to g/day as described.40
+  One study12 reported the unit for the fish intake category as g/1000 kcal, which
+  we transformed to g/day assuming an average energy intake of 2000 kcal/day in this
+  population. For dietary n-3 PUFA, we carried out dose-response analysis among studies
+  with exposure units as % energy/day and g/day, separately. We did not do trend estimation
+  for EPA, DHA, DPA, or total n-3 PUFA because there were limited studies with dietary
+  information for these exposures. To estimate a potential curve linear association
+  between fish, dietary n-3 PUFA, and breast cancer, we used a restricted cubic spline
+  model.\n\nStudy heterogeneity was estimated with I2 statistic, with values of 25%,
+  50%, and 75% representing low, moderate, and high degrees of heterogeneity. Subgroup
+  analysis was conducted to examine sources of study heterogeneity and the influence
+  of potential residual confounding factors, such as age, body mass index, total energy
+  intake, and education. Univariate meta-regression was performed to examine the significance
+  of the difference in relative risks by different subgroups, including study region,
+  duration of follow-up, exposure measurement, study type, menopausal status, study
+  quality, risk expression, and adjustment of covariates. Sensitivity analysis was
+  conducted by omitting one study at a time and examining the influence of each individual
+  study on the overall relative risk. Publication bias was evaluated by visual inspection
+  of a funnel plot and Eggers regression test. We used a trim and fill algorithm41
+  if possible publication bias was detected to identify and correct for the asymmetry
+  of funnel plot from publication bias and provide an adjusted summary relative risk
+  based on all the studies, including the estimated missing studies. Stata version
+  12  was used for all the statistical analyses.\n\nThrough full text examination
+  of 215 potential publications we identified 26 eligible publications, including
+  20 905 cases of breast cancer and 883 585 participants, from 21 independent prospective
+  cohort studies. Among these articles, 11 were from the United States,6 8 19 20 21
+  24 30 32 38 42 43 11 from Europe,17 18 23 25 26 28 31 33 37 44 45 and four from
+  Asia.5 12 27 29 Eleven articles described the association between fish intake and
+  risk of breast cancer,5 12 20 21 28 29 30 31 32 33 42 17 described the association
+  between marine n-3 PUFA intake and risk,5 8 12 17 18 19 20 21 23 24 25 26 27 37
+  38 43 44 12 reported the association between ALA and risk,8 12 17 18 19 23 24 25
+  27 37 38 44 and 10 described the association between total n-3 PUFA and risk.5 8
+  12 18 19 23 24 25 44 45\n\nFig 1 Flow diagram for selection of studies in meta-analysis
+  of intake of polyunsaturated fatty acids and risk of breast cancer\n\nThe 26 eligible
+  articles were prospective cohort studies with mean follow-up ranging from 4.3 to
+  20 years. Among these, eight were nested case-control studies17 18 19 23 24 42 44
+  45 and two were case-cohort studies26 37. For two cohorts, relative risks for fish
+  intake and n-3 PUFA were reported in two different publications.19 26 33 42 For
+  one cohort, the relative risks for fish intake, n-3 PUFA intake, and tissue n-3
+  PUFA concentrations were reported in three different articles.23 25 31 One study
+  reported the relative risk for additional breast cancer events in a cohort of women
+  who had received a diagnosis and been treated for early stage breast cancer.43 One
+  study reported only the relative risk for the percentage change of dietary n-3 PUFA,6
+  and thus it was included only in the dose-response analysis. The average score for
+  the quality assessment of included studies was 7.6, and the score for all the studies
+  was 5 or above.\n\nEleven studies from 11 independent cohorts reported an association
+  between fish intake and risk of breast cancer, with 13 323 breast cancer events
+  and 687 770 participants. Overall, fish intake was not associated with risk. There
+  was moderate study heterogeneity. No publication bias was observed from the funnel
+  plot  or Eggers test.\n\nFig 2 Relative risk of breast cancer for highest v lowest
+  category of dietary fish intake. Overall relative risk calculated with random effects
+  model\n\nAll eleven studies were eligible for the trend estimation. Dose-response
+  analysis found no association with risk of breast cancer per 15 g/day increment
+  of fish intake. No publication bias was observed. We did not find a curvilinear
+  association between fish intake and risk.\n\nSeventeen articles from 16 independent
+  cohort studies reported the association between marine n-3 PUFA and risk of breast
+  cancer, involving 16 178 breast cancer events and 527 392 participants. Marine n-3
+  PUFA was inversely associated with risk. The funnel plot  and Eggers test  indicated
+  slight publication bias. Trim and fill analysis, however, did not change the result.\n\nFig
+  3 Relative risk of breast cancer for highest v lowest category of marine n-3 PUFA.
+  Overall relative risk calculated with random effects model\n\nEight articles were
+  eligible for the dose-response analysis of dietary marine n-3 PUFA and risk of breast
+  cancer.5 6 12 20 21 25 27 43 Three studies reported marine n-3 PUFA as g/day,21
+  27 43 while the five other studies5 6 12 20 25 reported marine n-3 PUFA as % energy
+  intake/day. Dose-response analysis indicated that a 0.1g/day increment of dietary
+  marine n-3 PUFA was associated with 5% lower risk of breast cancer. A 0.1% energy
+  increment of daily dietary marine n-3 PUFA was inversely associated 5% reduction
+  of risk. There was no significant curvilinear association between marine n-3 PUFA
+  \ and risk. For studies with n-3 PUFA measured as % energy/day, however, we observed
+  a significant curvilinear association.\n\nFig 4 Dose-response meta-analysis for
+  per 0.1g/day or 0.1% energy/day increment in intake of marine n-3 PUFA intake and
+  risk of breast cancer. Overall relative risk calculated with random effects model\n\nFig
+  5 Dose-response analysis for curvilinear association between marine n-3 PUFA intake
+  \ and risk of breast cancer. Shaded area represents 95% confidence limits for fitted
+  curve. P=0.21 for non-linearity, which indicates no curvilinear association\n\nFig
+  6 Dose-response analysis for curvilinear association between marine n-3 PUFA intake
+  \ and risk of breast cancer. Shaded area represents 95% confidence limits for fitted
+  curve. P=0.011 for non-linearity, which indicates no curvilinear association\n\nWe
+  then summarised the relative risks for EPA, DHA, and DPA from identified studies.
+  Ten articles8 17 18 19 23 24 26 37 38 44 reported relative risk for both EPA and
+  DHA, while four articles19 24 26 44 reported relative risk for DPA. There were marginally
+  significant inverse associations for EPA  and DHA  and risk. No significant association
+  was found for DPA and risk.\n\nTwelve articles, involving 14 284 breast cancer events
+  and 405 592 participants, were included in the analysis of association between ALA
+  exposure and risk of breast cancer. We found no significant association between
+  ALA and risk   and no study heterogeneity  or publication bias. Dose-response analysis
+  showed no significant association with breast cancer per 0.1 g/day increment of
+  dietary ALA intake  or per 0.1% energy/day increment of dietary ALA intake. No curvilinear
+  association was observed for dietary ALA intake and risk.\n\nTen articles reported
+  relative risk for total n-3 PUFA and risk of breast cancer, and there was no significant
+  association. Slight publication bias was observed ; however the results remained
+  unchanged after trim and fill analysis.\n\nFor fish intake and ALA exposure, meta-regression
+  and subgroup analyses did not show any substantial change in the summary relative
+  risk. Exclusion of any individual study did not change the results. Total n-3 PUFA,
+  however, was significantly inversely associated with risk  only in studies without
+  adjustment for BMI, and no association was observed for studies with adjustment
+  for BMI.\n\nSubgroup analyses of intake of fish and marine n-3 polyunsaturated fatty
+  acids  and risk of breast cancer \n\nFor total marine n-3 PUFA, the inverse association
+  was present in both Asian countries and western countries, though it was more evident
+  in Asian countries  and no study heterogeneity was observed. Stratified by different
+  measurement methods of n-3 PUFA, the relative risk for dietary n-3 PUFA was similar
+  to that of tissue biomarkers, while study heterogeneity was much lower in studies
+  measured as biomarkers. The inverse association between marine n-3 PUFA and risk
+  was more evident in studies without adjustment for BMI  compared with studies with
+  such adjustment.\n\nFor individual marine n-3 PUFA, the significant inverse association
+  with risk of breast cancer was observed only in studies with shorter follow-up  for
+  EPA and 0.74  for DHA; see supplemental table D in appendix 3), while it was not
+  significant for either n-3 PUFA among studies with longer follow-up, which could
+  be attributed to the limited number of studies with long follow-up. In addition,
+  for both EPA and DHA exposure, their inverse associations with risk were more evident
+  in studies that adjusted for BMI or education compared with studies without such
+  adjustment.\n\nIn this meta-analysis dietary intake of marine n-3 polyunsaturated
+  fatty acids, but not alpha linolenic acid, was associated with a lower risk of breast
+  cancer. Fish consumption was not associated with risk. Dose-response analyses indicated
+  a 5% lower risk of breast cancer per 0.1g/day or 0.1% energy/day increment of dietary
+  marine n-3 PUFA, but no significant trend for ALA or fish intake. To the best of
+  our knowledge, this is the first time meta-analysis has systematically and quantitatively
+  evaluated the association between intake of fish and n-3 PUFA and risk of breast
+  cancer.\n\nEcological studies46 47 and prospective cohort studies12 28 29 have suggested
+  an inverse association between fish consumption and risk of breast cancer and mortality.
+  Marine n-3 PUFA  are abundant in fish fat, and a few large prospective cohort studies5
+  12 27 and case-control studies13 14 15 16 have reported an inverse association with
+  risk of breast cancer. These findings all agreed with one meta-analysis4 based on
+  studies that assessed the biomarkers of intakes of dietary fatty acids, which suggested
+  a potential protective effect of marine n-3 PUFA on breast cancer. Another systematic
+  review suggested that there was no protective association between n-3 PUFA and breast
+  cancer.7 Further evidence has been published since then, and quite a few of the
+  newly published prospective studies indicated potential protective effects of n-3
+  PUFA on breast cancer.27 38 43 Our meta-analysis based on this evidence, together
+  with previous publications, supports a protective role of marine n-3 PUFA on the
+  incidence of breast cancer.\n\nSubgroup analysis indicated that the protective effect
+  of marine n-3 PUFA was more evident in Asian countries than in the US or European
+  countries. Fish intake also tended to be associated with a lower risk of breast
+  cancer in Asian populations, rather than in western populations. This could be because
+  typical fish intake is much higher in Asian populations than in western populations.48
+  Therefore fish intake in these western populations might be too low to detect an
+  expected protective effect. Furthermore, in North America and some European countries,
+  a large proportion of intake of marine n-3 PUFA probably comes from fish oil supplementation
+  in the form of capsules, thereby contributing to the different effects on risk.
+  In addition, the protective effect of fish intake might be attenuated or even reversed
+  by other constituents in fish, such as organometallics and pesticides. Taken together,
+  these factors could explain our finding of an overall null association between fish
+  intake and risk of breast cancer, which was in line with a previous large pooled
+  analysis.49\n\nTissue n-3 PUFA concentrations, compared with dietary assessment,
+  might provide a more accurate estimation of intake. Subgroup analysis for marine
+  n-3 PUFA and risk, however, indicated that the summary risk estimate for studies
+  with dietary information was similar to that of tissue biomarkers, which further
+  confirmed the robust results of the present meta-analysis. Further concerns regarding
+  n-3 PUFA and risk are menopausal status and hormone receptor status. Previous cohort
+  studies indicated that the protective effect of marine n-3 PUFA against breast cancer
+  was more evident in postmenopausal women than in premenopausal women.12 19 Our meta-analysis
+  confirmed that n-3 PUFA intake was significantly inversely associated with breast
+  cancer in postmenopausal but not in premenopausal women; this could mean that any
+  benefit of marine n-3 PUFA is usually after long term exposure, which could be observed
+  best at the postmenopausal period because breast cancer is a disease with a long
+  latency between exposure and development. Another explanation could be related to
+  the different effects of body fat on premenopausal and postmenopausal risk of breast
+  cancer. One recent meta-analysis suggested that high BMI tends to be protective
+  against premenopausal breast cancer but is a risk factor for postmenopausal breast
+  cancer,50 and an interaction between BMI and menopausal status on breast cancer
+  has been proposed. Therefore, marine n-3 PUFA could influence risk through BMI,
+  which was supported by our subgroup analysis. The inverse association between marine
+  n-3 PUFA and risk was greatly attenuated in studies that adjusted for BMI compared
+  with studies without such adjustment. Most of the studies that investigated marine
+  n-3 PUFA intake and postmenopausal breast cancer, however, did adjust for BMI, and
+  an overall significant inverse association between marine n-3 PUFA and risk still
+  existed in these postmenopausal studies. This suggests that the effect of marine
+  n-3 PUFA on risk was partly independent of BMI, and a more precise mechanism for
+  this discrepancy remains to be investigated. In addition, only a few studies examined
+  the influence of oestrogen receptor and progesterone receptor status on the association
+  between fish intake and risk of breast cancer. Stripp and colleagues reported an
+  adverse effect of fish consumption only for oestrogen receptor positive breast cancer
+  in a cohort of postmenopausal women.33 Two other studies based on large prospective
+  cohorts found no evidence for the influence of hormone receptor status on n-3 PUFA
+  and risk.6 8 More prospective studies are warranted to investigate the impact of
+  hormone receptor status.\n\nIn contrast with marine n-3 PUFA, the effect of ALA,
+  a plant based n-3 PUFA, on breast tumour growth is less clear, and we found no significant
+  association. The explanation for the inconsistency among studies regarding dietary
+  ALA and risk of breast cancer could be the different dietary sources. Thiebaut and
+  colleagues showed that dietary ALA from fruit and vegetables and vegetable oils
+  was inversely associated with risk but observed a positive association for ALA from
+  nut mixes and processed meat.25 In addition, the biological effect of ALA on breast
+  cancer per se might be not as strong as marine n-3 PUFA, as suggested by the summarised
+  relative risk of biomarker data with no significant association in our study. Taken
+  together, we found no significant protective association with ALA, and the inconsistent
+  associations observed among previous studies might reflect different dietary/food
+  patterns involving other nutrients related to risk of breast cancer.\n\nThe anticarcinogenic
+  effects of marine n-3 PUFA are biologically plausible. Possible mechanisms include
+  inhibition of eicosanoid derived from arachidonic acid, regulation of transcription
+  factor activity, gene expression and activities of molecules involved in the signal
+  transduction of cell growth, differentiation apoptosis, angiogenesis, and metastasis.51
+  In addition, marine n-3 PUFA could decrease the production of oestrogen, thus reducing
+  oestrogen stimulated cell growth.51 Specifically, studies using cell lines and on
+  rodent models have shown the protective effects of marine n-3 PUFA against breast
+  tumour growth.9 10 11 52\n\nThe present meta-analysis has several strengths. Firstly,
+  the large sample size allowed us to quantitatively assess the association of fish
+  and n-3 PUFA intake and risk of breast cancer, thus making it more powerful than
+  any individual study. Secondly, the prospective nature of the included studies avoided
+  the influence of recall and selection bias. Thirdly, we systematically reviewed
+  and assessed the summarised association between breast cancer with different types
+  of individual n-3 PUFA, including EPA, DHA, DPA, and ALA. These data gave a most
+  comprehensive view of the association between n-3 fatty acids and risk based on
+  the current evidence.\n\nThe meta-analysis does, however, also have several limitations.
+  Firstly, different methods of assessment  were used in the included studies, and
+  the units were heterogeneous across different studies. Nevertheless, we used relative
+  risks for the highest versus lowest category of n-3 or fish intake, which could,
+  to some extent, reduce the bias caused by different units or exposure assessment
+  methods. Furthermore, dose-response analysis supports our results. Secondly, available
+  data on the individual n-3 PUFA, especially DPA, is rather limited. Therefore, future
+  prospective studies are needed for the detailed analysis of association between
+  individual n-3 PUFA and risk of breast cancer. Thirdly, the observational nature
+  of the included studies makes it subject to the influence of residual confounders.
+  In addition, possible language bias could occur because we excluded articles not
+  in English. Our eligible articles, however, covered a wide range of non-English
+  countries, such as countries across Europe and Asia, and the number of large cohorts
+  in other non-English countries is limited.\n\nOur findings have important public
+  health implications. The prevention of breast cancer continues to be an important
+  public health issue for researchers, especially with regard to the investigation
+  of relations between breast cancer, diet, and lifestyle. Evidence from either experimental
+  or observational studies suggests a protective effect of marine n-3 PUFA on breast
+  cancer, though no conclusive results have been achieved. Systematic review and meta-analysis
+  are the most powerful tools to assess these kinds of inconsistent associations.
+  Therefore, our present study provides solid and robust evidence that marine n-3
+  PUFA are inversely associated with risk of breast cancer. The protective effect
+  of fish or individual n-3 PUFA warrants further investigation of prospective studies.\n\nThis
+  is an Open Access article distributed in accordance with the Creative Commons Attribution
+  Non Commercial  license, which permits others to distribute, remix, adapt, build
+  upon this work non-commercially, and license their derivative works on different
+  terms, provided the original work is properly cited and the use is non-commercial.
+  See: http://creativecommons.org/licenses/by-nc/3.0/.\n"
+...

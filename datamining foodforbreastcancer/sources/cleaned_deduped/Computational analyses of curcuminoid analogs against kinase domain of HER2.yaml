@@ -1,0 +1,344 @@
+---
+title: Computational analyses of curcuminoid analogs against kinase domain of HER2
+pathHash: ef448992b70a5f8a321b1d3946c10ae4
+tags:
+- turmeric
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Computational
+  analyses of curcuminoid analogs against kinase domain of HER2.md
+text: "\n\nHuman epidermal growth factor receptor 2  has an important role in cancer
+  aggressiveness and poor prognosis. HER2 has been used as a drug target for cancers.
+  In particular, to effectively treat HER2-positive cancer, small molecule inhibitors
+  were developed to target HER2 kinase. Knowing that curcumin has been used as food
+  to inhibit cancer activity, this study evaluated the efficacy of natural curcumins
+  and curcumin analogs as HER2 inhibitors using in vitro and in silico studies. The
+  curcumin analogs considered in this study composed of 4 groups classified by their
+  core structure, -diketone, monoketone, pyrazole, and isoxazole. \n\nIn the present
+  study, both computational and experimental studies were performed. The specificity
+  of curcumin analogs selected from the docked results was examined against human
+  breast cancer cell lines. The screened curcumin compounds were then subjected to
+  molecular dynamics simulation study. By modifying curcumin analogs, we found that
+  protein-ligand affinity increases. The benzene ring with a hydroxyl group could
+  enhance affinity by forming hydrophobic interactions and the hydrogen bond with
+  the hydrophobic pocket. Hydroxyl, carbonyl or methoxy group also formed hydrogen
+  bonds with residues in the adenine pocket and sugar pocket of HER2-TK. These modifications
+  could suggest the new drug design for potentially effective HER2-TK inhibitors.
+  Two outstanding compounds, bisdemethylcurcumin  and 3,5-bis-3,4-dimethoxystyryl)isoxazole,were
+  well oriented in the binding pocket almost in the simulation time, 30 ns. This evidence
+  confirmed the results of cell-based assays and the docking studies. They possessed
+  more distinguished interactions than known HER2-TK inhibitors, considering them
+  as a promising drug in the near future. \n\nThe series of curcumin compounds were
+  screened using a computational molecular docking and followed by human breast cancer
+  cell lines assay. Both AS-KTC006 and AS-KTC021 could inhibit breast cancer cell
+  lines though inhibiting of HER2-TK. The intermolecular interactions were confirmed
+  by molecular dynamics simulation studies. This information would explore more understanding
+  of curcuminoid structures and HER2-TK. \n\nHER2; Tyrosine kinase; Curcuminoid analogs;
+  Docking; Molecular dynamics simulation\n\nHuman Epidermal Growth Factor Receptor
+  2  is one of the tyrosine kinase receptors in EGFR family, which includes EGFR/ErbB1,
+  HER2/ErbB2, HER3/ErbB3 and HER4/ErbB4. Since there is no natural ligand specific
+  to HER2, HER2 tends to form heterodimer with other ligand-induced members. After
+  dimerization, the complex can trigger downstream pathways such as Ras/Raf/MAPK and
+  PI3K/AKT pathways to increase cell growth, cell survival and cell differentiation.
+  Considerable evidencesshowed that HER2 over expression was involved in many types
+  of cancer such as breast, ovarian, gastric and prostate cancers. Therefore, HER2
+  is considered as a drug target for cancer therapy focusing on inhibiting HER2 to
+  reduce tumor growth. \n\nAt present, there are two main approaches used to inhibit
+  HER2, namely; monoclonal antibodies such as Trastuzumab, and small molecule inhibitors
+  such as Lapatinib  and SYR127063   targetingon tyrosine kinase domain. Although
+  Trastuzumab can downregulate HER expression, cardiotoxicity and drug resistance
+  can be found in Trastuzumab-treated patients. Moreover, side effects such as diarrhea,
+  rash or nausea can be observed in Lapatinib treatment. Hence, new inhibitors are
+  urgently required for HER2-overexpressed cancer treatment. \n\nRecently, in 2011,
+  the first HER2-TK structure complex with pyrimidine compound SYR was released, providing
+  the new understanding of the kinase structure. Unlike the active- or inactive-conformations
+  of EGFR-TK, HER2-TK configuration was somewhat in the middle of these typical conformations.
+  It was named the active-like conformation, due to, the orientation of the helix-C-out,
+  the DFG-in and unformed secondary structure of the activation loop. The second crystal
+  of HER2-TK complex with TAK-285  adopted the similar conformation as mentioned above.
+  \n\nCurcumin  is generally found as the major compound in rhizomes of turmeric plants;
+  Curcuma longa Linaeusas yellow residue. It has been used as spice and ingredients
+  in folk medicinal remedies in many Asian countries. The curcumin and its three natural
+  analogs, curcumin II, curcumin III  and cyclocurcuminpossess the remarkable pharmacological
+  effects for centuries, such as anti-inflammatory, antioxidant, anti-carcinogenesis.
+  Moreover, curcumins is safe to use in high dose with non-toxic report. Despite many
+  advantages of curcumins, the poor stability and bioavailability profiles of curcumins
+  are questionable when it comes to directly using crude curcumin as the potent and
+  selective cancer drug. Many researchers have been focusing on the developing the
+  curcumin analogs to enhance their stability and bioavailability. In particular,
+  the novel series of curcumin-analog compounds have been synthesized and studied
+  their effect in various cell targets. They possess several properties, potent activity
+  against parasite in Trypanosoma and Leishmania species, antimycobacterial activity,
+  inhibiting nitric oxide production from Lps-activated microglial cells  and estrogenic
+  properties. Thus, in this paper, we aimed to investigate the effect of this set
+  of curcumin analogs on the HER2-TK activity using both experimental and computational
+  methods. \n\nCurcumin has been shown to inhibit cancer growth by means of inhibiting
+  several tyrosine kinases including EGFR, HER2, MAPK, phosphorylase kinase, pp60c-src
+  tyrosine kinase, protein kinase C, and protein kinase A. Furthermore, the curcumins
+  can inhibit various types of cancer including breast cancer cells  and also induce
+  the internalization of HER2 from cell surface. Recently, curcumin analog cyclohexanone
+  has shown to selectively inhibit tyrosine kinase domain of EGFR, in vitro, in vivo
+  and in silico studies  which reveals an opportunity for direct binding between curcumins
+  and tyrosine kinase domains of other EGFR family members. Furthermore, the in silico
+  screening of the natural database against HER2 kinase showed that such curcumins
+  could interact with kinase through benzene rings for hydrophobic interactions and
+  carboxyl groups for hydrogen bond formation. \n\nIn this study, we investigated
+  interactions between curcumin analogs and HER2-TK by using virtual screening based
+  on molecular docking in order to find potential compounds against HER2-TK. The hit
+  compounds have been validated by different inhibitions between two types of breast
+  cancer cell-lines with both HER2-overexpression and HER2-non-overexpression. Such
+  findings might be useful for further development of curcumins as a new HER2 inhibitor
+  in the future. \n\nThe two dimensional  structure of 143 curcuminoid analogs were
+  collected from the previous studies. The ionization states, tautomers, stereochemistries,
+  and ring conformations of all curcuminoid structures were calculated and OPLS-2005
+  force field was applied using LigPrep module in Schrdinger package. These structures
+  were used as an initial material during computational docking procedure to study
+  interactions with the binding site of the HER2 tyrosine kinase domain. \n\nAdditional
+  file 1. Table S1-S3. Table S1. List of 143 curcuminoids compounds, which used in
+  this present study. Table S2. Explanation of each simulation steps of minimization
+  and molecular dynamics simulations. Table S3. List of binding residues of each system,
+  which mentioned in Figure 3.\n\nThe atomic coordinate of HER2 tyrosine kinase domain
+  \ was obtained from the crystallographic structure, accession no. 3PP0 in Protein
+  Data Bank. This structure contains asymmetric dimer of HER2-TK complex with selective
+  inhibitor HER2-TK, pyrrolopyrimidine-based potent, SYR. In order to perform the
+  docking calculations, only chain A was selected as the target template. Another
+  chain of HER2-TK as well as the co-crystalized ligand and crystal water molecules
+  were removed. Hydrogen atoms were assigned and parameterized with Optimized Potential
+  for Liquid Simulation version 2005  using the protein preparation wizard, which
+  continuously minimized the whole structure by the Impref module in the Schrdinger
+  package. \n\nThe structures of protein and ligands were prepared as previously described.
+  The OPLS-2005 force field was applied to both protein and ligands. The complexes
+  of HER2-TK and each curcuminoid, including the co-crystal ligand were generated
+  with molecular docking approach using Grid-based Ligand Docking with Energetics
+  with standard precision mode. The grid map was generated in Receptor Grid Generation
+  by setting the center of the grid map around the catalytic site. Self-docking between
+  HER2-TK and SYR was performed to validate all parameters before being applied to
+  the study of interactions between HER2 and curcumins. \n\nIn order to handle considerable
+  number of docking results, the sub-groups of modified core structure of curcuminoids
+  were classified. Top ranks docking score of each sub-group were selected to further
+  test in cell-based assay. In addition, the poor scores of each curcumin sub-groups
+  were also chosen to be the control set in breast cancer cell-line assay. \n\nAll
+  simulation steps were performed using the SANDER module of the AMBER 12 package
+  and AMBER FF03 force-field parameters. The partial atomic charges of ligand were
+  computed by using AM1-BCC method as implemented in the Antechamber module of the
+  AMBER package. Their atom types and missing force field parameters were assigned
+  based on the general AMBER force field. Each complex was immersed in an isomeric
+  truncated-octahedron box of TIP3P water molecules  and neutralized by additional
+  Cl- anions. The system was then minimized with the five-step procedure. All steps
+  included 5,000 steepest-descent minimization cycles and 5,000 conjugate-gradient
+  minimization cycles with different restraints on the protein structure. For the
+  first step, harmonic restraints with a force constant of 5 kcal/ were used to immobilize
+  the heavy atoms of protein coordinates, excluding hydrogen atoms, at the starting
+  positions, while solvent molecules were allowed to relax the unfavorable contacts
+  with other solvent and solute molecules. For the second, third and fourth steps,
+  harmonic restraints with force constants of 5, 1 and 0.5 kcal/, respectively, were
+  used to restrain the backbone of the protein. In the last step, the entire system
+  was minimized with no positional restraints. \n\nWith weak positional restraints
+  on the protein ), all systems were heated from 0 to 300 K during a 200 ps MD simulations.
+  After removing the restraints from the protein, we equilibrated the system with
+  constant volume and set the constant temperature at 300 K for 500 ps. Note that
+  we observed the equilibrium of energy, temperature, pressure, volume, density and
+  RMSD before moving on to the production runs. The production MD simulations were
+  performed from 30 ns while maintaining constant pressure and temperature. With a
+  collision frequency of 1 ps-1, the temperature in all simulations was controlled
+  by Langevin dynamics. Using an isotropic position scaling algorithm with a relaxation
+  time of 2 ps, the pressure in NPT simulations was maintained at an average pressure
+  of 1 atm. The random number generator was reseeded  for every simulation. A cut-off
+  of 10  and the particle mesh Ewald method were employed with the default parameters
+  to calculate long-range non bonded interactions. With the tolerance parameter of
+  10-5 , SHAKE constraints  were used to eliminate bond-stretching freedom for all
+  bonds involving hydrogen, thereby allowing the use of a 2 fs time step. To monitor
+  the stabilities of all systems, the C root-mean-square deviations  were calculated.
+  The RMSD of binding residues within 5  of the inhibitor were examined. The ptraj
+  modules in the AMBER software were used to calculate the hydrogen bond occupancy
+  and hydrogen bond distance between inhibitors and proteins. All MD simulations were
+  calculated on 22-node Linux High Performance Computer Cluster with 32 cores of AMD
+  2.2 GHz. \n\nThe energy calculations were done as implemented in the MMPBSA.py script
+  in AmberTools. The MM-PBSA approach is an acceptable method to compute the free
+  energies of binding of ligands to proteins or to estimate the absolute free energies
+  of molecules. One hundred frames from the last 5 ns of each 30 ns MD studies were
+  selected for the analysis of ligand binding energies, sampled at 50 ps intervals.
+  Binding free energy was estimated from each energy terms as following equations,
+  \n\nGMMPBSA is referred to final calculated MM-PBSA binding energy. It is described
+  by the difference of Gcomplex by the summation of Gprotein and Gligand. The free
+  energy of each molecular system is given by the expression in the terms of equation.
+  EMM is the total molecular mechanics energy in the gas phase, Gsolv is a correction
+  term  of each system surrounded by solvent, and TS is the entropy. EMM includes
+  electrostatic Eele, and van der Waals Evdw energies, while Gsolv is the sum of electrostatic
+  solvation energy Gpb, and the non-electrostatic solvation component Gnp. The polar
+  contribution is calculated using PB model, while the non-polar energy is estimated
+  by solvent accessible surface area. In this study, TS term was excluded. \n\nCell
+  proliferation and viability were measured by tetrazolium 3--2, 5-diphenyltetrazolium
+  bromide  assay. The reaction was catalyzed by mitochondrial succinate dehydrogenease
+  and requires NADH, which must be supplied by living cells. SKBR3 and MCF7 cell line
+  were seeded in flat-bottomed 96-well tissue culture plates as 1  104 cells/well/100
+  L and cultured overnight. Pure curcumin extracts and its analogs with different
+  concentrations were dissolved in 100 L 10% FBS-RPMI 1640 medium and added into the
+  cells and incubated for 48 h. Then 100 L of medium was removed and 10 L of MTT dye
+  \ was added, followed by 4hourof incubation. Subsequently, the supernatant from
+  each well was aspirated off, leaving the purple form azan crystals. Optical density
+  was measured by an ELISA micro plate reader at 540 nm with a reference wavelength
+  of 630 nm. Percentage of cell survival was calculated by the formula below. Each
+  assay was done in triplicate and the standard deviations were calculated. \n\nAll
+  curcumin analog compounds were synthesized and published  by the laboratory of Prof.
+  Dr. Apichart Suksamran, Department of Chemistry and Center of Excellence for Innovation
+  in Chemistry, Faculty of Science, Ramkhamhaeng University. \n\nConsidering to the
+  core structures of all 143 curcuminoid compounds, the middle-linear seven carbon
+  linkage between two phenyl rings can be classified into four sub-groups,-diketone,
+  monoketone, pyrazole, and isoxazole. Schematic diagram of the workflow is shown
+  in Figure 1. All 143 curcumin analogs were docked against tyrosine kinase of HER2
+  by Glide SP docking. A few compounds of each sub-group in the docking top ranks
+  were selected. All 24 chosen compounds were classified into four groups based on
+  their core structures. From Table 1, compounds AS-KTC001 to AS-KTC011 were classified
+  into -diketone group. Monoketone composed of two compounds, AS-KTC012 and AS-KTC013.
+  For AS-KTC014 to AS-KTC017 were categorized as pyrazole curcumin analogs. The last
+  group, isoxazole curcumin analogs consisted of seven molecules, AS-KTC018 to AS-KTC024.
+  The docked conformations of all curcumin compounds were well oriented in the ATP-binding
+  pocket of HER2-TK. One phenyl-end of curcuminoids compounds oriented well in deep
+  hydrophobic pocket, while another phenyl-end exposed to the open gate. They could
+  form interactions either with Met801  or with Cys805, depending on each configuration
+  of analog. According to the revealed three dimensional structure of HER2-TK adopted
+  the active-like conformation, the binding cave stayed in the tunnel shape rather
+  than the opened cave as presented in EGFR-TK. This pocket possesses approximately
+  the volume of 475 3. As the binding pocket adopted the tunnel-like shape, the curcuminoid
+  structures are also in the linear cylinder shape that can fit into this pocket quite
+  well. The hydrophobic-I site merged with the phosphate binding region  as the deep
+  semi-closed site of ATP-binding pocket. This pocket is occupied by the trifluoromethyl-phenoxy
+  fragment of SYR, the co-crystal ligand. Furthermore, one of the phenyl rings and
+  its hydrophobic substituent groups of curcuminoids compounds were perfectly fit
+  to this deep hydrophobic pocket. The functional groups of modified middle-linear
+  seven carbon linkage of curcurmin analogs pointed to the DFG motif, especially the
+  adjacent residue Thr862. In addition, another phenyl-end and its hydrophobic substituent
+  groups of curcumin analogs could span around adenine region to hydrophobic-II site.
+  This observation was found as the common interaction among curcuminoid compounds,
+  conformed to the pyridine and amine fragments of SYR pointed to the same residues.
+  These occupancy and interactions were considered important to increase selectivity
+  and affinity for HER2 inhibitors. However, the curcumin analogs could not interact
+  with Met801 as any other EGFR/HER2-TK inhibitors, which contain 4-anilinoquinazoline,
+  pyrrolopyrimidine, pyrrolotriazine and cyanoquinoline cores. The carbonyl group
+  of the linkage chain, from -diketone or monoketoncurcumins, could form a hydrogen
+  bond directly with one of the key residues Thr862. This interaction differed from
+  that of SYR127063 and other HER2 inhibitors that was a water-mediated hydrogen bond
+  between N3 of quinazoline and Thr862. As the direct hydrogen bond formation at this
+  position was crucial to enhance binding affinity, N3 of quinazoline was modified
+  to nitrile group to form the direct hydrogen bond. These occupancy and interactions
+  mimicked those of a heterocyclic core of HER2 inhibitor in an adenine ring of ATP.
+  All 24 selected compounds have been processed in further experiments, to investigate
+  the bioavailability profiles of curcumin analogs on two types of human breast cancer
+  cell lines. \n\nFigure 1. The rational workflow of this study, starting from in
+  silico screening based on molecular docking and validated with cell line assays
+  \ and deep interaction study by molecular dynamic simulation.\n\nFigure 2. The illustration
+  of A) two dimensional  structure and B) three dimensional  structure of SYR from
+  the x-ray structure 3PP0, while panel C) and D) present 2D and 3D structures of
+  curcumin analogs in the binding pocket of HER2-TK from the docking results.\n\nThe
+  HER2-TK inhibitory assay was performed using a commercialized HER2-TK, but unfortunately,
+  activity of the HER2-TK could not be detected. Moreover curcumins were stable and
+  soluble in very low pH which is not suitable for HER2-TK to stay active. Therefore,
+  the cell-based assay was chosen instead of the purified protein based assay to investigate
+  the inhibitory effect of curcumin analogs to HER2-TK. In order to identify the curcumin
+  analogs against HER2-TK, two different types of human breast cancer cell lines,
+  MCF-7 and SKBR3 were performed. The SKBR3 is a breast cancer cell line which over-expresses
+  the HER2 gene product while the MCF-7 is in absence of HER2 protein overexpression.
+  Therefore, such compounds should be more effective against SKBR3 than MCF-7. The
+  lapatinib which was tested on both breast cancer cell lines showed the IC50 on SKBR3
+  lower than MCF-7. Twenty-four selected compounds were determined IC50 on both breast
+  cancer cell lines by MTT assay as shown in Table 2. Although most of curcumin analogs
+  have very similar structures, each analog showed different activities on both cells.
+  In the -diketone group from Table 1, only AS-KTC006 showed the effective inhibiting
+  to HER2-positive cancer cell-line, vice versa, lack of inhibiting to HER2-negative
+  cancer cell-line. The core structure of this group composes of -diketone which is
+  modified substituent from natural curcumins. On the other hand none of curcumin
+  analogs in monoketone and pyrazole groups showed selectively inhibiting activity
+  among both cancer cell-lines. In the last group, AS-KTC021 also presented the outstanding
+  suppress on SKBR3 but not MCF7 among isoxazole analogs. The IC50 for AS-KTC006 and
+  AS-KTC021 in SKBR3 were 15.4 and 16.9 M, respectively, and IC50 for both compounds
+  in MCF7 were higher than 100 M. Since both AS-KTC006 and AS-KTC021 were selected
+  from docking results, they could inhibit the breast cancer cells through blocking
+  of HER2-TK activities. Therefore, the AS-KTC006 and AS-KTC021 were chosen for further
+  investigation the interaction mechanisms by molecular dynamics simulations. \n\nTable
+  2. The inhibitory activity profiles of curcumin analogs on MCF7 and SKBR3 cells\n\nThe
+  molecular dynamics  simulations were performed to examine the molecular interaction
+  of the bothAS-KTC006 and AS-KTC021 curcuminoids in the ATP-binding pocket of HER2-TK.
+  As mention in the previous section, the x-ray crystal structure of HER2-TK, 3PP0
+  has been used as the model reference template of this study. The complexes of HER2-TK-AS-KTC006
+  and HER2-TK-AS-KTC021 which were constructed using molecular docking procedure have
+  been used as starting coordinates for MD calculations. The root mean square deviations
+  \ of all systems  seemed to fit nicely in the binding pocket of HER2-TK. The structure
+  of curcuminoid distinguishes from other known tyrosine kinase inhibitors, which
+  generally containing either quinazoline or pyrrolopyrimidine based structures. The
+  structures of curcumin analogs adopted the long thread with two knots at each end,
+  resulting in freely flexible structure in the tunnel-like binding pocket. Interestingly,
+  the MD results revealed that the hydrogen bonds between H-N atom of Met801  and
+  N-atom at position N11 of SYR existed about 94.73% along the entire 30 ns of simulation
+  time. On the other hand, the curcumin analogs possess the interesting hydrogen bond
+  pairs in both AS-KTC006 and AS-KTC021. Rather than forming hydrogen bond with Met801,
+  the -diketone curcumin analog  formed hydrogen bonds to Thr862, Cys805 and Asp863,
+  in the binding pocket of HER2-TK. The formation with these three amino acids existed
+  approximately 34.67%, 10.17% and 9.17%, respectively along the entire MD simulations.
+  Distances chromatograms of each pairwise atom from H-bond analyses were shown in
+  Figure 4. One of these three residues is DFG-motif, and another is adjacent residue
+  of DFG-motif. For AS-KTC021, the hydrogen boding with Cys805 and Thr862 existed
+  about 35.97% and 5.37%, respectively, along the entire MD simulations. As illustrated
+  in Figure 2C and 2D, one of the phenyl-end of curcumin compounds were well oriented
+  in the ATP-binding pocket of HER2-TK, while the other-end exposed to solvent giving
+  a chance to interact with Cys805, while the linker in the middle of cucurmin structure
+  could interact with Thr862. The binding residues of SYR-HER2-TK systems appear to
+  be stable along the MD simulations. The system started to converge since 15 ns of
+  simulations time. In addition, the simulation systems of AS-KTC006-HER2TK and AS-KTC021-HER2TK
+  seem to converge after 25 ns of simulations time. From the molecular dynamic results
+  suggested that AS-KTC006 had better binding affinity with HER2-TK than that of AS-KTC021.
+  Considering at the curcuminoids structures, AS-KTC006 is more flexible than AS-KTC021.
+  In particular, AS-KTC0006 possesses -diketonemoiety on both sides providing the
+  flexibility of the molecule and allowing O-atom of ketone to interact with Thr862.
+  The binding energy calculations were performed to further understand the interactions
+  of each system. It is to be noted that proteinligand entropy contributions were
+  not included in these free energy values since the present MM-PBSA are typically
+  time consuming and unreliable. Considering the intermolecular interaction of the
+  ligands with HER2-TK in contribution terms, non-polar contributions, the summation
+  of EVDW and Gnp, are significant with all ligand-HER2TK systems. Interestingly,
+  ligand AS-KTC006 shows the most favorable electrostatic interaction with the binding
+  pocket of HER2TK. There are the agreement between MM-PBSA binding energy calculations,
+  docking and MD simulations. The consistent observations were presented in all three
+  different computational approaches, namely, focusing on O-atom of ketone to interact
+  with Thr862 of the system AS-KTC006-HER2TK complex. Recently, the computational
+  model of anti-HER2 ligands, the analogous of 4-anilinoquinazoline were reported.
+  These works showed that the vdW term could be a major factor of the ligand-protein
+  interactions; hence, the deep hydrophobic pocket would be the selectivity pocket
+  of HER2-TK. Rather than focusing on the 4-anilinoquinazoline core structure, we
+  focused on the curcuminoid core structure in this study. Both selected curcumin
+  analogs form the distinguish interaction moiety from the known inhibitors of HER2-TK.
+  Furthermore, they occupied well in the deep hydrophobic pocket of HER2-TK. \n\nFigure
+  3. RMSD plots of each MD simulations, presenting the backbone  SYR B) AS-KTC006
+  and C) AS-KTC021.\n\nFigure 4. Distance between the pairwise atoms of H-bond analyses,
+  A) SYR-HER2TK, B) AS-KTC006-HER2TK, and C) AS-KTC02-HER2TK.\n\nTable 4. Individual
+  terms of MM-PBSA binding energy, entropy term excluded\n\nIn the present study,
+  we screened a series of curcumin compounds using a computational molecular docking.
+  Then, the bioavailability assay of curcumin analogs, were conducted on two types
+  of human breast cancer cell lines to select the specific active HER2 kinase inhibitors.
+  The results suggested that bisdemethylcurcumin compound  and 3,5-bis-3,4-dimethoxystyryl)isoxazole
+  \ could inhibit breast cancer cell lines though HER2-TK. In addition, the intermolecular
+  studies from MD simulation suggested that both selected curcumin analogs form the
+  distinguish interaction moiety from the known inhibitors of HER2-TK. MM-PBSA binding
+  calculation suggested that non-polar contributions are not only significant with
+  all ligand-HER2TK systems but also a major factor of the ligand-protein interactions.
+  \n\nHER2: Human Epidermal Growth Factor Receptor 2; EGFR: Epidermal Growth Factor
+  Receptor; HER2-TK: Tyrosine kinase domain of HER2; RMSD: Root-mean-square deviations;
+  SYR127063: 2-{2-pyridin-3-yl}amino)-5H-pyrrolopyrimidin-5- yl]ethoxy}ethanol; TAK-285:
+  N-{2-phenyl}amino)-5H-pyrrolopyrimidin-5-yl]ethyl}-3- hydroxy-3-methylbutanamide;
+  Glide: Grid-based Ligand Docking with Energetics; SP mode: Standard precision mode;
+  AS-KTC006: Bisdemethylcurcumin, also called Di-O-demethylcurcumin, Bismethane ;
+  AS-KTC021: 3,5-bis-3,4-dimethoxystyryl)isoxazole ; SKBR3: A breast cancer cell line
+  which over-expresses the HER2 gene product; MCF-7: A breast cancer cell line that
+  absence of HER2 protein overexpression. \n\nWY and OS carried out the molecular
+  docking and drafted the manuscript. SS and NH carried out the cell study and performed
+  the analysis. WM, ST and OS participated in molecular dynamic simulations and drafted
+  the manuscript. AP prepared and provided all curcumin derivatives for the tests.
+  OS and KC conceived the initial concept of the study, and participated in its design
+  and coordination of drafting the manuscript. All authors read and approved the final
+  manuscript. \n\nThis work was supported by Faculty of Science and Grad School Research
+  Fund, Kasetsart University, Kasetsart University Research and Development Institute,
+  and National Research University Project of Thailand, the Office of the Higher Education
+  Commission. We would like to thank Prof. Peter Wolschann, Institute of Theoretical
+  Chemistry, University of Vienna, Austria for providing the Schrdinger programs and
+  the National Center for Genetic Engineering and Biotechnology  and the National
+  Science and Technology Development Agency  for the use of high performance computer
+  clusters. \n"
+...

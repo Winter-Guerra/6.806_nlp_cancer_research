@@ -1,0 +1,5 @@
+# Apples: Content of phenolic compounds vs. variety, part of apple and cultivation model, extraction of phenolic compounds, biological properties
+
+## Abstract
+
+Apples are among the most popular fruits in the world. They are rich in phenolic compounds, pectin, sugar, macro- and microelements. Applying different extraction techniques it is possible to isolate a particular group of compounds or individual chemicals and then test their biological properties. Many reports point to the antioxidant, antimicrobial, anticancer and many other beneficial effects of apple components that may have potential applications in food, pharmaceutical and cosmetic industries. This paper summarizes and compiles information about apple phenolic compounds, their biological properties with particular emphasis on health-related aspects. The data are reviewed with regard to different apple varieties, part of apple, cultivation model and methods of extraction.

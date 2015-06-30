@@ -1,0 +1,66 @@
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watercress.yaml,
+  originalSentence: 'Like kale, broccoli, and horseradish, watercress  is a brassica
+    vegetable.', sentence: like kale broccoli horseradish watercress brassica veget,
+  tags: watercress}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watercress.yaml,
+  originalSentence: 'Watercress is a good dietary source of vitamin C, vitamin A,
+    vitamin K, calcium, and various other minerals.', sentence: watercress good dietari
+    sourc vitamin c vitamin a vitamin k calcium various miner, tags: watercress}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watercress.yaml,
+  originalSentence: 'Watercress has been shown to have antioxidant, antigenotoxic,
+    and anti-inflammatory properties, and to improve cholesterol profile.', sentence: watercress
+    shown antioxid antigenotox anti inflammatori properti improv cholesterol profil,
+  tags: watercress}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watercress.yaml,
+  originalSentence: 'Watercress contains beta-carotene, lutein, zeaxanthin, kaempferol,
+    nasturtiin, phenylethyl isothiocyanate  and various other isothiocyanates, all
+    of which have been reported to have anti-cancer properties.', sentence: watercress
+    contain beta caroten lutein zeaxanthin kaempferol nasturtiin phenylethyl isothiocyan
+    various isothiocyan report anti cancer properti, tags: watercress}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watercress.yaml,
+  originalSentence: 'Brassica vegetables have been shown to inhibit the growth of
+    human pancreatic cancer cells and to reduce the risk of occurrence of lung, gallbladder,
+    bladder, prostate, ovarian and colorectal cancer.', sentence: brassica veget shown
+    inhibit growth human pancreat cancer cell reduc risk occurr lung gallbladd bladder
+    prostat ovarian colorect cancer, tags: watercress}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watercress.yaml,
+  originalSentence: Various isothiocyanates derived from watercress have been found
+    to have chemopreventive activity against a variety of breast cancer cell lines
+    in the laboratory and in epidemiologic studies., sentence: various isothiocyan
+    deriv watercress found chemoprevent activ varieti breast cancer cell line laboratori
+    epidemiolog studi, tags: watercress}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watercress.yaml,
+  originalSentence: A Chinese study which measured urinary isothiocyanate levels as
+    a marker of brassica vegetable intake found that higher levels were protective
+    against breast cancer in both premenopausal and postmenopausal women., sentence: a
+    chines studi measur urinari isothiocyan level marker brassica veget intak found
+    higher level protect breast cancer premenopaus postmenopaus women, tags: watercress}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watercress.yaml,
+  originalSentence: 'Watercress is the most abundant dietary source of PEITC, which
+    has been found to reduce the growth of human breast cancer cells, decrease angiogenesis,
+    inhibit the growth of HER2 overexpressing  mammary tumors in mice, and inhibit
+    metastasis to the brain in a mouse model of breast cancer.', sentence: watercress
+    abund dietari sourc peitc found reduc growth human breast cancer cell decreas
+    angiogenesi inhibit growth her2 overexpress mammari tumor mice inhibit metastasi
+    brain mous model breast cancer, tags: watercress}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watercress.yaml,
+  originalSentence: Watercress can take the place of lettuce in salads or sandwiches.,
+  sentence: watercress take place lettuc salad sandwich, tags: watercress}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watercress.yaml,
+  originalSentence: It should be eaten raw rather than cooked to obtain the most powerful
+    anti-cancer effects., sentence: it eaten raw rather cook obtain power anti cancer
+    effect, tags: watercress}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watercress.yaml,
+  originalSentence: Watercress can reduce the bioavailability of iodine in the diet.,
+  sentence: watercress reduc bioavail iodin diet, tags: watercress}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watercress.yaml,
+  originalSentence: Cruciferous vegetables contain thioglucoside compounds that can
+    interfere with the formation of thyroid hormone., sentence: crucifer veget contain
+    thioglucosid compound interfer format thyroid hormon, tags: watercress}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watercress.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: watercress}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/watercress.yaml,
+  originalSentence: 'For a more complete list, including less recent studies, please
+    click on watercress.', sentence: for complet list includ less recent studi pleas
+    click watercress, tags: watercress}

@@ -1,0 +1,418 @@
+---
+title: 6-Shogaol, a Major Compound in Ginger, Induces Aryl Hydrocarbon Receptor-Mediated
+  Transcriptional Activity and Gene Expression
+pathHash: a4be405b618bcec7eb06825f0398b6ca
+tags:
+- ginger
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/6-Shogaol
+  a Major Compound in Ginger Induces Aryl Hydrocarbon Receptor-Mediated Transcriptional
+  Activity and Gene Expres.md
+text: '
+
+
+  Xenobiotics are usually detoxified by drug-metabolizing enzymes and excreted from
+  the body. The expression of many of drug-metabolizing enzymes is regulated by the
+  aryl hydrocarbon receptor. Some substances in vegetables have the potential to be
+  AHR ligands. To search for vegetable components that exhibit AHR-mediated transcriptional
+  activity, we assessed the activity of vegetable extracts and identified the active
+  compounds using the previously established stable AHR-responsive HepG2 cell line.
+  Among the hot water extracts of vegetables, the highest activity was found in ginger.
+  The ethyl acetate fraction of the ginger hot water extract remarkably induced AHR-mediated
+  transcriptional activity, and the major active compound was found to be 6-shogaol.
+  Subsequently, the mRNA levels of AHR-targeting drug-metabolizing enzymes  and the
+  protein level of CYP1A1 in HepG2 cells were shown to be increased by 6-shogaol.
+  This is the first report that 6-shogaol can regulate the expression of detoxification
+  enzymes by AHR activation.
+
+
+  The human body is exposed to a wide variety of xenobiotics in ones lifetime, from
+  food components to environmental toxins to pharmaceuticals; it has developed complex
+  enzymatic mechanisms to detoxify these substances. Lipophilic xenobiotics are usually
+  metabolized into more hydrophilic forms by drug-metabolizing enzymes, mainly in
+  the liver, and excreted from the body. The metabolism of xenobiotics is commonly
+  broken down into three systems: phase I, II, and III systems. The phase I system
+  is an oxidative process and is mainly mediated by the cytochrome P450  supergene
+  family. As a consequence of this step in the detoxification, reactive molecules,
+  which may be more toxic than the parent molecule, are produced. In the phase II
+  system, activated hydrophobic xenobiotics are converted into hydrophilic forms via
+  conjugation reactions with glucuronide, sulfate, or glutathione. The phase II system
+  is composed of conjugation enzymes such as glutathione-S-transferases, sulfotransferases,
+  and uridine diphosphate glucuronosyltransferases. The phase III system is composed
+  of more than 40 different human ATP-binding cassette  transporter families and is
+  involved in the exclusion of xenobiotics and their metabolites.
+
+
+  It has been shown that the gene expression of many of these drug-metabolizing enzymes
+  and transporters is regulated by the aryl hydrocarbon receptor, which is a ligand-dependent
+  transcription factor present in most cell and tissue types in the body. AHR translocates
+  into the nucleus and heterodimerizes with a protein known as the aryl hydrocarbon
+  nuclear translocator. This AHR/ARNT complex binds to specific enhancer sequences
+  adjacent to target promoters termed the xenobiotic-responsive element, which enhances
+  the transcription of target genes encoding phase I metabolic enzymes such as CYP1A1
+  and CYP1A2, phase II metabolic enzymes such as UGT1A1 and UGT1A6, and phase III
+  metabolic enzymes such as the ABC transporter subfamily G, member 2. Therefore,
+  AHR is regarded as a key regulator of xenobiotic metabolism.
+
+
+  The regulation of AHR by dietary factors is of considerable importance and interest
+  because AHR regulates drug-metabolizing enzymes as described above, and so it is
+  likely that metabolism of xenobiotics could be modulated by dietary factors via
+  AHR. In previous studies, some substances contained in vegetables, such as flavonoids,
+  indole compounds, and curcumin, were shown to act as natural AHR ligands. However,
+  it is possible that vegetables contain other AHR-activating compounds because there
+  are so many plant-derived compounds in vegetables.
+
+
+  The aim of this study was to search for vegetable components that exhibited AHR-mediated
+  transcriptional activity and modulation of xenobiotic metabolism. Previously, we
+  established the stable AHR-responsive HepG2 cell line by cotransfection of an AHR
+  expression vector  and an AHR-responsive vector  containing a luciferase gene and
+  three tandemly arranged XRE elements into the human hepatoma cell line, HepG2. Using
+  this cell line, we assessed the AHR-mediated transcriptional activity of vegetable
+  extracts and identified new active compounds in vegetables. We also examined the
+  regulation of mRNA and protein expressions of AHR-target xenobiotic-metabolizing
+  genes by these active compounds.
+
+
+  The stable AHR-responsive HepG2 cells and HepG2/mock cells  were grown and maintained
+  at 37 C in Dulbeccos modified Eagles medium  High Glucose with l-glutamine and phenol
+  red, containing 10% fetal bovine serum, 40 U/mL penicillin, 40 g/mL streptomycin,
+  and 500 g/mL G418  in a 100% humidified atmosphere containing 5% CO2. For culturing
+  of HepG2 cells, G418 was removed from the same medium as that used for culturing
+  the stable AHR-responsive HepG2 cells.
+
+
+  Fresh vegetables were purchased from local markets in Nasushiobara, Japan. Preparation
+  of vegetable extracts was conducted as described in Figure 1. Each vegetable was
+  chopped and boiled in four-times its weight of hot water for 1 h. The extraction
+  liquid was then recovered and centrifuged at 8000g for 10 min at room temperature.
+  A portion of the obtained supernatant  was lyophilized, and the resultant powder
+  was used as the hot water extract  sample. A portion of the supernatant  was adjusted
+  to pH 3.0 by adding 2 M hydrochloric acid, followed by addition of 200 mL of ethyl
+  acetate. The mixture was then vigorously shaken in a separating funnel to separate
+  it into the ethyl acetate layer and aqueous layer. This extraction was repeated
+  four times. All the ethyl acetate layers were collected, and the ethyl acetate was
+  evaporated. The obtained residue was used as the ethyl acetate fraction  sample.
+  The aqueous layer was adjusted to pH 5.5 by adding 2 M sodium hydroxide and lyophilized.
+  The obtained lyophilized powder was used as the water fraction  sample.
+
+
+  3-Methylcholanthlene, 6-shogaol, 6-gingerol, 8-gingerol, and 10-gingerol were obtained
+  from Wako Pure Chemical Industries. 8-Shogaol and 10-shogaol were obtained from
+  ChromaDex. Each phytochemical was dissolved in dimethyl sulfoxide  at a concentration
+  of 50 mM.
+
+
+  The luciferase assay was carried out to assess AHR-mediated transcriptional activity
+  as previously described. The stable AHR-responsive HepG2 cells or HepG2/mock cells
+  were seeded onto a 24-well plate  at a density of 1  105 cells/well. The 24-well
+  plate was precoated with Type I-C collagen  for 30 min before the cells were seeded.
+  After incubating overnight, the medium was replaced with a medium containing each
+  test sample or 3MC. Each sample was diluted in the cell culture medium at the test
+  concentration; the final concentration of DMSO was 0.1%  in the cell culture medium.
+  After 24 h of culture, the cells were washed twice with 500 L of PBS and then lysed
+  with 100 L of 1 passive lysis buffer. The lysate was centrifuged at 15000g for 5
+  min, and the supernatant was used for the luciferase assay. Luciferase activity
+  was determined by a dual-luciferase reporter assay  with an LB9507 Lumet luminometer.
+
+
+  The EAF from ginger and the standard phytochemicals were dissolved in methanol at
+  concentrations of 10 mg/mL and 5 mM, respectively. HPLC analysis was performed using
+  a photodiode array detector  and a PEGASIL-B ODS C18 column. The mobile phases were
+  as follows:  acidified methanol  and  acidified Milli-Q water. Pumps were programmed
+  to perform the following gradient at a flow rate of 0.5 mL/min: from 20% solvent
+  A to 80% solvent A over 50 min, to 100% solvent A at 55 min, and then to 0% solvent
+  A at 60 min, with a column temperature of 35 C. The separated compounds in the EAF
+  were identified by comparison of the retention time and UV spectra to 6-shogaol
+  or 6-gingerol standards.
+
+
+  The mRNA expression level of CYP1A1, UGT1A1, and ABCG 2, the target genes of AHR,
+  was evaluated by real-time PCR. HepG2 cells were seeded onto a 24-well plate precoated
+  with Type I-C collagen at a density of 1  105 cells/well. After overnight incubation,
+  the medium was replaced with a medium containing 6-shogaol. After 24 h of culture,
+  total RNA was extracted from the cells using Isogen. cDNA was prepared from 1 g
+  of the total RNA. Real-time PCR was performed with SYBR Premix Ex TaqII  and the
+  7900HT Fast Real-Time PCR System. After denaturing at 95 C for 30 s, PCR was performed
+  for 40 cycles of denaturing at 95 C for 5 s, annealing at 60 C for 30 s, and dissociation
+  at 95 C for 15 s, followed by 60 C for 60 s and 95 C for 15 s. The PCR primers used
+  for CYP1A1 and UGT1A1 were synthesized at Invitrogen; the primers used for -actin
+  and ABCG 2 were synthesized at TAKARA BIO INC. The sequence of each primer is shown
+  in Table 2.
+
+
+  HepG2 cells were seeded onto a 6-well plate precoated with Type I-C collagen at
+  a density of 1  106 cells/well. After overnight incubation, the medium was replaced
+  with a medium containing 6-shogaol. After 24 h of culture, cells were washed twice
+  with PBS. Cells were scraped off and then suspended in 1 mL of PBS. The precipitate
+  obtained by centrifugation at 1000g for 5 min at 4 C was homogenized with 0.1 mL
+  of RIPA lysis buffer  with 0.1 mM phenylmethanesulfonyl fluoride, 0.1 mM sodium
+  orthovanadate, and 0.1% protease inhibitor cocktail, and left on ice for 20 min.
+  The homogenate was centrifuged at 18000g for 15 min at 4 C. The resulting supernatant
+  was dissolved in electrophoresis sample buffer  at 100 C for 5 min.
+
+
+  Samples containing 30 g of protein were loaded onto 12.5% polyacrylamide gel. Electrophoresis
+  was conducted in an electrode buffer  SDS) with a fixed current. An Immobilon polyvinylidene
+  difloride  membrane  was treated with methanol and then blotting buffer. The BioRad
+  tank type of blotting apparatus was used for electrophoretic transfer of the gel
+  to the PVDF membrane at 200 mM over 120 min.
+
+
+  After blotting, this PVDF membrane was blocked overnight at 4 C by 0.1% Tween-20
+  and 5% skimmed milk dissolved in PBS. It was then incubated for 2 h with mouse monoclonal
+  CYP1A1 antibody, or incubated for 1 h with mouse monoclonal -Actin antibody  dissolved
+  in a Can Get Signal immunoreaction enhancer solution. After the PVDF membrane had
+  been washed three times with 0.1% Tween-20 dissolved in PBS for 5 min each, it was
+  incubated for 1 h with antimouse immunoglobulin G-horseradish peroxidase  Proteins
+  were detected by an ECL Prime Western Blotting Detection Reagent, followed by analysis
+  with an LAS-1000 mini image analyzer and Multi Gauge Ver2.0.
+
+
+  The data from the luciferase assay and real-time PCR were expressed as the mean  SD.
+  Statistical significance was analyzed using the Dunnetts test, and a p value of
+  ;0.05 was considered to indicate a statistically significant difference.
+
+
+  HWEs from 11 vegetables significantly increased the relative luciferase activity
+  as shown in Figure 2A. Among the 11 HWEs, five HWEs, namely ginger, molokhia, parsley,
+  spinach, and ashitaba, substantially increased the relative luciferase activity,
+  showing more than a 2-fold induction compared with control. To confirm the results
+  shown in Figure 2A, we further evaluated nonspecific induction of luciferase activity
+  by the five HWEs using HepG2/mock cells. The stable AHR-responsive cells and HepG2/mock
+  cells were treated with each HWE, and luciferase activity in the stable AHR-responsive
+  cells was divided by that in the HepG2/mock cells. These data indicated that all
+  five HWEs significantly induced luciferase activity.
+
+
+  Figure 2.  Effects of the HWEs on AHR-mediated transcriptional activity. Stable
+  AHR-responsive HepG2 cells were incubated with each HWE at 0.5 mg/mL for 24 h, and
+  AHR-mediated transcriptional activity is shown as luciferase activity. Untreated
+  cells were used as the control.  Effects of HWEs from ginger, molkhia, parsley,
+  spinach, and ashitaba on AHR-mediated transcriptional activity corrected by AHR-nonspecific
+  luciferase activity. Stable AHR-responsive HepG2 cells and HepG2/mock cells were
+  incubated with each HWE at 0.25 mg/mL for 24 h, and AHR-mediated transcriptional
+  activity is shown as luciferase activity. Luciferase activity in the stable AHR-responsive
+  cells was divided by that in the HepG2/mock cells, and relative values were calculated.
+  Untreated cells were used as the control.  Effects of EAFs and WFs from ginger,
+  molkhia, parsley, spinach, and ashitaba on AHR-mediated transcriptional activity.
+  Stable AHR-responsive HepG2 cells were incubated with each sample at 100 g/mL for
+  24 h, and AHR-mediated transcriptional activity is shown as luciferase activity.
+  The untreated and the 0.1% DMSO-treated cells were used as controls for WFs and
+  EAFs, respectively. The relative luciferase activity measured for the control was
+  taken as 1. 3MC was used as the positive control. Each value is the mean  SD. Statistically
+  significant differences from the value of the control were analyzed by the Dunnetts
+  test; p &lt; 0.05; p &lt; 0.01.
+
+
+  Effect of the EAFs and WFs from Ginger, Molokhia, Parsley, Spinach, and Ashitaba
+  on AHR-Mediated Transcriptional Activity
+
+
+  As shown in Figure 2C, the EAF from ginger remarkably increased AHR-mediated transcriptional
+  activity. The EAFs from ashitaba and molokhia also significantly increased AHR-mediated
+  transcriptional activity. Only the WF from ginger significantly increased AHR-mediated
+  transcriptional activity.
+
+
+  Since the EAF from ginger showed the highest AHR-mediated transcriptional activity,
+  it was further analyzed by HPLC. Two peaks  appeared at retention times of 38 and
+  46 min, which are the same retention times as those of 6-gingerol and 6-shogaol,
+  respectively. Figure 3C shows that the UV spectra of peaks 1 and 2 correspond to
+  those of 6-gingerol and 6-shogaol, respectively.
+
+
+  Figure 3.  HPLC profiles of the EAFs of ginger.  HPLC profiles and chemical structures
+  of 6-gingerol and 6-shogaol.  UV spectra of peak 1  and peak 2.  UV spectra of 6-gingerol  and
+  6-shogaol.
+
+
+  Effects of 6-Shogaol and 6-Gingerol on the Induction of AHR-Mediated Transcriptional
+  Activity
+
+
+  Treatment of the stable AHR-responsive HepG2 cells with 6-shogaol for 24 h resulted
+  in a significant increase in luciferase activity in a dose-dependent manner up to
+  50 M. On the other hand, treatment of the stable AHR-responsive HepG2 cells with
+  6-gingerol for 24 h had no effect on luciferase activity up to 50 M.
+
+
+  Figure 4. AHR-mediated transcriptional activity after treatment with various concentrations
+  of 6-shogaol  and 6-gingerol. Stable AHR-responsive HepG2 cells were treated with
+  6-shogaol and 6-gingerol at the indicated concentrations for 24 h, and AHR-mediated
+  transcriptional activity is shown as luciferase activity. The 0.1% DMSO-treated
+  cells were used as the control.  Effects of gingerols and shogaols on the induction
+  of AHR-mediated transcriptional activity in the stable AHR-responsive HepG2 cells.
+  The stable AHR-responsive HepG2 cells were treated with each sample at 25 M for
+  24 h, and AHR-mediated transcriptional activity is shown as luciferase activity.
+  The 0.05% DMSO-treated cells were used as the control. The relative luciferase activity
+  measured for the control was taken as 1. Each value is the mean  SD. Statistically
+  significant differences from the value of the control were analyzed by the Dunnetts
+  test; p &lt; 0.05;  p &lt; 0.01.
+
+
+  Effects of Gingerol and Shogaols on the Induction of AHR-Mediated Transcriptional
+  Activity
+
+
+  Treatments of the stable AHR-responsive HepG2 cells with 6-, 8-, and 10-shogaol
+  for 24 h resulted in significant increases of luciferase activity, and especially,
+  6- and 8-shogaol strongly increased luciferase activity. On the other hand, treatments
+  of the stable AHR-responsive HepG2 cells with 6-, 8-, and 10-gengerol for 24 h had
+  no effects on luciferase activity.
+
+
+  mRNA Levels of AHR-Target Genes in HepG2 Cells after Treatment with Various Concentrations
+  of 6-Shogaol
+
+
+  The expression levels of the AHR-target genes CYP1A1, UGT1A1, and ABCG 2 in HepG2
+  cells were measured by real-time PCR. Exposure of HepG2 cells to 6-shogaol significantly
+  increased the expression level of CYP1A1 mRNA in a concentration-dependent manner
+  up to 50 M. The expression levels of UGT1A1 and ABCG 2 indicated a significant increase
+  after treatment of 6-shogaol only at 50 M.
+
+
+  Figure 5. mRNA and protein expression levels of AHR-target genes in HepG2 cells
+  after treatment with various concentrations of 6-shogaol. HepG2 cells were treated
+  with 6-shogaol at the indicated concentrations for 24 h. Total RNA from the cells
+  were extracted, and mRNA expression levels of CYP1A1, UGT1A1, and ABCG 2  were evaluated
+  by real-time PCR. The 0.1% DMSO-treated cells were used as the control. The mRNA
+  levels of AHR-target genes were normalized to those of -actin mRNA, and the relative
+  mRNA expression measured for the control was taken as 1. Each value is the mean  SD.
+  Statistically significant differences from the value of the control were analyzed
+  by the Dunnetts test; p &lt; 0.01.  Protein level of CYP1A1 in HepG2 cells after
+  treatment with various concentrations of 6-shogaol. HepG2 cells were treated with
+  6-shogaol at the indicated concentrations for 24 h, and the protein expression level
+  of CYP1A1 was evaluated byWestern blotting. The 0.1% DMSO-treated cells were used
+  as the control. The protein expression level of CYP1A1 was normalized to those of
+  -actin, and the relative protein expression measured for the control was taken as
+  1.
+
+
+  Protein Level of CYP1A1 in HepG2 Cells after Treatment with Various Concentrations
+  of 6-Shogaol
+
+
+  The protein expression levels of CYP1A1 in HepG2 cells were measured by Western
+  blotting. Exposure of HepG2 cells to 6-shogaol increased the protein expression
+  level of CYP1A1 to more than 2-fold of control by treatment with 25 and 50 M 6-shogaol.
+
+
+  Previous studies have reported that crude extracts of green tea, black tea, and
+  propolis functioned as natural antagonists toward AHR. Moreover, it was reported
+  that extracts of vegetables, such as molokhia, suppressed AHR transformation in
+  cell-free systems. However, these reports focused on the suppressive effect of food
+  extracts on AHR activation. De Waard et al. suggested that extracts of citrus pulp
+  and grapefruit juice contained natural AHR agonists, but detailed studies on AHR
+  activation by vegetable extracts have not yet been reported. We examined the effect
+  of HWEs from various vegetables on AHR-mediated transcriptional activity by the
+  luciferase assay using the stable AHR-responsive HepG2 and HepG2/mock cell lines.
+  The results showed that the HWEs from ginger, molokhia, parsley, spinach, and ashitaba
+  increased AHR-mediated transcriptional activity. These five HWEs increased the luciferase
+  activity in a dose-dependent manner at concentrations of 0.5, 1.0, and 2.0 mg/mL.
+  In this study, the HWE from molokhia induced AHR-mediated transcriptional activity,
+  even though the molokhia extract has previously been suggested to be an AHR antagonist.
+  Molokhia contains quercetin in abundance, which could function as an AHR antagonist
+  or an AHR agonist. Therefore, compounds in molokhia such as quercetin could cause
+  contradictory results. The results presented in this study are the first to indicate
+  that some vegetable extracts can increase AHR-mediated transcriptional activity.
+
+
+  Our data indicated that the HWEs from five vegetables contained compounds that may
+  activate AHR. We evaluated the AHR-mediated transcriptional activity of the WFs
+  and EAFs of each vegetable to delineate the active compound in each HWE. Because
+  HWEs were crude extracts, we used the HepG2/MOCK cell line to exclude nonspecific
+  luciferase activity. Since nonspecific luciferase activity was not observed, we
+  did not use the HepG2/MOCK cell line in subsequent experiments. The luciferase assay
+  using ethyl acetate and water fraction from all five vegetables showed that parsley
+  and spinach had no activity in both fractions. In addition, the ethyl acetate fractions
+  from molokhia and ashitaba had much less activity than that from ginger, so we focused
+  on the identification of active compounds in ginger. Therefore, to further identify
+  the AHR-activating compounds, we analyzed this fraction by HPLC.
+
+
+  Shogaols and gingerols are the main compounds in ginger and ginger products, and
+  6-shogaol and 6-gingerol are the main components, so we analyzed the EAF from ginger,
+  6-shogaol, and 6-gingerol. We showed that two major peaks appeared at retention
+  times of 38 and 46 min, and these peaks corresponded to the peaks of 6-gingerol
+  and 6-shogaol, respectively. This data suggested that 6-gingerol and 6-shogaol were
+  the main compounds in EAF from ginger. Shogaols are compounds formed by dehydrating
+  gingerols, and they are not thought to be present in fresh rhizome. Gingerols are
+  not stable during storage or thermal processing, and they generate shogaols. It
+  was suggested that the 6-shogaol detected in the EAF from ginger in this study resulted
+  from the conversion of 6-gingerol to 6-shogaol during the extraction in hot water.
+
+
+  Treatment of the stable AHR-responsive HepG2 cells with 6-shogaol for 24 h resulted
+  in significant increases in luciferase activity in a dose-dependent manner. These
+  data are the first to verify induction of AHR-mediated transcriptional activity
+  by 6-shogaol. More interestingly, 6-gingerol had no effect on AHR-mediated transcriptional
+  activity. 6-Shogaol has been reported to have a much stronger inhibitory effect
+  on the growth of various cancer cell lines than 6-gingerol. Koliopanos et al. and
+  Peng et al. reported that AHR agonists inhibited the growth of cancer cells. Our
+  finding that 6-shogaol, but not 6-gingerol, is a strong AHR activator may explain
+  why 6-shogaol has a stronger inhibitory effect on the growth of cancer cells.
+
+
+  We think that only evaluation of the activities of the two most abundant components
+  in ginger was insufficient to identify the active compounds in ginger. Therefore,
+  8-shogaol, 10-shogaol, 8-gingerol, and 10-gingerol, the major compounds in ginger
+  other than 6-shogaol and 6-gingerol, were used for the luciferase assay. Figure
+  4C shows that 8-shogaol had the same activity as 6-shogaol, but 8-shogaol was not
+  detected in the HPLC chromatogram of EAF from ginger shown in Figure 3A. These results
+  show that 6-shogaol is the most major activator of AHR among shogaols and gingerols.
+  Moreover, the concentration of 6-shogaol in the solution of EAF from ginger  was
+  calculated to be about 27 M by HPLC analysis. In this study, the AHR-mediated transcriptional
+  activity was 45 fold induction when 100 g/mL of the EAF from ginger was used, whereas
+  the transcriptional activity was about 2-fold induction when 25 M of 6-shogaol was
+  used. Based on these data, the activity of 6-shogaol accounted for about 50% of
+  activity, so 6-shogaol is thought to be the most major activator of AHR in ginger.
+
+
+  6-Shogaol induced mRNA expression of the following AHR-target genes: phase I metabolic
+  enzyme CYP1A1, phase II metabolic enzyme UGT1A1, and phase III metabolic enzyme
+  ABCG 2  and protein expression of CYP1A1. These are the first data indicating that
+  6-shogaol induced expression of detoxification enzymes. Liska reported that a multifunctional
+  inducer in detoxification systems was important. Indeed, we have demonstrated the
+  usefulness of 6-shogaol as a multifunctional inducer in this report.
+
+
+  The AHR has been found to favor hydrophobic molecular with a quasi-planar structure
+  and to accommodate a ligand-binding pocket of approximately 14  12  5 . Some flavonoids
+  that induce AHR activity have molecular sizes and planar structures that could bind
+  to a ligand-binding pocket of AHR. Although there is no report about the detailed
+  structure analysis of 6-shogaol, based on its structure, we guess that the molecular
+  size of 6-shogaol is smaller than that of flavonoids and that 6-shogaol may bind
+  to a ligand-binding pocket of AHR. Moreover, shogaols, but not gingerols, induced
+  AHR activity in this study. Unlike gingerols, shogaols have the ,-unsaturated ketone
+  group. Compounds having this structure are good substrates for Michael addition
+  reactions and are rendered electrophilic by conjugation with electron-withdrawing
+  groups. This difference of electrophilic nature based on the structures of shogaols
+  and gingerols may cause the difference of AHR activities. Another possible mechanism
+  of AHR activation by 6-shogaol is the effect of its metabolites. We evaluated the
+  AHR-mediated transcriptional activity and mRNA expression of AHR-target genes by
+  treatment of cells with 6-shogaol for 24 h. Most 6-shogaol has been shown to be
+  metabolized to other reduced forms within 24 h in various cancer cell lines, and
+  these metabolites retain their bioactivity. Recently, the cysteine-conjugated metabolite
+  of 6-shogaol, 5-cysteinyl-6-shogaol, exerts its bioactivity by acting as a carrier
+  of 6-shogaol in cancer cells and showed strong growth inhibitory effects toward
+  cancer cells. These bioactive metabolites of 6-shogaol may contribute to induction
+  of AHR activity. Further experiments are necessary to reveal whether or not the
+  bioactive metabolites of 6-shogaol also exhibit induction of AHR-mediated transcriptional
+  activity and mRNA expression of AHR-target genes.
+
+
+  We revealed for the first time that ginger more strongly induced AHR-mediated transcription
+  compared to other vegetables such as molokhia, parsley, spinach, and ashitaba. We
+  also found that 6-shogaol was the major active compound in ginger. The mRNA expression
+  levels of AHR-targeting drug-metabolizing enzymes  and the protein level of CYP1A1
+  in HepG2 cells were induced by 6-shogaol. These results are the first verification
+  of AHR-mediated regulation of detoxification systems by 6-shogaol. This study suggests
+  that AHR-mediated modulation of detoxification systems can be expected in the presence
+  of 6-shogaol, although in vivo studies are needed to clarify whether AHR will be
+  activated by the intake of 6-shogaol.
+
+
+'
+...

@@ -1,0 +1,5 @@
+# Determination of conjugated and free isoflavones in some legumes by LC-MS/MS
+
+## Abstract
+
+Some widely consumed legumes could potentially be used as alternatives to soy as a source of dietary isoflavones. In this study, 6 legumes (chickpea, red kidney bean, haricot bean, yellow lentil, red lentil and green lentil) were analysed to determine their contents for 10 different isoflavones (both free and conjugated). Methanolic extracts obtained by ultrasound-assisted extraction were analysed by triple quadrupole LC-MS/MS. Chickpeas were the best source of isoflavones (3078 ± 372 Î¼g/kg total content), with a significant amount of biochanin A and its conjugated form, sissotrin. Kidney beans had the second highest concentration of isoflavones (1076 Î¼g/kg) and were particularly rich in genistin (946.4 ± 228.5 Î¼g/kg). The total isoflavone concentrations of yellow split lentils, green lentils, red lentils and haricot beans were each below 200.0 Î¼g/kg. It was determined that the legumes commonly consumed in Western diets (those analysed in this study) are not good alternatives to soy and soy products as sources of isoflavones.

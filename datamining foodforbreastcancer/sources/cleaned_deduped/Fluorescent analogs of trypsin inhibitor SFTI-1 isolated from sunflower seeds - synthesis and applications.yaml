@@ -1,0 +1,359 @@
+---
+title: Fluorescent analogs of trypsin inhibitor SFTI-1 isolated from sunflower seeds
+  - synthesis and applications
+pathHash: df2a77e59f0892ea14928c2a8e896794
+tags:
+- sunflower-oil
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Fluorescent
+  analogs of trypsin inhibitor SFTI-1 isolated from sunflower seeds - synthesis and
+  applications.md
+text: "\n\nThis article describes the synthesis and enzymatic study of newly synthesized
+  analogs of trypsin inhibitors SFTI-1 that were fluorescent labeled on their N-terminal
+  amino groups. Two fluorescent derivatives of benzoxazole  were used as efficient
+  fluorescent labels. The compounds obtained preserved their inhibitory activity and
+  were efficient inhibitors of bovine trypsin or chymotrypsin. Nevertheless, their
+  association inhibition constants were one or two orders of magnitude lower than
+  those determined for unlabeled monocyclic SFTI-1 or SFTI-1, respectively. The conjugates
+  obtained were found to be proteolytically stable in the presence of cognate enzymes.
+  Applying such fluorescent peptides, we were able to investigate enzyme-inhibitor
+  complex formation using fluorescent techniques. We found that such compounds were
+  rapidly internalized by the fibroblast or cancer cells with no cytotoxic effects.
+  \ 2013 Wiley Periodicals, Inc. Biopolymers  102: 124-135, 2014.\n\nWith only one
+  exception, the canonical inhibitors that belong to the Bowman-Birk inhibitor  family
+  are polypeptides consisting of more than 60 amino acid residues. In 1999, Luckett
+  et al. isolated a trypsin inhibitor SFTI-1  from sunflower seeds, and this was the
+  smallest and in addition the most potent of all the inhibitors of the BBI family.
+  SFTI-1 is a 14 amino acid circular peptide that was found to have high homology
+  to the binding loop of other BBI family members. Its primary structure is shown
+  in Figure 1. The reactive site P1-P1 of the SFTI-1 inhibitor is located between
+  the Lys5-Ser residues and therefore exhibits trypsin-like specificity, possessing
+  a high affinity to trypsin. Owing to its exceptionally small size, compact structure,
+  and high inhibitory activity, SFTI-1 is considered to be a very attractive template
+  for designing proteinase inhibitors against physiologically important enzymes, which
+  could be potentially used as pharmacological agents. Results of extensive studies
+  on SFTI-1 are summarized in review papers.\n\nIn the mid 1990s, it was shown that
+  short positively charged peptides were able to cross cell membranes. Since then,
+  many examples of such cell penetrating peptides  have been reported. Among them
+  are peptides derived from proteins, synthetic chimeras  and also those with non-naturally
+  accruing  primary structures. CPPs have attracted significant attention due to their
+  ability to deliver cargos, including biologically active agents with different chemical
+  characteristics  into the cell. Such bioconjugates have therapeutic or diagnostic
+  agent potentials, which are difficult to overestimate. Another group of peptides
+  extensively studied in last two decades are cyclotides. These plant-derived miniproteins
+  with a cysteine knot arrangement of three conserved disulfide bonds and head-to-tail
+  cyclization are, unlike most peptides, exceptionally resistant to thermal/chemical
+  denaturation, and enzymatic degradation. They possess numerous biological activities,
+  including antimicrobial, antitumor, and anti-HIV. As part of the plant defense system,
+  some of them display toxic effects and insecticidal activity. Recently, it has been
+  shown, using confocal fluorescence microscopy imaging, that cycliotides  are able
+  to internalize into the breast cancer cell line, MCF-7, the macrophage cell line,
+  RAW264.7 and HeLa cells. Interestingly, SFTI-1 also internalize into MCF-7 cells,
+  although it does not interact with any of the investigated phospholipids. To monitor
+  the cellular uptake, the peptides were labeled with fluorescence markers, biotin
+  or AlexaFluor488, which were attached to the side-chain amino groups of Lys residues
+  present in the studied peptides. In the case of trypsin inhibitors MCoTI and SFTI-1,
+  Lys residues are located in substrate specific P1 position. Therefore, such labeled
+  cyclic peptides lost their inhibitory activity. In the studies by Craiks and Camareros
+  groups, the main goal was to obtain labeled peptides that would be able to cross
+  the cell membranes and they did not focus their attention on the inhibitory activity
+  of these cyclic peptides. We decided to design analogs of SFTI-1, which would combine
+  both properties. Our intention was to obtain fluorescent analogs of SFTI-1 useful
+  for monitoring inhibitor--proteinase complexes formed inside the cells. Such peptides
+  would be a good starting point for the design of fluorescent inhibitors of physiologically
+  important proteinases and they could be utilized to trace these enzymes in biological
+  samples. As a lead structure, we selected monocyclic SFTI-1 with only a disulfide
+  bridge. In our earlier research we had proved that the elimination of head-to-tail
+  cyclization in wild SFTI-1 did not significantly influence the inhibitory activity
+  determined as the equilibrium association constant  and proteolytic susceptibility.
+  As fluorescent labels, we decided to use -l-alanine derivatives: 3--l-alanine-Box-Ala
+  and previously unpublished 3--l-alanine-Box-Ala. A series of Box-Ala derivatives
+  have recently been synthesized by the coauthors of this article. Because of their
+  photophysical properties namely high quantum yields and excellent stability, these
+  compounds can be useful as fluorescence probes. The chemical formulas of both fluorophores,
+  together with their maximum wavelengths of excitation and emission are given in
+  Figure 2. To preserve the inhibitory activity of synthesized SFTI-1 analogs, they
+  were coupled through their carboxyl groups to the peptide N-termini. As reported
+  previously such N-terminal modification did not influence potency of inhibitor.
+  The primary structures of synthesized peptides are shown in Figure 3. In two fluorescent
+  analogs, Phe residue was introduced in substrate specific P1 position. On the basis
+  of our previous reports, this should change the specificity of synthesized peptides
+  from trypsin to chymotrypsin inhibitory activity. To eliminate the possible trypsin
+  cleavage site between Arg and Cys, this first amino acid residue was omitted in
+  all synthesized SFTI-1 analogs. To determine the impact on the inhibitory activity
+  of the fluorescent moieties attached to SFTI-1 analogs, two analogs 5 and 6 modified
+  by PEG were also synthesized.\n\nFigure 2\\. Benzoxazole derivatives that were used
+  as fluorescent labels with their extinction/emission wavelengths.\n\nN--3--l-alanine-Boc-Box-Ala
+  was synthesized from N-Boc-protected 3-amino-l-tyrosine methyl ester, and N--3--l-alanine-Boc-Box-Ala
+  from N-Boc-protected 3-amino-l-tyrosine, via the intermediate Schiff base, which
+  underwent oxidative cyclization to the heterocyclic compound in the presence of
+  lead tetra-acetate in DMSO, according to the procedure published previously. This
+  was followed by methyl ester saponification using 1N NaOH in methanol. 3-Nitro-l-tyrosine
+  methyl ester, N-Boc-3-nitro-l-tyrosine methyl ester, and N-Boc-3-nitro-l-tyrosine
+  were prepared according to literature procedures published in Refs.  and, respectively.\n\nAll
+  protected amino acids were purchased from GLS CHINA, and AEA  and ADEA ethoxy) acetic
+  acid) came from Iris Biotech GMBH, Germany. The Bovine -chymotrypsin and -trypsin,
+  the chromogenic trypsin burst substrate-nitrophenyl-4-guanidinobenzonate  and ovomucoid
+  from turkey egg whites  were purchased from Sigma-Aldrich. The chromogenic turnover
+  substrates: N-benzoyl-d,l-arginine 4-nitroanilide, Suc-Ala-Ala-Pro-Phe-pNA, and
+  Suc-Ala-Ala-Pro-Leu-pNA were purchased from Bachem, Switzerland, while Z-Phe-Ala-Thr-Tyr-ANB-NH2
+  was synthesized according to Wysocka et al. All UV-VIS measurements were performed
+  using a Cary 3E Spectrophotometer.\n\nAll the peptides were synthesized manually
+  following the solid-phase method using Fmoc chemistry. The following amino acid
+  derivatives were used: Fmoc-Gly, Fmoc-Cys, Fmoc-Thr, Fmoc-Ser, Fmoc-Lys, Fmoc-Ile,
+  Fmoc-Pro, and Fmoc-Phe, Fmoc-Asp. The protected derivative of C-terminal amino acid
+  residue, Fmoc-Asp, was attached to the 2-chlorotritylchloride resin   in the presence
+  of an equimolar amount of DIPEA  under anhydrous conditions in DCM solution. Peptide
+  chains were elongated in consecutive cycles of deprotection and coupling. Deprotection
+  was performed with 20% piperidine in DMF/NMP  with the addition of 1% Triton X-100,
+  whereas chain elongation was achieved with standard DIC/HOBt chemistry; 3 equiv
+  of protected amino acid derivatives were used. The same method was applied for coupling
+  Fmoc-PEG derivatives and fluorescent compounds. After completing the syntheses,
+  the peptides were cleaved from the resin simultaneously with the side chain deprotection
+  groups in a one-step procedure, using a TFA/phenol/triisopropylsilane/H2O  mixture.
+  In the last step, the disulfide bridge was performed using a 0.1M methanolic iodine
+  solution, following the procedure described elsewhere. The crude peptides were purified
+  using HPLC on a Beckman Gold System  with an RP Kromasil-100, C8, 5 m column. The
+  solvent systems were 0.1% TFA  and 80% acetonitrile in A. Either isocratic conditions
+  or a linear gradient were applied. The purity of the synthesized peptides was checked
+  on an RP Kromasil 100, C8, 5 m column. The solvent system was as above. Linear gradient
+  from 10 to 90% B for 30 min, flow rate 1 ml/min, monitored at 226 nm. The mass spectrometry
+  analysis was carried out on a MALDI MS  using a-CCA matrix.\n\nThe bovine -trypsin
+  \ concentration was determined using spectrophotometric titration with 4-nitrophenyl-4-guanidinobenzoate
+  \ at an enzyme concentration oscillating around 106 M. A standardized trypsin solution
+  was used to titrate the ovomucoid from turkey egg whites, which in turn served to
+  determine the solution concentration of the bovine -chymotrypsin. The concentrations
+  of the SFTI-1 analogs were determined via titration of their stock solutions with
+  standardized bovine -trypsin and bovine -chymotrypsin with BAPNA and Suc-Ala-Ala-Pro-Leu-4-nitroanilide,
+  respectively. The association constants were measured using the method developed
+  in the laboratory of Empie and Laskowski. Enzyme-inhibitor interactions were determined
+  in a 0.1M Tris-HCl  buffer containing 20 mM CaCl2 and 0.005% Triton X-100 at room
+  temperature. Increasing amounts of the inhibitor, varying from 0 to 2E0, were added
+  to a fixed amount of the enzyme. After a 3 h of incubation, residual enzyme activity
+  was measured using the turnover substrate. The measurements were carried out at
+  initial enzyme concentrations over the ranges 1.3-9.1 nM for trypsin and chymotrypsin,
+  respectively. The residual enzyme activity was measured with BAPNA and Z-Phe-Ala-Thr-Tyr-ANB-NH2
+  \ as chromogenic substrates for trypsin and chymotrypsin, respectively. In all cases,
+  the initial substrate concentration was below 0.1 KM. The experimental points were
+  analyzed by plotting the residual enzyme concentration  versus the total inhibitor
+  concentration. The experimental data were fitted to the theoretical values using
+  the GRAFIT software package. A more detailed procedure was described in our recent
+  article. The inhibitory activities, expressed as the Ka values with bovine -trypsin
+  or bovine -chymotrypsin for the SFTI-1 analogs, are summarized in Table 1.  \n\nThe
+  1.5  106 of cells, immortalized human fibroblast cell line  and MCF-7 cell line
+  were cultured at 37C in a humidified atmosphere saturated with 5% CO2 in DMEM medium.
+  Next cell were resuspended or cultured in 3 ml of DMEM  and 5 l of inhibitors 1-4
+  at two different concentration 10 M and 25 was added and mixed thoroughly. At the
+  indicated time points, the 0.5  105 cells from each system were collected and washed
+  3 times with DMEM medium supplemented with TRITON 0.2% and finally resuspended in
+  100 mM PBS with 2% FBS and subjected for further studies.\n\nHarvested by trypsinization
+  and counted cells were seeded on Millicell EZ Slide  at a density of 5  104 cells/well
+  and left to attach overnight. Next, the cells were treated with analogs at different
+  concentrations, after aforementioned time points were washed twice using 100 mM
+  PBS, fixed using Cytofix  and immediately analyzed using Olympus IX81 equipped with
+  Lumen Dynamics X-Cite Series 120 PC Q lamp module.\n\nBriefly, cell were harvested
+  by trypsinization and counted. Next cell were seeded on 24-well plates  at a density
+  of 105 cells/well and left to attach overnight. Subsequent, the cells were treated
+  with tested compounds at different concentrations  or benzoxazole alanine derivates,
+  washed twice with 100 mM DMEM medium with 2% FBS, harvested by trypsinization, and
+  suspended in 100 mM PBS with 2% FBS. The flow cytometry analysis was performed immediately
+  using BD LSRFortessa cytometer  exploiting UV laser. Data analysis was conducted
+  using FACSDiva software. Presented data represents two independent experiments performed
+  in duplicate and shows the relative fluorescence increase  SD. Histograms present
+  the results of one representative experiment.\n\nThe inhibitors  stock solutions
+  at final concentration 1  104 M were used. Enzymes  stock solution were 3  104 M
+  were used. For enzyme-inhibitor studies 20 l of inhibitor  and 10 l  of enzyme was
+  mixed in the 0.1M Tris-HCl buffer, pH 7.5, and incubated 20 min. Nonlabeled monocyclic
+  SFTI-1 concentration was 1.6  103 M and 50 l  of such solution was added into above
+  mixtures. The studies were performed by means of gel filtration chromatography on
+  an HPLC  with an FP2020  scanning fluorescence detector equipped with an  Agilent
+  Zorbax Bio Series, GF 250 column. As the eluent, a 0.1M solution of Tris-HCl buffer,
+  pH 7.5 with flow rate 1 ml/min was used. The extinction/emission wavelengths were
+  as follows: inhibitor 1 and 3 320 nm/400 nm inhibitor 2 and 4 380 nm/460 nm.\n\nBoth
+  fluorescent markers Box-Ala and Box-Ala were attached as N-protected Boc derivatives
+  to the N-termini of synthesized peptides using the standard method  utilized in
+  solid-phase peptide synthesis. In our previous study, we reported that, in monocyclic
+  SFTI-1 analogs, the peptide bond Arg2-Cys was cleaved upon incubation with trypsin;
+  therefore, in order to prevent splitting of the fluorescent moiety in all the synthesized
+  peptides, the Arg2 was removed. Such modification together with the introduction
+  of a PEG linker  at the N-termini of the synthesized peptides did not influence
+  the inhibitory activity. Both reference compounds 5 and 6 appeared to be potent
+  trypsin and chymotrypsin inhibitors, respectively. The determined Ka values were
+  the same order of magnitude as patent monocyclic SFTI-1 and SFTI-1, respectively.
+  All synthesized fluorescence labeled compounds was also efficient inhibitors of
+  bovine trypsin  and chymotrypsin. Introduction of a fluorescent benzoxazole moiety
+  into trypsin inhibitors did not reduce their potency, since their association constants
+  were in the same range as monocyclic SFTI-1. In the case of compounds 1 and 2, a
+  significant reduction of inhibition potency  was observed, in relation to the parent
+  compounds, SFTI-1 and 5.\n\nAll fluorescent peptides incubated with appropriate
+  enzymes  remained proteolytically stable for 24 h. Also, MS analysis indicated that
+  no degradation is observed over this period.\n\nFigure 4\\. HPLC analysis of compounds
+  1-4 incubated with bovine -trypsin in Tris-HCl pH 8.3. Two time points were used
+  solid line-time 0 and dash line 24 h. UV detection was applied at 226 nm.\n\nBearing
+  in mind the excellent proteolytic stability and efficient inhibition of cognate
+  enzymes displayed by the obtained labeled inhibitors, we decided to monitor the
+  protease-inhibitor complex using the chromatography technique. In this experiment,
+  in order to form a complex, trypsin  and inhibitor 4  were mixed in the appropriate
+  buffer. An analysis was performed using an HPLC system equipped with a size exclusion
+  column and the fluorescent intensity was followed. As presented in Figure 5A, inhibitor
+  4 itself has a retention time 9.24 min. After 15 min of incubation with bovine -trypsin,
+  a new peak with a retention time of 6.94 min, significantly different from the elution
+  time of the inhibitor alone, appeared and this was recognized as a noncovalent enzyme-inhibitor
+  complex. This peak was not visible in the chromatogram when trypsin was first incubated
+  with peptide 4 and after 15 min nonlabeled monocyclic SFTI-1  was added to this
+  mixture. A similar effect was observed in the case of a system where a trypsin-inhibitor
+  4 complex had previously formed and such a mixture was acidified to obtain pH 3.
+  In this case, the peak with a retention time of 7.05 min  was significantly reduced
+  and one denoted a free inhibitor  appeared. This is in close agreement with well-known
+  data that for canonical inhibitors: the strength of their complexes with cognate
+  enzymes decreases with decreases in the pH.\n\nFigure 5\\. Size exclusion chromatography:
+  \ analog 4  analog 4 incubated with bovine -trypsin in tris-HCl buffer pH 8.3,  analog
+  4 incubated with bovine -trypsin in tris-HCl buffer pH 7.5, and then acidified to
+  pH 3.  Analog 4 incubated with bovine -trypsin in tris-HCl buffer pH 8.3 followed
+  by with a 5M excess of monocyclic SFTI-1. The fluorescence detector was used with
+  excitation wavelength at 320 nm and emission wavelength at 400 nm.\n\nLess apparent
+  observation was made for a mixture of inhibitor 2  and bovine -chymotrypsin. The
+  retention time of inhibitor 2 is 7.53 min. As a result of the incubation of these
+  two constituents in Tris HCl buffer at pH 7.5, multiple peaks were observed between
+  6.18 and 10.34 min. Among them the most intense had a retention time of 6.59 min.
+  Such results could be an effect of the heterogeneity of the enzyme solution because
+  of self-degradation of chymotrypsin in solution. In the presence of a 5 M excess
+  of SFTI-1  all of the aforementioned peaks disappeared and only one, with a retention
+  time of 7.53, corresponding to inhibitor 2 was visible.\n\nFigure 6\\. Size exclusion
+  chromatography:  analog 3,  analog 3 incubated with bovine -trypsin in tris-HCl
+  buffer pH 8.3,  analog 3 incubated with bovine -trypsin in tris-HCl buffer pH 8.3
+  with a 5M excess of monocyclic SFTI-1. The fluorescence detector was used with excitation
+  wavelength at 320 nm and emission wavelength at 400 nm.\n\nPeptides 1 and 3 at the
+  concentration of 2.53  105 M and 2.56  105 M, respectively, were analyzed using
+  the condition described above. Again, only fluorescent molecules were detected.
+  When compared to peptides 2 and 4, a surprisingly short retention time, equal to
+  4.52 min, was recorded for both compounds. The difference between compound 1 and
+  2 is just a fluorophore labeling ; thus, such a shift in retention times was not
+  justified. The addition of either appropriate proteinases or pH change did not influence
+  the retention time of the analyzed inhibitors. Repeating the analysis in 6M urea
+  present in both sample and elution buffer changed the retention time for both compounds
+  \ dramatically from 5 to 9 min. This indicated that both compounds in separation
+  conditions form aggregates and so were not utilized in further size exclusion experiments.
+  It worth underlining that such an observation was not for compounds 2 and 4 in the
+  presence of a denaturing agent.\n\nFigure 7\\. Size exclusion chromatography:  analog
+  1 in tris-HCl buffer pH 7.5.  Analog 1 incubated and analyzed in presence of 6M
+  urea. The fluorescence detector was used with excitation wavelength at 380 nm and
+  emission wavelength at 460 nm.\n\nIncubation of compounds 1-4 with cancer cell lines
+  \ or transformed fibroblast cell lines at micromolar concentrations, displayed a
+  noncytotoxic effect over 24 h. Incubation of all the obtained compounds results
+  in their visible presence within the cells used. Each cell system was incubated
+  with an appropriately labeled peptide in DMEM medium and extensively washed by PBS
+  supplemented with Triton X-100. Similar results were obtained for all tested compounds.\n\nOn
+  Figure 8 as the results of incubation of inhibitors 1-4  with MCF-7 cell line is
+  presented. There is a clear presence of fluorescent compounds inside the cell that
+  is localized outside the nucleus. Similar observations were recorded for other cell
+  line tested  see Figure 1 Supporting Information.\n\nFigure 8\\. Transmitted light
+  and fluorescent images and its overlays of MCF-7 cells incubated with compounds
+  1-4: Incubation time 60 min and magnification 400\\.  Analog 1,  Analog 2,  Analog
+  3, and  Analog 4. All compounds at concentration 10 M.\n\nIncubation of aforementioned
+  cell line with fluorophore moieties namely Box-Ala and Box-Ala at concentration
+  0.256 M also results in their fast internalization within the cell cytoplasm. We
+  observed no cytotoxic effect during duration of the experiment. We have reason to
+  believe that excellent permeability of labeled inhibitors is due to presence of
+  benzoxazole alanine derivates present on their N-termini.\n\nFurther flow cytometry
+  analysis of cells used in a previous experiment indicates that the majority of the
+  cells are stained and highly fluorescence as compared to cells that were not incubated
+  with the labeled SFTI-1 analogs. Moreover, their fluorescence does not depend on
+  the time of incubation or on temperature. Fluorescence intensity and the amount
+  of stained cells remain at the same high level as compared to the negative nonstained
+  control.\n\nFigure 9\\. Flow cytometry analysis of MCF-7 cell line:  analog 1,  analog
+  2,  analog 3,  analog 4. The excitation wavelength was ext = 355 nm and emission,
+  em = 450/50 nm. Two concentrations of tested compounds were used. Incubation time
+  60 min.\n\nFluorescent Boc-Box-Ala and Box-Ala. were synthesized from N-Boc-protected
+  3-amino-l-tyrosine methyl ester using previously described procedures. The obtained
+  peptide conjugates appeared to be strong inhibitors of cognate enzymes despite the
+  attached fluorophores and the length of PEG derivates. Association constants of
+  compounds 3 and 4 with bovine -trypsin are in the same range. Such values are one
+  range less than native SFTI-1, but similar to the inhibitor potency of the monocyclic
+  inhibitor and even higher than that obtained for pegylated SFTI-1 analog. A similar
+  situation is observed for their chymotrypsin counterparts, peptides 1 and 2, but
+  a lower associated constant  as compared to SFTI-1 and its pegylated analog  was
+  obtained. All compounds  incubated with an appropriate enzyme  remain proteolytically
+  stable for 24 h  and MS analysis indicates that no degradation is observed during
+  this time. This is an interesting finding since, for the monocyclic SFTI-1 molecule,
+  the peptide bond Lys5-Ser5 is slowly hydrolyzed until the equilibrium is reached
+  between open and intact forms. We believe that such behavior is observed because
+  of the presence of a bulky hydrophobic group at the N-terminal part of the inhibitor.\n\nAll
+  four compounds, when incubated with MOLT-4 and fibroblast lines at micromolar concentration,
+  displayed no cytotoxic effect over 24 h. It worth emphasizing that bezoxazole moieties
+  display moderate to high cytotoxicity against various cell lines  at millimolar
+  concentration. However, when conjugated with SFTI-1 such an effect is significantly
+  reduced. Those compounds were found to be cell permeable at submicromolar concentration.\n\nAll
+  peptide conjugates  are efficiently internalized into the living cancer  or healthy
+  cells  and judging on the fluorescent microscope picture they are mainly localized
+  in the cytoplasmic fraction. Further flow cytometry analysis indicates  that such
+  cell permeability is dose dependent when concentrations from 3.14 M to 31.4 nM of
+  compounds are used. Presence of macropinocytotsis inhibitor  did not influence such
+  uptake. Temperature did not affect membrane crossing efficiency, which remains at
+  similar levels for systems incubated at 4 and 37C. All of above results suggest
+  that this process is passive and not governed by the cell. These results do not
+  correlate well with data provided by Cascales et al. for the aforementioned selected
+  cyclic peptides, also referred to as cyclotides. In their study, they incubated
+  three groups of fluorescent labeled cyclic peptides, the sequences of which were
+  derived from leading structures: MCoTI-II, kalata B1, and SFTI-1. To all peptides,
+  either biotin moiety or -amino groups of Lys were conjugated with Alexa 488 fluorophore.
+  Incubation of the obtained fluorescent peptides with phospholipids and further with
+  a transformed macrophage cell line  and a breast cancer cell line  indicates that
+  MCoTI-II and kalata-B1 derived fluorescent peptides were internalized into the cell
+  due to strong interaction with the phospholipids, as a model of the cell membrane.
+  The authors postulated that such massive uptake of the studied fluorescent peptides
+  is due to vesicle formation of the membrane bound peptides and its engulfment into
+  the cell, called the macropinocytosis phenomenon. Such results were not observed
+  in the case of Alexa-SFTI-1 conjugates that display no affinity for membrane mimicking
+  phospholipids. A limited amount of labeled SFTI-1 was identified inside the cell
+  but the mechanism of its presence is unknown.\n\nFigure 10\\. Time dependence cell
+  permeability  assay for compounds 1-4. The time points for time-dependent cell permeability
+  assay were 5, 30, and 60 min. Additionally, two different temperatures 36 and 4C
+  were applied and incubated for 30 min. Peptide concentration 10 M. Amiloride was
+  used at concentration of 1.25 mM.\n\nFigure 11\\. Dose and time dependence cell
+  permeability  assay for compounds 1-4. The time points for time-dependent cell permeability
+  assay were 5, 30, and 60 min. Additionally, two different temperatures 36 and 4C
+  were applied and incubated for 30 min. Concentration of the compounds is 0.273 M.
+  Amiloride was used at concentration of 1.25 mM.\n\nSuch a discrepancy between SFTI-1
+  ability to cross the cell membrane could be explained by the nature of the fluorophore
+  used. Benzoxazole derivatives that were attached to the N-terminal of SFTI-1 and
+  its analog SFTI-1 are much more hydrophobic than those fluorophores used in the
+  Australian groups studies. Both benzoxazole derivates penetrate the cell in submicromolar
+  concentration that is much lower than corresponding SFTI-1 conjugates. This indicates
+  that nature of these large hydrophobic groups is the main factor, which enhances
+  cell permeability of obtained compounds.\n\nHaving obtained fluorescent inhibitors
+  of proteolytic enzymes, we decided to investigate if we could utilize their fluorescent
+  properties and monitor the inhibitor-enzyme complex formation. We wanted to test
+  if the obtained compounds could act as potential noncovalent activity-based probes.
+  Since the inhibitor interacts only with native active proteins, this should be especially
+  interesting in the context of following protease activity. Moreover, SFTI-1 molecules
+  display inhibitory activity/properties against a cohort of trypsin-like proteases,
+  including trypsin, matriptase, tryptase, and many more. The reporter molecules  are
+  able to produce a strong fluorescent signal detectable by simple UV irradiation.
+  Additionally, it is widely known that, in the case of reversible proteinase-inhibitor
+  complexes, post detection pH change yields strip off the inhibitor yielding the
+  recovery of pure proteinase. To investigate their ability to form and visualize
+  enzyme inhibitor complexes, we decided to utilize gel filtration chromatography
+  with fluorescence detection mode. As mentioned earlier, we were able to obtain a
+  clear picture only for two SFTI-1 derivatives. Two other peptides  formed aggregates
+  under assay conditions and were not subjected to further studies. Incubation of
+  peptides 2 or 4, both labeled with chymotrypsin or trypsin, respectively, result
+  in the formation of a new signal corresponding to a noncovalent enzyme-inhibitor
+  complex. Such a signal was reduced or diminished when nonlabeled SFTI-1 or its analog
+  with chymotrypsin specific SFTI-1 was present in the solution. The same affect was
+  observed in the case of alerting the pH of such mixture due to a disruption of the
+  complex. Utilization of SFTI and its analogs was described by Pereira et al., showed
+  that immobilized monocyclic SFTI-1 analogs modified in the P1 position on agarose
+  gel. The covalent linkage was achieved by the reaction of an aldehyde moiety of
+  an oxidized Ser residue, additionally attached at the peptide N-terminus, and a
+  hydrazine group of agarose. It was demonstrated that these immobilized SFTI-1 analogs
+  could serve as affinity probes for the isolation of serine proteinases with different
+  specificities.\n\nFour noncytotoxic cell permeable SFTI-1 analogs conjugated with
+  fluorogenic moieties of benzoxazoles were obtained. Introduction of N-terminal fluorogenic
+  groups did not influence their interaction with cognate proteinases, but resulted
+  in an increase in their proteolytic stability and cell permeability, when compared
+  to the parent compounds. We believe that such conjugates could serve as reversible
+  activity-based probes and could be utilized in the study of protease inhibitor interactions.\n\nAuthors
+  would like to thank the Polish National Science Centre. Grant Number: UMO-2011/01/B/ST5/03772
+  \ and NeoLek Laboratory cofinanced by The European Regional Development Fund POIG.02.01.00-02-073/09
+  for performing of culture cell analyses.\n"
+...

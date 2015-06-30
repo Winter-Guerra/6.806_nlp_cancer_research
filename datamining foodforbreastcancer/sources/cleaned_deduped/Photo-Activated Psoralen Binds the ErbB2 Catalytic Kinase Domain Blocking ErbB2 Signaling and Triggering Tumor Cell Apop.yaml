@@ -1,0 +1,413 @@
+---
+title: Photo-Activated Psoralen Binds the ErbB2 Catalytic Kinase Domain, Blocking
+  ErbB2 Signaling and Triggering Tumor Cell Apoptosis
+pathHash: 9b031cf61798f6dc26bcac3a8b3e3d28
+tags:
+- celery
+- parsley
+filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/deduped/Photo-Activated
+  Psoralen Binds the ErbB2 Catalytic Kinase Domain Blocking ErbB2 Signaling and Triggering
+  Tumor Cell Apop.md
+text: "\n\nPhoto-activation of psoralen with UVA irradiation, referred to as PUVA,
+  is used in the treatment of proliferative skin disorders. The anti-proliferative
+  effects of PUVA have been largely attributed to psoralen intercalation of DNA, which
+  upon UV treatment, triggers the formation of interstrand DNA crosslinks  that inhibit
+  transcription and DNA replication. Here, we show that PUVA exerts antitumor effects
+  in models of human breast cancer that overexpress the ErbB2 receptor tyrosine kinase
+  oncogene, through a new mechanism. Independent of ICL formation, the antitumor effects
+  of PUVA in ErbB2+ breast cancer models can instead be mediated through inhibition
+  of ErbB2 activation and signaling. Using a mass spectroscopy-based approach, we
+  show for the first time that photo-activated 8MOP  interacts with the ErbB2 catalytic
+  autokinase domain. Furthermore, PUVA can reverse therapeutic resistance to lapatinib
+  and other ErbB2 targeted therapies, including resistance mediated via expression
+  of a phosphorylated, truncated form of ErbB2  that is preferentially expressed in
+  tumor cell nuclei. Current ErbB2 targeted therapies, small molecule kinase inhibitors
+  or antibodies, do not block the phosphorylated, activated state of p85ErbB2. Here
+  we show that PUVA reduced p85ErbB2 phosphorylation leading to tumor cell apoptosis.
+  Thus, in addition to its effects on DNA and the formation of ICL, PUVA represents
+  a novel ErbB2 targeted therapy for the treatment of ErbB2+ breast cancers, including
+  those that have developed resistance to other ErbB2 targeted therapies.\n\nCitation:
+  Xia W, Gooden D, Liu L, Zhao S, Soderblom EJ, Toone EJ, et al.  Photo-Activated
+  Psoralen Binds the ErbB2 Catalytic Kinase Domain, Blocking ErbB2 Signaling and Triggering
+  Tumor Cell Apoptosis. PLoS ONE 9: e88983. doi:10.1371/journal.pone.0088983\n\nEditor:
+  Jin Q. Cheng, H. Lee Moffitt Cancer Center &amp; Research Institute, United States
+  of America\n\nReceived: September 25, 2013; Accepted: January 13, 2014; Published:
+  \ February 14, 2014\n\nCopyright:   2014 Xia et al. This is an open-access article
+  distributed under the terms of the Creative Commons Attribution License, which permits
+  unrestricted use, distribution, and reproduction in any medium, provided the original
+  author and source are credited.\n\nFunding: This work was supported by the funding
+  from Immunolight LLC. However, the funders had no role in study design, data collection
+  and analysis, decision to publish, or preparation of the manuscript.\n\nCompeting
+  interests:  The authors have the following interests: co-author Harold Walder is
+  employed by Immunolight LLC. Wayne F. Beyer Jr is employed by QNS Group, LLC. This
+  study was funded by Immunolight LLC. There are no patents, products in development
+  or marketed products to declare. This does not alter the authors adherence to all
+  the PLoS ONE policies on sharing data and materials.\n\n8-Methoxypsoralen  is a
+  linear tricyclic molecule that readily enters cell nuclei where it intercalates
+  DNA at pyrimidine-purine sites. Following photo-activation by UV irradiation, a
+  combination referred to as PUVA, 8MOP interacts with pyrimidines to form stable
+  DNA monoadducts. Upon further UVA treatment, a percentage of monoadducts can then
+  be converted to interstrand DNA crosslinks, which in turn inhibit transcription
+  and DNA replication,. Importantly, the anti-proliferative effects of PUVA appear
+  to be related to the formation of ICL, rather than monoadducts. Because of its anti-proliferative
+  effects, PUVA has been used to treat hyperproliferative skin conditions including
+  psoriasis. Furthermore, T lymphocytes- normal and malignant- appear to be particularly
+  sensitive to the anti-proliferative effects of PUVA therapy; hence, the use of PUVA
+  as a treatment for cutaneous T-cell lymphoma and graft-versus-host disease .\n\nIn
+  addition to playing a role in the formation of ICL, there is evidence that psoralen
+  may also target non-nuclear proteins, lipids, and cellular membrane components .
+  For example, Laskin et al used psoralen derivatives incapable of forming DNA adducts
+  in response to UV irradiation to show that PUVA treatment blocked the mitogenic
+  effects of soluble Epidermal Growth Factor  on its cognate cell surface receptor,
+  EGF Receptor,. Interestingly, inhibition of EGFR phosphorylation in response to
+  PUVA was not mediated through a direct psoralen-EGFR interaction, but rather psoralen
+  interacting with a lower molecular weight binding protein.\n\nSimilar to EGFR, the
+  ErbB2 oncogene is a member of the type 1 transmembrane family of receptor tyrosine
+  kinases. Gene amplification and overexpression of ErbB2, which occurs in 25% of
+  all breast cancers, predicts for a poor clinical outcome as a consequence of increased
+  tendency to metastasize to visceral organs earlier in the disease course,. These
+  findings have prompted the development of ErbB2 targeted therapies- biological and
+  small molecule tyrosine kinase inhibitors - for the treatment of early and advanced
+  stage ErbB2+ breast cancers. Although ErbB2 targeted therapies represent a significant
+  advancement in the treatment of aggressive breast cancers, their clinical efficacy
+  has been limited by the inevitable development of therapeutic resistance, particularly
+  in the advanced stage setting .\n\nUsing mass spectroscopy and biochemical approaches,
+  we now show for the first time that photo-activated 8MOP can directly interact with
+  regulatory elements within the ErbB2 catalytic kinase domain, providing a likely
+  explanation for the targeted inhibition of ErbB2 signaling in response to PUVA therapy.
+  Furthermore, a modified psoralen derivative that lacks the ability to crosslink
+  DNA maintained its ability to block ErbB2 signaling and induce tumor cell apoptosis.
+  Importantly, we show that PUVA can trigger significant apoptosis in ErbB2+ breast
+  cancer models of acquired therapeutic resistance to lapatinib and similar ErbB2
+  targeted therapies. These findings and their clinical implications will be further
+  discussed.\n\nErbB2+  and ErbB2 negative  human breast cancer cell lines, and the
+  human foreskin fibroblast  cell line were obtained from the American Type Culture
+  Collection. Lapatinib resistant breast cancer cells  were generated and maintained
+  in culture as previously described . Cells were maintained in RPMI-1640 supplemented
+  with 10% fetal bovine serum and L-glutamine from GIBCO  growing in a humidified
+  atmosphere of 5% CO2 at 37C. IRDye 800 conjugated affinity purified anti-rabbit
+  IgG and anti-mouse IgG were from Rockland. Alexa Fluor 680 goat anti-rabbit IgG
+  were purchased from Molecular Probes. Anti-PARP  Polymerase) monoclonal antibody
+  was from BD PharMingen. 8-Methoxypsoralen  and the 4G10 anti-phosphotyrosine  antibody
+  were purchased from Sigma-Aldrich. Monoclonal antibodies to c-ErbB2 and EGFR were
+  purchased from Neo Markers. PARP cleavage product was obtained from Cell Signaling.
+  Antibodies to Akt1/2, phospho-Akt1/2, phospho-Akt1/2, phospho-Erk1/2 and Erk1/2
+  were purchased from Santa Cruz. Lapatinib  and neratinib   were purchased from LC
+  Laboratories.\n\nUV irradiation was carried out in 6 or 96 well plate format in
+  a UV Stratalinker 1800  at the UV doses indicated in the figures. Cell growth and
+  viability assays were performed in a 96-well plate format in a final volume of 100
+  l/well using the cell proliferation reagent WST-1 from Roche Diagnostics, as previously
+  described . Details of the apoptosis assay have been previously described . Briefly,
+  cells were treated in 12-well plates with 8MOP, UV irradiation, or lapatinib at
+  the treatment conditions indicated in the Figure legends. Cells were harvested with
+  trypsin-EDTA, and 5000 cells in final volume of 50 l were sampled in 96-well microplates.
+  Cells were directly stained with annexin V-PE and nexin 7-AAD in 1 Nexin Buffer
+  in a 200 l final reaction volume. After incubating at room temperature for 20 min,
+  the reaction samples were analyzed in the Guava PCA-96-system.\n\nWhole cell extracts
+  were prepared by scraping cells off petri dishes, washing cell pellets 2x in phosphate
+  buffered saline, and then re-suspending pellets in two-packed-cell volumes of RIPA
+  buffer  deoxycholate, 1% NP-40, 5 mM sodium orthovanadate, 2 mM sodium fluoride,
+  and a protease inhibitor cocktail). Protein concentrations were determined using
+  a modification of the Bradford method. For Western blot analysis, equal amounts
+  of proteins  were resolved by either 7.5% or 415% gradient SDS polyacrylamide gel
+  electrophoresis under reducing conditions as previously described . Proteins were
+  transferred to nitrocellulose membranes and probed with primary antibodies specific
+  for proteins of interest. After extensive washing, membranes were incubated with
+  a secondary IRDye 800 conjugated anti-rabbit or mouse IgG, or Alexa Fluor 680 anti-rabbit
+  IgG and proteins were visualized using the LI-COR Odyssey Infrared Imaging System.\n\nBT474
+  cells were pre-treated with 5 M biotin-linked 8-MOP for 24 hr before being irradiated
+  with 1J UVA. After UVA irradiation, cells were harvested and whole cell lysates
+  were prepared in RIPA buffer. After centrifugation, a 30 l suspension of M-280 Streptavidin
+  Dynabeads  was added to each 130 l crude lysate sample. The resulting mixtures were
+  placed on an orbital vortex mixer for 2030 min. The samples were then magnetized
+  and the supernatants removed and discarded. A solution of 0.01%  Tween 20 in PBS
+  \ was added to each sample and the resulting mixtures were placed on orbital vortex
+  mixer for 2030 min. The samples were then magnetized and the supernatants were removed
+  and discarded. Next a solution of 0.1%  SDS in PBS  was added to each sample and
+  the resulting mixtures were heated to 50C for 15 min. The samples were magnetized
+  and supernatants removed and discarded, after which 150 l of 50 mM ammonium bicarbonate
+  was added to each sample, and the mixtures placed on orbital vortex mixer for 2030
+  min. The samples were again magnetized and the supernatants removed and discarded.
+  The samples were suspended in 130 l ammonium bicarbonate  prior to mass spectroscopy
+  analysis. Following a pull-down of biotinylated-drug on immobilized streptavidin
+  magnetic beads, samples were washed three times with 200 l 50 mM ammonium bicarbonate,
+  pH 8. Sample volume was brought to 100 l 50 mM ammonium bicarbonate, and supplemented
+  with Rapigest surfactant  to a final concentration of 0.1%. Following disulfide
+  reduction with 5 mM dithiolthreitol at 40C for 20 min, free sulfhydryls were alkylated
+  with 10 mM iodoacetamide at room temperature for 45 min. Approximately, 500 ng of
+  sequencing grade modified trypsin  was added to each sample and on-resin digestion
+  was allowed to occur for 18 hr at 37C with orbital shaking. Supernatants were then
+  collected from each sample after centrifugation at 1000 g for 2 min and Rapigest
+  surfactant was hydrolyzed by acidification to 0.5% trifluoracetic acid  for 2 hr
+  at 60C. Following desalted by C18 Zip-Tip  SPE, samples were brought to dryness
+  by vacuum centrifugation and finally resuspended in 10 l 2% acetonitrile, 0.1% formic
+  acid. Peptide mixtures were subjected to chromatographic separation on a Waters
+  NanoAcquity UPLC  equipped with a 1.7 m BEH130 C18 75 m I.D. 250 mm reversed-phase
+  column. The mobile phase consisted of  0.1% formic acid in water and  0.1% formic
+  acid in acetonitrile. Following a 5 l injection, peptides were trapped for 5 min
+  on a 5 m Symmetry C18 180 m I.D. 20 mm column at 20 l/min in 99.9%. The analytical
+  column was then switched in-line and a linear elution gradient of 5% B to 40% B
+  was performed over 90 min at 300 nL/min. The analytical column was connected to
+  a fused silica PicoTip emitter  with a 10 m tip orifice and coupled to a Waters
+  QToF Premier mass spectrometer through an electrospray interface. The instrument
+  was operated in a data-dependent mode of acquisition with the top three most abundant
+  ions selected for MS/MS using a charge state dependent CID energy setting with a
+  60 s dynamic exclusion list employed. Mass spectra were processed with Mascot Distiller
+  \ and were then submitted to Mascot searches  against a SwissProthuman database
+  appended with reverse entries at 20 ppm precursor and 0.04 Da product ion mass tolerances
+  with trypsin protease rules selected. Dynamic mass modifications corresponding to
+  oxidation on Met residues were allowed. Searched spectra were imported into Scaffold
+  v2.5  and scoring thresholds were set to yield a protein false discovery rate of
+  0.2%  based on decoy database searches.\n\nThe c-terminal fragment  was generated
+  based on ErbB2 open reading frames and sub-cloned into the pcDNA 3.1  as previously
+  described. HER2 negative T47D breast cancer cells were transfected with the p85
+  expressing vector using the Lipofectamine 2000 Reagent from Invitrogen  as previously
+  described. Stably transfected cells were selected using G418  and the expression
+  level of p85ErbB2 was confirmed by western blot analysis as previously described.\n\nData
+  were expressed as means with standard error bars included. Students t-test was used
+  to determine statistical significance between 2 groups. A value of p;0.05 was considered
+  a statistically significant difference.\n\nThe growth and viability of ErbB2+ breast
+  cancer cell lines was significantly inhibited by PUVA therapy in a dose-dependent
+  manner. The loss of tumor cell viability appeared to be related to induction of
+  apoptosis. In contrast, PUVA therapy using identical treatment conditions  had relatively
+  less effect on the growth and viability of MCF7 cells, a ErbB2 non-overexpressing
+  human breast cancer cell line and a non-malignant human foreskin fibroblast cell
+  line. It was therefore tempting to speculate that photo-activated 8MOP might directly
+  modulate ErbB2 activation and signaling. Seeking to demonstrate the effects of PUVA
+  on ErbB2 signaling, we showed that steady-state protein levels of the activated,
+  phosphorylated form of ErbB2 were reduced in PUVA-treated ErbB2+ breast cancer cell
+  lines in a dose-dependent manner. In addition, total ErbB2 protein levels were reduced
+  in response to higher doses of PUVA therapy. In addition, the activated, phosphorylated
+  forms of Akt and Erk1/2, which are key downstream mediators of the PI3K and MAPK
+  signaling pathways, respectively were also inhibited by PUVA. In contrast, treatment
+  with the same dose of UV irradiation or 8MOP alone had relatively little effect
+  on cell viability or ErbB2 signaling.\n\nCells were pre-treated with the indicated
+  concentrations of 8MOP for 4 hr before UVA irradiation, and then cultured for an
+  additional 72 hr before being analyzed for cell growth  BT474;  SKBR3;  MCF7,  HFF
+  and apoptosis  BT474;  SKBR3. Cells treated with vehicle  alone served as controls.
+  Results represent the mean +/ standard error of triplicate samples, and are representative
+  of three independent experiments.\n\nBT474, SKBR3 and MCF7 cells were subjected
+  to the indicated treatment conditions as described in Figure 1. Western blot analysis
+  was performed on whole cell lysates. Actin steady-state protein levels served as
+  a control to ensure for equal loading of protein. Results are representative of
+  three independent experiments.\n\nWe synthesized a derivative of psoralen, 7-methylpyridopsoralen,
+  which lacks the DNA binding motif, making it unable to generate ICLs. We next sought
+  to determine the effects of this compound on ErbB2 signaling and tumor cell viability
+  following UVA irradiation. Upon photo-activation, 7-methylpyridopsoralen significantly
+  inhibited the growth and viability of ErbB2+ breast cancer cells, which correlated
+  with inhibition of phosphorylated and total ErbB2 protein expression. These findings
+  suggested that interruption of ErbB2 signaling in PUVA-treated tumor cells can be
+  mediated by a mechanism independent of ICL formation. We next sought to determine
+  whether 8MOP can directly interact with the catalytic kinase domain of ErbB2. In
+  this regard, BT474 cells were treated with biotinylated-8MOP and a pull-down experiment
+  was performed. Biotinylated-8MOP-protein complexes were isolated from BT474 cell
+  lysate on immobilized streptavidin magnetic beads and subjected to protein digestion
+  using sequencing grade modified trypsin. Peptides were then isolated by LC-MS/MS.
+  We identified three 8MOP bound peptides that corresponded to two sites located within
+  the catalytic kinase domain, and one site in the peptide crossover kinase domain.
+  As a second independent approach to demonstrate the interaction between 8MOP and
+  ErbB2, BT474 cells were treated with fluorophore-labeled 8MOP  and UVA irradiation.
+  Cell lysates were separated under non-denaturing conditions using native gel electrophoresis.
+  Proteins were transferred to a PVDF membrane, and the fluorophore-labeled 8MOP detected
+  by an Odyssey scanner. The membrane was then blotted with a primary fluoro-labeled
+  ErbB2 antibody. The fluoro-conjugated 8MOP was detected at the same molecular weight
+  as large ErbB2 complexes, findings that were consistent with the LC-MS/MS data indicating
+  that 8MOP can directly interact with the ErbB2 receptor.\n\nFigure 3.  Inhibition
+  of ErbB2 signaling in response to PUVA is independent of DNA crosslinking.\n\nThe
+  chemical structures of  8MOP, and  7-methylpyridopsoralen, which is a derivative
+  of 8MOP that lacks the ability to crosslink DNA, are shown.  BT474 and SKBR3 cells
+  were exposed to the indicated treatments. Cell growth and viability assays were
+  performed after 72 hr. P&lt;0.0003 ; P&lt;0.0009. Cells treated with vehicle alone
+  served as controls. Results represent the mean +/ standard error of triplicate samples,
+  and are representative of three independent experiments. Corresponding Western blot
+  analysis of the indicated protein/phosphoproteins is shown. Steady-state actin protein
+  levels served as controls for equal loading of proteins. Results are representative
+  of three independent experiments.\n\n 8MOP interacts with three peptide regions
+  within the ErbB2 catalytic kinase domain. Qualitative peptide identifications within
+  the ErbB2 catalytic kinase domain following LC-MS/MS analysis of a streptavidin
+  pull-down of biotinylated-8MOP bait. The transmembrane domain is indicated  and
+  the five C-terminus tyrosine autophosphorylation sites are indicated.  Non-reducing
+  Western blot analysis of the interaction of 8MOP with ErbB2. BT474 cells were treated
+  with 800dye-8MOP  or with vehicle  alone served as control for 48 hr and then exposed
+  to UV irradiation  prior to Western blot analysis. The image on the left shows the
+  Western blot for ErbB2. The image on the right shows the same membrane directly
+  scanned for the presence of 800dye-8MOP, which overlays the ErbB2 signal. The results
+  are representative of three independent experiments.\n\nTargeted therapies tend
+  to be more clinically efficacious in combination with other targeted or cytotoxic
+  drugs. We therefore evaluated a variety of targeted agents in combination with PUVA
+  including PI3K inhibitors, HDAC inhibitors, PARP inhibitors, and other ErbB TKIs.
+  The most promising combination was with neratinib, a small molecule, irreversible
+  pan-ErbB  tyrosine kinase inhibitor that is currently in late phase clinical trials.
+  Treatment of ErbB2+ breast cancer cells with the combination of 8-MOP, UVA irradiation,
+  and neratinib, each at sub-lethal doses when used alone, resulted in significantly
+  enhanced inhibition of cell viability. The effects of this combination on ErbB2,
+  ErbB3 and downstream signaling pathways were further analyzed. Consistent with our
+  recent findings, we found that neratinib treatment alone resulted in a marked reduction
+  in total ErbB2 and ErbB3 protein levels, with consequential loss of p-Akt  expression.
+  Interestingly, neratinib in combination with UVA irradiation alone led to further
+  loss of total ErbB2 and ErbB3 protein expression, which was more pronounced in SKBR3
+  cells.\n\nFigure 5.  The combination of PUVA with the irreversible pan-ErbB TKI
+  neratinib results in enhanced antitumor activity.\n\nThe growth and viability of
+  BT474 and SKBR3 cells  after being subjected to the indicated treatment conditions.
+  The combination of PUVA plus neratinib: P&lt;0.0005. Results represent the mean
+  +/ standard error of triplicate samples, and are representative of three independent
+  experiments.  Western blot analysis showing steady-state ErbB2, ErbB3, and phospho-Akt
+  \ protein levels in BT474 and SKBR3 cells treated according to the indicated treatment
+  conditions. Vehicle alone  served as a control. Steady-state actin protein levels
+  served as a control for equal loading of protein. The results are representative
+  of three independent experiments.\n\nWe recently showed that development of acquired
+  therapeutic resistance to the reversible HER2 and EGFR tyrosine kinase inhibitor
+  lapatinib in HER2+ breast cancer cells can be mediated by a number of mechanisms
+  including:  a switch in the regulation of cell survival from HER2-HER3-PI3K signaling
+  in treatment nave cells to EGFR-HER3-PI3K in resistant cells ; and  expression of
+  a truncated ErbB2 form preferentially expressed in tumor cell nuclei. We next sought
+  to determine whether PUVA treatment could reverse lapatinib resistance. Using models
+  of lapatinib resistance established in our laboratory -, we treated rBT474 and rSKBR3
+  cells with PUVA at the indicated concentrations of 8MOP. Resistant cells were continuously
+  maintained in the presence of 1 M lapatinib. As shown, PUVA treatment significantly
+  reduced tumor cell growth and viability in a dose-dependent manner. In contrast
+  to isotype-matched parental cells, total EGFR and ErbB3 protein expression was markedly
+  reduced in PUVA-treated rBT474 and rSKBR3, in addition to reduction in the expression
+  of phosphorylated forms of EGFR, ErbB3, and Akt. The effects of PUVA on Akt T308
+  are particularly interesting in light of our recent finding that Akt T308, but not
+  S473, remained persistently phosphorylated in lapatinib resistant cells. Importantly,
+  PARP cleavage product was increased in PUVA-treated lapatinib resistant tumor cells
+  consistent with induction of apoptosis.\n\n Equal numbers of rBT474 and rSKBR3 cells
+  were subjected to the indicated treatment conditions, and the effects on cell growth
+  and viability are shown. P values of statistical significance are indicated. Results
+  represent the mean +/ standard error of triplicate samples, and are representative
+  of three independent experiments.  The corresponding Western blot analysis for each
+  of the indicated treatment conditions is shown. As indicated, rBT474 and rSKBR3
+  cells are continuously maintained in 1 M lapatinib. Actin steady-state protein levels
+  served as a control to ensure for equal loading of protein. Results are representative
+  of three independent experiments.\n\nWe have also shown that expression of an 85
+  kDa truncated form of ErbB2  that lacks the extracellular and transmembrane domains,
+  is preferentially expressed in the nuclei of tumors that have become resistant to
+  lapatinib. Moreover, expression of p85ErbB2 under the control of a heterologous
+  promoter can render cells resistant to lapatinib and other ErbB2 targeted drugs
+  in otherwise sensitive ErbB2+ breast cancer cells. Although p85ErbB2 is tyrosine
+  phosphorylation, an indication of its activated state, it is not inhibited by lapatinib.
+  To study the effects of PUVA on p85ErbB2, we established a T47D transfected breast
+  cancer cell that stably expresses phosphorylated p85ErbB2 in tumor cell nuclei as
+  previously described. T47D cells, although not HER2 overexpressing, still express
+  full-length HER2. PUVA therapy has an antitumor effect in T47D cells transfected
+  with empty vector alone that is associated full-length ErbB2. However, in p85 expressing
+  T47D cells, treatment with PUVA, but not lapatinib, markedly inhibited p85ErbB2
+  phosphorylation, triggering tumor cell apoptosis.\n\nTop bar graph shows the results
+  of the growth assays performed in T47D and stably transfected T47D cell line. T47D
+  cells expressing p85ErbB2 were pretreated with 5 M lapatinib or 5 M 8MOP for 4 hr
+  followed by irradiation in a UV Stratalinker 1800. Cells transfected with empty
+  vector, and those treated with vehicle alone  served as controls. The effects of
+  the treatments on cell growth and viability are shown in the bar graph. P&lt;0.0071.
+  Results represent the mean +/ standard error of triplicate samples, and are representative
+  of three independent experiments. Steady-state phospho-p85ErbB2 protein levels  and
+  phospho-p185ErbB2  are shown by Western blot. Actin steady-state protein levels
+  served as a control to ensure for equal loading of protein. Results are representative
+  of three independent experiments.\n\nThe molecular basis for the anti-proliferative
+  effects of photo-activated psoralen in the treatment of benign and neoplastic skin
+  diseases has historically been attributed to the formation of interstrand DNA crosslinks
+  that lead to inhibition of transcription and DNA replication. T cells, which mediate
+  many of the dermatological indications for PUVA e.g. graft-versus-host disease;
+  cutaneous T cell lymphoma seem to be particularly sensitive to the anti-proliferative
+  effects of PUVA and have therefore served as a frequently used model to study the
+  biological effects of PUVA therapy -. In contrast, there has been relatively little
+  scientific evidence to support the use of PUVA therapy in the treatment of solid
+  tumors. Here, we show for the first time that PUVA therapy can directly target the
+  catalytic kinase domain of the ErbB2 receptor tyrosine kinase oncogene. The interaction
+  of photo-activated 8MOP with regulatory elements within the ErbB2 catalytic kinase
+  domain may explain the marked inhibition of ErbB2 signaling in PUVA-treated ErbB2+
+  breast cancer cells, including those that have developed resistant to current FDA-approved
+  ErbB2 targeted therapies.\n\nThe interaction between 8MOP and ErbB2 was demonstrated
+  using two independent strategies:  LC/MS/MS; and  Western blot analysis. These findings
+  were further supported by the observation that a DNA non-crosslinking psoralen derivative
+  maintained its ability to block ErbB2 signaling and induce tumor cell apoptosis.
+  The ErbB2+ breast cancer cell lines used in these studies express EGFR, which has
+  also been shown to be a target of PUVA therapy. However, survival of parental BT474
+  and SKBR3 cells is not dependent upon EGFR, but instead, dependent upon signaling
+  via ErbB2-ErbB3 heterodimers. Our data suggests that the antitumor effects of PUVA
+  therapy in parental ErbB2+ breast cancer cells were mediated through direct effects
+  on ErbB2. Moreover, non-malignant HFF cells that express wild-type EGFR were less
+  sensitive to the apoptotic effects of PUVA, consistent with the notion that EGFR
+  is not responsible for induction of apoptosis in PUVA-treated ErbB2+ breast cancer
+  cells.\n\nOf particular interest is the antitumor activity of PUVA therapy in ErbB2+
+  breast cancer models of acquired therapeutic resistance to lapatinib and other ErbB2
+  targeted therapies. It is worth noting that acquired therapeutic resistance to lapatinib
+  does not appear to be mediated by reactivation of ErbB2 signaling. In fact, ErbB2
+  phosphorylation remains inhibited in resistant cells,. Importantly, targeted molecular
+  knockdown of ErbB2 does not reverse lapatinib resistance, indicating that survival
+  of resistant cells is no longer dependent upon ErbB2 alone, at least not the 185
+  kDa full-length form of ErbB2  expressed at the cell surface. Instead, the viability
+  of lapatinib resistant ErbB2+ breast cancer cells is dependent upon other factors.
+  For example, we have shown that resistant cells express a truncated form of ErbB2,
+  referred to as p85ErbB2, which can be generated by alternate initiation of translation
+  \ and/or proteolytic processing of p185ErbB2. Moreover, p85ErbB2 is preferentially
+  expressed in tumor cell nuclei. This nuclear, truncated form of ErbB2 lacks the
+  extracellular  and transmembrane domains, while retaining the full cytoplasmic domain,
+  including the catalytic kinase domain and tyrosine autophosphorylation sites. Expression
+  of p85ErbB2 driven by a heterologous promoter renders ErbB2+ breast cancer cells
+  that are normally sensitive to the antitumor effects of lapatinib, resistant to
+  lapatinib and other ErbB2 targeted therapies. Although the exact mechanism of p85ErbB2
+  action is unknown, it, in contrast to p185ErbB2 and p110ErbB2\\- a membrane-bound
+  form of ErbB2 that lacks the ECD- does not appear to activate cytoplasmic protein
+  kinase signaling cascades. We have shown that tyrosine phosphorylation of p85ErbB2
+  is not inhibited by lapatinib or similar TKIs in class. We now show that PUVA therapy
+  blocks p85ErbB2 phosphorylation, triggering apoptosis. One potential explanation
+  is that lapatinib cannot access the ATP binding groove of p85ErbB2. In contrast,
+  the ability of 8MOP to access nuclear targets e.g. DNA, is well-established. It
+  is therefore tempting to speculate that 8MOP more readily accesses, and blocks the
+  catalytic kinase domain of p85ErbB2.\n\nWe recently showed that development of lapatinib
+  resistance can be mediated through a switch in the regulation of cell survival from
+  ErbB2-ErbB3-PI3K signaling in treatment nave ErbB2+ breast cancer cells to ErbB3-EGFR-PI3K-PDK1-Akt
+  \ signaling axis in the resistant setting, the latter driven in part through autocrine
+  production of the ErbB3 ligand heregulin 1. Although the exact mechanism underlying
+  the antitumor effects of PUVA is unknown, persistent phosphorylation of Akt T308,
+  which was seen in models of lapatinib resistance, was inhibited by PUVA. In addition,
+  total EGFR and ErbB3 were reduced in PUVA-treated resistant cells. These findings
+  are interesting in light of a recent study showing that several ErbB TKIs can induce
+  proteolysis of targeted receptor in a manner similar to hsp90 antagonists. Induction
+  of receptor proteolysis by TKIs, including lapatinib, was shown to be mediated through
+  ATP competitive binding with cdc37, the latter stimulating binding between the client
+  protein e.g. ErbB2 and hsp90. It is therefore tempting to speculate that PUVA therapy
+  may also trigger degradation of EGFR, ErbB2, and ErbB3 by blocking access of the
+  cdc37/hsp90 complex to client proteins ErbB receptors.\n\nWe propose that 8-MOP
+  interacts with the ErbB2 catalytic kinase domain at amino acid residues distinct
+  from lapatinib. Although structural analysis of a lapatinib-EGFR complex has been
+  reported, there has been no structural analysis of a lapatinib-ErbB2 complex. Most
+  of the amino acid residues associated with the regulation of the ErbB2 catalytic
+  kinase activity are located in the vicinity of the ATP binding groove within the
+  deep cleft located between the N- and C-terminal lobes of the ErbB2 receptor. We
+  found that 8MOP interacts with peptides located within the DFG motif and activation
+  loop of the C-lobe, both of which are involved in regulating ErbB2 autokinase activity.
+  The structural analysis of lapatinib-EGFR crystals suggests that lapatinib likely
+  interacts with amino acid residues within the ATP binding groove distinct from those
+  of photo-activated 8MOP. It is possible therefore that photo-activated 8-MOP binds
+  to the catalytic kinase domain, blocking its activity and triggering proteolysis
+  of the receptor in a manner similar to irreversible ErbB TKIs e.g. neratinib.\n\nTargeted
+  therapies are increasingly being used in combination with other targeted and cytotoxic
+  drugs. We were interested to find out whether other targeted therapies might enhance
+  the antitumor activity of PUVA therapy. In this regard, a recent study found that
+  the combination of a histone deacetylase  inhibitor and PUVA led to enhanced antitumor
+  activity compared with either treatment alone. When we examined the effects of adding
+  targeted therapies, including HDAC and PI3K inhibitors, to PUVA therapy, we found
+  that neratinib, at sub-lethal doses alone, significantly increased apoptosis in
+  ErbB2+ breast cancer cells when combined with PUVA. It is known that neratinib has
+  promiscuous inhibitory activity against non-ErbB kinases, including MAP kinase family
+  members. It is possible that the enhanced antitumor effect observed with the addition
+  of neratinib to PUVA might be directly or indirectly related to inhibition of a
+  kinase involved in DNA repair of ICL, thereby sensitizing tumor cells to the DNA
+  damaging effects of PUVA.\n\nThe data presented here suggests that the antitumor
+  effects of PUVA can be mediated through DNA-independent mechanisms. It is possible
+  that inhibition of the ErbB2 signaling axis may sensitize tumor cells to the DNA
+  damaging effects of PUVA therapy by inhibiting P3K-Akt regulated DNA damage repair
+  enzymes. In this context, ErbB2 targeted therapies have previously been shown to
+  sensitize tumor cells to radiation therapy. Therefore, therapeutic interventions,
+  including PUVA alone or in combination with ErbB targeted therapies such as neratinib
+  that can simultaneously damage DNA and also block ErbB-regulated survival pathways
+  including those that repair damaged DNA, represent an attractive therapeutic strategy
+  in treatment nave ErbB2+ tumors and those that have developed resistance to ErbB2
+  targeted therapies through activation of alternate pathways e.g. ErbB3-EGFR-PDK1-Akt
+  \ signaling axis, and express nuclear truncated ErbB2 receptors that elude the inhibition
+  by existing ErbB2 targeted therapies.\n\nConceived and designed the experiments:
+  WX NS. Performed the experiments: LL DG SZ ES. Analyzed the data: WX NS WB HW ES.
+  Contributed reagents/materials/analysis tools: ET DG ES. Wrote the paper: NS WX.\n"
+...

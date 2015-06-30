@@ -1,0 +1,55 @@
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: 'Grapes contain polyphenols  that can act as antioxidants, antiangiogenics,
+    and selective estrogen receptor modifiers.', sentence: grape contain polyphenol
+    act antioxid antiangiogen select estrogen receptor modifi, tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: Each of these polyphenols have been found to have chemopreventative
+    properties., sentence: each polyphenol found chemoprev properti, tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: 'Grapes also contain lupeol, pterostilbene, and fisetin, which
+    also have been shown to have anti-cancer properties.', sentence: grape also contain
+    lupeol pterostilben fisetin also shown anti cancer properti, tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: Green or white grapes have less powerful anticancer properties
+    than red grapes since they contain fewer polyphenols., sentence: green white grape
+    less power anticanc properti red grape sinc contain fewer polyphenol, tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: Note that grape seed oil and grape seed extract are covered in
+    another web page., sentence: note grape seed oil grape seed extract cover anoth
+    web page, tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: 'Red grapes and grape seeds are a good source of resveratrol,
+    which has the ability to suppress proliferation of breast cancer cells and promote
+    cell death.', sentence: red grape grape seed good sourc resveratrol abil suppress
+    prolifer breast cancer cell promot cell death, tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: 'Resveratrol also can inhibit aromatase, which is important for
+    reducing growth-stimulatory effects in estrogen-dependent breast cancer.', sentence: resveratrol
+    also inhibit aromatas import reduc growth stimulatori effect estrogen depend breast
+    cancer, tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: Other grape polyphenols such as quercetin and catechin have also
+    been shown to have chemopreventive effects and appear to act synergistically with
+    resveratrol in inhibiting breast cancer growth., sentence: other grape polyphenol
+    quercetin catechin also shown chemoprevent effect appear act synergist resveratrol
+    inhibit breast cancer growth, tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: Several population studies have reported that grape consumption
+    is associated with reduced risk of breast cancer., sentence: sever popul studi
+    report grape consumpt associ reduc risk breast cancer, tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: Resveratrol has also been shown to increase the effects of radiation
+    treatment and the chemotherapy drug Taxol  against breast cancer., sentence: resveratrol
+    also shown increas effect radiat treatment chemotherapi drug taxol breast cancer,
+  tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: Non-organic  grapes must be washed very thoroughly to remove pesticide
+    residue., sentence: non organ grape must wash thorough remov pesticid residu,
+  tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: Below are links to recent studies concerning this food., sentence: below
+    link recent studi concern food, tags: grapes}
+- {filePath: /Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/sources/raw/grapes.yaml,
+  originalSentence: 'For a more complete list, including less recent studies, please
+    click on grapes.', sentence: for complet list includ less recent studi pleas click
+    grape, tags: grapes}

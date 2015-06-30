@@ -1,0 +1,5 @@
+# Phenolic compounds and antioxidant capacity of virgin olive oil
+
+## Abstract
+
+The characterisation of virgin olive oil from Arbequina, Carrasqueña, Corniche, Manzanilla Cacereña, Morisca, Picual, and Verdial de Badajoz varieties according to the individual phenolic compounds at different ripening stage was carried out. In all olive oil varieties studied, secoiridoid derivatives were most abundant, followed by phenolic alcohols, flavonoids and phenolic acids. The secoiridoid derivatives of hydroxytyrosol were the most important complex phenols for Picual and Carrasqueña, whereas the tyrosol derivatives were the major ones found in Manzanilla Cacereña, and Verdial de Badajoz. For secoiridoid derivatives of hydroxytyrosol and tyrosol, Arbequina was the oil variety showing the lowest concentration. Tyrosol, hydroxytyrosol, vanillic acid, _p_-cumaric acid, luteolin, and apigenin levels were greater in early harvested samples in almost all oils analysed. Antioxidant activity measurements (antiradical, lipid peroxide inhibition, H2O2 and NO scavenging) were also accomplished for the seven varieties in the first ripening stage.
