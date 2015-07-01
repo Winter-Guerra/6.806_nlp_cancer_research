@@ -65,8 +65,20 @@ def view(query, idx):
 
 	webpageContent = getWebpageFromResults(response, idx)
 
+@task
+def test():
+	url = 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4127621/'
+	webpageContent = requests.get(url).text
+	# Now, find the abstract in the content
+	from prep import getDocumentFeatures, getParagraphsWithTag
+	document = getDocumentFeatures(webpageContent)
+
+	print(getParagraphsWithTag(document, 'abstract'))
+
+
+
 
 	# Show the text.
-	print(webpageContent)
+	# print(webpageContent)
 
-	return webpageContent
+	# return webpageContent

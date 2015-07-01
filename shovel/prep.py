@@ -15,6 +15,16 @@ def removePunctuation(s):
 	s = re.sub(r'[^\w\s]','',s)
 	return s
 
+# @TODO ####################################
+def getPMCID(html):
+	PMCID = ''
+	return PMCID
+
+# @TODO ####################################
+def getFullPubmedArticle(html):
+	fullArticle = ''
+	return fullArticle
+
 
 def getDocumentFeatures(html):
 	# Run the text through bs4 to prettify it
@@ -37,12 +47,16 @@ def getDocumentFeatures(html):
 			tree = []
 
 			for parent in reversed(list(paragraph.parents)):
+
 				# Check if there is a sibling here that is a heading
-				for sibling in parent.find_previous_siblings(re.compile("^h[^1]")):
+				# print(parent.previous_siblings)
+				for sibling in parent.find_previous_siblings(re.compile("^h[2-9]")):
+					# print(sibling)
 					if sibling.string is not None:
 						tree.append(removePunctuation(sibling.string.strip().lower()))
+						break
 
-			for sibling in paragraph.find_previous_siblings(re.compile("^h")):
+			for sibling in paragraph.find_previous_siblings(re.compile("^h[2-9]")):
 				if sibling.string is not None:
 					tree.append(removePunctuation(sibling.string.strip().lower()))
 					break
