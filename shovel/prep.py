@@ -25,6 +25,55 @@ def getFullPubmedArticle(html):
 	fullArticle = ''
 	return fullArticle
 
+class documentHeirarchy():
+	def __init__(self, firstHeaderTag):
+		# Figure out what tag level is this first tag. This should be our "base level"
+		self.baseTagLevel = self.getTagLevel(firstHeaderTag)
+
+		self.tree = [self.getTagText(firstHeaderTag)]
+
+	def getState(self):
+		return self.tree
+
+	def getTreeDepth(self):
+		if len(self.tree) is 0:
+			return None # This should never happen
+		else:
+			return (len(self.tree)+self.baseTagLevel-1)
+
+	def getTagLevel(self, headerTag):
+		match = re.search("h(\d)", headerTag.name)
+		tagLevel = int(match.group(1))
+		return tagLevel
+
+	def getTagText(self, headerTag):
+		text = headerTag.string
+		if text is None:
+			return None
+		else:
+			return removePunctuation( text.strip() )
+
+	def updateState(headerTag):
+		# Figure out what tag level we are at
+		tagLevel = self.getTagLevel(headerTag)
+		tagText = self.getTagText(headerTag)
+
+		# If this tag is same depth as our current tag
+		if self.getTreeDepth() == tagLevel:
+			self.tree[-1] = tagText
+		elif self.getTreeDepth() < tagLevel:
+			self.tree.append(tagText)
+		# Tag is smaller than current depth
+		else:
+			delta = self.getTreeDepth() - tagLevel
+			lastIndexOfTree = len(self.tree)-delta
+			# Slice out old parts of tree
+			self.tree = self.tree[:lastIndexOfTree]
+
+			# Replace the current endpoint of the tree with the last tag
+			self.tree[-1] = tagText
+
+
 
 def getDocumentFeatures(html):
 	# Run the text through bs4 to prettify it
@@ -35,44 +84,13 @@ def getDocumentFeatures(html):
 		{'paragraph': soup.title.string.strip(), 'treeLocation': ['title']}
 	]
 
-	# print("Title:", document['title'])
 
-	# Let's find all paragraphs
-	text = soup.find_all('p')
-	for paragraph in text:
 
-		if paragraph.string is not None:
+	# Find the interleaved combinations of headers and text
+	paragraphsAndHeaders = soup.find_all(['p', 'h2', 'h3', 'h4', 'h5', 'h6', 'h7', 'h8', 'h9'])
 
-			# Find a comma separated list of headings that shows the paragraph's place in the tree.
-			tree = []
+	print(paragraphsAndHeaders)
 
-			for parent in reversed(list(paragraph.parents)):
-
-				# Check if there is a sibling here that is a heading
-				# print(parent.previous_siblings)
-				for sibling in parent.find_previous_siblings(re.compile("^h[2-9]")):
-					# print(sibling)
-					if sibling.string is not None:
-						tree.append(removePunctuation(sibling.string.strip().lower()))
-						break
-
-			for sibling in paragraph.find_previous_siblings(re.compile("^h[2-9]")):
-				if sibling.string is not None:
-					tree.append(removePunctuation(sibling.string.strip().lower()))
-					break
-
-			# Check that the paragraph has a title
-			if len(tree) is not 0:
-
-				# Save the paragraph in the paragraph list
-				paragraphEntry = {
-					'paragraph': paragraph.string.strip(),
-					'treeLocation': tree
-				}
-				document.append(paragraphEntry)
-				# Print debug info
-				# print(document['paragraphs'][-1])
-				# print('')
 
 	return document
 
