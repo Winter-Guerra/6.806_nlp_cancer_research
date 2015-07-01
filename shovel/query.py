@@ -2,15 +2,21 @@
 import yaml
 from shovel import task
 import requests
-from bs4 import BeautifulSoup
-import re
+# from bs4 import BeautifulSoup
+# import re
 
 from pws import Google
 from urllib.parse import urlparse
 
+def getWebpageFromResults(response, idx):
+	url = response['results'][int(idx)]['link'].split('&')[0]
+	webpageContent = "<!-- URL:" + url + '-->' + requests.get(url).text
+	return webpageContent
+
+
 @task
-def run(query, numberResults):
-	
+def run(query, numberResults, showAbstract=False):
+
 	response = Google.search(query, numberResults)
 
 	for idx, result in enumerate(response['results']):
@@ -19,44 +25,27 @@ def run(query, numberResults):
 		print('Website:', urlparse(result['link']).hostname)
 		print('Reference:', idx)
 		print("Related Queries:", result.get('related_queries',''))
+
+		if showAbstract:
+			webpageContent = getWebpageFromResults(response, idx)
+			# Now, find the abstract in the content
+			from prep import getDocumentFeatures, getParagraphsWithTag
+			document = getDocumentFeatures(webpageContent)
+			# print(document)
+			# print(webpageContent)
+			print(getParagraphsWithTag(document, 'abstract'))
 		print('---------------------------')
 
 @task
-def get(query, resultNumber):
+def view(query, idx):
+	''' This function can be used to grab HTML webpages using the search function. '''
 
-	response = Google.search(query, int(resultNumber)+1)
+	response = Google.search(query, int(idx)+1)
 
-	url = response['results'][int(resultNumber)]['link'].split('&')[0]
-
-	print("<!--", url, '-->')
-
-	# Download the page
-	r = requests.get(url)
-
-	# Run the text through bs4 to prettify it
-	soup = BeautifulSoup(r.text, 'html5lib')
-
-	print("Title:", soup.title.string)
-
-	text = soup.find_all('p')
-	for paragraph in text:
-		if paragraph.string is not None:
-
-			# Find the title of the paragraph
-			paragraphTitle = ''
-			for sibling in paragraph.find_previous_siblings(re.compile("^h")):
-				# print(sibling)
-				paragraphTitle = sibling.string
+	webpageContent = getWebpageFromResults(response, idx)
 
 
-			if paragraphTitle is not '':
-				print("Paragraph Title:", paragraphTitle)
-				print(paragraph.string)
-				print('')
-	# print(soup.find_all('p'))
+	# Show the text.
+	print(webpageContent)
 
-
-	# Print the text of the page onscreen
-	# print(r.text)
-
-
+	return webpageContent
