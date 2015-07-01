@@ -21,11 +21,11 @@ def getDocumentFeatures(html):
 	soup = BeautifulSoup(html, 'html5lib')
 
 	# Start extracting data and compiling it into a document
-	document = {
-		'title':soup.title.string
-	}
+	document = [
+		{'paragraph': soup.title.string.strip(), 'treeLocation': ['title']}
+	]
 
-	print("Title:", document['title'])
+	# print("Title:", document['title'])
 
 	# Let's find all paragraphs
 	text = soup.find_all('p')
@@ -50,22 +50,24 @@ def getDocumentFeatures(html):
 			# Check that the paragraph has a title
 			if len(tree) is not 0:
 
-				# Save the paragraph
-				paragraphList = document.get(tuple(tree), [])
-				paragraphList.append(paragraph.string)
-				document[tuple(tree)] = paragraphList
+				# Save the paragraph in the paragraph list
+				paragraphEntry = {
+					'paragraph': paragraph.string.strip(),
+					'treeLocation': tree
+				}
+				document.append(paragraphEntry)
 				# Print debug info
 				# print(document['paragraphs'][-1])
-				print('')
+				# print('')
 
 	return document
 
 def getParagraphsWithTag(document, tag):
 
-	output = {}
-	for key, val in document.items():
-		if tag in key:
-			output[key] = val
+	output = []
+	for paragraphEntry in document:
+		if tag in paragraphEntry['treeLocation']:
+			output.append(paragraphEntry)
 	return output
 
 
