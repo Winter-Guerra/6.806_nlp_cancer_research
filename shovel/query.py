@@ -15,14 +15,19 @@ import sys
 from pws import Google
 from urllib.parse import urlparse
 
+from prep import getDocumentFeatures, getParagraphsWithTags, getFullArticle
+
+def getURLFromResults(response, idx):
+	return response['results'][int(idx)]['link'].split('&')[0]
+
 def getWebpageFromResults(response, idx):
-	url = response['results'][int(idx)]['link'].split('&')[0]
+	url = getURLFromResults(response, idx)
 	webpageContent = "<!-- URL:" + url + '-->' + requests.get(url).text
 	return webpageContent
 
 
 @task
-def run(query, numberResults, showAbstract=False, save=False):
+def run(query, numberResults, showAbstract=True, save=False):
 
 	response = Google.search(query, numberResults)
 
@@ -35,9 +40,9 @@ def run(query, numberResults, showAbstract=False, save=False):
 			print("Related Queries:", result.get('related_queries',''))
 
 		if showAbstract:
-			webpageContent = getWebpageFromResults(response, idx)
+			URL = getURLFromResults(response, idx)
 			# Now, find the abstract in the content
-			from prep import getDocumentFeatures, getParagraphsWithTag
+			webpageContent = getFullArticle(URL)
 			document = getDocumentFeatures(webpageContent)
 
 			# Save the document
@@ -45,7 +50,8 @@ def run(query, numberResults, showAbstract=False, save=False):
 
 			# Print the abstract
 			if not save:
-				print(getParagraphsWithTag(document, 'abstract'))
+				print(getParagraphsWithTags(document, ['abstract']))
+				# print(getParagraphsWithTag(document, ['abstract']))
 				print('---------------------------')
 
 	if save:
@@ -67,18 +73,30 @@ def view(query, idx):
 
 @task
 def test():
-	url = 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4127621/'
-	webpageContent = requests.get(url).text
-	# Now, find the abstract in the content
-	from prep import getDocumentFeatures, getParagraphsWithTag
+	url = 'http://www.ncbi.nlm.nih.gov/pubmed/23349849'
+	webpageContent = getFullArticle(url)
+
 	document = getDocumentFeatures(webpageContent)
 
-	# print(getParagraphsWithTag(document, 'abstract'))
+	# print(getParagraphsWithTags(document, ['abstract']))
 
+@task
+def concatConclusions(query, numberResults):
 
+	response = Google.search(query, numberResults)
 
+	for idx, result in enumerate(response['results']):
 
-	# Show the text.
-	# print(webpageContent)
+		URL = getURLFromResults(response, idx)
+		# Now, find the abstract in the content
+		webpageContent = getFullArticle(URL)
+		document = getDocumentFeatures(webpageContent)
 
-	# return webpageContent
+		# Print the conclusion
+		conclusions = getParagraphsWithTags(document, ['abstract', 'conclusions']) + getParagraphsWithTags(document, ['abstract', 'conclusion'])
+
+		for conclusion in conclusions:
+			print(conclusion['paragraph'])
+			print('----')
+
+	return

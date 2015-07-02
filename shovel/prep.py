@@ -4,6 +4,7 @@ from shovel import task
 import glob
 from bs4 import BeautifulSoup
 import re
+import requests
 # Import C yaml bindings
 import yaml
 try:
@@ -27,8 +28,24 @@ def getPMCID(html):
 	return PMCID
 
 # @TODO ####################################
-def getFullPubmedArticle(html):
-	fullArticle = ''
+def getFullArticle(URL):
+	''' Look at a webpage and check if we can find a better version of the webpage. This happens by looking for "read full text" link tags '''
+
+	landingPage = requests.get(URL).text
+
+	fullArticle = landingPage
+
+	soup = BeautifulSoup(landingPage, 'html5lib')
+
+	# Find the div that holds free links
+	links = soup.select('div.icons.portlet a[free_status="free"]')
+	# print(links)
+
+	if len(links) > 0:
+		fullLink = links[-1]['href']
+		# print(fullLink)
+		fullArticle = requests.get(fullLink).text
+
 	return fullArticle
 
 class DocumentHeirarchy():
@@ -120,7 +137,7 @@ def getDocumentFeatures(html):
 
 				# The paragraph location list needs to be copied. Otherwise, the saved location will be overwritten.
 				paragraphLocation = list(heirarchy.getState())
-				paragraphText = getTagText(tag)
+				paragraphText = tag.text
 
 				# Check that the paragraph has text
 				if paragraphText is not None:
@@ -134,18 +151,19 @@ def getDocumentFeatures(html):
 					# save the paragraph in the document
 					doc.append(paragraphEntry)
 
-
-
-	print(doc)
-
+	# print(doc)
 
 	return doc
 
-def getParagraphsWithTag(document, tag):
+def getParagraphsWithTags(document, tags):
+
+	tagSet = set(tags)
 
 	output = []
 	for paragraphEntry in document:
-		if tag in paragraphEntry['treeLocation']:
+		treeSet = set(paragraphEntry['treeLocation'])
+
+		if tagSet.issubset(treeSet):
 			output.append(paragraphEntry)
 	return output
 
