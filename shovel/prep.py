@@ -2,6 +2,8 @@
 from shovel import task
 
 import glob
+import random
+import os
 from bs4 import BeautifulSoup
 import re
 import requests
@@ -179,3 +181,12 @@ def createParagraphFeatures(destination):
 			html = f.read()
 
 		document = getDocumentFeatures(html)
+
+@task
+def reduceTo100Files(directory, probability):
+	for file in glob.iglob(directory+'*.md'):
+
+		shouldDelete = (random.random() <= float(probability))
+
+		if shouldDelete:
+			os.remove(file)
