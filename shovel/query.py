@@ -73,7 +73,7 @@ def test():
 	from prep import getDocumentFeatures, getParagraphsWithTag
 	document = getDocumentFeatures(webpageContent)
 
-	print(getParagraphsWithTag(document, 'abstract'))
+	# print(getParagraphsWithTag(document, 'abstract'))
 
 
 

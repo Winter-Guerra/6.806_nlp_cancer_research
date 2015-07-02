@@ -15,6 +15,12 @@ def removePunctuation(s):
 	s = re.sub(r'[^\w\s]','',s)
 	return s
 
+def getTagText(tag):
+	if tag.text is None:
+		return None
+	else:
+		return removePunctuation(tag.text.strip().lower())
+
 # @TODO ####################################
 def getPMCID(html):
 	PMCID = ''
@@ -25,42 +31,48 @@ def getFullPubmedArticle(html):
 	fullArticle = ''
 	return fullArticle
 
-class documentHeirarchy():
-	def __init__(self, firstHeaderTag):
+class DocumentHeirarchy():
+	''' This class keeps track of where we are in the document heirarchy as we parse the document. '''
+	def __init__(self):
+		''' This will be initialized later '''
+		self.baseTagLevel = None
+		self.tree = None
+
+	def initHeirarchy(self, firstHeaderTag):
 		# Figure out what tag level is this first tag. This should be our "base level"
 		self.baseTagLevel = self.getTagLevel(firstHeaderTag)
 
-		self.tree = [self.getTagText(firstHeaderTag)]
+		self.tree = [getTagText(firstHeaderTag)]
+
 
 	def getState(self):
 		return self.tree
 
+	def hasHeirarchy(self):
+		return (self.getState() is not None)
+
 	def getTreeDepth(self):
-		if len(self.tree) is 0:
-			return None # This should never happen
-		else:
-			return (len(self.tree)+self.baseTagLevel-1)
+		return (len(self.tree)+self.baseTagLevel-1)
 
 	def getTagLevel(self, headerTag):
 		match = re.search("h(\d)", headerTag.name)
 		tagLevel = int(match.group(1))
 		return tagLevel
 
-	def getTagText(self, headerTag):
-		text = headerTag.string
-		if text is None:
-			return None
-		else:
-			return removePunctuation( text.strip() )
+	def update(self, headerTag):
+		# Check if we have a heirarchy to update. Otherwise, init the heirarchy.
+		if not self.hasHeirarchy():
+			self.initHeirarchy(headerTag)
 
-	def updateState(headerTag):
 		# Figure out what tag level we are at
 		tagLevel = self.getTagLevel(headerTag)
-		tagText = self.getTagText(headerTag)
+		tagText = getTagText(headerTag)
+		# print(headerTag.name)
 
 		# If this tag is same depth as our current tag
 		if self.getTreeDepth() == tagLevel:
 			self.tree[-1] = tagText
+			# print(self.tree[-1])
 		elif self.getTreeDepth() < tagLevel:
 			self.tree.append(tagText)
 		# Tag is smaller than current depth
@@ -80,19 +92,54 @@ def getDocumentFeatures(html):
 	soup = BeautifulSoup(html, 'html5lib')
 
 	# Start extracting data and compiling it into a document
-	document = [
-		{'paragraph': soup.title.string.strip(), 'treeLocation': ['title']}
+	doc = [
+		{'paragraph': getTagText(soup.title), 'treeLocation': ['title']}
 	]
 
 
 
 	# Find the interleaved combinations of headers and text
-	paragraphsAndHeaders = soup.find_all(['p', 'h2', 'h3', 'h4', 'h5', 'h6', 'h7', 'h8', 'h9'])
+	headerTags = ['h2', 'h3', 'h4', 'h5', 'h6', 'h7', 'h8', 'h9']
+	paragraphTags = ['p']
+	paragraphsAndHeaders = soup.find_all( headerTags + paragraphTags )
 
-	print(paragraphsAndHeaders)
+	# Let's start parsing the document heirarchy
+	heirarchy = DocumentHeirarchy()
+
+	for tag in paragraphsAndHeaders:
+
+		# Check if the tag is a header tag
+		if tag.name in headerTags:
+			# print(tag)
+			heirarchy.update(tag)
+			# print(heirarchy.getState())
+
+		else:
+			# We must have a paragraph tag
+			if heirarchy.hasHeirarchy():
+
+				# The paragraph location list needs to be copied. Otherwise, the saved location will be overwritten.
+				paragraphLocation = list(heirarchy.getState())
+				paragraphText = getTagText(tag)
+
+				# Check that the paragraph has text
+				if paragraphText is not None:
+					paragraphEntry = {
+						'paragraph': paragraphText,
+						'treeLocation': paragraphLocation
+					}
+
+					# print(paragraphEntry)
+
+					# save the paragraph in the document
+					doc.append(paragraphEntry)
 
 
-	return document
+
+	print(doc)
+
+
+	return doc
 
 def getParagraphsWithTag(document, tag):
 
