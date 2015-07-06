@@ -26,9 +26,9 @@ lazypipe = require('lazypipe')
 cleanData = lazypipe()
 	# Let's remove sub headings from the sources (these cannot count as sentences)
 	.pipe(replace, /^##+.*/mg, '')
-	# Let's remove underlines 
+	# Let's remove underlines
 	.pipe(replace, /_/g, '')
-	# Let's remove asterisks  
+	# Let's remove asterisks
 	.pipe(replace, /\*/g, '')
 	# Let's remove all apostrophies
 	.pipe(replace, /\'/g, '')
@@ -48,6 +48,11 @@ cleanData = lazypipe()
 	.pipe(replace, /[^\x00-\x7F]/g,'')
 	# Remove some more crap
 	.pipe(replace, /\&lt/,'')
+	# Remove commas and other punctuation that is not a period
+	.pipe(replace, /[,?:;/]/g, ' ')
+	# Make everything single spaced
+	.pipe(replace, /\s+/g, ' ')
+
 
 removeTitle = lazypipe()
 	# Let's remove the title from the source (these cannot count as sentences)
@@ -97,4 +102,26 @@ gulp.task 'pruneOutNegatives', (cb) ->
 
 	return
 
+gulp.task 'concatSentenceCorpusWithWhitespaceTokenization', () ->
 
+	corpusSentenceList = []
+
+	stream = gulp.src(['/Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/datamining foodforbreastcancer/sources/deduped/*.md'])
+
+	.pipe(cleanData())
+
+	.pipe(
+		tap (file) ->
+			# Get the data from the file
+			fileData = file.contents.toString().toLowerCase()
+
+			# append sentences
+			sentences = fileData.split('. ').join('\n')
+			corpusSentenceList = corpusSentenceList.concat(sentences)
+			return
+	)
+	.on 'end', () ->
+		# Write the corpus to disk
+		fs.outputFileSync('./training_data/corpus.txt', corpusSentenceList)
+
+	return stream
