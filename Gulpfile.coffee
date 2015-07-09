@@ -22,8 +22,12 @@ util = require('util')
 prat = require('prat')
 promise = require 'bluebird'
 lazypipe = require('lazypipe')
+natural = require('natural')
+tokenizer = new natural.WordPunctTokenizer()
 
 cleanData = lazypipe()
+	# Let's remove title headings from the sources (these cannot count as sentences)
+	.pipe(replace, /^#+.*/mg, '')
 	# Let's remove sub headings from the sources (these cannot count as sentences)
 	.pipe(replace, /^##+.*/mg, '')
 	# Let's remove underlines
@@ -48,8 +52,8 @@ cleanData = lazypipe()
 	.pipe(replace, /[^\x00-\x7F]/g,'')
 	# Remove some more crap
 	.pipe(replace, /\&lt/,'')
-	# Remove commas and other punctuation that is not a period
-	.pipe(replace, /[,?:;/]/g, ' ')
+	# Remove commas and other punctuation that is not [.,?:]
+	.pipe(replace, /[;/]/g, ' ')
 	# Make everything single spaced
 	.pipe(replace, /\s+/g, ' ')
 
@@ -102,9 +106,9 @@ gulp.task 'pruneOutNegatives', (cb) ->
 
 	return
 
-gulp.task 'concatSentenceCorpusWithWhitespaceTokenization', () ->
+gulp.task 'concatDocumentCorpusWithWhitespaceTokenization', () ->
 
-	corpusSentenceList = []
+	corpus = []
 
 	stream = gulp.src(['/Users/winterg/Dropbox (MIT)/Development_Workspace/UROP/datamining foodforbreastcancer/sources/deduped/*.md'])
 
@@ -115,13 +119,14 @@ gulp.task 'concatSentenceCorpusWithWhitespaceTokenization', () ->
 			# Get the data from the file
 			fileData = file.contents.toString().toLowerCase()
 
-			# append sentences
-			sentences = fileData.split('. ').join('\n')
-			corpusSentenceList = corpusSentenceList.concat(sentences)
-			return
+			# Tokenize the document
+			fileData = tokenizer.tokenize(fileData).join(' ')
+
+			# Append document to output file
+			corpus.push(fileData)
 	)
 	.on 'end', () ->
 		# Write the corpus to disk
-		fs.outputFileSync('./training_data/corpus.txt', corpusSentenceList)
+		fs.outputFileSync('./training_data/corpus.txt', corpus.join('\n'))
 
 	return stream
