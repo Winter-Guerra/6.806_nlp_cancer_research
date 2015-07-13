@@ -15,7 +15,7 @@ import sys
 from pws import Google
 from urllib.parse import urlparse
 
-from prep import getDocumentFeatures, getParagraphsWithTags, getFullArticle
+import prep
 
 def getURLFromResults(response, idx):
 	return response['results'][int(idx)]['link'].split('&')[0]
@@ -42,15 +42,15 @@ def run(query, numberResults, showAbstract=True, save=False):
 		if showAbstract:
 			URL = getURLFromResults(response, idx)
 			# Now, find the abstract in the content
-			webpageContent = getFullArticle(URL)
-			document = getDocumentFeatures(webpageContent)
+			webpageContent = prep.getFullArticle(URL)
+			document = prep.Document(webpageContent)
 
 			# Save the document
 			result['text'] = document
 
 			# Print the abstract
 			if not save:
-				print(getParagraphsWithTags(document, ['abstract']))
+				print(document.getParagraphsWithTags(['abstract']))
 				# print(getParagraphsWithTag(document, ['abstract']))
 				print('---------------------------')
 
@@ -89,14 +89,22 @@ def concatConclusions(query, numberResults):
 
 		URL = getURLFromResults(response, idx)
 		# Now, find the abstract in the content
-		webpageContent = getFullArticle(URL)
-		document = getDocumentFeatures(webpageContent)
+		webpageContent = prep.getFullArticle(URL)
+		document = prep.Document(webpageContent)
 
-		# Print the conclusion
-		conclusions = getParagraphsWithTags(document, ['abstract', 'conclusions']) + getParagraphsWithTags(document, ['abstract', 'conclusion'])
+		# Check if the document has a conclusion
+		conclusions = document.getParagraphsWithTags( ['abstract', 'conclusions']) \
+			+ document.getParagraphsWithTags( ['abstract', 'conclusion'])
+
+		# Ignore documents without conclusions
+		if len(conclusions) is 0:
+			continue
 
 		for conclusion in conclusions:
 			print(conclusion['paragraph'])
-			print('----')
+
+		# Print the reference
+		print(document.getTextReference())
+		print('----')
 
 	return
