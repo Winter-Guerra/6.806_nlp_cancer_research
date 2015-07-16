@@ -20,10 +20,13 @@ def removePunctuation(s):
 	return s
 
 def getTagText(tag):
-	if tag.text is None:
+	if tag is None:
 		return None
 	else:
-		return removePunctuation(tag.text.strip().lower())
+		if tag.text is None:
+			return None
+		else:
+			return removePunctuation(tag.text.strip().lower())
 
 # @TODO ####################################
 def getPMCID(html):
@@ -98,12 +101,18 @@ class DocumentHeirarchy():
 		# Tag is smaller than current depth
 		else:
 			delta = self.getTreeDepth() - tagLevel
-			lastIndexOfTree = len(self.tree)-delta
+			lastIndexOfTree = max(0, len(self.tree)-delta)
 			# Slice out old parts of tree
 			self.tree = self.tree[:lastIndexOfTree]
 
 			# Replace the current endpoint of the tree with the last tag
-			self.tree[-1] = tagText
+			if len(self.tree) is 0:
+				# Then, we have a tag that should actually be our base tag
+				self.initHeirarchy(headerTag)
+
+			# Otherwise, just replace the tag
+			else:
+				self.tree[-1] = tagText
 
 
 class Document():
