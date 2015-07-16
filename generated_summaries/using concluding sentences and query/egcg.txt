@@ -1,0 +1,9 @@
+$ shovel3 query.concatConclusions 'breast cancer egcg nih' 40
+----
+egcg may be used as a sensitizer to enhance the cytotoxicity of paclitaxel
+----
+the study demonstrates the requirement of cross talk between cell matrix adhesion molecules and growth factor receptors to improve biological responses and shows fakerk as the pivotal point of this convergence in human breast carcinoma cell line mdamb231 we also establish egcg as the potential antitumor agent in human breast carcinoma
+----
+our data demonstrate that egcg upregulates mir16 in tumor cells which can be transferred to tam via exosomes and inhibits tam infiltration and m2 polarization we suggest a novel mechanism by which egcg exerts antitumor activity via regulation of tam in tumor microenvironment
+----
+egcg inhibits cell growth and proliferation of mcf7 breast cancer cells possibly by inhibiting the protein expression of hif1α and vegf
