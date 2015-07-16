@@ -19,7 +19,7 @@ except ImportError:
 from gensim import corpora, similarities, models
 import sklearn
 from sklearn.feature_extraction.text import CountVectorizer
-form sklearn import svm
+from sklearn import svm
 import numpy as np
 
 ######### CONFIGURATION

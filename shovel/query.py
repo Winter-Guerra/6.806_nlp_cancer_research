@@ -9,6 +9,7 @@ import json
 from shovel import task
 import requests
 import sys
+import os
 # from bs4 import BeautifulSoup
 # import re
 
@@ -16,6 +17,9 @@ from pws import Google
 from urllib.parse import urlparse
 
 import prep
+
+import multiprocessing
+import mistune
 
 def getURLFromResults(response, idx):
 	return response['results'][int(idx)]['link'].split('&')[0]
@@ -81,7 +85,9 @@ def test():
 	# print(getParagraphsWithTags(document, ['abstract']))
 
 @task
-def concatConclusions(query, numberResults):
+def concatConclusions(query, numberResults, includeReference=False, separator='\n'):
+
+	output = ''
 
 	response = Google.search(query, numberResults)
 
@@ -101,10 +107,107 @@ def concatConclusions(query, numberResults):
 			continue
 
 		for conclusion in conclusions:
-			print(conclusion['paragraph'])
+			newData = conclusion['paragraph'].replace('\n', '')
+			output = output + newData
+			print(newData)
 
-		# Print the reference
-		print(document.getTextReference())
-		print('----')
+		if includeReference:
+			# Print the reference
+			ref = document.getTextReference()
+			output = output + ref
+			print(ref)
 
-	return
+			# print('----')
+
+		# Get ready for new article conclusion
+		output = output + separator
+
+	return output
+
+def dedupeLines(data):
+	from more_itertools import unique_everseen
+
+	# Let's get the sentences from the data
+	sentences = data.split('\n')
+
+	dedupedSentences = list(unique_everseen(sentences))
+
+	outputFileData = '\n\n'.join(dedupedSentences)
+
+	return outputFileData
+
+def saveSummary(food):
+	numberResults = 40
+
+	queryString = "breast cancer {} site:ncbi.nlm.nih.gov".format(food)
+	conclusionString = concatConclusions(queryString, numberResults, includeReference=True, separator='\n\n')
+
+	# Let's dedupe the conclusions
+	conclusionString = dedupeLines(conclusionString)
+
+	# Now, save the conclusions in a markdown file
+	markdownSource = """# {} and Breast Cancer\
+\n\n\
+	Summary generated using: $shovel3 query.concatConclusions '{}' {} includeReference=True\n\n\
+{}""".format(food.capitalize(), queryString, numberResults, conclusionString)
+
+	# Render the markdown
+	html = mistune.markdown(markdownSource)
+
+	# Output the rendered markdown to html
+	with open("./dist/summaries/{}.html".format(food), 'w') as f:
+		f.write(html)
+
+	print("Done with {}".format(food))
+
+	return html
+
+@task
+def getFoodListQuery():
+	threads = 2
+
+	# Get list of foods
+	foodList = []
+	with open('./foodList.txt') as f:
+		foodList = f.read().split('\n')
+
+	pool = multiprocessing.Pool(threads)
+	pool.map(saveSummary, foodList)
+
+@task
+def generateFoodListIndexPage():
+	# Get list of foods
+	foodList = []
+	with open('./foodList.txt') as f:
+		foodList = f.read().split('\n')
+
+	# Figure out which food has the most info (by linecount)
+	def findFileLineCount(file):
+		try:
+			with open(file) as f:
+				lines = f.read().split('<p>')
+				return len(lines)
+		except Exception as e:
+			return 0
+
+	fileLengths = [findFileLineCount("./dist/summaries/{}.html".format(food)) for food in foodList ]
+
+	sortedFoods = [ x[0] for x in sorted(zip(foodList, fileLengths), key=lambda x:x[1], reverse=True) ]
+
+	print(sortedFoods)
+
+	# Start making the markdown document
+	markdownSource = """
+# List of summaries by food\n\n"""
+
+	for food in sortedFoods:
+		markdownSource = markdownSource + "* [{}](./summaries/{}.html)\n".format(food.capitalize(), food)
+
+	# Render the markdown
+	html = mistune.markdown(markdownSource)
+
+	with open('./dist/index.html', 'w') as f:
+		f.write(html)
+
+# if __name__ == '__main__':
+	# generateFoodListIndexPage()
