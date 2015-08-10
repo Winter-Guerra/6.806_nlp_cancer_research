@@ -6,31 +6,47 @@ try:
 except ImportError:
 	from yaml import Loader, Dumper
 import json
-from shovel import task
-import requests
+# from shovel import task
+# import scraper
 import sys
 import os
 # from bs4 import BeautifulSoup
 # import re
 
-from pws import Google
+from .google import Google
 from urllib.parse import urlparse
 
-import prep
+from . import process
+from . import scraper
+# from shovel import scraper
 
 import multiprocessing
 import mistune
+
+# For templating
+from pybars import Compiler
+compiler = Compiler()
+# Get templates
+templates = {}
+with open('./templates/index.handlebars') as f:
+	templates['index'] = f.read()
+with open('./templates/food_entry.handlebars') as f:
+	templates['food_entry'] = f.read()
+
+
+# Compile the templates
+templater = {key: compiler.compile(template) for key,template in templates.items()}
 
 def getURLFromResults(response, idx):
 	return response['results'][int(idx)]['link'].split('&')[0]
 
 def getWebpageFromResults(response, idx):
 	url = getURLFromResults(response, idx)
-	webpageContent = "<!-- URL:" + url + '-->' + requests.get(url).text
+	webpageContent = "<!-- URL:" + url + '-->' + scraper.get(url).text
 	return webpageContent
 
 
-@task
+# @task
 def run(query, numberResults, showAbstract=True, save=False):
 
 	response = Google.search(query, numberResults)
@@ -46,8 +62,8 @@ def run(query, numberResults, showAbstract=True, save=False):
 		if showAbstract:
 			URL = getURLFromResults(response, idx)
 			# Now, find the abstract in the content
-			webpageContent = prep.getFullArticle(URL)
-			document = prep.Document(webpageContent)
+			webpageContent = process.getFullArticle(URL)
+			document = process.Document(webpageContent)
 
 			# Save the document
 			result['text'] = document
@@ -67,7 +83,7 @@ def run(query, numberResults, showAbstract=True, save=False):
 
 	return
 
-@task
+# @task
 def view(query, idx):
 	''' This function can be used to grab HTML webpages using the search function. '''
 
@@ -75,7 +91,7 @@ def view(query, idx):
 
 	webpageContent = getWebpageFromResults(response, idx)
 
-@task
+# @task
 def test():
 	url = 'http://www.ncbi.nlm.nih.gov/pubmed/23349849'
 	webpageContent = getFullArticle(url)
@@ -84,47 +100,36 @@ def test():
 
 	# print(getParagraphsWithTags(document, ['abstract']))
 
-@task
-def concatConclusions(query, numberResults, includeReference=False, separator='\n'):
+# @task
+def getDocuments(query, numberResults, includeReference=False, separator='\n'):
 
-	output = ''
+	output = []
+	seenConclusions = set()
 
 	response = Google.search(query, numberResults)
 
 	for idx, result in enumerate(response['results']):
 
+
 		URL = getURLFromResults(response, idx)
 		# Now, find the abstract in the content
-		webpageContent = prep.getFullArticle(URL)
-		document = prep.Document(webpageContent)
-
-		# Check if the document has a conclusion
-		conclusions = document.getParagraphsWithTags( ['abstract', 'conclusions']) \
-			+ document.getParagraphsWithTags( ['abstract', 'conclusion'])
+		fullURL = process.getFullArticleLink(URL)
+		document = process.Document(fullURL)
 
 		# Ignore documents without conclusions
-		if len(conclusions) is 0:
+		if document.conclusion is None:
 			continue
 
-		for conclusion in conclusions:
-			newData = conclusion['paragraph'].replace('\n', '')
-			output = output + newData
-			print(newData)
-
-		if includeReference:
-			# Print the reference
-			ref = document.getTextReference()
-			output = output + ref
-			print(ref)
-
-			# print('----')
-
-		# Get ready for new article conclusion
-		output = output + separator
+		# Ignore documents that we have already seen before
+		if document.conclusion is not None and document.conclusion not in seenConclusions:
+			seenConclusions.add(document.conclusion)
+			# Append this document to our list of output documents
+			output.append(document)
+			print(document.conclusion)
 
 	return output
 
-def dedupeLines(data):
+def dedupeDocuments(documents):
 	from more_itertools import unique_everseen
 
 	# Let's get the sentences from the data
@@ -140,21 +145,21 @@ def saveSummary(food):
 	numberResults = 40
 
 	queryString = "breast cancer {} site:ncbi.nlm.nih.gov".format(food)
-	conclusionString = concatConclusions(queryString, numberResults, includeReference=True, separator='\n\n')
+	documents = getDocuments(queryString, numberResults, includeReference=True, separator='\n\n')
 
-	# Let's dedupe the conclusions
-	conclusionString = dedupeLines(conclusionString)
+	# Let's dedupe the documents based on conclusions
+	# conclusionString = dedupeLines(conclusionString)
 
-	# Now, save the conclusions in a markdown file
-	markdownSource = """# {} and Breast Cancer\
-\n\n\
-	Summary generated using: $shovel3 query.concatConclusions '{}' {} includeReference=True\n\n\
-{}""".format(food.capitalize(), queryString, numberResults, conclusionString)
+	context={
+		'title': "{} and its effects on breast cancer".format(food.capitalize()),
+		'command': "$shovel3 query.concatConclusions '{}' {} includeReference=True".format( queryString, numberResults),
+		'documents': documents
+	}
 
-	# Render the markdown
-	html = mistune.markdown(markdownSource)
+	# Render the page
+	html = templater['food_entry'](context)
 
-	# Output the rendered markdown to html
+	# Output the rendered html
 	with open("./dist/summaries/{}.html".format(food), 'w') as f:
 		f.write(html)
 
@@ -162,9 +167,9 @@ def saveSummary(food):
 
 	return html
 
-@task
+# @task
 def getFoodListQuery():
-	threads = 2
+	threads = 6
 
 	# Get list of foods
 	foodList = []
@@ -174,12 +179,13 @@ def getFoodListQuery():
 	pool = multiprocessing.Pool(threads)
 	pool.map(saveSummary, foodList)
 
-@task
+# @task
 def generateFoodListIndexPage():
 	# Get list of foods
 	foodList = []
 	with open('./foodList.txt') as f:
 		foodList = f.read().split('\n')
+
 
 	# Figure out which food has the most info (by linecount)
 	def findFileLineCount(file):
@@ -196,18 +202,21 @@ def generateFoodListIndexPage():
 
 	print(sortedFoods)
 
-	# Start making the markdown document
-	markdownSource = """
-# List of summaries by food\n\n"""
+	#Start templating the index page
+	context={
+		'title': "List of summaries by food",
+		'foods': sortedFoods
+	}
 
-	for food in sortedFoods:
-		markdownSource = markdownSource + "* [{}](./summaries/{}.html)\n".format(food.capitalize(), food)
+	print(context)
 
-	# Render the markdown
-	html = mistune.markdown(markdownSource)
+	# Render the webpage
+	html = templater['index'](context)
+	# Save the webpage
 
 	with open('./dist/index.html', 'w') as f:
 		f.write(html)
 
-# if __name__ == '__main__':
+if __name__ == '__main__':
+	getFoodListQuery()
 	# generateFoodListIndexPage()

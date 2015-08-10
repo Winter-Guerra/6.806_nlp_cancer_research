@@ -1,0 +1,30 @@
+<link rel="stylesheet" href="http://raw.githubusercontent.com/sindresorhus/github-markdown-css/gh-pages/github-markdown.css">
+<style>
+    .markdown-body {
+        min-width: 200px;
+        max-width: 790px;
+        margin: 0 auto;
+        padding: 30px;
+    }
+</style>
+<article class="markdown-body">
+
+<h1>{{title}}</h1>
+
+Summary generated using:
+<code>{{command}}</code>
+
+<ul>
+{{#each documents}}
+      <li>
+        {{conclusion}}
+        <ul>
+          <li>Journal: {{citation.journal}}</li>
+          <li>Date: {{citation.datePublishedRaw}}</li>
+          <li><a href="{{citation.URL}}">Link to article</a></li>
+        </ul
+      </li>
+{{/each}}
+</ul>
+
+</article>
