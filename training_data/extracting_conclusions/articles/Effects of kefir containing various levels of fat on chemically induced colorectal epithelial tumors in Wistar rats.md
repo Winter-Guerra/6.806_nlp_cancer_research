@@ -1,0 +1,5 @@
+# Effects of kefir containing various levels of fat on chemically induced colorectal epithelial tumors in Wistar rats
+
+## Abstract
+
+Epidemiological investigations have suggested a relationship between the nutrition and the incidence of various types of cancer. The aim of the study was to determine the effect of kefir (with different fat levels) and milk on the incidence of experimentally induced colorectal epithelial tumors. We used 120 ten-week-old male Wistar rats. In addition to a standard feeding regimen, the first experimental group received kefir containing 3.5% fat. A second group received kefir with 1.1% fat, and a third group received sterilized milk with 1.1% fat. The kefir 3.5% fat group had the highest number of adenocarcinomas. The lowest number of adenocarcinomas was found in the group given 1.1% milk fat. We found a statistically high correlation between the incidence of adenocarcinomas and the fat intake (_P_ = .0338), and a high statistical correlation between the incidence of all forms of colorectal epithelial tumors (aberrant crypt foci, adenomas, and adenocarcinomas) and the intake of fat (_P_ &lt; .001).
