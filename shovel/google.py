@@ -83,15 +83,20 @@ class Google:
         results = Google.scrape_search_result(soup)
         related_queries = Google.scrape_related(soup)
 
-        raw_total_results = soup.find('div', attrs = {'class' : 'sd'}).string
+        # print(soup)
         total_results = 0
-        if raw_total_results is not None:
-            for i in raw_total_results:
-                try:
-                    temp = int(i)
-                    total_results = total_results * 10 + temp
-                except:
-                    continue
+        temp_result = soup.find('div', attrs = {'class' : 'sd'})
+        if temp_result is not None:
+
+            raw_total_results = temp_result.string
+            total_results = 0
+            if raw_total_results is not None:
+                for i in raw_total_results:
+                    try:
+                        temp = int(i)
+                        total_results = total_results * 10 + temp
+                    except:
+                        continue
 
         temp = {'results' : results,
                 'url' : url,

@@ -15,6 +15,7 @@ except ImportError:
 	from yaml import Loader, Dumper
 
 from . import scraper
+import requests
 
 
 def removePunctuation(s):
@@ -123,6 +124,7 @@ class Document():
 		self.paragraphList = []
 		self.citation = {
 			"datePublishedRaw": None,
+			'datePublished': None,
 			"journal": None,
 			"URL": URL
 		}
@@ -200,16 +202,19 @@ class Document():
 				self.DOI = match.group(1)
 
 	def getCitationDetailsFromDOI(self):
-		journal = None
-		datePublishedRaw = None
+
 
 		if self.DOI is not None:
-			rawCitationData = scraper.get("http://api.crossref.org/works/{DOI}".format(DOI=self.DOI)).json()['message']
-			journal = rawCitationData['container-title'][0]
-			datePublishedRaw = rawCitationData['deposited']['timestamp']
+			response = scraper.get("http://api.crossref.org/works/{DOI}".format(DOI=self.DOI))
 
-		self.citation["datePublishedRaw"] = datePublishedRaw
-		self.citation["journal"] = journal
+			if response.status_code is requests.codes.ok:
+
+				rawCitationData = response.json()['message']
+				self.citation['journal'] = rawCitationData['container-title'][0]
+				self.citation['datePublishedRaw'] = rawCitationData['deposited']['timestamp']
+				# Turn the millis timestamp into a human readable format
+				dt = datetime.datetime.fromtimestamp(self.citation['datePublishedRaw']/1000)
+				self.citation['datePublished'] = dt.strftime("%m/%d/%y")
 
 
 	def getParagraphsWithTags(self, tags):
