@@ -14,7 +14,13 @@
 <ul>
 {{#each foods}}
       <li>
-        <a href="./summaries/{{ food }}.html">{{ food }} - Citations: {{ numberCitations }}</a>
+        <a href="./summaries/{{ food }}.html">{{ food }}
+          {{#if numberCitations}}
+          - Citations: {{ numberCitations }}
+          {{else}}
+          - <em>Error aggregating data</em>
+          {{/if}}
+        </a>
       </li>
 {{/each}}
 </ul>
