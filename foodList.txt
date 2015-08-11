@@ -1,8 +1,18 @@
 soy
+cereals
+legumes
+vegan
+tubers
 onion
 garlic
 berries
+berry
+spice
+pepper
+leafy greens
+low fat
 tea
+sardines
 cruciferous
 brassica
 ginger

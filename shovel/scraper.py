@@ -3,6 +3,7 @@
 # from shovel import task
 import requests
 import random
+from urllib.parse import urlparse
 
 def LoadUserAgents(uafile):
     """
@@ -32,12 +33,10 @@ def get(url):
 
     # print(ua)
 
-    try:
-        r = requests.get(url, headers=headers)
-    except:
-        returnObj = lambda: None
-        returnObj.text = ''
-        returnObj.json = lambda: None
-        return returnObj
-    else:
-        return r
+    # Sanitize the url
+    url = urlparse(url, 'http').geturl()
+
+
+    r = requests.get(url, headers=headers)
+
+    return r

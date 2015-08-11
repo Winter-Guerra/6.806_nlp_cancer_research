@@ -10,11 +10,13 @@ import json
 # import scraper
 import sys
 import os
+import time
+import random
 # from bs4 import BeautifulSoup
 # import re
 
 from .google import Google
-from urllib.parse import urlparse
+from urllib.parse import urlparse, parse_qs
 
 from . import process
 from . import scraper
@@ -38,7 +40,25 @@ with open('./templates/food_entry.handlebars') as f:
 templater = {key: compiler.compile(template) for key,template in templates.items()}
 
 def getURLFromResults(response, idx):
-	return response['results'][int(idx)]['link'].split('&')[0]
+	rawLink = response['results'][int(idx)]['link']
+
+	# Default behavior
+	url = rawLink.split('&')[0]
+
+	# Check if the URL is coming in the form of the weird google redirect link
+	urlComponents = urlparse(rawLink, 'http')
+
+	if len(urlComponents.query) > 0:
+		queryComponents = parse_qs(urlComponents.query)
+
+		urlArray = queryComponents.get('url', [])
+		if len(urlArray) > 0:
+			url = urlArray[0]
+
+
+	# print(url)
+
+	return url
 
 def getWebpageFromResults(response, idx):
 	url = getURLFromResults(response, idx)
@@ -103,6 +123,11 @@ def test():
 # @task
 def getDocuments(query, numberResults, includeReference=False, separator='\n'):
 
+	# Let's block the process for a small random time (up to 10s) to avoid collescing
+	time.sleep(random.random()*10)
+
+	print('Querying google.')
+
 	output = []
 	seenConclusions = set()
 
@@ -112,6 +137,8 @@ def getDocuments(query, numberResults, includeReference=False, separator='\n'):
 
 
 		URL = getURLFromResults(response, idx)
+		# print(URL)
+
 		# Now, find the abstract in the content
 		fullURL = process.getFullArticleLink(URL)
 		document = process.Document(fullURL)
@@ -156,6 +183,10 @@ def saveSummary(food):
 		'documents': documents
 	}
 
+	# Do not save the file if it returned zero results since this could be due to an error.
+	if len(documents) is 0:
+		return None
+
 	# Render the page
 	html = templater['food_entry'](context)
 
@@ -169,15 +200,19 @@ def saveSummary(food):
 
 # @task
 def getFoodListQuery():
-	threads = 6
+	threads = 4
 
 	# Get list of foods
 	foodList = []
 	with open('./foodList.txt') as f:
 		foodList = f.read().split('\n')
 
+	# Comb out foods where we already have data on them
+	dedupedFoodList = [food for food in foodList if not os.path.isfile("./dist/summaries/{}.html".format(food)) ]
+
+
 	pool = multiprocessing.Pool(threads)
-	pool.map(saveSummary, foodList)
+	pool.map(saveSummary, dedupedFoodList)
 
 # @task
 def generateFoodListIndexPage():
@@ -187,11 +222,11 @@ def generateFoodListIndexPage():
 		foodList = f.read().split('\n')
 
 
-	# Figure out which food has the most info (by linecount)
+	# Figure out which food has the most info by number of list entries
 	def findFileLineCount(file):
 		try:
 			with open(file) as f:
-				lines = f.read().split('<p>')
+				lines = f.read().split('<li>')
 				return len(lines)
 		except Exception as e:
 			return 0
