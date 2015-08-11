@@ -5,6 +5,12 @@ import requests
 import random
 from urllib.parse import urlparse
 
+import redis
+import pickle
+
+# Connect to the cache
+r = redis.StrictRedis(host='localhost', port=6379, db=0)
+
 def LoadUserAgents(uafile):
     """
     uafile : string
@@ -24,19 +30,26 @@ user_agents = LoadUserAgents("./user_agents.txt")
 
 # @task
 def get(url):
-    # user_agents = ['a', 'b']
 
+    # Sanitize the url
+    url = urlparse(url, 'http').geturl()
+
+    # Check if the cache has our data
+    cacheResponse = r.get(url)
+    if cacheResponse is not None:
+        # print("URL cache hit")
+        return pickle.loads(cacheResponse)
+
+    # Prepare the download the data
     ua = random.choice(user_agents)
     headers = {
     "Connection" : "close",  # another way to cover tracks
     "User-Agent" : ua}
 
-    # print(ua)
+    response = requests.get(url, headers=headers)
 
-    # Sanitize the url
-    url = urlparse(url, 'http').geturl()
+    # save the request in the cache
+    dataToCache = pickle.dumps(response)
+    r.set(url, dataToCache)
 
-
-    r = requests.get(url, headers=headers)
-
-    return r
+    return response

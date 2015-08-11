@@ -24,6 +24,9 @@ from . import scraper
 import multiprocessing
 import mistune
 
+import redis
+import pickle
+
 # For templating
 from pybars import Compiler
 compiler = Compiler()
@@ -129,11 +132,6 @@ def test():
 # @task
 def getDocuments(query, numberResults, includeReference=False, separator='\n'):
 
-	# Let's block the process for a small random time (up to 10s) to avoid collescing
-	time.sleep(random.random()*5.0)
-
-	print('Querying google.')
-
 	output = []
 	seenConclusions = set()
 
@@ -234,7 +232,7 @@ def generateFoodListIndexPage():
 				soup = BeautifulSoup(html, 'html5lib')
 				outerList = soup.ul
 				numberCitations = len(outerList.contents)-1
-				
+
 
 				return numberCitations
 		except Exception as e:
@@ -265,5 +263,5 @@ def generateFoodListIndexPage():
 		f.write(html)
 
 if __name__ == '__main__':
-	# getFoodListQuery()
-	generateFoodListIndexPage()
+	getFoodListQuery()
+	# generateFoodListIndexPage()

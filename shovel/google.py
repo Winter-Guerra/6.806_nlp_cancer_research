@@ -5,6 +5,12 @@ import re
 import requests
 from . import scraper
 
+import redis
+import pickle
+
+# Start talking to our cache server (redis)
+r = redis.StrictRedis(host='localhost', port=6379, db=0)
+
 ##################################################
 # Copied code
 ##################################################
@@ -79,13 +85,18 @@ class Google:
 		if sleep:
 			wait(1)
 
-		# # Check to see if our cache has the appropriate response to this query
-		# try:
-		# 	results = cache[query][num]
-		# 	return results
-		# except Exception as e:
-		# 	print("Google cache miss.")
-		# 	print(e)
+		cacheKey = query + str(num)
+
+
+		# Check to see if our cache has the appropriate response to this query
+		results = r.get(cacheKey)
+
+		if results is not None:
+			print("Loaded google query from cache.")
+			return pickle.loads(results)
+		else:
+			print('Querying google.')
+
 
 		url = generate_url(query, str(num), str(start), recent)
 		soup = BeautifulSoup(scraper.get(url).text)
@@ -117,10 +128,9 @@ class Google:
 				'total_results' : total_results,
 		}
 
-		# # Save our result in the cache
-		# cache[query] = {}
-		# cache[query][num] = temp
-
+		# Save our result in the cache
+		cacheEntry = pickle.dumps(temp)
+		r.set(cacheKey, cacheEntry)
 
 		return temp
 
