@@ -1,21 +1,108 @@
-soy
-cereals
-legumes
-vegan
-tubers
-onion
-garlic
+adzuki beans
+alcohol
+almonds
+apples
+artichokes
+avocados
+bacon
+basil
+beef
+bell peppers
 berries
 berry
-spice
-pepper
-leafy greens
-low fat
-tea
-sardines
-cruciferous
+black pepper
+blackberries
+blueberries
+boysenberries
 brassica
+broccoli
+brown rice
+brussels sprouts
+buckwheat
+butter
+cabbage
+canola oil
+carrots
+cauliflower
+celery
+cereals
+cheese
+cherries
+chicken
+coffee
+corn oil
+cranberries
+cruciferous
+cucumbers
+currants
+dry beans
+escargot
+flaxseed
+garlic
 ginger
-sardines
+grapes
+green tea
+greens
+herring and sardines
+honey
+horseradish
+hot peppers
+kale
+kefir
+lake trout
+lamb
+lavender
+leafy greens
+legumes
+lettuce
+low fat
+low fat yogurt
+mackerel
+milk
+mushrooms
+mustard
+oil
+olives and olive oil
 omega-3
-adzuki beansalcoholalmondsapplesartichokesavocadosbaconbasilbeefbell peppersblack pepperblackberriesblueberriesboysenberriesbroccolibrown ricebrussels sproutsbuckwheatbuttercabbagecanola oilcarrotscauliflowercelerycheesecherrieschickencoffeecorn oilcranberriescucumberscurrantsdry beansescargotflaxseedgingergrapesgreen teagreensherring and sardineshoneyhorseradishhot pepperskalekefirlake troutlamblavenderlettucelow fat yogurtmackerelmilkmushroomsmustardoilolives and olive oilonions and garlicpapayaparsleypeanutspomegranatesporkpotatoespumpkinsraspberriesrhubarbsafflowersaffronsagesalmonsaltseaweedshellfishsoy protein isolatesoybean oilsoybean pastesoybeansspinachsugarsunflower oiltofutomatoesturmericturnips and turnip greenswalnutswatercresswatermelonyerba matezucchini
+onion
+onions and garlic
+papaya
+parsley
+peanuts
+pepper
+pomegranates
+pork
+potatoes
+protein
+pumpkins
+raspberries
+rhubarb
+safflower
+saffron
+sage
+salmon
+salt
+sardines
+seaweed
+shellfish
+soy
+soy protein isolate
+soybean oil
+soybean paste
+soybeans
+spice
+spinach
+sugar
+sunflower oil
+tea
+tofu
+tomatoes
+tubers
+turmeric
+turnips and turnip greens
+vegan
+walnuts
+watercress
+watermelon
+yerba mate
+zucchini

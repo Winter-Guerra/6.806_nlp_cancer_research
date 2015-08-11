@@ -12,8 +12,7 @@ import sys
 import os
 import time
 import random
-# from bs4 import BeautifulSoup
-# import re
+from bs4 import BeautifulSoup
 
 from .google import Google
 from urllib.parse import urlparse, parse_qs
@@ -38,6 +37,13 @@ with open('./templates/food_entry.handlebars') as f:
 
 # Compile the templates
 templater = {key: compiler.compile(template) for key,template in templates.items()}
+
+def findDeployDirectory():
+	# Find our working directory
+	sortedFolderList = sorted(os.listdir("./dist/"), reverse=True)
+	deployDirectory = "./dist/" + sortedFolderList[0]
+	return deployDirectory
+
 
 def getURLFromResults(response, idx):
 	rawLink = response['results'][int(idx)]['link']
@@ -124,7 +130,7 @@ def test():
 def getDocuments(query, numberResults, includeReference=False, separator='\n'):
 
 	# Let's block the process for a small random time (up to 10s) to avoid collescing
-	time.sleep(random.random()*10)
+	time.sleep(random.random()*5.0)
 
 	print('Querying google.')
 
@@ -156,20 +162,11 @@ def getDocuments(query, numberResults, includeReference=False, separator='\n'):
 
 	return output
 
-def dedupeDocuments(documents):
-	from more_itertools import unique_everseen
-
-	# Let's get the sentences from the data
-	sentences = data.split('\n')
-
-	dedupedSentences = list(unique_everseen(sentences))
-
-	outputFileData = '\n\n'.join(dedupedSentences)
-
-	return outputFileData
 
 def saveSummary(food):
 	numberResults = 40
+
+	deployDirectory = findDeployDirectory()
 
 	queryString = "breast cancer {} site:ncbi.nlm.nih.gov".format(food)
 	documents = getDocuments(queryString, numberResults, includeReference=True, separator='\n\n')
@@ -191,7 +188,7 @@ def saveSummary(food):
 	html = templater['food_entry'](context)
 
 	# Output the rendered html
-	with open("./dist/summaries/{}.html".format(food), 'w') as f:
+	with open(deployDirectory+"/summaries/{}.html".format(food), 'w') as f:
 		f.write(html)
 
 	print("Done with {}".format(food))
@@ -207,8 +204,13 @@ def getFoodListQuery():
 	with open('./foodList.txt') as f:
 		foodList = f.read().split('\n')
 
+	deployDirectory = findDeployDirectory()
+
 	# Comb out foods where we already have data on them
-	dedupedFoodList = [food for food in foodList if not os.path.isfile("./dist/summaries/{}.html".format(food)) ]
+	dedupedFoodList = [food for food in foodList if not os.path.isfile( deployDirectory+"/summaries/{}.html".format(food) ) ]
+
+	print("Gathering data on the following foods")
+	print(dedupedFoodList)
 
 
 	pool = multiprocessing.Pool(threads)
@@ -222,18 +224,28 @@ def generateFoodListIndexPage():
 		foodList = f.read().split('\n')
 
 
-	# Figure out which food has the most info by number of list entries
-	def findFileLineCount(file):
+	# Count how many citations each food has by looking at the number of outermost list elements
+	def findFileCitationCount(file):
 		try:
 			with open(file) as f:
-				lines = f.read().split('<li>')
-				return len(lines)
+				html = f.read()
+
+				# Parse the html page
+				soup = BeautifulSoup(html, 'html5lib')
+				outerList = soup.ul
+				numberCitations = len(outerList.contents)-1
+				
+
+				return numberCitations
 		except Exception as e:
+			print(e)
 			return 0
 
-	fileLengths = [findFileLineCount("./dist/summaries/{}.html".format(food)) for food in foodList ]
+	deployDirectory = findDeployDirectory()
 
-	sortedFoods = [ x[0] for x in sorted(zip(foodList, fileLengths), key=lambda x:x[1], reverse=True) ]
+	fileLengths = [findFileCitationCount(deployDirectory+"/summaries/{}.html".format(food)) for food in foodList ]
+
+	sortedFoods = [ {'food': x[0], 'numberCitations': x[1]} for x in sorted(zip(foodList, fileLengths), key=lambda x:x[1], reverse=True)]
 
 	print(sortedFoods)
 
@@ -249,9 +261,9 @@ def generateFoodListIndexPage():
 	html = templater['index'](context)
 	# Save the webpage
 
-	with open('./dist/index.html', 'w') as f:
+	with open(deployDirectory+'/index.html', 'w') as f:
 		f.write(html)
 
 if __name__ == '__main__':
-	getFoodListQuery()
-	# generateFoodListIndexPage()
+	# getFoodListQuery()
+	generateFoodListIndexPage()
