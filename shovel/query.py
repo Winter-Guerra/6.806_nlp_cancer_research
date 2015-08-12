@@ -195,7 +195,7 @@ def saveSummary(food):
 
 # @task
 def getFoodListQuery():
-	threads = 4
+	threads = 1
 
 	# Get list of foods
 	foodList = []
@@ -205,7 +205,8 @@ def getFoodListQuery():
 	deployDirectory = findDeployDirectory()
 
 	# Comb out foods where we already have data on them
-	dedupedFoodList = [food for food in foodList if not os.path.isfile( deployDirectory+"/summaries/{}.html".format(food) ) ]
+	# dedupedFoodList = [food for food in foodList if not os.path.isfile( deployDirectory+"/summaries/{}.html".format(food) ) ]
+	dedupedFoodList = foodList
 
 	print("Gathering data on the following foods")
 	print(dedupedFoodList)
@@ -262,6 +263,7 @@ def generateFoodListIndexPage():
 	with open(deployDirectory+'/index.html', 'w') as f:
 		f.write(html)
 
+
 if __name__ == '__main__':
-	getFoodListQuery()
-	# generateFoodListIndexPage()
+	# getFoodListQuery()
+	generateFoodListIndexPage()

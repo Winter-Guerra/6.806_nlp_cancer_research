@@ -29,7 +29,7 @@ user_agents = LoadUserAgents("./user_agents.txt")
 # user_agents = ['a', 'b']
 
 # @task
-def get(url):
+def get(url, ignoreFailure=False):
 
     # Sanitize the url
     url = urlparse(url, 'http').geturl()
@@ -37,8 +37,16 @@ def get(url):
     # Check if the cache has our data
     cacheResponse = r.get(url)
     if cacheResponse is not None:
-        # print("URL cache hit")
-        return pickle.loads(cacheResponse)
+        response = pickle.loads(cacheResponse)
+        if (response.status_code < 400) or (response.status_code == 404) or ignoreFailure:
+            print("URL cache hit")
+            return response
+        else:
+            print("BAD CACHE HIT")
+    else:
+
+        # CACHE MISS.
+        print("URL cache miss")
 
     # Prepare the download the data
     ua = random.choice(user_agents)
@@ -48,8 +56,9 @@ def get(url):
 
     response = requests.get(url, headers=headers)
 
-    # save the request in the cache
-    dataToCache = pickle.dumps(response)
-    r.set(url, dataToCache)
+    # save the request in the cache if the response is sane
+    if (response.status_code < 400) or (response.status_code == 404) or ignoreFailure:
+        dataToCache = pickle.dumps(response)
+        r.set(url, dataToCache)
 
     return response
