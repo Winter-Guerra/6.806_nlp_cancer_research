@@ -205,7 +205,7 @@ class Document():
 
 
 		if self.DOI is not None:
-			response = scraper.get("http://api.crossref.org/works/{DOI}".format(DOI=self.DOI))
+			response = scraper.get("http://api.crossref.org/works/{DOI}".format(DOI=self.DOI), ignoreFailure=True)
 
 			if response.status_code is requests.codes.ok:
 

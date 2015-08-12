@@ -89,13 +89,19 @@ class Google:
 
 
 		# Check to see if our cache has the appropriate response to this query
-		results = r.get(cacheKey)
+		cacheResult = r.get(cacheKey)
 
-		if results is not None:
-			print("Loaded google query from cache.")
-			return pickle.loads(results)
-		else:
-			print('Querying google.')
+		if cacheResult is not None:
+			results = pickle.loads(cacheResult)
+
+			# Do some sanity checking of the results
+			if len(results['results']) > 0:
+
+				print("Loaded google query from cache.")
+				return results
+
+
+		print('Querying google.')
 
 
 		url = generate_url(query, str(num), str(start), recent)
@@ -128,9 +134,10 @@ class Google:
 				'total_results' : total_results,
 		}
 
-		# Save our result in the cache
-		cacheEntry = pickle.dumps(temp)
-		r.set(cacheKey, cacheEntry)
+		# Save our result in the cache if the result was sane
+		if len(results) > 0:
+			cacheEntry = pickle.dumps(temp)
+			r.set(cacheKey, cacheEntry)
 
 		return temp
 
