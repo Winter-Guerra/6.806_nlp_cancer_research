@@ -265,5 +265,5 @@ def generateFoodListIndexPage():
 
 
 if __name__ == '__main__':
-	# getFoodListQuery()
-	generateFoodListIndexPage()
+	getFoodListQuery()
+	# generateFoodListIndexPage()

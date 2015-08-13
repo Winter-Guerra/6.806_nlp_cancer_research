@@ -16,14 +16,18 @@ Summary generated using:
 
 <ul id="knowledge-list">
 {{#each documents}}
-      <li>
-        {{conclusion}}
-        <ul>
-          <li>Journal: {{citation.journal}}</li>
-          <li>Date: {{citation.datePublished}}</li>
-          <li><a href="{{citation.URL}}">Link to article</a></li>
-        </ul
-      </li>
+  <li>
+    {{conclusion}}
+    <ul>
+      <li><a href="{{URL}}">Link to article</a></li>
+      <li>Citation:</li>
+      <ul>
+        {{#each citation}}
+          <li>{{@key}}: {{this}}</li>
+        {{/each}}
+      </ul>
+    </ul>
+  </li>
 {{/each}}
 </ul>
 

@@ -45,13 +45,19 @@ def getFullArticleLink(URL):
 	soup = BeautifulSoup(landingPage, 'html5lib')
 
 	# Find the div that holds free links
-	links = soup.select('div.icons.portlet a[free_status="free"]')
+	links = soup.select('div.icons.portlet a')
 	# print(links)
 
 	if len(links) > 0:
-		URL = links[-1]['href']
-		# # print(fullLink)
-		# fullArticle = scraper.get(fullLink).text
+
+		# Let's find the available urls
+		URLs = [tag['href'] for tag in links]
+		# Let's favor NIH links over other links
+		NIHLinks = [url for url in URLs if 'ncbi.nlm.nih.gov' in url]
+		sortedURLS = NIHLinks + URLs
+		# Pick the best URL from the sorted list
+		URL = URLs[0]
+		
 
 	return URL
 
@@ -121,26 +127,22 @@ class Document():
 	def __init__(self, URL):
 
 		self.html = scraper.get(URL).text
+		self.soup = BeautifulSoup(self.html, 'html5lib')
 		self.paragraphList = []
-		self.citation = {
-			"datePublishedRaw": None,
-			'datePublished': None,
-			"journal": None,
-			"URL": URL
-		}
-		self.DOI = None
+		self.URL = URL
+		self.citation = {} # This dict will be populated with more terms later.
+
 		self.conclusion = None
 
 		# Get document from HTML
-		self.initParagraphList(self.html)
-		self.getDOI(self.html)
-		self.getCitationDetailsFromDOI()
+		self.initParagraphList()
+		self.getCitationDetails()
 		self.getConclusion()
 
 
-	def initParagraphList(self, html):
+	def initParagraphList(self):
 		# Run the text through bs4 to prettify it
-		soup = BeautifulSoup(html, 'html5lib')
+		soup = self.soup
 
 		# Get the paragraph title
 		self.paragraphList.append(
@@ -183,38 +185,21 @@ class Document():
 						# save the paragraph in the document
 						self.paragraphList.append(paragraphEntry)
 
+	def getCitationDetails(self):
+		soup = self.soup
 
+		# All of the citation information in PMC articles is contained in <meta> tags that have names that start with name="citation_xxx"
 
-	def getDOI(self, html):
-		# Run the text through bs4 to prettify it
-		soup = BeautifulSoup(html, 'html5lib')
+		metatags = soup.find_all('meta', {'name':re.compile("citation_.*")})
+		# print(metatags)
 
-		# Find the citation data container
-		doiList = soup.select('div [class="cit"]')
-		self.DOI = None # For scope
-		if len(doiList) > 0:
+		# Now, let's scape off the data from the metatags
+		for metatag in metatags:
+			key = ' '.join( metatag['name'].split('_')[1:] )
+			value = metatag['content']
 
-			doiContainer = doiList[0].text if (len(doiList) > 0) else ''
-
-			# Now find the DOI from the raw text
-			match = re.search("doi: (.*)\. ", doiContainer)
-			if match is not None:
-				self.DOI = match.group(1)
-
-	def getCitationDetailsFromDOI(self):
-
-
-		if self.DOI is not None:
-			response = scraper.get("http://api.crossref.org/works/{DOI}".format(DOI=self.DOI), ignoreFailure=True)
-
-			if response.status_code is requests.codes.ok:
-
-				rawCitationData = response.json()['message']
-				self.citation['journal'] = rawCitationData['container-title'][0]
-				self.citation['datePublishedRaw'] = rawCitationData['deposited']['timestamp']
-				# Turn the millis timestamp into a human readable format
-				dt = datetime.datetime.fromtimestamp(self.citation['datePublishedRaw']/1000)
-				self.citation['datePublished'] = dt.strftime("%m/%d/%y")
+			# Save the metatag data
+			self.citation[key] = value
 
 
 	def getParagraphsWithTags(self, tags):
