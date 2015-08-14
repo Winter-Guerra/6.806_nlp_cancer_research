@@ -17,10 +17,9 @@
     {{conclusion}}
     <ul>
       <li><a href="{{URL}}">Link to article</a></li>
-      <li>Citation:</li>
-      <ul>
-        {{humanReadableCitation}}
-      </ul>
+      {{#if humanReadableCitation}}
+        <li>{{humanReadableCitation}}</li>
+      {{/if}}
     </ul>
   </li>
 {{/each}}
