@@ -24,6 +24,12 @@ import pickle
 r = redis.StrictRedis(host='localhost', port=6379, db=0)
 
 
+
+# Initialize the sentence tokenizer
+import nltk.data
+sentence_detector = nltk.data.load('tokenizers/punkt/english.pickle')
+
+
 def removePunctuation(s):
 	s = re.sub(r'[^\w\s]','',s)
 	return s
@@ -120,6 +126,7 @@ class Document():
 		self.ensureHasFullArticle()
 
 		self.paragraphList = []
+		self.sentenceList = []
 		self.citation = {} # This dict will be populated with more terms later.
 		self.humanReadableCitation = ''
 
@@ -127,9 +134,13 @@ class Document():
 
 		# Process document from HTML
 		self.initParagraphList()
+		self.getSentenceList()
 		self.getCitationDetails()
 		self.getHumanReadableCitation()
 		self.getConclusion()
+
+		# Find the document title
+		self.title = getTagText(self.soup.title)
 
 	def ensureHasFullArticle(self):
 		''' Look at a webpage and check if we can find a better version of the webpage. This happens by looking for "read full text" link tags '''
@@ -237,6 +248,19 @@ class Document():
 		return mostSimilarObject[1]
 
 
+	def getSentenceList(self):
+
+		# Let's walk through the paragraphs of the text and tokenize the paragraphs into text
+		for paragraphObj in self.paragraphList:
+
+			paragraph = paragraphObj['paragraph']
+
+			if paragraph is not None:
+
+				newSentences = sentence_detector.tokenize(paragraph)
+				self.sentenceList.extend(newSentences)
+
+		# print(self.sentenceList)
 
 
 
@@ -275,17 +299,3 @@ class Document():
 		if len(conclusions) > 0:
 			self.conclusion = ' '.join([conclusion['paragraph'] for conclusion in conclusions]).replace('/n', '')
 			# print(self.conclusion)
-
-
-
-# @task
-def createParagraphFeatures(destination):
-	''' This function will convert all documents in the current folder into yaml docs. Then, it will output them to a destination folder. '''
-
-	for file in glob.iglob('./*.html'):
-		# Open the html file
-		html = ''
-		with open(file, 'r') as f:
-			html = f.read()
-
-		document = Document(html)

@@ -38,8 +38,6 @@ with open('./templates/index.handlebars') as f:
 	templates['index'] = f.read()
 with open('./templates/food_entry.handlebars') as f:
 	templates['food_entry'] = f.read()
-
-
 # Compile the templates
 templater = {key: compiler.compile(template) for key,template in templates.items()}
 
@@ -91,7 +89,6 @@ class Query():
 		return documentURLs
 
 	def getDocuments(self):
-		print(self.documentURLs)
 		return [process.Document(URL) for URL in self.documentURLs]
 
 	def getURLFromResults(self, response, idx):
@@ -218,5 +215,5 @@ def generateFoodListIndexPage():
 
 
 if __name__ == '__main__':
-	# getFoodListQuery()
-	generateFoodListIndexPage()
+	getFoodListQuery()
+	# generateFoodListIndexPage()
