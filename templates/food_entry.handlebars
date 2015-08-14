@@ -11,9 +11,6 @@
 
 <h1>{{title}}</h1>
 
-Summary generated using:
-<code>{{command}}</code>
-
 <ul id="knowledge-list">
 {{#each documents}}
   <li>
@@ -22,9 +19,7 @@ Summary generated using:
       <li><a href="{{URL}}">Link to article</a></li>
       <li>Citation:</li>
       <ul>
-        {{#each citation}}
-          <li>{{@key}}: {{this}}</li>
-        {{/each}}
+        {{humanReadableCitation}}
       </ul>
     </ul>
   </li>

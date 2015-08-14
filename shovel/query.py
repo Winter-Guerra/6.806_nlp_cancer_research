@@ -26,6 +26,8 @@ import mistune
 
 import redis
 import pickle
+# Start talking to our cache server (redis)
+r = redis.StrictRedis(host='localhost', port=6379, db=0)
 
 # For templating
 from pybars import Compiler
@@ -48,138 +50,89 @@ def findDeployDirectory():
 	return deployDirectory
 
 
-def getURLFromResults(response, idx):
-	rawLink = response['results'][int(idx)]['link']
+# This class takes a subject and finds a bunch of documents relating to the subject.
+class Query():
 
-	# Default behavior
-	url = rawLink.split('&')[0]
+	def __init__(self, subj):
 
-	# Check if the URL is coming in the form of the weird google redirect link
-	urlComponents = urlparse(rawLink, 'http')
+		self.numberResults = 40
+		self.subj = subj
+		self.queryString = self.getQueryString()
+		self.documentURLs = self.getDocumentURLs()
+		self.documents = self.getDocuments()
 
-	if len(urlComponents.query) > 0:
-		queryComponents = parse_qs(urlComponents.query)
+		self.saveDocumentURLsInCache()
 
-		urlArray = queryComponents.get('url', [])
-		if len(urlArray) > 0:
-			url = urlArray[0]
+	def getQueryString(self):
+		return "breast cancer {} site:ncbi.nlm.nih.gov".format(self.subj)
 
+	def queryCacheKey(self):
+		return "query:{}:documentURLs".format(self.subj)
 
-	# print(url)
-
-	return url
-
-def getWebpageFromResults(response, idx):
-	url = getURLFromResults(response, idx)
-	webpageContent = "<!-- URL:" + url + '-->' + scraper.get(url).text
-	return webpageContent
-
-
-# @task
-def run(query, numberResults, showAbstract=True, save=False):
-
-	response = Google.search(query, numberResults)
-
-	for idx, result in enumerate(response['results']):
-		if not save:
-			print("Page title:", result['link_text'])
-			print("Snippet:", result['link_info'])
-			print('Website:', urlparse(result['link']).hostname)
-			print('Reference:', idx)
-			print("Related Queries:", result.get('related_queries',''))
-
-		if showAbstract:
-			URL = getURLFromResults(response, idx)
-			# Now, find the abstract in the content
-			webpageContent = process.getFullArticle(URL)
-			document = process.Document(webpageContent)
-
-			# Save the document
-			result['text'] = document
-
-			# Print the abstract
-			if not save:
-				print(document.getParagraphsWithTags(['abstract']))
-				# print(getParagraphsWithTag(document, ['abstract']))
-				print('---------------------------')
-
-	if save:
-		# We want to output a json file with the results
-		# print(response['results'])
-		outputText = json.dumps(response['results'], sort_keys=True, indent=4, separators=(',', ': '))
-		# Print the text to stdio
-		sys.stdout.write(outputText)
-
-	return
-
-# @task
-def view(query, idx):
-	''' This function can be used to grab HTML webpages using the search function. '''
-
-	response = Google.search(query, int(idx)+1)
-
-	webpageContent = getWebpageFromResults(response, idx)
-
-# @task
-def test():
-	url = 'http://www.ncbi.nlm.nih.gov/pubmed/23349849'
-	webpageContent = getFullArticle(url)
-
-	document = getDocumentFeatures(webpageContent)
-
-	# print(getParagraphsWithTags(document, ['abstract']))
-
-# @task
-def getDocuments(query, numberResults, includeReference=False, separator='\n'):
-
-	output = []
-	seenConclusions = set()
-
-	response = Google.search(query, numberResults)
-
-	for idx, result in enumerate(response['results']):
+	def saveDocumentURLsInCache(self):
+		# Save the document URLs in the cache so that they can be accessed faster later
+		if not r.exists(self.queryCacheKey()) and len(self.documents) > 0:
+			documentURLs = [document.URL for document in self.documents]
+			r.sadd(self.queryCacheKey(), *documentURLs)
 
 
-		URL = getURLFromResults(response, idx)
-		# print(URL)
+	def getDocumentURLs(self):
+		# Check if we already have this in the cache
+		documentURLs = list( r.smembers(self.queryCacheKey()) )
+		documentURLs = [url.decode("utf-8") for url in documentURLs]
 
-		# Now, find the abstract in the content
-		fullURL = process.getFullArticleLink(URL)
-		document = process.Document(fullURL)
+		if len(documentURLs) is 0:
+			# Then, we need to find the document URLs from query
+			response = Google.search(self.queryString, self.numberResults)
 
-		# Ignore documents without conclusions
-		if document.conclusion is None:
-			continue
+			for idx, result in enumerate(response['results']):
+				documentURLs.append( self.getURLFromResults(response, idx) )
 
-		# Ignore documents that we have already seen before
-		if document.conclusion is not None and document.conclusion not in seenConclusions:
-			seenConclusions.add(document.conclusion)
-			# Append this document to our list of output documents
-			output.append(document)
-			print(document.conclusion)
+		return documentURLs
 
-	return output
+	def getDocuments(self):
+		print(self.documentURLs)
+		return [process.Document(URL) for URL in self.documentURLs]
 
+	def getURLFromResults(self, response, idx):
+		rawLink = response['results'][int(idx)]['link']
+
+		# Default behavior
+		url = rawLink.split('&')[0]
+
+		# Check if the URL is coming in the form of the weird google redirect link
+		urlComponents = urlparse(rawLink, 'http')
+
+		if len(urlComponents.query) > 0:
+			queryComponents = parse_qs(urlComponents.query)
+
+			urlArray = queryComponents.get('url', [])
+			if len(urlArray) > 0:
+				url = urlArray[0]
+
+		return url
 
 def saveSummary(food):
 	numberResults = 40
 
 	deployDirectory = findDeployDirectory()
 
-	queryString = "breast cancer {} site:ncbi.nlm.nih.gov".format(food)
-	documents = getDocuments(queryString, numberResults, includeReference=True, separator='\n\n')
+	query = Query(food)
 
-	# Let's dedupe the documents based on conclusions
-	# conclusionString = dedupeLines(conclusionString)
+	# Let's only show the documents that have conclusions
+	documents = [document for document in query.documents if document.conclusion]
+
+	# Let's sort the documents in order of conclusion length. I.E. shortest->longest
+	documents = sorted(documents, key=lambda doc: len(doc.conclusion))
+
 
 	context={
 		'title': "{} and its effects on breast cancer".format(food.capitalize()),
-		'command': "$shovel3 query.concatConclusions '{}' {} includeReference=True".format( queryString, numberResults),
 		'documents': documents
 	}
 
 	# Do not save the file if it returned zero results since this could be due to an error.
-	if len(documents) is 0:
+	if len(query.documents) is 0:
 		return None
 
 	# Render the page
@@ -193,9 +146,9 @@ def saveSummary(food):
 
 	return html
 
-# @task
+
 def getFoodListQuery():
-	threads = 1
+	threads = 4
 
 	# Get list of foods
 	foodList = []
@@ -205,8 +158,8 @@ def getFoodListQuery():
 	deployDirectory = findDeployDirectory()
 
 	# Comb out foods where we already have data on them
-	# dedupedFoodList = [food for food in foodList if not os.path.isfile( deployDirectory+"/summaries/{}.html".format(food) ) ]
-	dedupedFoodList = foodList
+	dedupedFoodList = [food for food in foodList if not os.path.isfile( deployDirectory+"/summaries/{}.html".format(food) ) ]
+	# dedupedFoodList = foodList
 
 	print("Gathering data on the following foods")
 	print(dedupedFoodList)
@@ -265,5 +218,5 @@ def generateFoodListIndexPage():
 
 
 if __name__ == '__main__':
-	getFoodListQuery()
-	# generateFoodListIndexPage()
+	# getFoodListQuery()
+	generateFoodListIndexPage()

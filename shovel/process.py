@@ -6,6 +6,7 @@ import random
 import os
 from bs4 import BeautifulSoup
 import datetime
+import difflib
 import re
 # Import C yaml bindings
 import yaml
@@ -16,6 +17,11 @@ except ImportError:
 
 from . import scraper
 import requests
+
+import redis
+import pickle
+# Connect to the cache
+r = redis.StrictRedis(host='localhost', port=6379, db=0)
 
 
 def removePunctuation(s):
@@ -37,29 +43,7 @@ def getPMCID(html):
 	return PMCID
 
 # @TODO ####################################
-def getFullArticleLink(URL):
-	''' Look at a webpage and check if we can find a better version of the webpage. This happens by looking for "read full text" link tags '''
 
-	landingPage = scraper.get(URL).text
-
-	soup = BeautifulSoup(landingPage, 'html5lib')
-
-	# Find the div that holds free links
-	links = soup.select('div.icons.portlet a')
-	# print(links)
-
-	if len(links) > 0:
-
-		# Let's find the available urls
-		URLs = [tag['href'] for tag in links]
-		# Let's favor NIH links over other links
-		NIHLinks = [url for url in URLs if 'ncbi.nlm.nih.gov' in url]
-		sortedURLS = NIHLinks + URLs
-		# Pick the best URL from the sorted list
-		URL = URLs[0]
-		
-
-	return URL
 
 class DocumentHeirarchy():
 	''' This class keeps track of where we are in the document heirarchy as we parse the document. '''
@@ -122,22 +106,52 @@ class DocumentHeirarchy():
 				self.tree[-1] = tagText
 
 
+
+
 class Document():
 
 	def __init__(self, URL):
 
+		self.URL = URL
 		self.html = scraper.get(URL).text
 		self.soup = BeautifulSoup(self.html, 'html5lib')
+
+		# Make sure that we have the correct article
+		self.ensureHasFullArticle()
+
 		self.paragraphList = []
-		self.URL = URL
 		self.citation = {} # This dict will be populated with more terms later.
+		self.humanReadableCitation = ''
 
 		self.conclusion = None
 
-		# Get document from HTML
+		# Process document from HTML
 		self.initParagraphList()
 		self.getCitationDetails()
+		self.getHumanReadableCitation()
 		self.getConclusion()
+
+	def ensureHasFullArticle(self):
+		''' Look at a webpage and check if we can find a better version of the webpage. This happens by looking for "read full text" link tags '''
+
+		# Find the div that holds free links
+		links = self.soup.select('div.icons.portlet a')
+
+		# Let's check if there is a better version of the webpage
+		if len(links) > 0:
+
+			# Let's find the available urls
+			URLs = [tag['href'] for tag in links]
+			# Let's favor NIH links over other links
+			NIHLinks = [url for url in URLs if 'ncbi.nlm.nih.gov' in url]
+			sortedURLS = NIHLinks + URLs
+			# Pick the best URL from the sorted list
+			URL = URLs[0]
+
+			# Now, save this better version of the webpage
+			self.URL = URL
+			self.html = scraper.get(URL).text
+			self.soup = BeautifulSoup(self.html, 'html5lib')
 
 
 	def initParagraphList(self):
@@ -200,6 +214,30 @@ class Document():
 
 			# Save the metatag data
 			self.citation[key] = value
+
+	def getHumanReadableCitation(self):
+		# Our citation should be of the form:
+		# Journal, earliest published date
+
+		# Check to see if we have a citation_
+		if len(self.citation.keys())>0:
+
+			# Find the closest tags
+			journal = self.citation.get(self.getClosestKeyToString(self.citation, 'journal'), '')
+			publishedDate = self.citation.get(self.getClosestKeyToString(self.citation, 'date'), '')
+
+			self.humanReadableCitation = "{}. Published {}.".format(journal, publishedDate)
+
+	def getClosestKeyToString(self, obj, targetKey):
+		keys = obj.keys()
+		similarityRatios = [difflib.SequenceMatcher(a=key.lower(), b=targetKey).ratio() for key in keys ]
+
+		mostSimilarObject = max(zip(similarityRatios, keys), key=lambda x: x[0])
+
+		return mostSimilarObject[1]
+
+
+
 
 
 	def getParagraphsWithTags(self, tags):
