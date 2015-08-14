@@ -39,7 +39,7 @@ def get(url, ignoreFailure=False):
     if cacheResponse is not None:
         response = pickle.loads(cacheResponse)
         if (response.status_code < 400) or (response.status_code == 404) or ignoreFailure:
-            print("URL cache hit")
+            # print("URL cache hit")
             return response
         else:
             print("BAD CACHE HIT")
@@ -60,5 +60,7 @@ def get(url, ignoreFailure=False):
     if (response.status_code < 400) or (response.status_code == 404) or ignoreFailure:
         dataToCache = pickle.dumps(response)
         r.set(url, dataToCache)
+    else:
+        print("ERR: URL request responded with {}".format(response.status_code))
 
     return response

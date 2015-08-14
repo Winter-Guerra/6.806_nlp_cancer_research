@@ -85,12 +85,12 @@ class Google:
 		if sleep:
 			wait(1)
 
-		cacheKey = query + str(num)
+		oldCacheKey = query + str(num)
 
+		# Check to see if we have a cache result
+		cacheResult = r.get(oldCacheKey)
 
-		# Check to see if our cache has the appropriate response to this query
-		cacheResult = r.get(cacheKey)
-
+		# If we got a result
 		if cacheResult is not None:
 			results = pickle.loads(cacheResult)
 
@@ -99,7 +99,6 @@ class Google:
 
 				print("Loaded google query from cache.")
 				return results
-
 
 		print('Querying google.')
 
@@ -137,7 +136,7 @@ class Google:
 		# Save our result in the cache if the result was sane
 		if len(results) > 0:
 			cacheEntry = pickle.dumps(temp)
-			r.set(cacheKey, cacheEntry)
+			r.set(oldCacheKey, cacheEntry)
 
 		return temp
 
