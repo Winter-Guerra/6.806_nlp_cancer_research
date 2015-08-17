@@ -1,0 +1,5 @@
+# Mark distribution files as binary files
+dist/* binary
+
+# Mark training data as binary files
+training_data/* binary
