@@ -135,8 +135,12 @@ class TrainingSet():
 				sentenceList = doc.sentenceList
 				for sentence in sentenceList:
 
-					# Remove all forms of punctuation
-					sentence = sentence.translate( {ord(i):None for i in string.punctuation+'\n\r\t'} )
+					# Remove all forms of punctuation and numbering
+					sentence = sentence.translate( {ord(i):None for i in string.punctuation+'\t0123456789'} )
+
+					# Let's replace newlines, hyphens with spaces
+					sentence = sentence.translate( {ord(i):' ' for i in string.punctuation+'\r\n-'} )
+
 					# Make string lowercase
 					sentence = sentence.lower()
 					f.write(sentence + '\n')
