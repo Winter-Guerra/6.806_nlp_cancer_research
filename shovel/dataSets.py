@@ -37,6 +37,28 @@ stemmer = EnglishStemmer()
 # Import stopwords list
 from nltk.corpus import stopwords
 
+# Startup word2vec
+modelFilename = './training_data/corpus.model'
+model = models.Word2Vec.load(modelFilename)
+
+def pruneSentenceVocab(sentence, model):
+	return ' '.join([word for word in sentence.split() if word in model])
+
+def locateStringObjInDoc(searchString, doc):
+
+	for paragraphObj in doc.rawParagraphList:
+		paragraph = paragraphObj['paragraph']
+		if paragraph != None:
+			index = paragraph.find(searchString)
+
+			if index != -1:
+
+				# Then, create a results object
+				resultsObj = {key:val for key, val in paragraphObj.items()}
+				del resultsObj['paragraph']
+				resultsObj['sentence'] = searchString
+
+				yield resultsObj
 
 class TrainingSet():
 
@@ -169,39 +191,37 @@ class TrainingSet():
 	def generatePositiveDictionaryVector(self):
 		output = []
 
-		# Startup word2vec
-		modelFilename = './training_data/corpus.model'
-		model = models.Word2Vec.load(modelFilename)
-
 		# Let's grab the serializedTrainingDataset from DB
 		serializedTrainingDataset = json.loads(r.get('positiveTrainingDataset').decode("utf-8"))
 
-		for URL, sentenceObjList in serializedTrainingDataset:
+		for URL, sentenceObjList in serializedTrainingDataset.items():
 
-			doc = process.Document(URL)
-			stemmedSentenceObjects = list(doc.stemmedSentences)
+			# This is the training object.
+			for targetSentence, currentQuery, correlation in sentenceObjList:
 
-			for sentence, currentQuery, correlation in sentenceObjList:
+				# Check if we should use this as a positive training vector
+				if targetSentence != None and targetSentence != '' and targetSentence != "Article not relevant.":
 
-				# Stem the sentence that we have
-				# Remove all forms of parenthesis, numbering, punctuation
-				cleanedSentence = sentence.translate( {ord(i):None for i in string.punctuation+'\t0123456789()[]{}' } )
-				# Hypens should be turned into spaces
-				cleanedSentence = cleanedSentence.translate( {ord(i):' ' for i in '-' } )
-				# Make the paragraph text lowercase
-				cleanedSentence = cleanedSentence.lower()
+					# Process the document
+					doc = process.Document(URL)
+					stemmedSentenceObjects = list(doc.stemmedSentences)
 
-				targetWords = [stemmer.stem(word) for word in cleanedSentence.split() if word not in stopwords.words('english')]
+					# Look for the FIRST location of the string in the document (should eventually be all)
+					results = list(locateStringObjInDoc(targetSentence, doc))
 
-				# Now, we iterate through all sentences in the document and select the best match using
-				sentenceMatchPercentage = [ model.n_similarity(targetWords, possibleMatch['sentence'].split()) for possibleMatch in stemmedSentenceObjects ] 	
+					if len(results) == 0:
+						print("ERR: Did not find result for string {}.".format(targetSentence))
+					else:
+						# Add the results vector to our output vector
+						output.extend(results)
+						# print(output)
 
+					# Log the feature vector of the located string.
 
+		# Log the created list of positive feature vectors to the DB
+		r.set('positiveDictionaryFeatureset', json.dumps(output))
+		print(output)
 
-
-				# find all sentences in the document that match this sentence.
-
-				# Pick the closest match.
 
 
 
@@ -209,4 +229,5 @@ if __name__ == '__main__':
 	trainingSet = TrainingSet("/positiveDataset.txt")
 	# trainingSet.createTrainingSet()
 	# trainingSet.readTrainingSet()
-	trainingSet.generateSentenceTokenizedCorpus()
+	# trainingSet.generateSentenceTokenizedCorpus()
+	trainingSet.generatePositiveDictionaryVector()

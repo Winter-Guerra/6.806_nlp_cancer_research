@@ -38,7 +38,7 @@ d = 200 # The dimensionality of the vectors
 
 
 # @task
-def analyzeCorpus(loadSavedData = True):
+def analyzeCorpus(loadSavedData = False):
 
 	corpusFilename = './training_data/corpus.txt'
 	modelFilename = './training_data/corpus.model'
@@ -60,7 +60,7 @@ def analyzeCorpus(loadSavedData = True):
 
 	else:
 		model = models.Word2Vec.load(modelFilename)
-		
+
 
 	# Check that word associations work
 	wordList = ['caffeine', 'cancer', 'angiogenesis', 'green', 'tea' ]

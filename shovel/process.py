@@ -133,7 +133,8 @@ class Document():
 		# Make sure that we have the correct article
 		self.ensureHasFullArticle()
 
-		self.paragraphList = Document.clean(self.getParagraphList()) # List
+		self.rawParagraphList = self.getParagraphList()
+		self.paragraphList = Document.clean(self.rawParagraphList) # List
 		# self.sentences = list(self.getSentences()) # Generator
 		self.stemmedSentences = list(self.getStemmedSentences()) # Generator
 
@@ -148,8 +149,12 @@ class Document():
 	def clean(paragraphList):
 		''' This is a static method that will take in a paragraph list and clean out numbers, brackets, hyphens, numbers, etc. However, it will not clean out punctuation because that is needed for the sentence tokenizer. '''
 
+		output = []
+
 		for paragraphObj in paragraphList:
-			paragraph = paragraphObj['paragraph']
+			newObj = {key:val for key, val in paragraphObj.items()}
+
+			paragraph = newObj['paragraph']
 
 			# Remove all forms of parenthesis, numbering
 			cleanedParagraph = paragraph.translate( {ord(i):None for i in '\t0123456789()[]{}' } )
@@ -160,9 +165,11 @@ class Document():
 			# Make the paragraph text lowercase
 			cleanedParagraph = cleanedParagraph.lower()
 
-			paragraphObj['paragraph'] = cleanedParagraph.lower()
+			newObj['paragraph'] = cleanedParagraph.lower()
 
-		return paragraphList
+			output.append(newObj)
+
+		return output
 
 	def ensureHasFullArticle(self):
 		''' Look at a webpage and check if we can find a better version of the webpage. This happens by looking for "read full text" link tags '''
@@ -279,21 +286,6 @@ class Document():
 
 		return mostSimilarObject[1]
 
-
-	def getSentences(self):
-		''' This is a generator that spits out the text of the document. '''
-
-		# Let's walk through the paragraphs of the text and tokenize the paragraphs into text
-		for paragraphObj in self.paragraphList:
-
-			paragraph = paragraphObj['paragraph']
-
-			if paragraph is not None:
-
-				newSentences = sentence_detector.tokenize(paragraph)
-
-				for sentence in newSentences:
-					yield sentence
 
 
 	def getTokenizedSentenceFromParagraph(paragraph):
