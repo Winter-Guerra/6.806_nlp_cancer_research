@@ -10,6 +10,7 @@ import difflib
 import re
 # Import C yaml bindings
 import yaml
+import string
 try:
 	from yaml import CLoader as Loader, CDumper as Dumper
 except ImportError:
@@ -28,6 +29,13 @@ r = redis.StrictRedis(host='localhost', port=6379, db=0)
 # Initialize the sentence tokenizer
 import nltk.data
 sentence_detector = nltk.data.load('tokenizers/punkt/english.pickle')
+
+# Import snowball stemmer
+from nltk.stem.snowball import EnglishStemmer
+stemmer = EnglishStemmer()
+
+# Import stopwords list
+from nltk.corpus import stopwords
 
 
 def removePunctuation(s):
@@ -125,22 +133,36 @@ class Document():
 		# Make sure that we have the correct article
 		self.ensureHasFullArticle()
 
-		self.paragraphList = []
-		self.sentenceList = []
-		self.citation = {} # This dict will be populated with more terms later.
-		self.humanReadableCitation = ''
+		self.paragraphList = Document.clean(self.getParagraphList()) # List
+		# self.sentences = list(self.getSentences()) # Generator
+		self.stemmedSentences = list(self.getStemmedSentences()) # Generator
 
-		self.conclusion = None
-
-		# Process document from HTML
-		self.initParagraphList()
-		self.getSentenceList()
-		self.getCitationDetails()
-		self.getHumanReadableCitation()
-		self.getConclusion()
+		# Turned off for speed.
+		# self.citation = self.getCitationDetails()
+		# self.humanReadableCitation = Document.getHumanReadableCitation(self.citation)
+		# self.conclusion = self.getConclusion()
 
 		# Find the document title
-		self.title = getTagText(self.soup.title)
+		# self.title = getTagText(self.soup.title)
+
+	def clean(paragraphList):
+		''' This is a static method that will take in a paragraph list and clean out numbers, brackets, hyphens, numbers, etc. However, it will not clean out punctuation because that is needed for the sentence tokenizer. '''
+
+		for paragraphObj in paragraphList:
+			paragraph = paragraphObj['paragraph']
+
+			# Remove all forms of parenthesis, numbering
+			cleanedParagraph = paragraph.translate( {ord(i):None for i in '\t0123456789()[]{}' } )
+
+			# Hypens should be turned into spaces
+			cleanedParagraph = cleanedParagraph.translate( {ord(i):' ' for i in '-' } )
+
+			# Make the paragraph text lowercase
+			cleanedParagraph = cleanedParagraph.lower()
+
+			paragraphObj['paragraph'] = cleanedParagraph.lower()
+
+		return paragraphList
 
 	def ensureHasFullArticle(self):
 		''' Look at a webpage and check if we can find a better version of the webpage. This happens by looking for "read full text" link tags '''
@@ -165,14 +187,16 @@ class Document():
 			self.soup = BeautifulSoup(self.html, 'html5lib')
 
 
-	def initParagraphList(self):
+	def getParagraphList(self):
+		output = []
+
 		# Run the text through bs4 to prettify it
 		soup = self.soup
 
 		# Get the paragraph title
-		self.paragraphList.append(
-			{'paragraph': getTagText(soup.title), 'treeLocation': ['title']}
-		)
+		# output.append(
+		# 	{'paragraph': getTagText(soup.title), 'treeLocation': ['title']}
+		# )
 
 		# Find the interleaved combinations of headers and text
 		headerTags = ['h2', 'h3', 'h4', 'h5', 'h6', 'h7', 'h8', 'h9']
@@ -208,9 +232,12 @@ class Document():
 						# print(paragraphEntry)
 
 						# save the paragraph in the document
-						self.paragraphList.append(paragraphEntry)
+						output.append(paragraphEntry)
+
+		return output
 
 	def getCitationDetails(self):
+		output = {}
 		soup = self.soup
 
 		# All of the citation information in PMC articles is contained in <meta> tags that have names that start with name="citation_xxx"
@@ -224,22 +251,27 @@ class Document():
 			value = metatag['content']
 
 			# Save the metatag data
-			self.citation[key] = value
+			output[key] = value
 
-	def getHumanReadableCitation(self):
+		return output
+
+	def getHumanReadableCitation(citation):
 		# Our citation should be of the form:
 		# Journal, earliest published date
 
 		# Check to see if we have a citation_
-		if len(self.citation.keys())>0:
+		if len(citation.keys())>0:
 
 			# Find the closest tags
-			journal = self.citation.get(self.getClosestKeyToString(self.citation, 'journal'), '')
-			publishedDate = self.citation.get(self.getClosestKeyToString(self.citation, 'date'), '')
+			journal = citation.get(Document.getClosestKeyToString(citation, 'journal'), '')
+			publishedDate = citation.get(Document.getClosestKeyToString(citation, 'date'), '')
 
-			self.humanReadableCitation = "{}. Published {}.".format(journal, publishedDate)
+			humanReadableCitation = "{}. Published {}.".format(journal, publishedDate)
+			return humanReadableCitation
 
-	def getClosestKeyToString(self, obj, targetKey):
+	def getClosestKeyToString( obj, targetKey):
+		''' This is mainly used for getting humanReadableCitations from the citation metadata. Uses fuzzy selection to get results. '''
+
 		keys = obj.keys()
 		similarityRatios = [difflib.SequenceMatcher(a=key.lower(), b=targetKey).ratio() for key in keys ]
 
@@ -248,7 +280,8 @@ class Document():
 		return mostSimilarObject[1]
 
 
-	def getSentenceList(self):
+	def getSentences(self):
+		''' This is a generator that spits out the text of the document. '''
 
 		# Let's walk through the paragraphs of the text and tokenize the paragraphs into text
 		for paragraphObj in self.paragraphList:
@@ -258,11 +291,55 @@ class Document():
 			if paragraph is not None:
 
 				newSentences = sentence_detector.tokenize(paragraph)
-				self.sentenceList.extend(newSentences)
 
-		# print(self.sentenceList)
+				for sentence in newSentences:
+					yield sentence
 
 
+	def getTokenizedSentenceFromParagraph(paragraph):
+		# Tokenize paragraph into sentences
+		sentences = sentence_detector.tokenize(paragraph)
+
+		for sentence in sentences:
+			# remove punctuation
+			sentence = sentence.translate( {ord(i):None for i in string.punctuation+'\r\n\t' } )
+
+			tokenizedSentence = sentence.split()
+
+			# remove stop words
+			tokenizedSentence = [word for word in tokenizedSentence if word not in stopwords.words('english')]
+
+			yield tokenizedSentence
+
+
+	def getStemmedSentences(self):
+		''' This will return a generator list of stemmed sentence objects using the snowball stemmer '''
+		output = []
+
+		for paragraphObj in self.paragraphList:
+			paragraph = paragraphObj['paragraph']
+
+			# Tokenize paragraph into sentences
+			sentences = Document.getTokenizedSentenceFromParagraph(paragraph)
+
+			for tokenizedSentence in sentences:
+
+				words = tokenizedSentence
+				stemmedWords = [stemmer.stem(word) for word in words]
+
+				stemmedSentence = ' '.join(stemmedWords)
+
+				# Copy the paragraph obj
+				newSentenceObj = {key:val for key,val in paragraphObj.items()}
+				del newSentenceObj['paragraph']
+
+				newSentenceObj['sentence'] = stemmedSentence
+
+				# Yield this sentence obj
+				# yield newSentenceObj
+				output.append(newSentenceObj)
+
+		return output
 
 	def getParagraphsWithTags(self, tags):
 
@@ -293,9 +370,9 @@ class Document():
 		return "Citation: Journal:{}, Date:{}".format(self.citation['journal'], self.getPrettyPublishingDate())
 
 	def getConclusion(self):
+
 		conclusions = self.getParagraphsWithTags( ['abstract', 'conclusions']) \
 			+ self.getParagraphsWithTags( ['abstract', 'conclusion'])
 
-		if len(conclusions) > 0:
-			self.conclusion = ' '.join([conclusion['paragraph'] for conclusion in conclusions]).replace('/n', '')
-			# print(self.conclusion)
+		if len(tmpConclusions) > 0:
+			return ' '.join([conclusion['paragraph'] for conclusion in conclusions]).replace('/n', '')

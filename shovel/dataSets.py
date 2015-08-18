@@ -5,6 +5,7 @@ from . import process
 
 import multiprocessing
 import json
+import sys
 import string
 
 # For templating
@@ -17,10 +18,25 @@ with open('./templates/trainingData.handlebars') as f:
 # Compile the templates
 templater = {key: compiler.compile(template) for key,template in templates.items()}
 
+# import gensim
+from gensim import corpora, similarities, models
+import sklearn
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn import svm
+import numpy as np
+
 import redis
 import pickle
 # Connect to the cache
 r = redis.StrictRedis(host='localhost', port=6379, db=0)
+
+# Import snowball stemmer
+from nltk.stem.snowball import EnglishStemmer
+stemmer = EnglishStemmer()
+
+# Import stopwords list
+from nltk.corpus import stopwords
+
 
 class TrainingSet():
 
@@ -108,6 +124,11 @@ class TrainingSet():
 				sentenceList.append(sentenceVector)
 				dictionaryOfArticleURLs[currentURL] = sentenceList
 
+				# Db Object schema:
+				# {
+				#	URL: [(sentence, currentQuery, correlation)]
+				# }
+
 		# Now, we are done logging all of our sentences into our training database.
 		# Let's save this object into our database
 
@@ -117,6 +138,7 @@ class TrainingSet():
 		print(serializedTrainingDataset)
 
 	def generateSentenceTokenizedCorpus(self):
+		threads = 4
 
 		# Let's grab the serializedTrainingDataset from DB
 		serializedTrainingDataset = json.loads(r.get('positiveTrainingDataset').decode("utf-8"))
@@ -125,29 +147,61 @@ class TrainingSet():
 		urlList = serializedTrainingDataset.keys()
 
 		# process URLs into documents using a generator
+		pool = multiprocessing.Pool(threads)
+		# documentIteratorList = pool.imap(process.Document, urlList)
 		documentIteratorList = map(process.Document, urlList)
 
 		# Let's open up the output file
 		with open(self.trainingSetDir + '/corpus.txt', 'w') as f:
 
 			# Let's output the tokenized sentence list to the file
+
 			for doc in documentIteratorList:
-				sentenceList = doc.sentenceList
-				for sentence in sentenceList:
-
-					# Remove all forms of punctuation and numbering
-					sentence = sentence.translate( {ord(i):None for i in string.punctuation+'\t0123456789'} )
-
-					# Let's replace newlines, hyphens with spaces
-					sentence = sentence.translate( {ord(i):' ' for i in string.punctuation+'\r\n-'} )
-
-					# Make string lowercase
-					sentence = sentence.lower()
+				# print(doc.stemmedSentences)
+				stemmedSentenceObjects = doc.stemmedSentences
+				for sentenceObj in stemmedSentenceObjects:
+					sentence = sentenceObj['sentence']
+				#
 					f.write(sentence + '\n')
 
 		# Done!
 
+	def generatePositiveDictionaryVector(self):
+		output = []
 
+		# Startup word2vec
+		modelFilename = './training_data/corpus.model'
+		model = models.Word2Vec.load(modelFilename)
+
+		# Let's grab the serializedTrainingDataset from DB
+		serializedTrainingDataset = json.loads(r.get('positiveTrainingDataset').decode("utf-8"))
+
+		for URL, sentenceObjList in serializedTrainingDataset:
+
+			doc = process.Document(URL)
+			stemmedSentenceObjects = list(doc.stemmedSentences)
+
+			for sentence, currentQuery, correlation in sentenceObjList:
+
+				# Stem the sentence that we have
+				# Remove all forms of parenthesis, numbering, punctuation
+				cleanedSentence = sentence.translate( {ord(i):None for i in string.punctuation+'\t0123456789()[]{}' } )
+				# Hypens should be turned into spaces
+				cleanedSentence = cleanedSentence.translate( {ord(i):' ' for i in '-' } )
+				# Make the paragraph text lowercase
+				cleanedSentence = cleanedSentence.lower()
+
+				targetWords = [stemmer.stem(word) for word in cleanedSentence.split() if word not in stopwords.words('english')]
+
+				# Now, we iterate through all sentences in the document and select the best match using
+				sentenceMatchPercentage = [ model.n_similarity(targetWords, possibleMatch['sentence'].split()) for possibleMatch in stemmedSentenceObjects ] 	
+
+
+
+
+				# find all sentences in the document that match this sentence.
+
+				# Pick the closest match.
 
 
 
