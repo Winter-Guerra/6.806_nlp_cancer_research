@@ -42,6 +42,9 @@ def process_meta_article(path):
             subset = grouping[:i] + grouping[i+1:]
             for key in subset:
                 pipe.hincrby('conn:{0}'.format(HEAD), key)
+
+                # Keep track of which articles are actually linked to other articles
+                pipe.sadd('linked_articles', HEAD)
     # Update the database
     pipe.execute()
 
