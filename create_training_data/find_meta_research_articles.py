@@ -4,7 +4,6 @@
 import redis
 r = redis.StrictRedis(host='localhost', port=6379, db=0)
 
-
 from multiprocessing.pool import Pool
 from multiprocessing import JoinableQueue as Queue
 import os
@@ -13,9 +12,10 @@ import sys
 import time
 
 # XML import
-
 from lxml import etree
 print("running with lxml.etree")
+
+DEBUG = False
 
 # Here is a regex for finding the type of the report
 # regex = re.compile("article-type=\W(\S*?)\W>")
@@ -24,11 +24,28 @@ print("running with lxml.etree")
 def explore_file(path):
     # Record the type of this file
     tree = etree.parse(path)
-    typeofDocument = tree.xpath('./@article-type')[0]
+    typeofDocument = str(tree.xpath('./@article-type')[0])
+    PMID_results = tree.xpath('./front/article-meta/article-id[@pub-id-type="pmid"]')
 
+    # Check that this article can be referenced using a PMID
+    if not len(PMID_results):
+        # Ignore this file
+        if DEBUG:
+            print("No PMID. Ignoring ",typeofDocument,path)
+        return
+    else:
+        PMID = PMID_results[0].text
+
+    if DEBUG:
+        print(typeofDocument,PMID)
+
+    # Update the database using a pipeline
+    pipe = r.pipeline()
     # Add this type to the list of known types.
-    r.sadd('article_types', typeofDocument)
-    r.sadd(typeofDocument, path)
+    pipe.sadd('article_types', typeofDocument)
+    pipe.sadd(typeofDocument, PMID)
+    pipe.set('{0}:URL'.format(PMID), path)
+    DB_results = pipe.execute()
 
 
 def parallel_worker():
@@ -50,31 +67,36 @@ def findFilesInDir(source):
             matches.append(os.path.join(root, filename))
     return matches
 
-print("Finding paths")
-paths = findFilesInDir('/mnt/ephemeral0/xml/')
+if __name__ == '__main__':
 
-unsearched = Queue()
-for path in paths:
-    unsearched.put(path)
+    print("Finding paths")
+    paths = findFilesInDir('/mnt/ephemeral0/xml/')
 
-print("Number of files", len(paths))
+    unsearched = Queue()
+    for path in paths:
+        unsearched.put(path)
 
+    print("Number of files", len(paths))
 
-print("Starting pool")
-NUM_WORKERS = 6
-pool = Pool(NUM_WORKERS)
+    if DEBUG:
+        # Run one process
+        print("DEBUG: Running single threaded.")
+        parallel_worker()
 
-results = [pool.apply_async(parallel_worker) for i in range(NUM_WORKERS)]
+    else:
 
-print("Running progress capture.")
-while (True):
-  remaining = unsearched.qsize()
-  print "Waiting for", remaining, "tasks to complete..."
-  time.sleep(0.5)
-  # [result.get() for result in results]
+        print("Starting pool")
+        NUM_WORKERS = 7
+        pool = Pool(NUM_WORKERS)
 
+        results = [pool.apply_async(parallel_worker) for i in range(NUM_WORKERS)]
 
-pool.close() # No more work
+        print("Running progress capture.")
+        while (True):
+          remaining = unsearched.qsize()
+          print "Waiting for", remaining, "tasks to complete..."
+          time.sleep(0.5)
+        #   print [result.get() for result in results]
 
-unsearched.join()
-print 'Done'
+        unsearched.join()
+        print 'Done'
