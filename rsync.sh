@@ -1,3 +1,3 @@
 # rsync command
 
-rsync -avz --delete ./ 54.173.82.205:/mnt/nlp/code/
+rsync -avz ./ ubuntu@54.172.159.90:/mnt/nlp/code/
