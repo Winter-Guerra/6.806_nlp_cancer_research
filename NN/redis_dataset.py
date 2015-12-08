@@ -5,6 +5,7 @@
 import redis
 r = redis.StrictRedis(host='localhost', port=6379, db=0)
 r.set_response_callback('SMEMBERS', lambda l: [int(i) for i in l]) # Converts member responses to a list of ints.
+r.set_response_callback('SRANDMEMBER', lambda l: [int(i) for i in l]) # Converts member responses to a list of ints.
 r.set_response_callback('HGETALL', lambda l: {int(key):int(value) for key,value in pairwise(l)}) # Converts member responses to a list of ints.
 
 
@@ -49,6 +50,10 @@ def get_dataset(test_split=0.2):
     # Test that nothing has been mutated
     print "FINISHED! {} training PMIDs and {} holdout PMIDs.".format(len(training_PMIDs), len(holdout_PMIDs))
 
+    # Now, we have a giant list of tuples. We need to make a numpy matrix, then convert this list of tuples into a concatenated vector matrix.
+
+    # We need to scramble this vector matrix
+
 def getTupleList(holdout_PMIDs, holdout_PMIDs_SET, training_PMIDs, training_PMIDs_SET, mode='training'):
 
     print "Creating CORRECT combinations of PMIDs from {} dataset.".format(mode)
@@ -76,6 +81,12 @@ def getTupleList(holdout_PMIDs, holdout_PMIDs_SET, training_PMIDs, training_PMID
         for a2 in (connections.keys()+[a1]): # Include yourself!
             if a2 not in holdout_PMIDs_SET:
                 correct_training_tuples.append( (a1, a2 ) )
+
+                # A metric for how good the correlation is
+                correct_training_y.append( \
+                    connections.get( a2, sum([val for key,val in connections.items()]) ) \
+                    )
+
                 # Keep track of how many connections each node has
                 connection_counts[a1] = connection_counts.get(a1, 0) + 0.5
                 # if not a1 == a2:
@@ -88,9 +99,10 @@ def getTupleList(holdout_PMIDs, holdout_PMIDs_SET, training_PMIDs, training_PMID
 
     print "Creating BAD combinations of PMIDs from {} dataset.".format(mode)
     bad_training_tuples = []
+    bad_training_y = []
     c = 2 if mode == 'testing' else 1 # normalize the dev/test set
     for a1,connections in itertools.izip(training_PMIDs, connection_dictionaries):
-        number_of_bad_connections_to_generate = int(c*connection_counts[a1])
+        number_of_bad_connections_to_generate = int(c*connection_counts.get(a1,0))
         docs_to_avoid = frozenset(connections.keys() + [a1]) # Cannot include yourself!
 
         for i in xrange(number_of_bad_connections_to_generate+1):
@@ -99,6 +111,7 @@ def getTupleList(holdout_PMIDs, holdout_PMIDs_SET, training_PMIDs, training_PMID
             while (a2 in docs_to_avoid):
                 a2 = random.choice(training_PMIDs)
             bad_training_tuples.append( (a1,a2) )
+            bad_training_y.append(0)
 
     if DEBUG:
         print bad_training_tuples[:25]
@@ -106,12 +119,7 @@ def getTupleList(holdout_PMIDs, holdout_PMIDs_SET, training_PMIDs, training_PMID
         print '-------------------------------'
         print "Length of good conns: {} Length of bad conns: {}. Ratio: {}".format(len(correct_training_tuples), len(bad_training_tuples), float(len(correct_training_tuples))/len(bad_training_tuples))
 
-    # Now, we have a giant list of tuples. We need to make a numpy matrix, then convert this list of tuples into a concatenated vector matrix.
-
-    # We need to scramble this vector matrix
-    return (None,None)
-
-    # return (X_train, y_train), (X_test, y_test)
+    return (correct_training_tuples+bad_training_tuples, correct_training_y+bad_training_y )
 
 if __name__ == '__main__':
     # Test
