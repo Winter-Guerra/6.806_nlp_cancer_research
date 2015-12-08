@@ -31,6 +31,9 @@ DEBUG = True
 def getMatrices(data, path):
     x,y = data
 
+    # Necesary to avoid errors
+    y = y.reshape((y.shape[0],1))
+
     X1_PMIDS = []
     X2_PMIDS = []
     for PMID1, PMID2 in x:
@@ -98,8 +101,8 @@ def save_large_datasets():
     print "Training data saved to {} with shape {}".format(datapath, shape)
 
     (test, path) = getMatrices(testing, '/mnt/ephemeral0/testing.hdf5')
-    datapath, shape = convertData(data, path)
-    print "Testing data saved to {} with shape {}".format(test, shape)
+    datapath, shape = convertData(test, path)
+    print "Testing data saved to {} with shape {}".format(datapath, shape)
 
     return (train, test)
 
@@ -125,20 +128,32 @@ def get_embeddings_to_redis():
         # Split the summary
         word_sequence = text_to_word_sequence(summary)
         # Vectorize
-        vector_sequence = np.array([ model[word].reshape((d,1)) for word in word_sequence if word in model])
-        summary_vector = np.sum(vector_sequence, axis=0)
+        vector_sequence = []
+        for word in word_sequence:
+            if word in model:
+                try:
+                    vector = model[word].reshape((d,1))
+                    vector_sequence.append(vector)
+                except Exception as e:
+                    print "ERROR: {}".format(e)
+
+        if len(vector_sequence):
+            vector_sequence = np.hstack(vector_sequence)
+        else:
+            vector_sequence = np.random.rand(d,1)
+        summary_vector = np.sum(vector_sequence, axis=1).reshape((d,1))
         # print summary_vector
 
         # Edge case: No vector was found. Populate it with zeros
         if summary_vector.size < d:
             print "ERROR: VECTOR NOT FOUND! :("
-            summary_vector = np.random.rand(1,d)
+            summary_vector = np.random.rand(d,1)
             r.sadd('empty_vector_articles', PMID)
 
         # print "Vector shape: {}".format(summary_vector.shape)
-        summary_vector.reshape((1,d))
+        # summary_vector.T()
         # Normalize
-        normalized_summary_vector = normalize(summary_vector) # l2 euclidian norm
+        normalized_summary_vector = normalize(summary_vector.T) # l2 euclidian norm of (1,d)
         # Store result
         pickled_summary_vector = pickle.dumps(normalized_summary_vector)
         r.set('summary_vector:{}'.format(PMID), pickled_summary_vector)
@@ -146,4 +161,5 @@ def get_embeddings_to_redis():
     print "Done!"
 
 if __name__ == '__main__':
+    get_embeddings_to_redis()
     save_large_datasets()

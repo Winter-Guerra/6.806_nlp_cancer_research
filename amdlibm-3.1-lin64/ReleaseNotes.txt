@@ -1,0 +1,137 @@
+(C) 2008-2012 Advanced Micro Devices, Inc. All Rights Reserved.
+
+AMD LibM - Release Notes - version 3.1
+--------------------------------------
+
+AMD LibM Contents
+-----------------
+AMD LibM is a math library. It provides optimized implementation of
+a number of math functions from the C99 standard. The library is
+designed for use in 64-bit programs on x86-64 machines. 
+
+New Features in 3.1
+-------------------
+
+Added the following new functions:      
+   
+    1. Float and double variants of sinpi cospi tanpi
+
+Added FMA3 code path for the following 
+
+
+    1. Scalar functions:
+    
+         cbrt, cbrtf, cos, cosf, exp, expf, exp10, exp10f, exp2, exp2f, expm1, expm1f, fma, fmaf, log, logf, log10, log10f, log1p, 
+         log1pf, log2, log2f, sin, sinf, tan, tanf
+
+    
+    2. Vector Functions:
+    
+        vrd2_cbrt, vrd2_cos, vrd2_exp, vrd2_exp10, vrd2_exp2, vrd2_expm1, vrd2_log, vrd2_log10, vrd2_log1p, vrd2_log2, vrd2_sin, 
+        vrd2_tan, vrda_cbrt, vrda_cos, vrda_exp, vrda_exp10, vrda_exp2, vrda_expm1, vrda_log, vrda_log10, vrda_log1p, vrda_log2, 
+        vrda_sin, vrs4_cbrtf, vrs4_cosf, vrs4_exp10f, vrs4_exp2f, vrs4_expf, vrs4_expm1f, vrs4_log10f, vrs4_log1pf, vrs4_log2f, 
+        vrs4_logf, vrs4_sinf, vrs4_tanf, vrsa_cbrtf, vrsa_cosf, vrsa_exp10f, vrsa_exp2f, vrsa_expf, vrsa_expm1f, vrsa_log10f, 
+        vrsa_log1pf, vrsa_log2f, vrsa_logf, vrsa_sinf
+    
+    
+Added FMA4 code path for the following   
+    
+    1. Vector Functions:
+    
+        vrda_cbrt, vrda_cos, vrda_log, vrda_log10, vrda_log1p, vrda_log2, vrda_sin, vrsa_cbrtf, vrsa_cosf, vrsa_log10f, vrsa_log1pf, 
+        vrsa_log2f, vrsa_logf, vrsa_sinf
+            
+
+Performance improvements: With the new FMA4 and FMA3 code paths there is a huge performance improvement for the following group of 
+functions  trigonometric, exponential and logarithmic.
+
+
+Version 3.1 Contents
+--------------------
+The scalar functions listed below are present in the library. They
+all have an 'amd_' prefix.
+
+Scalar Functions 
+----------------
+         Trigonometric
+         -------------
+            * cosf, cos, sinf, sin, tanf, tan, sincosf, sincos
+            * acosf, acos, asinf, asin, atanf, atan, atan2f, atan2
+
+         Hyperbolic
+         ----------
+            * coshf, cosh, sinhf, sinh, tanhf, tanh 
+            * acoshf, acosh, asinhf, asinh, atanhf, atanh 
+
+         Exponential & Logarithmic
+         -------------------------
+            * expf, exp, exp2f, exp2, exp10f, exp10, expm1f, expm1
+            * logf, log, log10f, log10, log2f, log2, log1pf, log1p
+            * logbf, logb, ilogbf, ilogb
+            * modff, modf, frexpf, frexp, ldexpf, ldexp
+            * scalbnf, scalbn, scalblnf, scalbln
+
+         Power & Absolute value
+         ----------------------
+            * powf, pow, cbrtf, cbrt, sqrtf, sqrt, hypotf, hypot
+            * fabsf, fabs, fma, fmaf
+
+         Nearest integer
+         ---------------
+            * ceilf, ceil, floorf, floor, truncf, trunc
+            * rintf, rint, roundf, round, nearbyintf, nearbyint
+            * lrintf, lrint, llrintf, llrint
+            * lroundf, lround, llroundf, llround
+
+         Remainder
+         ---------
+            * fmodf, fmod, remainderf, remainder
+
+         Manipulation
+         ------------
+            * copysignf, copysign, nanf, nan, finitef, finite
+            * nextafterf, nextafter, nexttowardf, nexttoward
+
+         Maximum, Minimum & Difference
+         -----------------------------
+            * fdimf, fdim, fmaxf, fmax, fminf, fmin
+
+Vector Functions 
+----------------
+         Exponential
+         -----------
+            * vrs4_expf, vrs4_exp2f, vrs4_exp10f, vrs4_expm1f
+            * vrsa_expf, vrsa_exp2f, vrsa_exp10f, vrsa_expm1f
+            * vrd2_exp, vrd2_exp2, vrd2_exp10, vrd2_expm1
+            * vrda_exp, vrda_exp2, vrda_exp10, vrda_expm1
+
+         Logarithmic
+         -----------
+            * vrs4_logf, vrs4_log2f, vrs4_log10f, vrs4_log1pf
+            * vrsa_logf, vrsa_log2f, vrsa_log10f, vrsa_log1pf
+            * vrd2_log, vrd2_log2, vrd2_log10, vrd2_log1p
+            * vrda_log, vrda_log2, vrda_log10, vrda_log1p
+
+         Trigonometric
+         -------------
+            * vrs4_cosf, vrs4_sinf
+            * vrsa_cosf, vrsa_sinf
+            * vrd2_cos, vrd2_sin
+            * vrda_cos, vrda_sin
+            * vrd2_sincos,vrda_sincos
+            * vrs4_sincosf,vrsa_sincosf 
+            * vrd2_tan, vrs4_tanf
+            * vrd2_cosh
+            
+
+         Power
+         -----
+            * vrs4_cbrtf, vrd2_cbrt, vrs4_powf, vrs4_powxf
+            * vrsa_cbrtf, vrda_cbrt, vrsa_powf, vrsa_powxf
+            * vrd2_pow
+
+
+The declarations for all of these functions are as specified in the
+C99 standard. They are equivalent to the declarations present in 
+the standard math header 'math.h'. The only difference is that the
+functions in AMD LibM have 'amd_' prefix in their names.
