@@ -27,11 +27,6 @@ def pairwise(iterable):
 def get_dataset(test_split=0.2):
     ''' Returns: (X_train, y_train), (X_test, y_test) '''
 
-    (X, y) = getTupleList(test_split=0.2)
-
-
-def getTupleList(test_split=0.2):
-
     print("Loading global PMID listings")
     global_PMID_listing = r.smembers('linked_summarized_article_1')
     holdout_PMIDs = r.srandmember('linked_summarized_article_1', int(len(global_PMID_listing)*test_split))
@@ -45,9 +40,28 @@ def getTupleList(test_split=0.2):
 
     print "Loaded {} training PMIDs and {} holdout PMIDs.".format(len(training_PMIDs), len(holdout_PMIDs))
 
-    print "Creating CORRECT combinations of PMIDs from training dataset."
+    # Get the training set
+    (X_training, y_training) = getTupleList(holdout_PMIDs, holdout_PMIDs_SET, training_PMIDs, training_PMIDs_SET, mode='training')
+
+    # Get the test set
+    (X_test, y_test) = getTupleList(holdout_PMIDs, holdout_PMIDs_SET, training_PMIDs, training_PMIDs_SET, mode='testing')
+
+    # Test that nothing has been mutated
+    print "FINISHED! {} training PMIDs and {} holdout PMIDs.".format(len(training_PMIDs), len(holdout_PMIDs))
+
+def getTupleList(holdout_PMIDs, holdout_PMIDs_SET, training_PMIDs, training_PMIDs_SET, mode='training'):
+
+    print "Creating CORRECT combinations of PMIDs from {} dataset.".format(mode)
 
     # Fetch connection dictionaries for all of the a1 nodes.
+    if mode == 'testing':
+        training_PMIDs = holdout_PMIDs
+        training_PMIDs_SET = holdout_PMIDs_SET.copy()
+        holdout_PMIDs = []
+        holdout_PMIDs_SET = frozenset()
+
+    # print (len(holdout_PMIDs), len(holdout_PMIDs_SET), len(training_PMIDs), len(training_PMIDs_SET))
+
     pipe = r.pipeline()
     for a1 in training_PMIDs:
         # Find a2 that it likes
@@ -56,6 +70,7 @@ def getTupleList(test_split=0.2):
     # This list of connection dictionaries will be unravled into tuples and cleaned to remove all holdout_PMIDs
 
     correct_training_tuples = []
+    correct_training_y = []
     connection_counts = {}
     for a1,connections in itertools.izip(training_PMIDs, connection_dictionaries):
         for a2 in (connections.keys()+[a1]): # Include yourself!
@@ -63,6 +78,7 @@ def getTupleList(test_split=0.2):
                 correct_training_tuples.append( (a1, a2 ) )
                 # Keep track of how many connections each node has
                 connection_counts[a1] = connection_counts.get(a1, 0) + 0.5
+                # if not a1 == a2:
                 # Each one of these tupes counts as a half connection.
                 connection_counts[a2] = connection_counts.get(a2, 0) + 0.5
 
@@ -70,10 +86,11 @@ def getTupleList(test_split=0.2):
         print correct_training_tuples[:25]
         print "------------------------------"
 
-    print("Creating BAD combinations of PMIDs from training dataset.")
+    print "Creating BAD combinations of PMIDs from {} dataset.".format(mode)
     bad_training_tuples = []
+    c = 2 if mode == 'testing' else 1 # normalize the dev/test set
     for a1,connections in itertools.izip(training_PMIDs, connection_dictionaries):
-        number_of_bad_connections_to_generate = int(connection_counts[a1])
+        number_of_bad_connections_to_generate = int(c*connection_counts[a1])
         docs_to_avoid = frozenset(connections.keys() + [a1]) # Cannot include yourself!
 
         for i in xrange(number_of_bad_connections_to_generate+1):
