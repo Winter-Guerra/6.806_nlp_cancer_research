@@ -16,7 +16,8 @@ sudo apt-get install -y gcc g++ gfortran build-essential git wget linux-image-ge
 # Install pip2.6
 # sudo easy_install-2.7 pip
 # INstall python packages
-sudo /usr/bin/pip install redis lxml
+sudo /usr/bin/pip install redis lxml gensim sklearn cython
+
 
 # Install keras
 sudo /usr/bin/pip install git+git://github.com/Theano/Theano.git
@@ -37,6 +38,7 @@ sudo chown -R ubuntu /mnt/ephemeral0
 
 # Move the XML files over to the ephemeral instance store for speed
 cp -R /mnt/nlp/small_xml /mnt/ephemeral0/
+cp -R /mnt/nlp/word2vec_models /mnt/ephemeral0/
 
 # # Install nvidia drivers
 # wget http://us.download.nvidia.com/XFree86/Linux-x86_64/358.16/NVIDIA-Linux-x86_64-358.16.run

@@ -13,6 +13,7 @@ import string
 import time
 import random
 import itertools
+import numpy as np
 # from lxml import etree
 from multiprocessing.pool import Pool
 from multiprocessing import JoinableQueue as Queue
@@ -50,9 +51,18 @@ def get_dataset(test_split=0.2):
     # Test that nothing has been mutated
     print "FINISHED! {} training PMIDs and {} holdout PMIDs.".format(len(training_PMIDs), len(holdout_PMIDs))
 
-    # Now, we have a giant list of tuples. We need to make a numpy matrix, then convert this list of tuples into a concatenated vector matrix.
+    # Convert the y_vectors to numpy vectors and normalize
+    y_training = np.array(y_training)
+    y_test = np.array(y_test)
 
-    # We need to scramble this vector matrix
+    # Normalize
+    total_sum = y_training.sum() + y_test.sum()
+    total_length = y_training.size + y_test.size
+    y_test *= float(total_length)/total_sum
+    y_training *= float(total_length)/total_sum
+
+    # Let's return this and process it using word2vec
+    return ((X_training, y_training), (X_test, y_test))
 
 def getTupleList(holdout_PMIDs, holdout_PMIDs_SET, training_PMIDs, training_PMIDs_SET, mode='training'):
 

@@ -12,6 +12,7 @@ from keras.preprocessing.text import Tokenizer, text_to_word_sequence
 
 # Import our dataset
 import redis_dataset
+import wordVectorizer
 
 '''
     Train and evaluate a simple MLP on (article1, article2) pairings. Output should be a single neuron that states how close each matching is.
@@ -21,44 +22,48 @@ import redis_dataset
         python examples/reuters_mlp.py
 '''
 
-max_words = 1000
-batch_size = 32
-nb_epoch = 1
+if __name__ == '__main__':
 
+    max_words = 1000
+    batch_size = 32
+    nb_epoch = 1
 
+    # Get a list of combinations from redis
+    ((X_train, y_train), (X_test, y_test)) = redis_dataset.get_dataset(test_split=0.2)
+    # Convert these lists to vector matrices using word2vec
 
+    print("Getting embeddings")
 
-(X_train, y_train), (X_test, y_test) = redis_dataset.get_dataset(test_split=0.2)
-print(len(X_train), 'train sequences')
-print(len(X_test), 'test sequences')
+    X1_train, X2_train = wordVectorizer.convertData(X_train)
+    X1_test, X2_test = wordVectorizer.convertData(X_test)
 
-nb_classes = np.max(y_train)+1
-print(nb_classes, 'classes')
+    print(len(X_train), 'train pairings')
+    print(len(X_test), 'test pairings')
 
-print("Vectorizing sequence data...")
-tokenizer = Tokenizer(nb_words=max_words)
-X_train = tokenizer.sequences_to_matrix(X_train, mode="binary")
-X_test = tokenizer.sequences_to_matrix(X_test, mode="binary")
-print('X_train shape:', X_train.shape)
-print('X_test shape:', X_test.shape)
+    print('X_train shape:', X1_train.shape)
+    print('X_test shape:', X1_test.shape)
 
-print("Convert class vector to binary class matrix (for use with categorical_crossentropy)")
-Y_train = np_utils.to_categorical(y_train, nb_classes)
-Y_test = np_utils.to_categorical(y_test, nb_classes)
-print('Y_train shape:', Y_train.shape)
-print('Y_test shape:', Y_test.shape)
+    print("Compiling model")
 
-print("Building model...")
-model = Sequential()
-model.add(Dense(512, input_shape=(max_words,)))
-model.add(Activation('relu'))
-model.add(Dropout(0.5))
-model.add(Dense(nb_classes))
-model.add(Activation('softmax'))
-
-model.compile(loss='categorical_crossentropy', optimizer='adam')
-
-history = model.fit(X_train, Y_train, nb_epoch=nb_epoch, batch_size=batch_size, verbose=2, show_accuracy=True, validation_split=0.1)
-score = model.evaluate(X_test, Y_test, batch_size=batch_size, verbose=1, show_accuracy=True)
-print('Test score:', score[0])
-print('Test accuracy:', score[1])
+# WE PROBABLY WANT TO USE THE GRAPH EXAMPLE
+#
+# model = Sequential()
+#
+# model.add(Dense(512, input_shape=(max_words,)))
+# model.add(Activation('relu'))
+# model.add(Dropout(0.5))
+#
+# model.add(Dense(nb_classes))
+# model.add(Activation('softmax'))
+#
+# model.compile(loss='categorical_crossentropy', optimizer='adam')
+#
+# print "Fitting model"
+#
+# history = model.fit(X_train, Y_train, nb_epoch=nb_epoch, batch_size=batch_size, verbose=2, show_accuracy=True, validation_split=0.1)
+# score = model.evaluate(X_test, Y_test, batch_size=batch_size, verbose=1, show_accuracy=True)
+#
+#
+#
+# print('Test score:', score[0])
+# print('Test accuracy:', score[1])
