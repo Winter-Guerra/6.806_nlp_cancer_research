@@ -56,6 +56,6 @@ cp -R /mnt/nlp/small_xml /mnt/ephemeral0/
 watch ./rsync.sh
 
 # Install redis
-cd /media/ephemeral0/ && wget http://download.redis.io/redis-stable.tar.gz && tar xvzf redis-stable.tar.gz && cd redis-stable && make distclean && make && sudo make install
+cd /mnt/ephemeral0/ && wget http://download.redis.io/redis-stable.tar.gz && tar xvzf redis-stable.tar.gz && cd redis-stable && make distclean && make && sudo make install
 # Startup redis and load the database
 redis-server /mnt/nlp/code/redis.conf

@@ -10,6 +10,9 @@ from keras.layers.normalization import BatchNormalization
 from keras.utils import np_utils
 from keras.preprocessing.text import Tokenizer, text_to_word_sequence
 
+# Import our dataset
+import redis_dataset
+
 '''
     Train and evaluate a simple MLP on (article1, article2) pairings. Output should be a single neuron that states how close each matching is.
     GPU run command:
@@ -22,8 +25,10 @@ max_words = 1000
 batch_size = 32
 nb_epoch = 1
 
-print("Loading global PMID listing")
-(X_train, y_train), (X_test, y_test) = reuters.load_data(nb_words=max_words, test_split=0.2)
+
+
+
+(X_train, y_train), (X_test, y_test) = redis_dataset.get_dataset(test_split=0.2)
 print(len(X_train), 'train sequences')
 print(len(X_test), 'test sequences')
 
