@@ -20,18 +20,20 @@ import numpy as np
 from gensim.models.word2vec import Word2Vec
 from keras.preprocessing.text import Tokenizer, text_to_word_sequence
 from sklearn.preprocessing import normalize
-# from sklearn.preprocessing import Normalizer
-# from lxml import etree
-# from multiprocessing.pool import Pool
-# from multiprocessing import JoinableQueue as Queue
+from sklearn.utils import resample
+import h5py
+
+import redis_dataset
+
 
 DEBUG = True
 
-def convertData(inp):
-    ''' Returns (X1_train, X2_train) '''
+def getMatrices(data, path):
+    x,y = data
+
     X1_PMIDS = []
     X2_PMIDS = []
-    for PMID1, PMID2 in inp:
+    for PMID1, PMID2 in x:
         X1_PMIDS.append(PMID1)
         X2_PMIDS.append(PMID2)
 
@@ -49,14 +51,59 @@ def convertData(inp):
     vector_dict = {PMID: pickle.loads(vector).reshape((1,200)) if vector else np.random.rand(1,200) for PMID,vector in itertools.izip(PMIDS_needed, vectors)}
 
     # for PMID in X1_PMIDS:
-    #     print vector_dict[PMID].shape
+    #     print vector_dict[PMID].dtype
 
     X1_matrix = np.vstack([vector_dict[PMID] for PMID in X1_PMIDS])
     X2_matrix = np.vstack([vector_dict[PMID] for PMID in X2_PMIDS])
 
-    return (X1_matrix, X2_matrix)
+    return ((X1_matrix, X2_matrix, y), path)
 
-if __name__ == '__main__':
+def convertData(data, path):
+    (X1_matrix, X2_matrix, y) = data
+
+    # Shuffle the data
+    X1_matrix, X2_matrix, y = resample(X1_matrix, X2_matrix, y, random_state=0)
+
+    # Let's save this data to a file on disk for retrival
+    with h5py.File(path, "w") as f:
+        dset_1 = f.create_dataset("X1", data=X1_matrix, dtype='float32')
+        dset_2 = f.create_dataset("X2", data=X2_matrix, dtype='float32')
+        dset_3 = f.create_dataset("y", data=y, dtype='float32')
+
+    print "Saved data shapes"
+    print (X1_matrix.shape, X2_matrix.shape, y.shape)
+
+    return (path, X1_matrix.shape)
+
+def get_large_datasets():
+    # Get a list of combinations from redis
+    ((training), (testing)) = redis_dataset.get_dataset(test_split=0.2)
+    # Convert these lists to vector matrices using word2vec
+
+    print("Getting embeddings")
+
+    (train, path) = getMatrices(training, '/mnt/ephemeral0/training.hdf5')
+    (test, path) = getMatrices(testing, '/mnt/ephemeral0/testing.hdf5')
+    return (train, test)
+
+def save_large_datasets():
+    # Get a list of combinations from redis
+    ((training), (testing)) = redis_dataset.get_dataset(test_split=0.2)
+    # Convert these lists to vector matrices using word2vec
+
+    print("Getting embeddings")
+
+    (train, path) = getMatrices(training, '/mnt/ephemeral0/training.hdf5')
+    datapath, shape = convertData(train, path)
+    print "Training data saved to {} with shape {}".format(datapath, shape)
+
+    (test, path) = getMatrices(testing, '/mnt/ephemeral0/testing.hdf5')
+    datapath, shape = convertData(data, path)
+    print "Testing data saved to {} with shape {}".format(test, shape)
+
+    return (train, test)
+
+def get_embeddings_to_redis():
 
     print "Loading wordvector model"
     model = Word2Vec.load_word2vec_format('/mnt/ephemeral0/word2vec_models/PubMed-and-PMC-w2v.bin', binary=True)
@@ -97,3 +144,6 @@ if __name__ == '__main__':
         r.set('summary_vector:{}'.format(PMID), pickled_summary_vector)
 
     print "Done!"
+
+if __name__ == '__main__':
+    save_large_datasets()

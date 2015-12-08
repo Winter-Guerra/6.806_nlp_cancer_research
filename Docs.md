@@ -17,3 +17,17 @@
 * `linked_summarized_article_1` ->
 * 'holdout_PMIDs'
 * 'training_PMIDs'
+
+## datasets
+
+The training and testing datasets can be found here:
+Saved data shapes
+((2525437, 200), (2525437, 200), (2525437,))
+Training data saved to /mnt/ephemeral0/training.hdf5 with shape (2525437, 200)
+Reducing PMIDs
+Fetching vectors
+Db Response length: 69969
+Number of empy responses: 3110
+Saved data shapes
+((700876, 200), (700876, 200), (700876,))
+Testing data saved to /mnt/ephemeral0/testing.hdf5 with shape (700876, 200)

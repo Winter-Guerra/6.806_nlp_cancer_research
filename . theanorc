@@ -1,0 +1,13 @@
+[global]
+device = gpu
+floatX = float32
+allow_gc = False
+
+[lib]
+cnmem = 0.75
+
+[nvcc]
+fastmath = True
+
+[cuda]
+root = /opt/cuda/toolkit

@@ -14,9 +14,9 @@ import time
 import random
 import itertools
 import numpy as np
-# from lxml import etree
-from multiprocessing.pool import Pool
-from multiprocessing import JoinableQueue as Queue
+# # from lxml import etree
+# from multiprocessing.pool import Pool
+# from multiprocessing import JoinableQueue as Queue
 
 DEBUG = True
 
@@ -57,9 +57,9 @@ def get_dataset(test_split=0.2):
 
     # Normalize
     total_sum = y_training.sum() + y_test.sum()
-    total_length = y_training.size + y_test.size
-    y_test *= float(total_length)/total_sum
-    y_training *= float(total_length)/total_sum
+    total_length = float(y_training.size + y_test.size)
+    y_test = np.dot(y_test, total_length/total_sum)
+    y_training = np.dot(y_training, total_length/total_sum)
 
     # Let's return this and process it using word2vec
     return ((X_training, y_training), (X_test, y_test))

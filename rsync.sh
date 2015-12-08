@@ -1,3 +1,3 @@
 # rsync command
 
-rsync -avz ./ ubuntu@54.172.159.90:/mnt/nlp/code/
+rsync -avz ./ ubuntu@52.90.145.74:/mnt/nlp/code/
