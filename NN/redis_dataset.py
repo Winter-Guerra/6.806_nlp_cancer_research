@@ -104,7 +104,7 @@ def getTupleList(holdout_PMIDs, holdout_PMIDs_SET, training_PMIDs, training_PMID
                 connection_counts[a2] = connection_counts.get(a2, 0) + 0.5
 
     if DEBUG:
-        print correct_training_tuples[:25]
+        print correct_training_tuples[:10]
         print "------------------------------"
 
     print "Creating BAD combinations of PMIDs from {} dataset.".format(mode)
@@ -124,10 +124,11 @@ def getTupleList(holdout_PMIDs, holdout_PMIDs_SET, training_PMIDs, training_PMID
             bad_training_y.append(0)
 
     if DEBUG:
-        print bad_training_tuples[:25]
+        print bad_training_tuples[:10]
 
         print '-------------------------------'
         print "Length of good conns: {} Length of bad conns: {}. Ratio: {}".format(len(correct_training_tuples), len(bad_training_tuples), float(len(correct_training_tuples))/len(bad_training_tuples))
+        print "Number of citations: {}".format(sum(correct_training_y))
 
     return (correct_training_tuples+bad_training_tuples, correct_training_y+bad_training_y )
 

@@ -161,5 +161,5 @@ def get_embeddings_to_redis():
     print "Done!"
 
 if __name__ == '__main__':
-    get_embeddings_to_redis()
-    save_large_datasets()
+    # get_embeddings_to_redis()
+    # save_large_datasets()
