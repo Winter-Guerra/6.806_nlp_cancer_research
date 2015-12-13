@@ -9,6 +9,7 @@
 \usepackage{color}
 \usepackage{float}
 \usepackage{cancel}
+\usepackage{hyperref}
 
 \input{macros}
 
@@ -121,21 +122,81 @@ style=numeric,
 %    \end{bmatrix}
 %\end{align}
 
+%Figures
+%\begin{center}
+%\includegraphics[width=0.8\textwidth]{figures/f1}
+%\end{center}
+
 \section{Abstract}
 
-The quantity of medical and scientific literature available to the average scientist is increasing at a rapid pace. However, there is currently no good method for easily extracting information from this multitude of data without extensive human interaction. As a result of this inability to easily sift through data, many important findings from cutting edge medical research go unnoticed by the rest of the scientific community. What is needed is a new tool to simplify the act of organizing medical research data based on clusters of findings and topics. This is what my project, Sifter, aims to do.\\
 
-Utilizing Amazon Web Services's powerful backend, Sifter cross-references NIH's PubMed Open Access dataset of 1,156,698 full-text XML medical research papers and 82,448 meta-research articles to automatically create training clusters of article topics without human interaction. Using this training set, Sifter is able to generate a neural network model that can also cluster new incoming articles in an online manner. The specifics of Sifter's neural network accuracy will be revealed during the 6.806 final poster presentation for the class.
 
 \section{Introduction}
 
+The quantity of medical and scientific literature available to the average scientist is increasing at a rapid pace. However, there is currently no good method for easily extracting information from this multitude of data without extensive human interaction. As a result of this inability to easily sift through data, many important findings from cutting edge medical research go unnoticed by the rest of the scientific community. What is needed is a new tool to simplify the act of organizing medical research data based on clusters of findings and topics. This is what my project, Sifter, aims to do.\\
+
+Utilizing Amazon Web Services's powerful backend, Sifter cross-references NIH's PubMed Open Access dataset of 1,156,698 full-text XML medical research papers and 82,448 meta-research articles to automatically create training clusters of article topics without human interaction. However, after much trail and error testing multiple feed-forward neural network designs on the data that Sifter created, we were unable to perform better than a random data baseline after 75 epochs. Nonetheless, we believe that this result is due to issues with our implementation of our neural network models and could be remedied in the future. \\
+
+To assist in advancing this goal, we have published the dataset that Sifter created \href{http://nlp-dataset-6806-2015.s3.amazonaws.com/index.html}{[here]} for the convenience of all researchers whom wish to explore the applications of the Sifter dataset to clustering scientific articles.
+
 \subsection{Problem}
+%Should only be 1 or two lines
+
+One of the biggest issues with grouping scientific articles is that multiple higher level factors are involved in defining whether one scientific article is similar to the other. For example, two articles will not be similar if they have done their research on different patient subsets (i.e. male and female test subjects). Because of the complexity that factors into scientific article similarity, labeling of a ground-truth article similarity dataset is commonly done by hand. However, this is very expensive and time-consuming.
+
 
 \subsection{Approach}
 
-\section{Background: Related Work}
+\subsubsection{Creating the training dataset}
 
-\section{Approach}
+To create our ground-truth dataset of article similarity metrics,  we performed the following steps.
+
+\begin{itemize}
+	\item Downloaded the NIH Open Access Subset to AWS EBS storage.
+	\item Extracted document-type metadata from all articles in the NIH dataset to get an in-memory index of all relevant and irrelevant articles.
+	\item Extracted 41 million citations from all meta-research articles in addition to their in-text citation locations.
+	\item Pruned out all citations that linked to articles outside of our dataset.
+	\item Created a similarity distance matrix from all remaining citations.
+	\item Saved the similarity matrix in the form of a sparse distributed hashtable in the Redis in-memory cache for fast read access.
+\end{itemize}
+
+
+% The data pipeline
+\begin{figure}[h]
+\centering
+%\setlength{\abovecaptionskip}{-2.25in}
+\includegraphics[width=1.0\textwidth]{figures/approach.jpg}
+\caption{Flowchart of data flow in Sifter.}
+\label{fig:tested_model}
+\end{figure}
+
+
+\subsection{Calculating Training Document Similarity Metric}
+
+\subsection{Document Vector Representation}
+
+\subsection{Implementation}
+
+\subsection{Feed Forward Neural Network}
+
+
+%The tested model
+\begin{figure}[h]
+\centering
+\setlength{\abovecaptionskip}{-2.25in}
+\includegraphics[angle=90,origin=c,width=1.0\textwidth]{figures/model.png}
+\caption{The feed forward network architecture tested in this writeup for Sifter.}
+\label{fig:approach}
+\end{figure}
+
+%The siamese model
+\begin{figure}[h]
+\centering
+\setlength{\abovecaptionskip}{-2.25in}
+\includegraphics[angle=-90,origin=c,width=1.0\textwidth]{figures/siamese_model.png}
+\caption{The theoretical Siamese model that we plan to test next (which performs well on MNIST character similarity tests).}
+\label{fig:siamese_model}
+\end{figure}
 
 \section{Experiment}
 

@@ -23,6 +23,9 @@ sudo /usr/bin/pip install redis lxml gensim sklearn cython h5py
 sudo /usr/bin/pip install git+git://github.com/Theano/Theano.git
 sudo /usr/bin/pip install keras
 
+# Boot ipython.
+sudo ipython notebook --ip=0.0.0.0 --port=80 --no-browser
+
 # Attach EBS volume
 sudo mkdir /mnt/nlp
 sudo chown -R ubuntu /mnt/nlp
