@@ -28,6 +28,11 @@ sudo mkdir /mnt/nlp
 sudo chown -R ubuntu /mnt/nlp
 sudo mount /dev/xvdf /mnt/nlp
 
+# Let's move our EBS volume to S^3 bucket for external viewing by the world
+wget -O- -q http://s3tools.org/repo/deb-all/stable/s3tools.key | sudo apt-key add - # Grab s3tools gpgkey
+sudo wget -O/etc/apt/sources.list.d/s3tools.list http://s3tools.org/repo/deb-all/stable/s3tools.list
+sudo apt-get update && sudo apt-get install s3cmd
+
 
 # Attach/format Instance store (that supportts TRIM)
 sudo mkdir /mnt/ephemeral0
