@@ -10,6 +10,7 @@
 \usepackage{float}
 \usepackage{cancel}
 \usepackage{hyperref}
+\usepackage{booktabs}
 
 \input{macros}
 
@@ -171,13 +172,12 @@ To create our ground-truth dataset of article similarity metrics,  we performed 
 \end{figure}
 
 
-\subsection{Calculating Training Document Similarity Metric}
+\subsubsection{Calculating Document Similarity Using a Deep Multilayer Perceptron}
 
-\subsection{Document Vector Representation}
+%Talk about the Deep Dumb MLP (DDMLP), a multilayer perceptron.
 
-\subsection{Implementation}
-
-\subsection{Feed Forward Neural Network}
+Using the citation distance data harvested from PubMed, we trained a Deep Multilayer Perceptron neural network that takes in a concatenated bag-of-words vector embedding of the summary sentence of 2 articles, then outputs a binary classification of whether the two articles are similar or not (see \ref{fig:tested_model}).
+This feed 
 
 
 %The tested model
@@ -185,20 +185,46 @@ To create our ground-truth dataset of article similarity metrics,  we performed 
 \centering
 \setlength{\abovecaptionskip}{-2.25in}
 \includegraphics[angle=90,origin=c,width=1.0\textwidth]{figures/model.png}
-\caption{The feed forward network architecture tested in this writeup for Sifter.}
+\caption{The Deep Multilayer Perceptron feed forward network architecture tested in this writeup for Sifter.}
 \label{fig:approach}
 \end{figure}
+
+
+\section{Experiment}
+
+%The data
+\begin{table}[]
+\centering
+\caption{Sifter Deep Multilayer Perceptron Neural Network Accuracy vs Random Choice Baselines}
+\label{data}
+\begin{tabular}{l|l}
+\toprule
+Method                                                                           & Accuracy \\ \toprule
+Sifter DMLP Network \\ with 75 training epochs                                                                            & 0.500     \\ \hline
+\begin{tabular}[c]{@{}l@{}}Random +/- choice\\ on training set\end{tabular}              & 0.500     \\ \hline
+\begin{tabular}[c]{@{}l@{}}Random +/- choice \\ on test set\end{tabular}         & 0.500     \\ \hline
+\begin{tabular}[c]{@{}l@{}}Total ratio of +/- labels in \\ test \& training set\end{tabular} & 0.489    
+\end{tabular}
+\end{table}
+
+
+\section{Next Steps}
+
+As we can see from our results in \ref{data}, there is a lot of room for improvement regarding Sifter's neural network implementation.
+However, we already have multiple hypothesis for how we can improve Sifter's performance.
+
+First, instead of using a Feed Forward model that uses a vectorized bag-of-words document summary for creating similarity metrics, we would use a sequence-conscious Siamese Convolutional Neural Network (see figure \ref{fig:siamese_model}). This type of model has already been proven to work well for calculating similarity metrics between image inputs (in the form of the MNIST Digit Dataset), but has also seen some use for comparing similarity metrics of documents on a sentence level.   
 
 %The siamese model
 \begin{figure}[h]
 \centering
 \setlength{\abovecaptionskip}{-2.25in}
 \includegraphics[angle=-90,origin=c,width=1.0\textwidth]{figures/siamese_model.png}
-\caption{The theoretical Siamese model that we plan to test next (which performs well on MNIST character similarity tests).}
+\caption{The convolutional Siamese neural network model that we plan to test in the future against Sifter's training data (which performs well on MNIST character similarity tests).}
 \label{fig:siamese_model}
 \end{figure}
 
-\section{Experiment}
+
 
 \section{Conclusion}
 
